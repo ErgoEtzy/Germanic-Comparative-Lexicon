@@ -6,8 +6,6 @@ A local Markdown copy of English Wiktionary’s Proto-Germanic entries, made for
 
 This folder is intended as a personal research mirror of Proto-Germanic Wiktionary pages. Each note corresponds to one Wiktionary entry, preserving the basic Wiktionary-style structure as much as possible while converting the page into Markdown.
 
-The goal is not to create a new scholarly dictionary, but to keep a searchable local copy of Proto-Germanic Wiktionary material inside my Obsidian vault.
-
 
 Folder structure
 ----------------
