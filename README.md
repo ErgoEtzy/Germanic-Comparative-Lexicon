@@ -8,15 +8,11 @@ The purpose of this folder is to gather historical word forms into single compar
 
 This is meant as a working philological lexicon, not as a final scholarly dictionary.
 
-Folder location
----------------
-
-    C:\Obsidian\Iselin\03 Sources\03 PIE Lexicon
 
 Folder structure
 ----------------
 
-    03 PIE Lexicon
+    PIE Lexicon
     ├── README.md
     ├── _Index.md
     ├── *audaz.md
