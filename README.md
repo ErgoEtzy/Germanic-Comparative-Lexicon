@@ -27,17 +27,7 @@ Source of the material
 
 The material comes from English Wiktionary.
 
-The local download process is:
-
-English Wiktionary Proto-Germanic category pages
-→ MediaWiki API
-→ rendered Wiktionary HTML
-→ Markdown conversion
-→ local Obsidian .md files
-
 The script downloads pages from Wiktionary, converts them into Markdown, and saves them locally.
-
-Links inside the notes should point back to Wiktionary, not to local Obsidian pages, unless manually changed later.
 
 License
 -------
