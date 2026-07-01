@@ -1,5 +1,5 @@
-﻿# PIE-Lexicon
-PIE / Germanic Lexicon
+﻿# Germanic Comparative Lexicon
+PIE / Germanic Comparative Lexicon
 ======================
 
 A collection of Proto-Indo-European, Proto-Germanic, and Old Germanic lexical notes in Markdown format, made for use in Obsidian.
@@ -12,7 +12,7 @@ This is meant as a working philological lexicon, not as a final scholarly dictio
 Folder structure
 ----------------
 
-    PIE Lexicon
+    Germanic Comparative Lexicon
     ├── README.md
     ├── _Index.md
     ├── *audaz.md
