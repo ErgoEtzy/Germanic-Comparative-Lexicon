@@ -103,7 +103,3 @@ From *fadēr + *-īnaz.
     - **Middle English:** fadryn
 - **Gothic:** *𐍆𐌰𐌳𐍂𐌴𐌹𐌽𐍃
   - **Gothic:** 𐍆𐌰𐌳𐍂𐌴𐌹𐌽 — _reshaped by analogy or addition of morphemes; n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

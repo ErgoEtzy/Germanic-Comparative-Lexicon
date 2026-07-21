@@ -97,7 +97,3 @@ From earlier *skruþōną, from Proto-Indo-European *(s)krewt- (“to cut”), f
   - **Middle English:** scrutiny — _borrowed_ — _through a non-Germanic route_
     - **English:** scrutiny
       - **English:** scrutinise — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

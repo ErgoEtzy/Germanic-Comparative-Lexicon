@@ -227,7 +227,3 @@ Unknown. Perhaps from Proto-Indo-European *weydʰ-, from Proto-Indo-European *we
         - **Danish:** vajd — _borrowed_
         - **Swedish:** vejde — _borrowed_
 - **Gothic:** *𐍅𐌰𐌹𐍃𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

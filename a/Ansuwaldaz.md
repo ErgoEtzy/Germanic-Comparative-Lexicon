@@ -49,7 +49,3 @@ From *ansuz (“deity”) + *waldą (“authority”).
     - **Icelandic:** Ásvaldur
     - **Faroese:** Ásvaldur
     - **Norwegian:** Åsvald
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

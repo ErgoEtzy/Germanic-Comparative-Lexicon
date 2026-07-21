@@ -177,7 +177,3 @@ From *skraudaną (“to shred”) + *-ō.
       - **Scots:** scrow
   - **English:** escrow — _borrowed; via Law French_ — _through a non-Germanic route_
 - **Old Norse:** skrjóðr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

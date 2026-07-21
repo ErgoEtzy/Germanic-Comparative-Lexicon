@@ -99,7 +99,3 @@ Possibly from either unattested *glitiz + *-rōną, from *ǵʰlid-í-s, or *glit
   - **Swedish:** glittra
   - **Middle English:** gliteren — _borrowed_
     - **English:** glitter
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -162,7 +162,3 @@ From *murginaz (“morning”) + *gebō (“gift”).
 - **Burgundian:** morginegiva
 - **English:** morganatic — _borrowed_ — _through a non-Germanic route_
 - **German:** morganatisch — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

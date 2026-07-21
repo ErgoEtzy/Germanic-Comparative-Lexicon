@@ -180,7 +180,3 @@ Perhaps from Proto-Indo-European *bʰerH- (“grey, brown”).
       - **Norwegian Bokmål:** brun
   - **Gutnish:** bräunar
   - **Scanian:** brúner
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

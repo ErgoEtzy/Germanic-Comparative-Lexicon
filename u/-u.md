@@ -26,7 +26,3 @@ Alternatively, from *h₂u, whence possibly also Ancient Greek αὖ (aû) and S
 ### Germanic descendants
 
 - **Gothic:** -𐌿
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

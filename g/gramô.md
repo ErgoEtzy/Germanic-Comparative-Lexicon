@@ -79,7 +79,3 @@ From *gramaz (“angry”), from Proto-Indo-European *gʰrem- (“to sound, bell
     - **German:** Grame
     - **German:** Gräme
 - **Gothic:** *𐌲𐍂𐌰𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

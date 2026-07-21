@@ -98,7 +98,3 @@ Zero-grade ye-present, pre-Germanic *swidye/o-, derived from the root of *swait-
     - **Middle High German:** switzen
       - **German:** schwitzen
       - **Yiddish:** שוויצן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

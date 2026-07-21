@@ -103,7 +103,3 @@ From *nutō (“use”) + *-ōną.
     - **West Frisian:** nutsje
 - **Old Norse:** nota
   - **Icelandic:** nota
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

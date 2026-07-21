@@ -252,7 +252,3 @@ From Proto-Indo-European *dh₂i-mon-, from *deh₂y- (“to divide”). Exact c
     - **Swedish:** timme
     - **Swedish:** timma — _from oblique_
   - **Danish:** time
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ From *ga- + *rēdaną.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Verb
 
@@ -101,7 +101,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Middle High German:** gerāten
       - **German:** geraten
 - **Gothic:** 𐌲𐌰𐍂𐌴𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

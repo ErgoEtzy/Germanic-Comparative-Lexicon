@@ -101,7 +101,3 @@ Likely from an extended form of Proto-Indo-European *(s)ker- (“to cut”).
     - **Middle High German:** schrinden
   - **Old High German:** *skrindan
     - **Middle High German:** schrinden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

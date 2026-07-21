@@ -126,7 +126,3 @@ Compare typologically Proto-Slavic *solvьjь (< *solvъ).
   - **Danish:** falk
   - **Elfdalian:** falk
   - **Gutnish:** falk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -278,7 +278,3 @@ From *spanō (“nipple”) + *-janą.
     - **Old High German:** inspennen — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** entspennen
       - **Middle High German:** entspenen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

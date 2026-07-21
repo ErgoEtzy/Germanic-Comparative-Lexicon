@@ -67,7 +67,3 @@ From Proto-Indo-European *wers- (“high, raised area, tuber, lump, blister”).
   - **Faroese:** vørr
 - **Gothic:** 𐍅𐌰𐌹𐍂𐌹𐌻𐍉 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *werulō — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

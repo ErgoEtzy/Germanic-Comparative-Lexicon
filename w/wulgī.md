@@ -47,7 +47,3 @@ From earlier *wulgwī, from Proto-Indo-European *wl̥kʷíh₂s (“she-wolf”)
 
 - **Old Norse:** ylgr
   - **Icelandic:** ylgur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

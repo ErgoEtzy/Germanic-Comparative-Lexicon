@@ -158,7 +158,3 @@ Possibly from Proto-Indo-European *dʰrenǵ- (“to draw into one's mouth, sip, 
     - **Scanian:** drikka
 - **Gothic:** 𐌳𐍂𐌹𐌲𐌺𐌰𐌽
 - **Vandalic:** drincan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -149,7 +149,3 @@ From Proto-Indo-European *derǵʰ- (“fenced lot”), or from Proto-Indo-Europe
       - **German:** Zarge
 - **Old Norse:** targa
   - **Icelandic:** targa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

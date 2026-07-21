@@ -86,7 +86,3 @@ From earlier *abjō, from Proto-Indo-European *h₂epyéh₂, from *h₂epó (�
   - **Norwegian:** ave — _dialectal; m_
   - **Old Swedish:** æfia
     - **Swedish:** ävja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

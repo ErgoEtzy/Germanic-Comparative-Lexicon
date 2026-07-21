@@ -125,7 +125,3 @@ From *budą (“message”) + *-ōną or *budô (“messenger”) + *-ōną.
     - **Danish:** bude
   - **Old Danish:** bothæ
     - **Danish:** bude
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

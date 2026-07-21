@@ -168,7 +168,3 @@ From *midjaz (“middle”) + *gardaz (“yard, enclosure”).
     - **Norwegian Bokmål:** Midgård
   - **English:** Midgard — _borrowed_
 - **Gothic:** 𐌼𐌹𐌳𐌾𐌿𐌽𐌲𐌰𐍂𐌳𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

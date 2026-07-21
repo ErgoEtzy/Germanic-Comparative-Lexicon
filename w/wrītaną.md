@@ -177,7 +177,3 @@ Compare typologically Latin scribō, Ancient Greek σκάριφος (skáriphos)
       - **Swedish:** rita
     - **Old Danish:** ritæ
       - **Danish:** rite
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

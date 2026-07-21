@@ -164,7 +164,3 @@ Or from Proto-Indo-European *ǵʰeh₂w- (“to gape, yawn”), related to Lithu
   - **Norwegian Bokmål:** gjø
   - **Norwegian Nynorsk:** gøy
   - **Danish:** gø
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -135,7 +135,3 @@ From Proto-Indo-European *súHros (“sour, salty, bitter”). Cognate with Prot
   - **Old Swedish:** sūr
     - **Swedish:** sur
   - **Danish:** sur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

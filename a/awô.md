@@ -55,7 +55,3 @@ From Proto-Indo-European *h₂éwh₂ō, an on-stem variant of *h₂éwh₂os. C
   - **Icelandic:** ái
   - **Faroese:** avi
     - **Faroese:** abbi — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

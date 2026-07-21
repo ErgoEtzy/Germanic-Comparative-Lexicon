@@ -545,7 +545,3 @@ From earlier *newunt, from Proto-Indo-European *h₁néwn̥ (“nine”), with -
     - **Gutnish:** neiå
 - **Gothic:** 𐌽𐌹𐌿𐌽
 - **Crimean Gothic:** nyne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

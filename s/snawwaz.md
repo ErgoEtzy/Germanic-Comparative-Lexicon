@@ -114,7 +114,3 @@ Other theories derive the word from *snewaną (“to rush, hurry”) or its root
   - **Swedish:** snögg
   - **Swedish:** snygg
   - **English:** snug — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

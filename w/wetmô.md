@@ -85,7 +85,3 @@ From Proto-Indo-European *h₁wéd-mn̥ ~ *h₁ud-mén-s (“dowry”).
     - **Middle High German:** widem
       - **German:** Wittum
 - **Burgundian:** witimon
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

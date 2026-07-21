@@ -139,7 +139,3 @@ Thought to be from Proto-Indo-European *gʷh₃u-(w)ŕ̥s-ēn (“bull”), from
     - **Scots:** kossi — _Shetlandic; borrowed_
       - **Scots:** kussak — _reshaped by analogy or addition of morphemes_
       - **Scots:** kussack — _Orkney; diminutive; reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

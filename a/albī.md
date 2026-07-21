@@ -74,7 +74,3 @@ Possibly from Proto-Indo-European *albʰih₂, derived from *albʰós (“white�
   - **Old Danish:** ælv
     - **Danish:** elv
     - **Norwegian Bokmål:** elv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

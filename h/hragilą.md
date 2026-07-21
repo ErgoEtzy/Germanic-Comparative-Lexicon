@@ -108,7 +108,3 @@ Uncertain, though probably from Proto-Indo-European *krek- (“to beat, weave; w
   - **Old Frisian:** reil
   - **Old Saxon:** hregil
   - **Old High German:** hregil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

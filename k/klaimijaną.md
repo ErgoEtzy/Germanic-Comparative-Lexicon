@@ -110,7 +110,3 @@ From *klaimaz (“clay”) + *-janą.
   - **Middle English:** gleimen — _borrowed; uncertain_
   - **Middle English:** gleymen — _borrowed; uncertain_
   - **Middle English:** glaymen — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -190,7 +190,3 @@ From Proto-Indo-European *telh₂- (“to bear, to undergo, to endure”).
       - **Norwegian Bokmål:** tåle
   - **Gutnish:** tule
 - **Gothic:** 𐌸𐌿𐌻𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

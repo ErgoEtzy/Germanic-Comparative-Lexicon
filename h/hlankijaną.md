@@ -105,7 +105,3 @@ From *hlankaz (“flexible, slim”) + *-janą.
 - **Old Norse:** hlekkja
   - **Icelandic:** hlekkja
   - **Norwegian Bokmål:** lenke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

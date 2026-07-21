@@ -54,7 +54,3 @@ From *-ilaz (agent and instrumental suffix) + *-ô (agent suffix) and from a ver
     - **North Germanic:** -le — _archaic; eg. in new Dumle_
 - **Gothic:** -𐌹𐌻𐌰
 - **Vandalic:** *-ila
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

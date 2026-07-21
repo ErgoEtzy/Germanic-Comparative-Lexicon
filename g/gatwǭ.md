@@ -95,7 +95,3 @@ From Pre-Germanic *gʰodweh₂, from the same root as *getaną (“to find a way
     - **English:** gait
     - **English:** gate
 - **Gothic:** 𐌲𐌰𐍄𐍅𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

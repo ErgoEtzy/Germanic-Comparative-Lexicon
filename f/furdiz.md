@@ -47,7 +47,3 @@ From pre-Germanic *pr̥tís, a ti-stem formation to a lost strong verb *feraną 
 
 - **Gothic:** *𐍆𐌰𐌿𐍂𐌳𐍃
 - **Gothic:** 𐌲𐌰𐍆𐌰𐌿𐍂𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

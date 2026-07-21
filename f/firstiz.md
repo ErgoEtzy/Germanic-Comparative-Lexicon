@@ -81,7 +81,3 @@ From Proto-Indo-European *perst-, *porst- (“post, finger, peak”). Cognate wi
       - **Cimbrian:** biarst
       - **German:** First
       - **Luxembourgish:** Fiischt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -139,7 +139,3 @@ Of onomatopoeic origin. Other theories derive the word from a Proto-Indo-Europea
     - **Norwegian Nynorsk:** lesp
   - **Old Danish:** 
     - **Danish:** læsp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

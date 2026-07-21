@@ -378,7 +378,3 @@ From Proto-Indo-European *h₁newn̥nós, from *h₁néwn̥. An ordinal to *newu
   - **Old Danish:** nindæ
     - **Danish:** niende
 - **Gothic:** 𐌽𐌹𐌿𐌽𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

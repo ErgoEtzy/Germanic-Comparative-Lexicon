@@ -122,7 +122,3 @@ From Proto-Indo-European *poyh₂d-o-s, from *péyh₂-de-ti, de-present of *pey
     - **Swedish:** fet
   - **Danish:** fed
     - **Norwegian Bokmål:** fet
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

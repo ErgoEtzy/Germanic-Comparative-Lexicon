@@ -12,7 +12,7 @@ Uncertain, possibly related to *snūtaz (“snout”) and *snūtijaną (“to bl
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -278,7 +278,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
       - **German:** schnauben — _Central German; since 17th c._
       - **German:** schniefen
       - **German:** schnieben
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

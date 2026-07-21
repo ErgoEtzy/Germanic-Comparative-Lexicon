@@ -67,7 +67,3 @@ From *ga- + *mundiz.
     - **Middle High German:** mun — _inherited; uncertain; m_
     - **Old High German:** gimunten — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐌰𐌼𐌿𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

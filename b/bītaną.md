@@ -169,7 +169,3 @@ From Proto-Indo-European *bʰéydt, from *bʰeyd- (“to split”).
       - **Norwegian Bokmål:** bite
   - **Gutnish:** bäite
 - **Gothic:** 𐌱𐌴𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

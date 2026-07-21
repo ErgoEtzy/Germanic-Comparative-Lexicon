@@ -1096,7 +1096,3 @@ Of uncertain origin. Bears strong resemblance to Old Irish gur (“matter, pus�
       - **Swedish:** görjog
       - **Swedish:** giörjod
       - **Swedish:** gyrjoger
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

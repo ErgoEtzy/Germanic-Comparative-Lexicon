@@ -358,7 +358,3 @@ Compare typologically Latin populor. Also compare Russian как Мама́й п
     - **Danish:** hærge
       - **Early Norwegian Bokmål:** hærje
         - **Norwegian Bokmål:** herje — _also from Norwegian herja_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

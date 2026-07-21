@@ -120,7 +120,3 @@ From Proto-Indo-European *skek- (“to move quickly, jump”). The derived sense
   - **Old High German:** scehan
     - **Middle High German:** schëhen
       - **German:** geschehen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

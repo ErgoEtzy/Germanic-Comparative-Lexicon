@@ -137,7 +137,3 @@ From Proto-Indo-European *sweyg- (“to turn, move around, wander, swing”).
     - **Swedish:** svika
   - **Old Danish:** swikæ
     - **Danish:** svige
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -66,7 +66,3 @@ Kroonen reconstructs the Pre-Germanic form *gʷh₃udʰh₁yom, from Proto-Indo-
     - **German:** Kütte
     - **German:** Kitte
     - **German:** Kette
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

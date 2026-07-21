@@ -88,7 +88,3 @@ From *lubō (“love”) + *-āną. Related to Latin libet (“it is pleasing”
 ### Germanic descendants
 
 - **Gothic:** *𐌻𐌿𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

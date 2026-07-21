@@ -100,7 +100,3 @@ From *bruzdaz (“point, spike, thorn”) + *-janą.
 - **Old Norse:** brydda
   - **Icelandic:** brydda
   - **Norwegian Bokmål:** brydde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -114,7 +114,3 @@ From *skuwwô (“shadow, reflection”) + *-janą.
       - **Swedish:** skygga
     - **Danish:** skygge
       - **Norwegian Bokmål:** skygge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -139,7 +139,3 @@ From *fram (“from”), from Proto-Indo-European *pr-, *pro-, *perəm-, *prom- 
     - **English:** furnish
     - **English:** perform
 - **Gothic:** *𐍆𐍂𐌿𐌼𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

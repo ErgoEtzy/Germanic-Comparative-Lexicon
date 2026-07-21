@@ -146,7 +146,3 @@ From Proto-Indo-European *smey- (“to laugh; be glad”).
             - **English:** smile
             - **Scots:** smil
             - **Scots:** smyl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

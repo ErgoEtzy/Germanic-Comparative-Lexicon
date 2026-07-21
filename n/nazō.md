@@ -63,7 +63,3 @@ From Proto-Indo-European *nes- (“to return; recover; make whole”).
     - **Middle High German:** nare
   - **Old High German:** lībnara
     - **Middle High German:** nare
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

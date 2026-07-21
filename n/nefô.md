@@ -126,7 +126,3 @@ Reanalyzed as an an-stem from earlier *nefōd, from Proto-Indo-European *népōt
         - **German Low German:** Neffe — _borrowed; uncertain_
   - **Old Norse:** nefi
     - **Icelandic:** nefi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

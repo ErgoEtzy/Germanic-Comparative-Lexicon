@@ -125,7 +125,3 @@ Probably from Proto-Indo-European *kapro- (“goat”).
   - **Middle English:** haver — _borrowed_
     - **Scots:** haver
       - **English:** haver — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

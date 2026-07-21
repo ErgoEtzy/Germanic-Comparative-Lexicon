@@ -101,7 +101,3 @@ From Pre-Germanic *ǵulHom, from Proto-Indo-European *ǵwl̥H-o-m, from *ǵwelH-
     - **Swedish:** kol
   - **Danish:** kul
     - **Norwegian Bokmål:** kull
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

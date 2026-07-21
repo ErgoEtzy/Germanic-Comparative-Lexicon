@@ -114,7 +114,3 @@ Possibly from Proto-Indo-European *dewh₂- (“to tie to; secure”). Kroonen (
   - **Norwegian:** to
   - **Old Swedish:** tō
     - **Swedish:** to
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

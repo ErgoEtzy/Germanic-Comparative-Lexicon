@@ -172,7 +172,3 @@ From Pre-Germanic *plowmos, from Proto-Indo-European *plew- (“to sail”).
   - **Faroese:** floymur
   - **Norwegian Bokmål:** flom
   - **Norwegian Nynorsk:** flaum
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

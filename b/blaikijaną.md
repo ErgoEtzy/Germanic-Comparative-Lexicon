@@ -129,7 +129,3 @@ From *blīkaną (“to shine”) + *-janą or *blaikaz (“pale”) + *-janą, b
     - **Swedish:** bleka
   - **Danish:** blege
     - **Norwegian Bokmål:** bleke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

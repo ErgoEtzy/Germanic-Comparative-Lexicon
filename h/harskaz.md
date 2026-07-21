@@ -103,7 +103,3 @@ Dissimilated from earlier *hardskaz, from *harduz (“hard”) + *-skaz.
   - **Danish:** harsk
   - **Middle English:** harsk — _borrowed_
     - **English:** harsh
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

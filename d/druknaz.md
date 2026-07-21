@@ -131,7 +131,3 @@ Apparently from Proto-Indo-European *dʰerǵʰ- (“to strengthen; become hard o
       - **Hunsrik:** drock
       - **Luxembourgish:** dréchen — _merged with *drūgī_
       - **Yiddish:** טרוקן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

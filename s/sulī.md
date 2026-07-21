@@ -118,7 +118,3 @@ From a pre-Germanic ablauting paradigm *swol- ~ *sul-, with full-grade *swalī f
   - **Old Swedish:** syl
     - **Swedish:** syll
   - **Danish:** syld
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

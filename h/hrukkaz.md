@@ -285,7 +285,3 @@ An alternative derivation from Proto-Indo-European *kreḱ- (“to weave”) (wh
   - **Old High German:** hrok
     - **Middle High German:** roc
       - **German:** Rock
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

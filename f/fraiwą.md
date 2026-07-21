@@ -83,7 +83,3 @@ From Proto-Indo-European *(s)per-, *(s)prey- (“to strew, sow”).
     - **Scots:** frie
     - **English:** fry
 - **Gothic:** 𐍆𐍂𐌰𐌹𐍅
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

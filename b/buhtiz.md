@@ -308,7 +308,3 @@ From *beuganą (“to bend, bow”) + *-þiz (“nominal suffix”).
         - **Afrikaans:** bocht
 - **Old Norse:** bót
   - **Icelandic:** bót
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -998,7 +998,3 @@ From Proto-Indo-European *h₂stḗr (“star”). According to Kroonen, the wor
 - **East Germanic:** 
   - **Gothic:** 𐍃𐍄𐌰𐌹𐍂𐌽𐍉
   - **Crimean Gothic:** stein
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

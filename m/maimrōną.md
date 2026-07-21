@@ -96,7 +96,3 @@ From Proto-Indo-European *(s)mer- (“to fall into thought, remember, care for�
   - **Old English:** māmrian
     - **Middle English:** mameren
       - **English:** mammer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

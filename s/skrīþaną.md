@@ -125,7 +125,3 @@ From Proto-Indo-European *(s)kreyt- (“to stride”), which Kroonen assumes may
       - **Norwegian Bokmål:** skri
   - **Middle English:** skrithen — _borrowed_
   - **Middle English:** scrithen — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

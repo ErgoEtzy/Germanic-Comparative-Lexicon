@@ -96,7 +96,3 @@ From *swelaną (“to burn”) + *-janą (causative suffix).
   - **Old Saxon:** *swellian
     - **Middle Low German:** swellen
   - **Old High German:** swellen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

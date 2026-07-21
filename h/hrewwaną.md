@@ -166,7 +166,3 @@ Of uncertain origin. Appears to trace back to a Proto-Indo-European *krew(H)-, w
   - **Icelandic:** hryggja
   - **Faroese:** ryggja
   - **Norwegian Nynorsk:** ryggja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

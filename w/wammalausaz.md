@@ -106,7 +106,3 @@ From *wammaz (“spot, blemish”) + *-lausaz.
   - **Icelandic:** vammlaus
 - **Old Norse:** vammlauss
   - **Icelandic:** vammlaus
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

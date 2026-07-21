@@ -100,7 +100,3 @@ From *weraz + *-līkaz.
 - **Old English:** werlīċ
 - **Gothic:** *𐍅𐌰𐌹𐍂𐌰𐌻𐌴𐌹𐌺𐍃
 - **Gothic:** 𐍅𐌰𐌹𐍂𐌰𐌻𐌴𐌹𐌺𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

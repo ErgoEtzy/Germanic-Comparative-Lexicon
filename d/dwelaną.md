@@ -109,7 +109,3 @@ From Proto-Indo-European *dʰwelH- (“to err, obscure”). See the related *dul
   - **Old High German:** twelan — _inherited; uncertain_
     - **Middle High German:** twelen
     - **Middle High German:** tweln
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

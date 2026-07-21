@@ -199,7 +199,3 @@ From Proto-Indo-European *kw(e)s- (“to kiss”), which appears to be onomatopo
     - **Swedish:** kyss
   - **Old Danish:** 
     - **Danish:** kys
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

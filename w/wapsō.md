@@ -119,7 +119,3 @@ From Proto-Indo-European *wóbʰseh₂.
     - **Middle Low German:** wopse
   - **Old Dutch:** wapsa
   - **Old High German:** wafsa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

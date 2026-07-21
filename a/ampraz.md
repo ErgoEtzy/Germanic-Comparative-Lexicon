@@ -124,8 +124,4 @@ From Proto-Indo-European *amrós (probably *h₂h₃mrós; see *h₂eh₃mós). 
   - **Jamtish:** ampen
   - **Angermannian:** 
   - **Sudermannian:** 
-  - **Wermlandian:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+  - **Wermlandian:**

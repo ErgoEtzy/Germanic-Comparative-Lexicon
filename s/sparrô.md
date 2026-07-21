@@ -94,7 +94,3 @@ From Pre-Germanic *sporHon, from Proto-Indo-European *sperH- (“spear; a kind o
   - **Icelandic:** sparri
   - **Old Swedish:** sparre
     - **Swedish:** sparre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

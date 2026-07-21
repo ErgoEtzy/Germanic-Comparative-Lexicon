@@ -141,7 +141,3 @@ From Proto-Indo-European *(s)pénh₁-ne-, from *(s)penh₁- (“to spin thread,
     - **Swedish:** spinna
   - **Danish:** spinde
 - **Gothic:** 𐍃𐍀𐌹𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

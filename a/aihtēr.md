@@ -47,7 +47,3 @@ From *aiganą + reflex of Proto-Indo-European *-tḗr. Compare Sanskrit ईश�
 
 - **Old Norse:** *áttir — _inherited; uncertain_
   - **Old Swedish:** -attari
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

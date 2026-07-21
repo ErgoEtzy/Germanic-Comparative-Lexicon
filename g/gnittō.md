@@ -58,7 +58,3 @@ From Proto-Indo-European *gʰneydʰn-, *gʰneydn- (“to gnaw”), from *gʰen- 
     - **English:** gnit
   - **Middle English:** gnytt — _borrowed_
     - **English:** gnit
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

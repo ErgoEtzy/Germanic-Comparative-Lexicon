@@ -32,7 +32,3 @@ From *fulką (“people, folk”) + *mērijaz (“renowned, famous”).
 - **Old Norse:** Folkmarr
   - **Danish:** Folkmar
   - **Norwegian:** Folkmar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

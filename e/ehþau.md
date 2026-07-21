@@ -42,7 +42,3 @@ Compound of *eh (“but, except”) + *þau, the former being the only Germanic 
 - **Old Norse:** eða
   - **Icelandic:** eða
 - **Gothic:** 𐌰𐌹𐌸𐌸𐌰𐌿
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

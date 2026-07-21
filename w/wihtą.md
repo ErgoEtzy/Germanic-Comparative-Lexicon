@@ -72,7 +72,3 @@ Most likely from Proto-Indo-European *wékʷ-ti-s ~ *ukʷ-téy-s, from *wekʷ- (
   - **Middle High German:** wiht
     - **German:** Wicht
 - **Gothic:** 𐍅𐌰𐌹𐌷𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

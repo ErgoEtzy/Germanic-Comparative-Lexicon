@@ -175,7 +175,3 @@ Inherited from Proto-Indo-European *ǵʰh₂éns (“goose”). Compare Albanian
     - **Scanian:** gás
   - **Gutnish:** gas
 - **Gothic:** *𐌲𐌰𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -124,7 +124,3 @@ From Pre-Germanic *erppaz, earlier *h₁erbʰnós, from Proto-Indo-European *h�
   - **Norwegian:** jerpe — _m or f_
     - **Danish:** hjerpe — _borrowed_
     - **Danish:** jærpe — _borrowed; c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

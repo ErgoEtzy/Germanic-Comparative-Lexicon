@@ -47,7 +47,3 @@ From Proto-Indo-European *dŕ̥tis, equivalent to *teraną + *-þiz. Cognate wit
 
 - **Gothic:** *𐍄𐌰𐌿𐍂𐌸𐍃
 - **Gothic:** 𐌲𐌰𐍄𐌰𐌿𐍂𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

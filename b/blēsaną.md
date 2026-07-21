@@ -149,7 +149,3 @@ According to Kroonen, from Pre-Germanic *bʰleh₁s-, sigmatic aorist to *bʰleh
   - **Scanian:** blæsa
 - **Gothic:** *𐌱𐌻𐌴𐍃𐌰𐌽
 - **Gothic:** 𐌿𐍆𐌱𐌻𐌴𐍃𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

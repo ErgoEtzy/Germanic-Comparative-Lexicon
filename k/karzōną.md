@@ -107,7 +107,3 @@ An o-grade formation closely related to to the strong verb *kerzaną and iterati
     - **Middle High German:** karren
 - **Old Norse:** *karra
   - **Icelandic:** karra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

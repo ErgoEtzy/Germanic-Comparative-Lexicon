@@ -56,7 +56,3 @@ Cognate with Lithuanian alkas, elkas (“sanctuary, grove”), Latvian elks (“
 - **Proto-Norse:** ᚨᛚᚺ
 - **Proto-Norse:** ᚨᛚᚻ
 - **Gothic:** 𐌰𐌻𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

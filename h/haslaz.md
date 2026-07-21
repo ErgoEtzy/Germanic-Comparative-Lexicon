@@ -203,7 +203,3 @@ From areal Proto-Indo-European *kóslos, which may be of substrate or Wanderwort
   - **Old Danish:** hasle
     - **Danish:** hassel
       - **Norwegian Bokmål:** hassel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

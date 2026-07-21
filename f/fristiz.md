@@ -322,7 +322,3 @@ From an earlier *fres (“forward”) + *-þiz, the former abstracted from a Pro
     - **German:** Frist — _f_
 - **Old Norse:** *frestr
 - **Old Norse:** *fresta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

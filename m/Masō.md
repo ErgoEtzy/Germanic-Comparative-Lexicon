@@ -50,7 +50,3 @@ Albrecht Greule writes that its ultimate origin is unclear, but could perhaps be
   - **Old High German:** Masa
     - **Middle High German:** *Mase
       - **German:** Maas
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

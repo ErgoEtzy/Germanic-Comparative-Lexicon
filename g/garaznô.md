@@ -56,7 +56,3 @@ From *ga- + *razną + *-ô.
   - **Old Danish:** grannæ
     - **Danish:** grande — _c_
 - **Gothic:** 𐌲𐌰𐍂𐌰𐌶𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -197,7 +197,3 @@ From Proto-Indo-European *bʰowHs-o-s, from a root *bʰewHs- (“to blow, inflat
     - **English:** boast
     - **Scots:** bost
     - **Scots:** boist
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

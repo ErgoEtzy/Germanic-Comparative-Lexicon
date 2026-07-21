@@ -167,7 +167,3 @@ Likely from Proto-Indo-European *ḱel-yo- or *ḱol-yeh₂-, from *ḱel- (“t
     - **Swedish:** ihjäl — _reshaped by analogy or addition of morphemes_
     - **Swedish:** helsike — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌷𐌰𐌻𐌾𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

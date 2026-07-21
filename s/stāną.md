@@ -155,7 +155,3 @@ The past stem derives from an innovated extended form of the root, Pre-Germanic 
     - **Swedish:** stå
   - **Danish:** stå
     - **Norwegian Bokmål:** stå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

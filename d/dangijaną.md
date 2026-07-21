@@ -108,7 +108,3 @@ From *dingwaną + *-janą; apparently with delabialization of -gw- caused by fol
     - **Swedish:** dänga
   - **Danish:** dænge
   - **Elfdalian:** daindja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

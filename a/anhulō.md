@@ -64,7 +64,3 @@ From Proto-Indo-European *h₂enk- (“to turn, bend, flex, curve”). Cognate w
   - **Old Swedish:** øl
   - **Old Swedish:** öl
   - **Danish:** ol
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -102,7 +102,3 @@ From Proto-Indo-European *dʰewbʰ- (“deep”); by synchronic analysis, an app
       - **Dutch:** bedoven — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** dúfa
   - **Norwegian Bokmål:** duve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

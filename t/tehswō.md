@@ -50,7 +50,3 @@ From Proto-Indo-European *deḱs- (“right”).
   - **Old High German:** zesawa
     - **Middle High German:** zëswe
 - **Gothic:** 𐍄𐌰𐌹𐌷𐍃𐍅𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

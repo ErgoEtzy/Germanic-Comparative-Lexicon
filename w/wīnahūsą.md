@@ -54,7 +54,3 @@ From *wīną (“wine”) + *hūsą (“house”).
     - **German:** Weinhaus
 - **Old Norse:** vínhús
   - **Icelandic:** vínhús
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -68,7 +68,3 @@ From Proto-Indo-European *gʰedʰ- (“to join, unite”).
       - **Bavarian:** kate
       - **Bavarian:** kat
       - **German:** Gatte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

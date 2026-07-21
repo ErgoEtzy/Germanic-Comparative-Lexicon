@@ -69,7 +69,3 @@ From Proto-Indo-European *sweyg- (“to bend, twist, turn (aside), sway, swerve,
     - **Middle Low German:** swich — _borrowed_
     - **Middle Low German:** swik — _borrowed_
     - **Middle Low German:** swick — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

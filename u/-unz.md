@@ -34,7 +34,3 @@ From the bare Proto-Indo-European accusative plural suffix *-m̥s; compare Ancie
 - **Old Norse:** -u
   - **Icelandic:** -u — _archaic_
 - **Gothic:** -𐌿𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

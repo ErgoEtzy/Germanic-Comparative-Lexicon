@@ -101,7 +101,3 @@ From *anstiz (“favour, affection”) + *-janą.
 - **Old Norse:** æsta
   - **Icelandic:** æsta
   - **Old Swedish:** æsta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

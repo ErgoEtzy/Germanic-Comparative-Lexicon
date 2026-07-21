@@ -60,7 +60,3 @@ From a Proto-Indo-European *ḱérus or *ḱérh₂us (“pointed stick, arrow, 
   - **Old Norse:** hjǫrr
     - **Icelandic:** hjör
 - **Gothic:** 𐌷𐌰𐌹𐍂𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

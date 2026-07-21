@@ -104,7 +104,3 @@ From Proto-Indo-European *slendʰ-, from Proto-Indo-European *sel- (“to creep,
   - **Old High German:** slintan
     - **Middle High German:** slinden
       - **German:** schlinden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

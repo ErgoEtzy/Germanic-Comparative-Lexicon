@@ -184,7 +184,3 @@ Possibly from Proto-Indo-European *bʰen- (“to hit, strike, injure”) or *bʰ
     - **English:** bang
     - **Scots:** bang
     - **Scots:** bung
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

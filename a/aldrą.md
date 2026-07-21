@@ -97,7 +97,3 @@ From Proto-Indo-European *h₂el-dʰr-o-m or *h₂el-tr-ó-m, an instrumental fo
     - **Danish:** alder
     - **Norwegian Bokmål:** alder
 - **Gothic:** 𐍆𐍂𐌰𐌼𐌰𐌻𐌳𐍂𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

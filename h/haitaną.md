@@ -165,7 +165,3 @@ The above theory is implicitly rejected by modern scholars (and the root listed 
         - **Norwegian Bokmål:** hete
     - **Old Gutnish:** haita
 - **Gothic:** 𐌷𐌰𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

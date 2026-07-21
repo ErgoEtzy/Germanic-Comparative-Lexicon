@@ -103,8 +103,4 @@ From *sakō (“case, lawsuit, quarrel”) + *-ōną.
     - **Middle High German:** sachen
 - **Old Norse:** saka
   - **Icelandic:** saka
-  - **Norwegian:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+  - **Norwegian:**

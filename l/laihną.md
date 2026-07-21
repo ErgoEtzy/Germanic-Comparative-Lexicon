@@ -108,7 +108,3 @@ From earlier *laihwnam, from Proto-Indo-European *leykʷ- (“to leave, leave ov
     - **Scots:** lain
     - **English:** loan
       - **Scots:** loan — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

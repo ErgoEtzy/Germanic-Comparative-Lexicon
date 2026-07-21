@@ -102,7 +102,3 @@ From *framaþiz (“foreign, alien, strange”) + *-janą.
   - **Old High German:** fremiden
     - **Middle High German:** fremeden
 - **Gothic:** 𐍆𐍂𐌰𐌼𐌰𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

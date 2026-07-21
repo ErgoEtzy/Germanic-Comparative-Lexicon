@@ -154,7 +154,3 @@ A nominal formation related to *geldaną (“to pay”).
     - **Danish:** gæld
   - **Old Gutnish:** gield
 - **Gothic:** 𐌲𐌹𐌻𐌳
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

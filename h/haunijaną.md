@@ -113,7 +113,3 @@ From *hauniz (“despised, poor, miserable”) + *-janą.
 - **Norwegian:** håna
 - **Norwegian:** håne
 - **Gothic:** 𐌷𐌰𐌿𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -85,7 +85,3 @@ From earlier *magwī, from *maguz (“boy”), with feminine suffix; ultimately 
     - **Danish:** mø
   - **Gutnish:** måi
 - **Gothic:** 𐌼𐌰𐍅𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

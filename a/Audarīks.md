@@ -47,7 +47,3 @@ From *audaz (“wealth, riches”) + *rīks (“king, ruler”).
   - **Old High German:** Ōtric
   - **Old High German:** Ōtrich
 - **Old Norse:** Auðríkr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

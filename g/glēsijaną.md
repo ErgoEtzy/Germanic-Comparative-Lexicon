@@ -96,7 +96,3 @@ From a formation related to either *glasą (“amber, glass”) or *gladaz (“s
   - **Faroese:** glæsa
   - **Icelandic:** glæsa
   - **Norwegian:** gløsa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

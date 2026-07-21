@@ -172,7 +172,3 @@ From Proto-Indo-European *ḱérh₂sō (“skull, crown”).
     - **Danish:** isse
       - **Norwegian Bokmål:** isse
         - **Norwegian Nynorsk:** isse — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

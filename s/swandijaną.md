@@ -100,7 +100,3 @@ From *swindaną (“to disappear”) + *-janą.
   - **Old High German:** swenten
     - **Middle High German:** swenden
       - **German:** schwenden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

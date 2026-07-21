@@ -826,7 +826,3 @@ Perhaps cognate with Latin suffixes -undus (forms the gerund) or Ancient Greek -
   - **Old Swedish:** -ung
     - **Swedish:** -ing
     - **Swedish:** -ung
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

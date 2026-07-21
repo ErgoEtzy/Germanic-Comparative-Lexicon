@@ -110,7 +110,3 @@ From Proto-Indo-European *gʰórdʰos (“hedge, fence, enclosure”), from *gʰ
   - **Norwegian:** garde
   - **Danish:** gårde
 - **Gothic:** 𐌲𐌰𐍂𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

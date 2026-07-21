@@ -63,7 +63,3 @@ Attested as haal in the Codex Vindobonensis, despite all of the other names pres
     - **Danish:** hagel
     - **Danish:** havl
   - **Gutnish:** hagel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

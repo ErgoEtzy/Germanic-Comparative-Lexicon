@@ -163,7 +163,3 @@ Inherited from Proto-Indo-European *-yós. Cognate with Latin -ius, Ancient Gree
 - **Proto-West Germanic:** *-ī
 - **Proto-Norse:** -ᛁᛉ
   - **Old Norse:** -r — _with i-umlaut of preceding root_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

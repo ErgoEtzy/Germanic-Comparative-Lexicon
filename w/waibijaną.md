@@ -119,7 +119,3 @@ From Proto-Indo-European *woypéyeti, causative of *weyp- (“to shake, swing”
   - **Norwegian:** veive
 - **Gothic:** *𐍅𐌰𐌹𐌱𐌾𐌰𐌽
   - **Gothic:** 𐌱𐌹𐍅𐌰𐌹𐌱𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

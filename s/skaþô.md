@@ -143,7 +143,3 @@ Perhaps from Proto-Indo-European *(s)keh₁tH- (“to damage, harm”), and cogn
     - **Scots:** skaith
     - **Scots:** schath
     - **Scots:** schaith
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

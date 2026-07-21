@@ -104,7 +104,3 @@ From *hrewwaną (“to grieve, to feel sorrow; to cause regret, to rue”) + *-j
   - **Old Saxon:** hriuwi
 - **Old Norse:** hryggr
   - **Icelandic:** hryggur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

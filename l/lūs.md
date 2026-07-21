@@ -91,7 +91,3 @@ Possibly from Proto-Indo-European *lewH- (“louse”).
     - **Swedish:** lus
   - **Danish:** lus
   - **Gutnish:** läus
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

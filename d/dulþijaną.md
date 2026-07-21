@@ -96,7 +96,3 @@ From *dulþiz (“celebration, festival”) + *-janą.
     - **Middle High German:** tulden
     - **Middle High German:** tulten
 - **Gothic:** 𐌳𐌿𐌻𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

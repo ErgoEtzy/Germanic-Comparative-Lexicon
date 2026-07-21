@@ -54,7 +54,3 @@ From *wīną (“wine”) + *fatą (“vessel”).
     - **German:** Weinfass
 - **Old Norse:** vínfat
   - **Icelandic:** vínfat
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

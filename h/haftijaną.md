@@ -122,7 +122,3 @@ From *haftaz (“captive, bound”) + *-janą.
     - **Swedish:** häfta
   - **Danish:** hæfte
 - **Gothic:** 𐌷𐌰𐍆𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

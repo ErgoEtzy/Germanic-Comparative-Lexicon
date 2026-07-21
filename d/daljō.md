@@ -12,7 +12,7 @@ From *dalą (“valley, dale”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -66,7 +66,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **German:** Telle
 - **Gothic:** *𐌳𐌰𐌻𐌾𐌰
 - **Gothic:** 𐌹𐌱𐌳𐌰𐌻𐌾𐌹𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -104,7 +104,3 @@ From Proto-Indo-European *preḱ- (“to ask, request”).
   - **Old Saxon:** gifrāgi
 - **Old Norse:** frægr
   - **Icelandic:** frægur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

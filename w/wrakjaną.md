@@ -97,7 +97,3 @@ By surface analysis, *wrekaną (“to persue”) + *-janą. The LIV considers Go
 - **Old Norse:** rekja
   - **Icelandic:** rekja
 - **Gothic:** 𐍅𐍂𐌰𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

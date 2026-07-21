@@ -112,7 +112,3 @@ From Proto-Indo-European *gʷey- (“to lament; complain”).
   - **Scots:** quink — _borrowed_
   - **Scots:** whink — _borrowed_
 - **Gothic:** 𐌵𐌰𐌹𐌽𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

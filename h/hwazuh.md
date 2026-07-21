@@ -52,7 +52,3 @@ From *hwaz + *-hw. Cognate with Latin quisque.
 ### Germanic descendants
 
 - **Gothic:** 𐍈𐌰𐌶𐌿𐌷
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

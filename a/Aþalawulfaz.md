@@ -62,7 +62,3 @@ From *aþalaz (“noble”) + *wulfaz (“wolf”).
 - **Dutch:** Adolf — _borrowed_
 - **Norwegian:** Adolf — _borrowed_
 - **Swedish:** Adolf — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -225,7 +225,3 @@ From Proto-Indo-European *doh₁ (“to”), instrumental singular of *de (“to
       - **Middle High German:** zuoze
     - **Old High German:** zuozi — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** zuoze
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -141,7 +141,3 @@ From Proto-Indo-European *tr̥nós (“sharp, stiff; thorn”). Related to Sansk
     - **Swedish:** torn
   - **Norwegian:** torn
   - **Danish:** torn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

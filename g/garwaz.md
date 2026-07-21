@@ -164,7 +164,3 @@ Probably from *ga- + *arwaz (“ready, fast”). Although a deverbal derivation 
   - **Scots:** gar — _borrowed_
   - **Scots:** gare — _borrowed_
   - **Scots:** gair — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

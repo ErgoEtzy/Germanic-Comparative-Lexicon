@@ -57,7 +57,3 @@ From Proto-Indo-European *leb- (“lip”).
   - **Old Swedish:** lippe — _inherited; uncertain_
   - **Old Danish:** læpæ
     - **Danish:** læbe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

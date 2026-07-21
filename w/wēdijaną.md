@@ -100,7 +100,3 @@ From *wēdiz (“cloth, garment”) + *-janą.
     - **Middle High German:** wæten
 - **Old Norse:** væða
   - **Icelandic:** væða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

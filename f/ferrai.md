@@ -128,7 +128,3 @@ From Proto-Indo-European *per-nóy (locative), from *per- (“to cross, pass”)
       - **Norwegian Bokmål:** fjern
       - **Norwegian Nynorsk:** fjern — _borrowed_
 - **Gothic:** 𐍆𐌰𐌹𐍂𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

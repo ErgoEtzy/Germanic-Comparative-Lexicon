@@ -104,7 +104,3 @@ From Proto-Indo-European *mórǵs (“edge, boundary, border”), possibly from 
     - **Old Danish:** mark
       - **Danish:** mark
 - **Gothic:** 𐌼𐌰𐍂𐌺𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

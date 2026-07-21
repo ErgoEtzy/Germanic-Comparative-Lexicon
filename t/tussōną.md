@@ -111,7 +111,3 @@ An iterative verb from Proto-Indo-European *tus-néh₂-ti.
   - **Norwegian:** 
     - **Norwegian Nynorsk:** tossa
     - **Norwegian Nynorsk:** tosa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

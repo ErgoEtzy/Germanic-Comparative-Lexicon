@@ -96,7 +96,3 @@ From *taitaz (“bright, cheerful”) + *-janą.
 - **Old Norse:** teita
   - **Icelandic:** teita
   - **Faroese:** teita — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

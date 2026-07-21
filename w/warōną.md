@@ -153,7 +153,3 @@ From Proto-Indo-European *wer- (“to become aware of, heed”). Equivalent to *
   - **Old Swedish:** vara
     - **Swedish:** vara
   - **Danish:** vare
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

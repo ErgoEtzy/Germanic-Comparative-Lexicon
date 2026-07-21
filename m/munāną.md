@@ -92,7 +92,3 @@ From *munaną (“to think, consider”) + *-āną or *muniz (“mind, desire”
   - **Old English:** mynian — _with unexpected umlaut; possibly backformed to the noun_
 - **Old Norse:** muna
 - **Gothic:** munān
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

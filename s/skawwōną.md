@@ -276,7 +276,3 @@ From Proto-Indo-European *(s)kewh₁- (“to heed, look, feel, take note of”).
       - **Bavarian:** schaue
       - **German:** schauen
 - **Old Norse:** skygna — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

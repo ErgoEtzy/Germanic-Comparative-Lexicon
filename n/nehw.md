@@ -740,7 +740,3 @@ From Proto-Indo-European *nékʷe. Equivalent to *ne + *-hw. Cognate with Latin 
 - **Old Norse:** né
   - **Icelandic:** né
 - **Gothic:** 𐌽𐌹𐌷
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

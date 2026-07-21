@@ -190,7 +190,3 @@ From Proto-Indo-European *sek- (“to cut”).
   - **Scots:** saks — _borrowed_
   - **Scots:** saxie — _borrowed_
   - **Scots:** saksi — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

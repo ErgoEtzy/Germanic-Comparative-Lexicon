@@ -186,7 +186,3 @@ From *funsaz (“ready, willing”) + *-janą.
   - **Faroese:** fýsa
   - **Norwegian Nynorsk:** fysa
   - **Norwegian Bokmål:** fyse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

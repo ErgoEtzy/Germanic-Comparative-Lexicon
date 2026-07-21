@@ -98,7 +98,3 @@ From *sinaz or *siniz (“old”) + *-īgaz (forms adjectives from nouns, origin
 ### Germanic descendants
 
 - **Gothic:** 𐍃𐌹𐌽𐌴𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

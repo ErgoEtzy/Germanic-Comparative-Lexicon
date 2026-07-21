@@ -783,7 +783,3 @@ From Pre-Germanic *h₂énh₂ets ~ *h₂énh₂uts, from Proto-Indo-European *h
     - **Swedish:** and
   - **Old Danish:** *and
     - **Danish:** and
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

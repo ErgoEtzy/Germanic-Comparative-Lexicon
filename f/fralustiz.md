@@ -54,7 +54,3 @@ From *fra- + *lustiz.
       - **German:** Verlust
       - **Yiddish:** פֿאַרלוסט
 - **Gothic:** 𐍆𐍂𐌰𐌻𐌿𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

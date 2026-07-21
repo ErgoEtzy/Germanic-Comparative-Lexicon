@@ -64,7 +64,3 @@ From Proto-Indo-European *h₃éh₁os (“mouth”) (apparently reformed as a t
     - **Norwegian Nynorsk:** os — _m or n_
   - **Old Swedish:** ōs — _n_
     - **Swedish:** os
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -135,7 +135,3 @@ Possibly a derivative of Proto-Indo-European *sterh₃- (“to broaden, spread o
     - **Swedish:** strand
   - **Danish:** strand
   - **Gutnish:** strand
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

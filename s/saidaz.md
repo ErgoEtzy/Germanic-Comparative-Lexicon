@@ -89,7 +89,3 @@ Either directly from Proto-Indo-European *soh₂itos ~ *sh₂oytos, cognate with
   - **Old High German:** seid
   - **Old High German:** seit — _n_
 - **Old Norse:** seiðr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

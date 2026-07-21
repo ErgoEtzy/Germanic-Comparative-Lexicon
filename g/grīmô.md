@@ -112,7 +112,3 @@ From Proto-Indo-European *gʰrēy- (“to paint, streak, smear”), from *gʰer-
   - **Scots:** grimek — _borrowed_
   - **Scots:** grimet — _borrowed_
 - **Gothic:** *𐌲𐍂𐌴𐌹𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

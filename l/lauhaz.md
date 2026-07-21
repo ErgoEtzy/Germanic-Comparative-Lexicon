@@ -129,7 +129,3 @@ From Proto-Indo-European *lówkos (“clearing”), which is derived from Proto-
   - **Icelandic:** ló
   - **Norwegian Nynorsk:** lo
   - **Norwegian Bokmål:** lo
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

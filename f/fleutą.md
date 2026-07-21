@@ -161,7 +161,3 @@ From Proto-Indo-European *plewd- (“to flow, run”).
   - **Gutnish:** flaut
   - **Dalian:** 
     - **Elfdalian:** fliuot
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -82,7 +82,3 @@ From Proto-Indo-European *(s)tewb- or *(s)tewbʰ- (“to push, knock, butt”), 
   - **Old Swedish:** stobbe
     - **Swedish:** stubbe
   - **Gutnish:** stabbe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -101,7 +101,3 @@ From *handuz (“hand”) + *lamaz (“lame”).
 
 - **Old High German:** hantlam
 - **Old Norse:** handlami
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

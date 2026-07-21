@@ -48,7 +48,3 @@ From Pre-Germanic *potís, via unexplained accent shift from Proto-Indo-European
 
 - **Old Norse:** -fǫðr — _inherited; uncertain_
 - **Gothic:** *𐍆𐌰𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

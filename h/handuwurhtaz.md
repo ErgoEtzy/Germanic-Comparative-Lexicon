@@ -100,7 +100,3 @@ From *handuz (“hand”) + *wurhtaz (“worked”, past participle of *wurkijan
 - **Old English:** handworht
   - **English:** handwrought
 - **Gothic:** 𐌷𐌰𐌽𐌳𐌿𐍅𐌰𐌿𐍂𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

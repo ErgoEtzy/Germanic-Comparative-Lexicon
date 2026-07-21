@@ -205,7 +205,3 @@ From Proto-Indo-European *storg-o/u-s, an o-grade adjective reconstructed either
   - **Elfdalian:** stark
   - **Gutnish:** starkar
   - **Gutnish:** starkur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

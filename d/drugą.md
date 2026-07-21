@@ -69,7 +69,3 @@ From Proto-Indo-European *dʰrugʰ-o-m, thematicized from *dʰréwk-s ~ *dʰrug�
       - **German:** Trug
     - **Middle High German:** troc — _m_
       - **German:** Trug
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

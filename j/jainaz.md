@@ -261,7 +261,3 @@ From *ja, of uncertain origin. Some have connected this to Proto-Indo-European *
       - **Norwegian Bokmål:** -en
       - **Norwegian Bokmål:** hin
 - **Gothic:** 𐌾𐌰𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

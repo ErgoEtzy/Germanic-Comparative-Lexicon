@@ -64,7 +64,3 @@ From Proto-Indo-European *h₂émsus, from *h₂ems- (“to engender, beget”).
     - **Swedish:** ås — _learned borrowing; c; learned_
 - **Gothic:** *𐌰𐌽𐍃𐌿𐍃
 - **Vandalic:** *ans-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -467,7 +467,3 @@ From *balþaz (“bold”) + *-janą.
   - **Icelandic:** bella
   - **Norwegian Nynorsk:** belle
 - **Gothic:** 𐌱𐌰𐌻𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

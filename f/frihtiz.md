@@ -61,7 +61,3 @@ From *frehnaną (“to ask”) + *-þiz.
   - **Norn:** frøtt
   - **Norwegian Bokmål:** frett — _m_
   - **Old Swedish:** fræt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

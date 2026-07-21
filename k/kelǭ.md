@@ -105,7 +105,3 @@ From Proto-Indo-European *gʷelh₁- (“to swallow; throat”). Cognate with La
       - **German:** Kehle
 - **Old Norse:** *kjala
   - **Elfdalian:** grą̊-tjyölu — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

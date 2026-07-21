@@ -101,7 +101,3 @@ From Proto-Indo-European *dréǵʰ-e-ti, Proto-Indo-European *dreǵʰ- (“to be
   - **Icelandic:** trega
   - **Old Swedish:** trægha
     - **Swedish:** träga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -86,7 +86,3 @@ Compare typologically Bulgarian костур (kostur). Also compare Latvian asar
   - **Old Swedish:** borre
 - **Old Norse:** *burzô
   - **Old Swedish:** borre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

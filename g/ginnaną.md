@@ -109,7 +109,3 @@ Unclear, the root has often been traced to Proto-Indo-European *gʰed- (“to ta
   - **Old English:** āginnan
   - **Old Dutch:** āginnan — _inherited; uncertain_
 - **Gothic:** 𐌳𐌿𐌲𐌹𐌽𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

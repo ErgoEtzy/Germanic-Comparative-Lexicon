@@ -155,7 +155,3 @@ From Proto-Indo-European *skolH-yeh₂, from *(s)kelH- (“to split, part, divid
   - **Danish:** skæl — _n_
     - **Norwegian Bokmål:** skjell
 - **Gothic:** 𐍃𐌺𐌰𐌻𐌾𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

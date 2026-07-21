@@ -187,7 +187,3 @@ Inherited from Proto-Indo-European *dʰrówgʰos.
     - **English:** draug — _learned borrowing; learned_
       - **English:** Draugr — _borrowed_
     - **Swedish:** draug — _learned borrowing; learned_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

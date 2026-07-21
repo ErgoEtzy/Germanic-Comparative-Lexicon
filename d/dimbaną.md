@@ -97,7 +97,3 @@ From Proto-Indo-European *dʰémbʰ-e-ti, from *dʰembʰ- (“to fog”), which 
 - **Old Norse:** *dimba
   - **Norwegian:** demba
   - **Elfdalian:** dimba
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

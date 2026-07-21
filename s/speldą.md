@@ -89,7 +89,3 @@ From Proto-Indo-European *(s)pel- (“to split”).
     - **Danish:** spjæld
     - **Icelandic:** spæll — _borrowed_
 - **Gothic:** 𐍃𐍀𐌹𐌻𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

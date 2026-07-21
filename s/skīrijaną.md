@@ -115,7 +115,3 @@ From *skīriz (“pure, clear, sheer”) + *-janą.
     - **Swedish:** skira
 - **Gothic:** *𐍃𐌺𐌴𐌹𐍂𐌾𐌰𐌽
 - **Gothic:** 𐌲𐌰𐍃𐌺𐌴𐌹𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

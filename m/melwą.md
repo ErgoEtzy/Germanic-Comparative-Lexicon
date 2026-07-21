@@ -207,7 +207,3 @@ From Proto-Indo-European *melh₂-wo-m, from *melh₂- (“to beat; crush; grind
   - **Old Danish:** mel
     - **Danish:** mel
       - **Norwegian Bokmål:** mel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

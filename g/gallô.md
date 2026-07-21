@@ -69,7 +69,3 @@ Possibly from Proto-Indo-European *ǵʰelH-r/n- (compare the r-stem in Norwegian
 - **Old Norse:** galli
   - **Icelandic:** galli
   - **Swedish:** gall
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

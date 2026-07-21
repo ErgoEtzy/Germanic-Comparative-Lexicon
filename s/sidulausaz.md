@@ -102,7 +102,3 @@ From *siduz (“custom, manner”) + *-lausaz.
 - **Proto-West Germanic:** *sidulaus
   - **Old High German:** situlōs
 - **Old Norse:** siðlauss
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

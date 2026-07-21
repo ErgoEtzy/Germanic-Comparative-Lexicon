@@ -229,7 +229,3 @@ From Proto-Indo-European *wes- (“to graze”). Whereas the LIV suggests that G
     - **Middle English:** wesen — _inherited; uncertain_
   - **Old High German:** *wesan
     - **Old High German:** ferwesan — _reshaped by analogy or addition of morphemes; only in glosses_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

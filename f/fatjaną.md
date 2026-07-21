@@ -100,7 +100,3 @@ Causative of *fetaną (“to walk, stride”, class V strong verb), from Proto-I
   - **Icelandic:** feta
   - **Faroese:** feta
   - **Old Norse:** þverfeta — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

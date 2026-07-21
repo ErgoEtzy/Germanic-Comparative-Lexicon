@@ -64,7 +64,3 @@ From Proto-Indo-European *wonk- (“crooked, bent”), from Proto-Indo-European 
 - **Old Saxon:** wāh
 - **Old Norse:** vá
   - **Icelandic:** vá
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

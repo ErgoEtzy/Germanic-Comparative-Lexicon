@@ -192,7 +192,3 @@ From Proto-Indo-European *senh₁-weh₂-, a formation related to the more typic
     - **Swedish:** sena
   - **Danish:** sene
   - **Gutnish:** sine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

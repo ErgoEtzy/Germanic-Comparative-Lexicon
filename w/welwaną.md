@@ -97,7 +97,3 @@ From Proto-Indo-European *welh₃- (“to hit, strike”).
   - **Old Frisian:** wlemma — _reshaped by analogy or addition of morphemes_
     - **Old Frisian:** wlemmelsa — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍅𐌹𐌻𐍅𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -60,7 +60,3 @@ From Proto-Indo-European *h₂eng-ieh₂-, from *h₂eng- (“curve, bend”).
       - **Swabian:** Halsanke — _reshaped by analogy or addition of morphemes; uncertain_
 - **Old Norse:** ekkja
   - **Icelandic:** ekkja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

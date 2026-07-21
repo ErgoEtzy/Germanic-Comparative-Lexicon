@@ -1103,7 +1103,3 @@ From Proto-Indo-European *déḱm̥ (“ten”), or alternatively from earlier *
   - **Gutnish:** teiå
   - **Gutnish:** teiu
 - **Gothic:** 𐍄𐌰𐌹𐌷𐌿𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -84,7 +84,3 @@ From an earlier n-stem *stubbô ~ *stubbaz, from Proto-Indo-European *(s)tewp-, 
   - **Norwegian Nynorsk:** stubb
   - **Danish:** stub
     - **Norwegian Bokmål:** stubb
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -75,7 +75,3 @@ From Proto-Indo-European *swegn-, *swekn- (“odour, smell”), from Proto-Indo-
   - **Old High German:** swekka
   - **Old High German:** swecka
   - **Old High German:** swekke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

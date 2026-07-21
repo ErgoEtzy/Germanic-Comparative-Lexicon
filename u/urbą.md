@@ -52,7 +52,3 @@ From Pre-Germanic *h₃r̥bʰom, from the zero-grade of Proto-Indo-European *h�
 - **Old Norse:** *orf
   - **Old Swedish:** orf
   - **Old Swedish:** urf
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

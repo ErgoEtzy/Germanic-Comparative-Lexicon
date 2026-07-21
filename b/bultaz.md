@@ -82,7 +82,3 @@ Perhaps from Proto-Indo-European *bʰeld- (“to knock, strike”). Cf. Lithuani
   - **Norwegian:** bolt
   - **Swedish:** bult
   - **Danish:** bolt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

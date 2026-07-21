@@ -75,7 +75,3 @@ From Proto-Indo-European *móri (“sea”).
   - **Danish:** mar-
   - **Scots:** mar — _borrowed_
 - **Gothic:** 𐌼𐌰𐍂𐌴𐌹 — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -335,7 +335,3 @@ From Proto-Indo-European *bʰuǵ-ko-s, from Proto-Indo-European *bʰuǵ- (“goa
   - **Old Danish:** buk
     - **Danish:** buk
       - **Norwegian Bokmål:** bukk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

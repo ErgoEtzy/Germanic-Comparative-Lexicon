@@ -70,7 +70,3 @@ From Proto-Indo-European *dedru-, *derdru-, a reduplicative form derived from *d
       - **English:** tetter
     - **Middle English:** tetyr
       - **English:** tetter
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

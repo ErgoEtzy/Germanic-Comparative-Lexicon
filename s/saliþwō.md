@@ -102,7 +102,3 @@ From *saliz + *-þwō.
       - **German:** Selde
       - **German:** Sölde
 - **Gothic:** 𐍃𐌰𐌻𐌹𐌸𐍅𐍉𐍃 — _pl_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

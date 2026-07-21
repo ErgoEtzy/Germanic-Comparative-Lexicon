@@ -132,7 +132,3 @@ From *skamō (“shame”) + *-lausaz.
   - **Swedish:** skamlös
   - **Danish:** skamløs
     - **Norwegian Bokmål:** skamløs
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

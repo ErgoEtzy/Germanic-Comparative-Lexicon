@@ -115,7 +115,3 @@ From *taikną (“sign, token, symbol”) + *-ōną.
   - **Norwegian Bokmål:** tegne
   - **Norwegian Nynorsk:** teikne
   - **Swedish:** teckna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

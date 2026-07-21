@@ -106,7 +106,3 @@ From *hwēsaną + *-janą.
     - **Norwegian Bokmål:** hvese
   - **Middle English:** whesen — _borrowed_
     - **English:** wheeze
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

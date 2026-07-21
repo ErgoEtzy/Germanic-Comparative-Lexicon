@@ -147,7 +147,3 @@ From pre-Germanic *sét-lom, probably continuing earlier *sét-ōl; compare *sad
       - **Limburgish:** zaedel
   - **Old High German:** sedal
     - **Middle High German:** sedel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

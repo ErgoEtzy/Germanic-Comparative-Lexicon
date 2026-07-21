@@ -71,7 +71,3 @@ From Proto-Indo-European *spey- (“sharp, sharp stick”).
   - **Icelandic:** spýta
   - **Faroese:** spýta
 - **Gothic:** *𐍃𐍀𐌹𐍄𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -124,7 +124,3 @@ From Proto-Indo-European *ǵʰelh₃-.
     - **Scots:** golgrav — _reshaped by analogy or addition of morphemes_
   - **Middle English:** goole — _borrowed_
     - **Scots:** golgrav — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

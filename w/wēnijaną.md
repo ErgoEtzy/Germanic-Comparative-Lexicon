@@ -122,7 +122,3 @@ From *wēniz (“hope, expectation”) + *-janą.
   - **Faroese:** væna
   - **Old Swedish:** vǣna
 - **Gothic:** 𐍅𐌴𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

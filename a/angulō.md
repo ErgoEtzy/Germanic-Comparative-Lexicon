@@ -73,7 +73,3 @@ A diminutive from the same root as *angô (“hook, angle”), equivalent to *an
   - **Norwegian:** angel
   - **Norwegian:** ongul
   - **Norwegian:** ongel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

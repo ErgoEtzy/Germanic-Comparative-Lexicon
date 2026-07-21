@@ -102,7 +102,3 @@ From *sama- + *kunją. Parallel formation with Ancient Greek ὁμόγνιος (
 - **Old Norse:** samkynja
   - **Icelandic:** samkynja
 - **Gothic:** 𐍃𐌰𐌼𐌰𐌺𐌿𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

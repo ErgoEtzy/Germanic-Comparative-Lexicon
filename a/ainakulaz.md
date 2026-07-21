@@ -12,7 +12,7 @@ From *ainaz + *-kulaz, the second element being of uncertain origin. Compare Pro
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Adjective
 
@@ -163,7 +163,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Swedish:** änklinger — _reshaped by analogy or addition of morphemes_
     - **Swedish:** änkling
 - **Gothic:** 𐌰𐌹𐌽𐌰𐌺𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

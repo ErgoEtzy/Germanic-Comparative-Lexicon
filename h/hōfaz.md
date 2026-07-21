@@ -103,7 +103,3 @@ From Proto-Indo-European *ḱoph₂-ó-s. Cognate with Sanskrit शफ (śaphá)
     - **Swedish:** hov — _c; formerly m_
   - **Danish:** hov — _c_
   - **Scanian:** how — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

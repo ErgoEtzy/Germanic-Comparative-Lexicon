@@ -99,7 +99,3 @@ From *uz- + *wurkijaną.
   - **Middle High German:** erwirken
     - **German:** erwirken
 - **Gothic:** 𐌿𐍃𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

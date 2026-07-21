@@ -195,7 +195,3 @@ Uncertain. Kroonen suggests that the term may derive from Proto-Indo-European *s
   - **Danish:** sult
 - **Gothic:** 𐍃𐍅𐌹𐌻𐍄𐌰𐌽
 - **Crimean Gothic:** schwalth
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

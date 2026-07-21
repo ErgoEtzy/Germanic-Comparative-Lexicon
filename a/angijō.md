@@ -106,7 +106,3 @@ From Proto-Indo-European *h₂énkos (“a bend; curve; bowl-shape; valley”), 
   - **Old Danish:** æng
     - **Danish:** eng — _c_
     - **Norwegian Bokmål:** eng — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

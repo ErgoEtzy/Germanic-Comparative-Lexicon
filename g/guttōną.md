@@ -108,7 +108,3 @@ Kroonen however, reconstructs a pre-form Proto-Indo-European *gut-néh₂-ti, wi
     - **Norwegian Bokmål:** gåtte
     - **Norwegian Nynorsk:** gote
     - **Norwegian Nynorsk:** gota
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

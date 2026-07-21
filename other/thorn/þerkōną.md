@@ -12,7 +12,7 @@ Related to Sanskrit तर्जति (tarjati, “to threaten”) and Ancient 
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -98,7 +98,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Old English:** eftþercian — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** þjarka
   - **Icelandic:** þjarka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

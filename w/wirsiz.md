@@ -122,7 +122,3 @@ Perhaps from Proto-Indo-European *wers- (“to confuse, mix up; to beat, thresh,
     - **Scots:** war
     - **Scots:** waur
 - **Gothic:** 𐍅𐌰𐌹𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -63,7 +63,3 @@ Derived from the zero-grade of *beudaną (“to command; to offer”) + *-ô.
   - **Icelandic:** boði
   - **Norwegian Bokmål:** båe
   - **Old Swedish:** buþi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -45,7 +45,3 @@ Uncertain; possibly from or related to Proto-Indo-European *wérsēn (“virile 
   - **Elfdalian:** uorre — _m_
   - **Elfdalian:** yrkne
   - **Elfdalian:** ynn — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

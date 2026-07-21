@@ -488,7 +488,3 @@ From *gōdaz (“good”) + *-į̄.
   - **Icelandic:** gæði — _n pl_
   - **Faroese:** vil-gøði — _reshaped by analogy or addition of morphemes; f_
 - **Gothic:** 𐌲𐍉𐌳𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -106,7 +106,3 @@ Possibly from Proto-Indo-European *h₁reyḱ- (“to break, scratch”), whence
   - **Old High German:** *rīhan
     - **Middle High German:** rīhen
       - **German:** reihen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

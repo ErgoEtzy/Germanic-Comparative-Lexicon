@@ -124,7 +124,3 @@ Uncertain. Synchronically analyzable as *hugiz (“understanding, mind”) + *-j
     - **Danish:** hygge
       - **Norwegian Bokmål:** hygge
 - **Gothic:** 𐌷𐌿𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

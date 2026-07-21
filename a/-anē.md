@@ -33,7 +33,3 @@ The first vowel *-a- might not have originally been part of the suffix at all, p
 - **Proto-Norse:** -ᚨᚾᚨ
   - **Old Norse:** -an
 - **Gothic:** -𐌰𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

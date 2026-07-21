@@ -100,7 +100,3 @@ From *smeuganą (“to creep, slip”) + *-janą.
   - **Norwegian Nynorsk:** smøygja
   - **Old Swedish:** smø̄ghia
     - **Swedish:** smöja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -238,7 +238,3 @@ From *hringaz (“a ring, a circle”) + *-janą. Compare Proto-Slavic *krǫžit
     - **Norwegian Nynorsk:** ringe
     - **Norwegian Nynorsk:** ringa
   - **Swedish:** ringa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

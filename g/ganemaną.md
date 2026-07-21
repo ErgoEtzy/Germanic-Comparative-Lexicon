@@ -101,7 +101,3 @@ From *ga- + *nemaną.
   - **Old High German:** gineman
     - **Middle High German:** genemen
 - **Gothic:** 𐌲𐌰𐌽𐌹𐌼𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

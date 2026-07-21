@@ -161,7 +161,3 @@ From *handuz (“hand”) + *-janą.
   - **Old Swedish:** hænda
     - **Swedish:** hända
   - **Danish:** hænde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

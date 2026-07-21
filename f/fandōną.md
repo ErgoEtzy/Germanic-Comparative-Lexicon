@@ -113,7 +113,3 @@ An o-grade iterative derived from *finþaną (“to find”).
     - **German:** fahnden
   - **Middle High German:** vanden
     - **German:** fahnden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

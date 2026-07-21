@@ -83,7 +83,3 @@ From pre-Germanic *pelnóm, from Proto-Indo-European *pel- (“skin, hide; to co
   - **Norwegian Bokmål:** fille
   - **Norwegian Nynorsk:** fille
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌰𐍆𐌹𐌻𐌻𐌹 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

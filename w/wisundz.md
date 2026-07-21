@@ -195,8 +195,4 @@ Likely a lexicalization of the present participle *wesandz (Stiles 2004; cf. Kra
 - **Dutch:** bizon — _borrowed_ — _through a non-Germanic route_
 - **German:** Bison — _borrowed_ — _through a non-Germanic route_
 - **German:** Bisont — _borrowed_ — _through a non-Germanic route_
-- **Gothic or Suevic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Gothic or Suevic:**

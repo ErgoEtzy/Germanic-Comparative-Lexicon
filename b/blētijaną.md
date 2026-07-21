@@ -175,7 +175,3 @@ From Proto-Indo-European *bʰleh₁- (“to howl, cry, bleat”), from Proto-Ind
       - **German:** blaßen
       - **German:** blätzen
       - **German:** blässen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

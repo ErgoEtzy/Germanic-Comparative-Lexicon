@@ -74,7 +74,3 @@ Thematicized variant of Proto-Indo-European *h₃dénts (“peg, tooth”).
   - **Icelandic:** tindur
   - **Faroese:** tindur
   - **Swedish:** tinne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

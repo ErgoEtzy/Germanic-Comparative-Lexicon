@@ -423,7 +423,3 @@ From *krebô, from Proto-Indo-European *grebʰ-, *gerbʰ- (“bunch, bundle, tuf
   - **Icelandic:** krubba
   - **Norwegian:** krybbe
   - **Swedish:** krubba
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

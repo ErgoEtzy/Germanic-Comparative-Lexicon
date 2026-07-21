@@ -63,7 +63,3 @@ Unknown. Pokorny derives this word from Proto-Indo-European *med- (“to measure
     - **Norwegian Nynorsk:** mute
     - **Old Swedish:** múta
       - **Swedish:** muta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

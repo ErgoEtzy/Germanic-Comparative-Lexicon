@@ -143,7 +143,3 @@ In either case, a likely Wanderwort.
       - **German:** Pfad — _m_
       - **Luxembourgish:** Pad
       - **Luxembourgish:** Paad
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

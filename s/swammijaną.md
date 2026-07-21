@@ -104,7 +104,3 @@ From *swimmaną (“to swim”) + *-janą (causative suffix).
   - **Old High German:** *swemmen
     - **Middle High German:** swemmen
       - **German:** schwemmen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

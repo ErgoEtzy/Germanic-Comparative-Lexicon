@@ -128,7 +128,3 @@ From Proto-Indo-European *ǵʰley- (“to shine, shimmer; yellow, grey, green, b
 - **Old Norse:** glær
   - **Icelandic:** glær
 - **Old Norse:** glævir — _reshaped by analogy or addition of morphemes; m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

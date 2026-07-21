@@ -99,7 +99,3 @@ From *twinganą + *-janą.
   - **Old Dutch:** *twengen
     - **Middle Dutch:** twengen
   - **Old High German:** zwengen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

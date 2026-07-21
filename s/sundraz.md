@@ -141,7 +141,3 @@ From Proto-Indo-European *sn̥Htros, from *senH- (“apart, without, for oneself
   - **Danish:** sønder
     - **Norwegian Bokmål:** sønder
 - **Gothic:** 𐍃𐌿𐌽𐌳𐍂𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

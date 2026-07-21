@@ -54,7 +54,3 @@ From *ga- + *legrą + *-ją.
   - **Old High German:** *giligari
     - **Middle High German:** geligere
 - **Gothic:** 𐌲𐌰𐌻𐌹𐌲𐍂𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

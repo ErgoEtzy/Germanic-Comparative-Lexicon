@@ -195,7 +195,3 @@ Older theories derive the root from Proto-Indo-European *(s)terbʰ- (“rigid; s
   - **Norwegian Bokmål:** tjerv
   - **Norwegian Nynorsk:** tjerv
   - **Swedish:** kärv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

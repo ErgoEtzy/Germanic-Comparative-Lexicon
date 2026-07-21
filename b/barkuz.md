@@ -95,7 +95,3 @@ Possibly from Proto-Indo-European *bʰerHǵós (source of Lithuanian béržas, C
     - **Middle English:** barke
       - **English:** bark
       - **Scots:** bark
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

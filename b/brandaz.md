@@ -111,7 +111,3 @@ From *brinnaną (“to burn”) + *-az (“-er”, agent noun suffix).
     - **Danish:** brand
   - **Old Swedish:** brander
     - **Swedish:** brand
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

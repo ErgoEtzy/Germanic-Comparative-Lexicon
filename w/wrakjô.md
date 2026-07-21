@@ -106,7 +106,3 @@ From *wrekaną (“to pursue”) + *-jô.
     - **Middle High German:** recke
       - **Middle Low German:** recke — _borrowed_
       - **German:** Recke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

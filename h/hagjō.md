@@ -142,7 +142,3 @@ From Proto-Indo-European *kagʰyóm (“enclosure”), whence also Latin cohum, 
         - **Swedish:** häck — _borrowed_
         - **Danish:** hæk — _borrowed_
       - **Luxembourgish:** Heck
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

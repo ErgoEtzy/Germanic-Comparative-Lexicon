@@ -181,7 +181,3 @@ From the oblique stem of Proto-Indo-European *bʰértis, from *bʰer- (“to bea
   - **Danish:** byrd
     - **Norwegian Bokmål:** byrd
   - **Old Gutnish:** byrþ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

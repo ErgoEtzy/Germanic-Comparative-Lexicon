@@ -128,7 +128,3 @@ From *sinþaną + *-janą, with quasi-Indo-European form *sont-éye-ti. Related 
   - **Gutnish:** sände
   - **Scanian:** sænða
 - **Gothic:** 𐍃𐌰𐌽𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

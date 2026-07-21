@@ -68,7 +68,3 @@ From Proto-Indo-European *(s)ḱeyh₁- (“to shimmer; shadow”) with a suffix
 - **Old Norse:** skim
   - **Norwegian:** skime
 - **Gothic:** 𐍃𐌺𐌴𐌹𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

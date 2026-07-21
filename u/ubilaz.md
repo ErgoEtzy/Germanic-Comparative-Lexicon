@@ -168,7 +168,3 @@ Cognate with Proto-Celtic *uɸelos (“bad, evil”), but the source is disputed
       - **German:** übel
       - **Luxembourgish:** iwwel
 - **Gothic:** 𐌿𐌱𐌹𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ Unknown; first element suggested to be related to Old Norse vél, from Proto-Ger
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Proper noun
 
@@ -52,7 +52,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Faroese:** Valindur
   - **Faroese:** Valintur
 - **Gothic:** *𐍅𐌹𐌻𐌰𐌽𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

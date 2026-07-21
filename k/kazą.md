@@ -88,7 +88,3 @@ Orel prefers to take the root as a cultural loanword, ultimately from Proto-Semi
       - **Faroese:** kar — _borrowed_
       - **Norwegian Nynorsk:** kar — _borrowed_
 - **Gothic:** 𐌺𐌰𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -54,7 +54,3 @@ From pre-Germanic *péth₂lom, from Proto-Indo-European *peth₂-. Cognate with
     - **Old High German:** pfedelgold — _reshaped by analogy or addition of morphemes_
       - **Old High German:** fedelgoldōn — _reshaped by analogy or addition of morphemes_
       - **Old High German:** pfedelgoldōn — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

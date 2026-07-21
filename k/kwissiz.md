@@ -52,7 +52,3 @@ From Proto-Indo-European *gʷét-ti-s (“act of calling”), from *gʷet- (“t
         - **English:** bequest
     - **Old English:** andcwiss — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌵𐌹𐍃𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ Vṛddhi gerundive of *fehaną (“to rejoice, be glad”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -99,7 +99,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
 
 - **Proto-Norse:** ᚠᚨᚺᛁ
 - **Gothic:** 𐌲𐌰𐍆𐌴𐌷𐌰𐌱𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

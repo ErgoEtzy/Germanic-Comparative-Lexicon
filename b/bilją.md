@@ -225,7 +225,3 @@ Alternatively, the West Germanic terms were borrowed from unattested Old Norse *
   - **Middle High German:** bīle — _n_
     - **German:** Bille — _f_
     - **German:** Beil — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

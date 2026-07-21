@@ -105,7 +105,3 @@ From *lataz (“late”) + *-āną.
     - **Middle High German:** lazzen
 - **Old Norse:** lata
   - **Icelandic:** lata
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

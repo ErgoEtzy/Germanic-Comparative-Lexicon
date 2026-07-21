@@ -101,7 +101,3 @@ Vṛddhi gerundive of *kweþaną (“to say”).
   - **Icelandic:** -kvæður
 - **Gothic:** *𐌵𐌴𐌸𐍃
   - **Gothic:** 𐌿𐌽𐌵𐌴𐌸𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

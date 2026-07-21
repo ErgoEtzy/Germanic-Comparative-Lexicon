@@ -110,7 +110,3 @@ Zero-grade variant of *hrinþaz, from Proto-Indo-European *ḱerh₂- (“summit
   - **Middle Dutch:** ront
     - **Dutch:** rund
       - **Afrikaans:** rund
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

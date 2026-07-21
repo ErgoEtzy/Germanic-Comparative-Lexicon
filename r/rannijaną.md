@@ -119,7 +119,3 @@ From *rinnaną + *-janą.
   - **Old Danish:** rænnæ
     - **Danish:** rende
 - **Gothic:** *𐍂𐌰𐌽𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -67,7 +67,3 @@ From Proto-Indo-European *dʰel(h₂)- (“curvature, hollow, bend”).
       - **German:** Tülle
         - **German Low German:** Tüll — _borrowed; f_
         - **Saterland Frisian:** Tülle — _borrowed; f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

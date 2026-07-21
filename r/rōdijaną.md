@@ -96,7 +96,3 @@ Cognate with Proto-Slavic *raditi.
   - **Icelandic:** ræða
   - **Faroese:** røða
 - **Gothic:** 𐍂𐍉𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

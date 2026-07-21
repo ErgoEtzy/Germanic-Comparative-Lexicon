@@ -99,7 +99,3 @@ From *tahrą (“tear”) + *-janą.
     - **Middle High German:** zaheren
     - **Middle High German:** zeheren
 - **Gothic:** 𐍄𐌰𐌲𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

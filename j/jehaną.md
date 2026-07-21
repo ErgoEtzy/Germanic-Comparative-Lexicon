@@ -125,7 +125,3 @@ From Proto-Indo-European *yék-e-ti, from *yek- (“to speak”). Cognate with P
       - **German:** jehen
     - **Middle High German:** gëhen
       - **German:** jehen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

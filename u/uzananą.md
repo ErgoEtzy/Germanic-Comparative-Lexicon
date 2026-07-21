@@ -92,7 +92,3 @@ From *uz- + *ananą.
 ### Germanic descendants
 
 - **Gothic:** 𐌿𐌶𐌰𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

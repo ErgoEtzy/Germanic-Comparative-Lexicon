@@ -91,8 +91,4 @@ Derived from Proto-Indo-European *peh₂ḱ- (“to fasten, place”). Cognate w
 
 ### Germanic descendants
 
-No Germanic descendants are listed in this snapshot.
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+No Germanic descendants are listed.

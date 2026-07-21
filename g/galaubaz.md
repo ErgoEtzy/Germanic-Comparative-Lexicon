@@ -104,7 +104,3 @@ From *ga- + *laubaz, with the latter derived from *leubaz (“dear, beloved”).
   - **Old English:** unġelēaf — _reshaped by analogy or addition of morphemes_
   - **Old High German:** giloub
 - **Gothic:** 𐌲𐌰𐌻𐌰𐌿𐍆𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

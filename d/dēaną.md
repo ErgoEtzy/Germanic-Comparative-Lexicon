@@ -95,7 +95,3 @@ From Proto-Indo-European *dʰeh₁(y)- (“to suckle, nurse”). Cognate with La
   - **Low German:** däirn
 - **Old High German:** tāen
   - **Middle High German:** tāen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

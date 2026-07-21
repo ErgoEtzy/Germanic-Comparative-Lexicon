@@ -101,7 +101,3 @@ Vṛddhi gerundive of *helaną (“to conceal”).
 - **Old High German:** hāli
   - **Middle High German:** hæl
   - **Middle High German:** hæle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

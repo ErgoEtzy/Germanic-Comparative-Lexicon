@@ -85,7 +85,3 @@ Alternatively reconstructed as *sōel (< *sōwel) ~ *suniz, from Proto-Indo-Euro
   - **Scots:** sul — _borrowed_
   - **Scots:** sool — _borrowed_
 - **Gothic:** 𐍃𐌰𐌿𐌹𐌻 — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

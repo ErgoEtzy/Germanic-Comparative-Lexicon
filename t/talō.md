@@ -124,7 +124,3 @@ As if from Proto-Indo-European *dolH-éh₂, from the root *del(H)- (“to draw,
   - **Old Swedish:** tala
     - **Swedish:** tala
   - **Danish:** tale
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

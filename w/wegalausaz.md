@@ -115,7 +115,3 @@ From *wegaz (“way, road”) + *-lausaz.
   - **Norwegian Bokmål:** veiløs
   - **Norwegian Bokmål:** vegløs
   - **Swedish:** väglös
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

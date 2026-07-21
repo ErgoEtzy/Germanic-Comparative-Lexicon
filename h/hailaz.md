@@ -222,7 +222,3 @@ Probably of similar derivation to the above. Per Matasovic, potentially related 
       - **German:** Heil
 - **Old Norse:** heill
   - **Icelandic:** heill
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

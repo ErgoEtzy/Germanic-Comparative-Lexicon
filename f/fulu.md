@@ -39,7 +39,3 @@ Like *felu, originally the neuter singular form of older *fuluz (“many”), fr
     - **West Frisian:** folle
   - **Old High German:** fulu — _inherited; uncertain_
   - **Old High German:** folo — _inherited; uncertain; potentially scribal errors_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

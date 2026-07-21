@@ -100,7 +100,3 @@ From Proto-Indo-European *ǵnibʰ-néh₂-ti, an iterative verb from Proto-Indo-
   - **Old Dutch:** *cnippon
     - **Middle Dutch:** knippen
       - **Dutch:** knippen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

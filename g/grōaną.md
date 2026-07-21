@@ -135,7 +135,3 @@ From Proto-Indo-European *gʰreh₁- (“to become green, grow”).
   - **Old Swedish:** grōa
     - **Swedish:** gro
   - **Danish:** gro
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

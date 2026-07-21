@@ -174,7 +174,3 @@ From Proto-Indo-European *oḱtowós, from *oḱtṓw. An ordinal to *ahtōu (�
     - **Old Danish:** atændæ
       - **Danish:** ottende
 - **Gothic:** 𐌰𐌷𐍄𐌿𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

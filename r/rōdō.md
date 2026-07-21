@@ -90,7 +90,3 @@ Uncertain; possibly from Proto-Indo-European *reh₁t- (“post”).
   - **Icelandic:** róða
   - **Norwegian Bokmål:** rode
   - **Danish:** rode
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -67,7 +67,3 @@ From Proto-Indo-European *preḱ- (“to ask”).
       - **Hunsrik:** Froh
       - **Luxembourgish:** Fro
       - **Vilamovian:** frög
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

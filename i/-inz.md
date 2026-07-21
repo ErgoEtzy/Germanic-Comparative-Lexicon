@@ -55,7 +55,3 @@ From Proto-Indo-European *-ims (i-stem accusative plural), from *-is (i-stem suf
   - **Old Danish:** -æ
   - **Old Danish:** -e
 - **Gothic:** -𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

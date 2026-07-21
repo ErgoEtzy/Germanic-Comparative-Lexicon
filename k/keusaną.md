@@ -301,7 +301,3 @@ From *ǵews- (“to taste, try”). According to Kim, this was originally the su
     - **Swedish:** tjusa
   - **Danish:** kyse
 - **Gothic:** 𐌺𐌹𐌿𐍃𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

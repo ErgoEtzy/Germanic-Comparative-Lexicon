@@ -109,7 +109,3 @@ From *faganaz (“glad”) + *-ōną.
   - **Swedish:** fägna
   - **Old Danish:** fagne
 - **Gothic:** 𐍆𐌰𐌲𐌹𐌽𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

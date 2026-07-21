@@ -119,7 +119,3 @@ From Proto-Indo-European *(s)ten- (“to thunder, rustle, rumble, drone, groan�
   - **Old High German:** *stunōn
     - **Middle High German:** stunen
     - **Middle High German:** stunden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

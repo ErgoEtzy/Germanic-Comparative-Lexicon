@@ -102,7 +102,3 @@ From Proto-Indo-European *ǵʰreh₁u-, *ǵʰreh₁- (“to dawn, shine”). Cog
   - **Elfdalian:** gry
   - **Gutnish:** grya
   - **Faroese:** gliggja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

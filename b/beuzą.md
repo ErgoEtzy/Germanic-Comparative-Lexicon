@@ -329,7 +329,3 @@ Alternatively reconstructed by Kroonen as *beurą, a dissimilation of earlier *b
   - **Swedish:** bjor
   - **Swedish:** bör — _dialectal_
   - **Old Danish:** ber
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

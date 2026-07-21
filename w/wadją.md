@@ -163,7 +163,3 @@ From Proto-Indo-European *wodʰ-yo-m, from *wedʰ- (“to bind”).
     - **Old Swedish:** væþ
       - **Swedish:** vad
 - **Gothic:** 𐍅𐌰𐌳𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -94,7 +94,3 @@ From *mikilaz (“great”) + *-janą.
 - **Proto-West Germanic:** *mikilijan
   - **Old Saxon:** mikilian
 - **Gothic:** 𐌼𐌹𐌺𐌹𐌻𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -94,7 +94,3 @@ From Pre-Germanic *kuk-néh₂-, a zero-grade iterative to Proto-Indo-European *
 - **German:** hocken
 - **Old Norse:** hoka
   - **Icelandic:** hoka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

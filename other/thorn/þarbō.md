@@ -75,7 +75,3 @@ From Proto-Indo-European *torp-éh₂, from *terp- (“to satisfy; to need”). 
     - **Old Danish:** tharf
       - **Danish:** tarv — _c or n_
 - **Gothic:** 𐌸𐌰𐍂𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

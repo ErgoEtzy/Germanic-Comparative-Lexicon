@@ -144,7 +144,3 @@ Unclear. Traditionally derived from Proto-Indo-European *lew-t-, an extension of
   - **Icelandic:** ljóð — _n_
   - **Faroese:** ljóð — _n_
 - **Gothic:** 𐌻𐌹𐌿𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

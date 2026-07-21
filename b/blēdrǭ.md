@@ -93,7 +93,3 @@ From Pre-Germanic *bʰleh₁tréh₂(n) or *bʰleh₁dʰreh₂(n), instrumental 
   - **Old Swedish:** blædhra
     - **Swedish:** bläddra
   - **Danish:** blære
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

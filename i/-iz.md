@@ -126,7 +126,3 @@ From the zero-grade *-is- of Proto-Indo-European *-yes-, back-formed from weak i
   - **Old English:** -e
 - **Proto-Norse:** -ᛁᛉ
   - **Old Norse:** -r — _fossilized; with i-umlaut_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

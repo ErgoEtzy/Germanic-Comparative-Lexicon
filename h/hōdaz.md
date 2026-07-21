@@ -94,7 +94,3 @@ Traditionally derived from Proto-Indo-European *kadʰ- (“to cover, protect”)
       - **Cimbrian:** huut — _Sette Comuni_
       - **German:** Hut
       - **Luxembourgish:** Hutt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

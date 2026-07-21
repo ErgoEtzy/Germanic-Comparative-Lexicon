@@ -107,7 +107,3 @@ From *hulþaz (“inclined, favourable”) + *-janą or *hulþô (“friend, tru
   - **Icelandic:** hylla
   - **Swedish:** hylla
   - **Danish:** hylde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

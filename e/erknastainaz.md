@@ -54,7 +54,3 @@ From *erknaz (“holy, genuine, precious”) + *stainaz (“stone”).
   - **English:** arkenstone — _borrowed_
 - **Old Norse:** jarknasteinn
   - **Icelandic:** jarknasteinn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

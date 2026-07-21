@@ -132,7 +132,3 @@ From Proto-Indo-European *(s)mer- (â€œto fall into thought, remember, care forâ€
         - **Afrikaans:** mymer
       - **Dutch:** mimmeren
         - **Afrikaans:** mymer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

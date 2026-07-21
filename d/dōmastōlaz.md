@@ -56,7 +56,3 @@ From *dōmaz (“judgment”) + *stōlaz (“chair”).
     - **Norwegian Bokmål:** domstol
     - **Norwegian Nynorsk:** domstol
   - **Swedish:** domstol
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

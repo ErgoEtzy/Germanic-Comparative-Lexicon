@@ -107,7 +107,3 @@ From Proto-Indo-European *gʰlend- (“to look, shine”), related to Proto-Slav
   - **Middle English:** glenten — _borrowed_
     - **English:** glint
     - **Scots:** glint
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

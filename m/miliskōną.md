@@ -95,7 +95,3 @@ From *miliskaz (“honeyed”) + *-ōną.
   - **Old English:** milscian
   - **Old English:** miliscian
 - **Old Norse:** milska
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -115,7 +115,3 @@ From Proto-Indo-European *do (“to”). Cognate with Russian до (do, “to”
     - **East Central German:** ze
     - **East Franconian:** ze
     - **German:** zu
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

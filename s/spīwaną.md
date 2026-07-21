@@ -311,7 +311,3 @@ From Proto-Indo-European *(s)ptēiw-, *(s)ptyēw- (“to spit, vomit”). Cognat
   - **Scanian:** spý
   - **Scanian:** spí
 - **Gothic:** 𐍃𐍀𐌴𐌹𐍅𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

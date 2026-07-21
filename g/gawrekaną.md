@@ -98,7 +98,3 @@ From *ga- + *wrekaną.
     - **Old High German:** girih — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** girich
 - **Gothic:** 𐌲𐌰𐍅𐍂𐌹𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

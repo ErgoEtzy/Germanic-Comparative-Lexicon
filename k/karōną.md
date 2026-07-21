@@ -105,7 +105,3 @@ From *karō (“complaint, lament, worry”) + *-ōną.
     - **Middle High German:** karen
     - **Middle High German:** karn
 - **Gothic:** 𐌺𐌰𐍂𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

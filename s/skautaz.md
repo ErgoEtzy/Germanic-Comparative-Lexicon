@@ -145,7 +145,3 @@ Possibly from Proto-Indo-European *(s)kewd- (“to throw, shoot, pursue, rush”
   - **Danish:** skød
   - **Danish:** skøde
 - **Gothic:** 𐍃𐌺𐌰𐌿𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

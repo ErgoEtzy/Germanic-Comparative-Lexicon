@@ -98,7 +98,3 @@ From *hōlą (“vain speech, flattery, slander”) + *-janą.
 - **Old Norse:** hœla
   - **Icelandic:** hæla
   - **Norwegian:** høla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

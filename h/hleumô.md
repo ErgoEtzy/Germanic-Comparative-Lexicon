@@ -46,7 +46,3 @@ From Proto-Indo-European *ḱléwmn̥ (“hearing”), from *ḱlew- (“to hear
 ### Germanic descendants
 
 - **Gothic:** 𐌷𐌻𐌹𐌿𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

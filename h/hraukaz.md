@@ -110,7 +110,3 @@ Unknown; but apparently cognate with Lithuanian kruvà, krûvà (“pile, heap, 
     - **Scots:** rowke
     - **Scots:** rouk
     - **Scots:** rook
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -64,7 +64,3 @@ From the zero-grade of *dreuganą + *-þiz. Compare Proto-Slavic *drȗgъ (“co
 - **Gothic:** *𐌳𐍂𐌰𐌿𐌷𐍄𐍃
 - **Gothic:** 𐌲𐌰𐌳𐍂𐌰𐌿𐌷𐍄𐍃
 - **Gothic:** 𐌳𐍂𐌰𐌿𐌷𐍄𐌹𐌽𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

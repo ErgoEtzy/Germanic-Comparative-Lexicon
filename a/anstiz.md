@@ -73,7 +73,3 @@ From *unnaną (“to grant, bestow”) + *-þiz, with intrusive *-s- after nasal
   - **Danish:** ast — _borrowed_
   - **Swedish:** ast — _borrowed_
 - **Gothic:** 𐌰𐌽𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

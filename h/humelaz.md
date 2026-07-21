@@ -55,7 +55,3 @@ From Proto-Indo-European *km̥H-el-os (“bumblebee”), probably onomatopoeic f
   - **Norwegian Nynorsk:** humle
   - **Old Swedish:** humbla
     - **Swedish:** humla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

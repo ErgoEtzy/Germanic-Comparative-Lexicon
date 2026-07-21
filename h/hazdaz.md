@@ -58,7 +58,3 @@ From Proto-Indo-European *kes- (“to card; comb”).
 - **Old Norse:** haddr
   - **Icelandic:** haddur
   - **Swedish:** hadd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

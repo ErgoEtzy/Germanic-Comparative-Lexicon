@@ -50,7 +50,3 @@ From *geldaną + *-þrą.
   - **Old High German:** gelstar
     - **Middle High German:** gelsterkorn — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐌹𐌻𐍃𐍄𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

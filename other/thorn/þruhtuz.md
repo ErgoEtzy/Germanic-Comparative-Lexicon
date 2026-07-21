@@ -52,7 +52,3 @@ From Proto-Indo-European *treg- (“firm, fast”), from Proto-Indo-European *(s
   - **Icelandic:** þróttur
   - **Icelandic:** íþrótt — _reshaped by analogy or addition of morphemes_
   - **Old Swedish:** īþrǣt — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

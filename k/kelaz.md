@@ -78,7 +78,3 @@ From Proto-Indo-European *gel-, *gʷel- (“to swallow; throat”).
 - **Old High German:** kelura
 - **Old High German:** keluro
 - **Old High German:** keloro
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

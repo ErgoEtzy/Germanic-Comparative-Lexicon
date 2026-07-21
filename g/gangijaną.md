@@ -97,7 +97,3 @@ From *ganganą + *-janą.
     - **Old High German:** zigengen — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** zergengen
 - **Gothic:** 𐌲𐌰𐌲𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

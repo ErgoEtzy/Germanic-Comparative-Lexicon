@@ -190,7 +190,3 @@ Of uncertain origin; perhaps related to *kulbaz (“round object, lump; club, st
     - **Scots:** cauf
     - **Scots:** cauve
     - **Scots:** cawve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

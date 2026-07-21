@@ -119,7 +119,3 @@ From Proto-Indo-European *Hréh₁dʰos, from *Hreh₁dʰ- (“to think, arrange
     - **Gothic:** 𐌲𐌰𐍂𐌴𐌳𐌰𐌱𐌰 — _reshaped by analogy or addition of morphemes_
     - **Gothic:** 𐍅𐌹𐌻𐌾𐌰𐍂𐌹𐌸 — _reshaped by analogy or addition of morphemes_
   - **Vandalic:** *rith
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

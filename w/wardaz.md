@@ -233,7 +233,3 @@ From Proto-Indo-European *wor-tós, *wor-tús, from the root *wer- (“to watch,
       - **German:** Wart
 - **Old Norse:** varðr
 - **Gothic:** *𐍅𐌰𐍂𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

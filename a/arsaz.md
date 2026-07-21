@@ -174,7 +174,3 @@ From Proto-Indo-European *h₁órs-o-s (“rear-end”). Compare Ancient Greek �
     - **Faroese:** rassur
     - **Norwegian Bokmål:** rass
     - **Norwegian Nynorsk:** rass
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

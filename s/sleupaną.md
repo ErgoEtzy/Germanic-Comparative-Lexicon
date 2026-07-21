@@ -171,7 +171,3 @@ However, de Vaan reconstructs the root as coming from earlier forms *sleuppaną 
       - **German:** schliefen — _archaic; displaced by schlüpfen < *sluppjan_
       - **Luxembourgish:** schlaufen
 - **Gothic:** 𐍃𐌻𐌹𐌿𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -98,7 +98,3 @@ Pokorny derived this from Proto-Indo-European *krey- (“to streak; graze; touch
       - **German:** Reif
     - **Middle High German:** rīf
       - **German:** Reif
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

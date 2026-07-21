@@ -49,7 +49,3 @@ Derived from *frawerþaną (“to perish”). Equivalent to *fra- + *wurdiz.
 - **Old English:** forwird
 - **Old High German:** farwurt
 - **Old High German:** firwurt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

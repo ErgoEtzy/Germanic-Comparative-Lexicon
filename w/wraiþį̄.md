@@ -83,7 +83,3 @@ From *wraiþaz (“wrathful, hostile”) + *-į̄.
     - **Swedish:** vrede
   - **Old Danish:** wrethæ
     - **Danish:** vrede
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -167,7 +167,3 @@ From Proto-Indo-European *gʷʰédʰyeti, from *gʷʰedʰ- (“to ask for; besee
     - **Norwegian Bokmål:** bede
     - **Norwegian Bokmål:** be
 - **Gothic:** 𐌱𐌹𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

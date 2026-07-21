@@ -95,7 +95,3 @@ From *andageldaną (“to pay for, repay”) + *-janą.
 - **Proto-West Germanic:** *andagaldijan
   - **Old Saxon:** andgeldian
   - **Old High German:** intgelten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

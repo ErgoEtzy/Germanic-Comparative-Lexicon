@@ -159,7 +159,3 @@ From Proto-Indo-European *prustós (“frost”), from the root *prews- (“to f
   - **Old Swedish:** frost
     - **Swedish:** frost
   - **Danish:** frost
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

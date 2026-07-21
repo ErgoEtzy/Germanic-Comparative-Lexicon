@@ -182,7 +182,3 @@ From *maltą (“malt”) + *-janą.
       - **German:** mälzen
 - **Old Norse:** melta
   - **Icelandic:** melta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

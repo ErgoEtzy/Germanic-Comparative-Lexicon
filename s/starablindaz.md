@@ -123,7 +123,3 @@ From *staraz (“stiff”) + *blindaz (“blind”).
   - **Old Danish:** stærblind
     - **Danish:** starblind
       - **Norwegian Bokmål:** starblind — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

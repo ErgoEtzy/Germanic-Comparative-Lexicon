@@ -93,7 +93,3 @@ From Proto-Indo-European *(s)kewH- (“to cover, mask, hide, conceal”).
   - **Old Swedish:** skūm
     - **Swedish:** skum
   - **Danish:** skum
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

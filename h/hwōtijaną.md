@@ -100,7 +100,3 @@ Both contributing terms derive ultimately from the same root.
   - **Swedish:** höta
   - **Danish:** høde
 - **Gothic:** 𐍈𐍉𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

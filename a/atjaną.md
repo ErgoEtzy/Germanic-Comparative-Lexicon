@@ -244,7 +244,3 @@ From *etaną + *-janą (causative suffix). Diachronically, perhaps from Proto-In
   - **Faroese:** etja
   - **Icelandic:** etja
 - **Gothic:** 𐍆𐍂𐌰𐌰𐍄𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

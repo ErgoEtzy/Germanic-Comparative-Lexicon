@@ -27259,7 +27259,3 @@ From Proto-Indo-European *h₁érteh₂ (“earth”). Related to *erwǭ (“san
     - **Old Gutnish:** iorþ
       - **Gutnish:** jård
 - **Gothic:** 𐌰𐌹𐍂𐌸𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

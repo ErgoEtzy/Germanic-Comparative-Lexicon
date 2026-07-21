@@ -112,7 +112,3 @@ From Proto-Indo-European *(s)teyg- (“to be sharp, to stab, to goad, to punctur
       - **German:** stechen
       - **Luxembourgish:** stiechen
       - **Yiddish:** שטעכן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

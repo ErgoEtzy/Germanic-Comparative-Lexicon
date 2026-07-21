@@ -506,7 +506,3 @@ From Pre-Germanic *bʰleh₁wos, from Proto-Indo-European *bʰleh₁- (“blue, 
   - **Middle English:** bloo — _borrowed_
     - **Scots:** blae
     - **Scots:** bla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

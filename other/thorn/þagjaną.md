@@ -190,7 +190,3 @@ Iterative-intensive formation derived from *þigjaną.
 - **Proto-West Germanic:** *þagjan
   - **Old English:** þeċġan
   - **Old English:** āþeċġan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

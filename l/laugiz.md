@@ -81,7 +81,3 @@ Probably from pre-Germanic *lowkís, from Proto-Indo-European *lewk- (“to shin
     - **Old Gutnish:** *lukʀ — _inherited; uncertain; compare Proto-Germanic *lugô (“flame”); Latin lux (“light”)_
       - **Gutnish:** lukarr
         - **Swedish:** lukarr — _dialectal; borrowed; Southern Gotland_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

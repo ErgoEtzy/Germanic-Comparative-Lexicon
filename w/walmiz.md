@@ -104,7 +104,3 @@ From Proto-Indo-European *welH- (“to turn; wind; roll”).
 - **Old Norse:** *walmuz
   - **Old Danish:** valm
   - **Old Danish:** volm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -116,7 +116,3 @@ From Proto-Indo-European *leyh₂- (“to avoid, elude, decline, shrink away fro
   - **Swedish:** linna
   - **Danish:** linne
 - **Gothic:** *𐌻𐌹𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

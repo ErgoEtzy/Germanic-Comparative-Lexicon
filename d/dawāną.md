@@ -89,7 +89,3 @@ Kroonen considers the word to be from Proto-Indo-European *dʰh̥₂w-eh₁-, fr
 
 - **Old Norse:** dá
   - **Icelandic:** dá
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

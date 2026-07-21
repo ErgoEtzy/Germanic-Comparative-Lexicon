@@ -163,7 +163,3 @@ Perhaps from pre-Germanic *brod-nú-, from Proto-Indo-European *bred- (“to wan
   - **Norwegian Bokmål:** prette
   - **Scots:** prettikin — _borrowed_
   - **Scots:** prattick — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

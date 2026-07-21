@@ -94,7 +94,3 @@ Likely from pre-Germanic *h₁rh̥́₁p-(y)e-, from Proto-Indo-European *h₁re
 - **Old English:** *rafan
   - **Old English:** *berafan — _reshaped by analogy or addition of morphemes_
   - **(attested once as:** berōfon — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

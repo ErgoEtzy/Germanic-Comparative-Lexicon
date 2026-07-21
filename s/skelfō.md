@@ -176,7 +176,3 @@ From Proto-Indo-European *(s)kel(H)-p-, from *(s)kelH- (“to cut, split, divide
   - **Swedish:** skälf
   - **Swedish:** skiälf
   - **Old Norse:** Hliðskjǫlf — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -94,7 +94,3 @@ From *anþą (“breath”) + *-janą.
 - **Proto-West Germanic:** *anþijan
   - **Old English:** ēþian
   - **Old English:** ōþian
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

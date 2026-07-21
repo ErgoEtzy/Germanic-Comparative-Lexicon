@@ -50,7 +50,3 @@ From Proto-Indo-European *gong- (“mockery, derision”).
   - **Old English:** canc
     - **Middle English:** cang
     - **Middle English:** chang
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

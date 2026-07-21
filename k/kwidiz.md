@@ -50,7 +50,3 @@ From pre-Germanic *gʷetís, an i-stem derived from *kweþaną (“to say, speak
 - **Old High German:** quiti
 - **Old Norse:** kviðr
   - **Icelandic:** kviður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

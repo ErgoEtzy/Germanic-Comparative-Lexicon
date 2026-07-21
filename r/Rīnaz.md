@@ -68,7 +68,3 @@ Ultimately from Proto-Celtic *reinos (“river, waterway”). The vowel excludes
   - **Norwegian:** Rhinen
   - **Swedish:** Rhen
   - **Danish:** Rhinen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

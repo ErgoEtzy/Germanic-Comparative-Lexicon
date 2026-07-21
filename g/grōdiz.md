@@ -65,7 +65,3 @@ From *grōaną (“to grow”) + *-þiz.
   - **Faroese:** grøði
   - **Danish:** grøde
   - **Swedish:** gröda
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

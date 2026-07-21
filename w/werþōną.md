@@ -102,7 +102,3 @@ Derived from *werþaz (“worthy, valuable”) + *-ōną or *werþą (“worth, 
 - **Old High German:** werdōn
 - **Old Norse:** verða
 - **Gothic:** 𐍅𐌰𐌹𐍂𐌸𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

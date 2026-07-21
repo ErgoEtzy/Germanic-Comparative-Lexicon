@@ -29,7 +29,3 @@ From Proto-Indo-European *per(i) (“through, across”), from *per-.
 - **Old English:** fyr-
 - **Old High German:** firi-
 - **Gothic:** 𐍆𐌰𐌹𐍂-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

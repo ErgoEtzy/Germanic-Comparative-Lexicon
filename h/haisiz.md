@@ -435,7 +435,3 @@ From earlier *haissiz, from Proto-Indo-European *kóyd-ti-s (“act of calling�
     - **German:** Geheiß
   - **Middle High German:** beheiz
     - **German:** Geheiß
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

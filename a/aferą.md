@@ -130,7 +130,3 @@ From pre-Germanic *h₂ép-erom, accusative/allative to an adjective *h₂ép-er
 - **Old Norse:** aur-
   - **Old Norse:** aurfalr — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌰𐍆𐌰𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

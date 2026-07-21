@@ -236,7 +236,3 @@ Of uncertain origin. Orel tentatively connects the word to the "ring, circle" of
   - **Old English:** hring
     - **Middle English:** *ring
       - **English:** ring
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

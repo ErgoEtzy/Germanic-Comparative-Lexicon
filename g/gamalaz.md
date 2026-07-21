@@ -136,7 +136,3 @@ Uncertain with multiple theories:
     - **Norwegian Bokmål:** gammel
   - **Gutnish:** gammel
   - **Gutnish:** gamal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

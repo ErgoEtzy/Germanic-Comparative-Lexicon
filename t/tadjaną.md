@@ -110,7 +110,3 @@ From *tadą (“that which is strewn, droppings, dung”) + *-janą.
   - **Icelandic:** teðja
   - **Middle English:** tathen — _borrowed_
     - **English:** tath
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

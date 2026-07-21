@@ -136,7 +136,3 @@ From Proto-Indo-European *plewd- (“to flow, run”).
     - **Danish:** flyde
       - **Norwegian Bokmål:** flyte
   - **Gutnish:** flauta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

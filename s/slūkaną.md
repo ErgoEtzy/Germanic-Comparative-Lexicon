@@ -104,7 +104,3 @@ Cognate with Old Irish sluccim (“to swallow”) and Ancient Greek λύζω (l�
   - **Old Dutch:** *slūhan
     - **Middle Dutch:** slūchen
       - **German:** schlauchen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

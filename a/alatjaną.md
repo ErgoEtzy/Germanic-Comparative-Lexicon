@@ -103,7 +103,3 @@ From *alaną (“to drive, move”) + *-atjaną.
     - **Middle English:** elten — _borrowed_
       - **Scots:** elt
       - **English:** elt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

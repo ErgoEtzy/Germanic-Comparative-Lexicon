@@ -66,7 +66,3 @@ Sometimes considered a derivative of *bardaz (“beard”), as if meaning “bea
       - **German:** Barte
 - **Old Norse:** barða
   - **Icelandic:** barða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

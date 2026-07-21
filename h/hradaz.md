@@ -228,7 +228,3 @@ Formerly derived from Proto-Indo-European *kerd- (compare Ancient Greek κραδ
   - **Old Danish:** rath
   - **Old Swedish:** radher
     - **Swedish:** rad
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

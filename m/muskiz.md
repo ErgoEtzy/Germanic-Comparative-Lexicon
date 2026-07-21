@@ -50,7 +50,3 @@ From *muskaz (“moisture”), from Proto-Indo-European *mews-, *mūs- (“moist
 - **Old Norse:** *muskr
   - **Norwegian:** musk
   - **Danish:** musk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

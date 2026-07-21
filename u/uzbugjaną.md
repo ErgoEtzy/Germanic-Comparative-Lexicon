@@ -91,7 +91,3 @@ From *uz- + *bugjaną.
   - **Middle English:** abyen
     - **English:** aby
 - **Gothic:** 𐌿𐍃𐌱𐌿𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

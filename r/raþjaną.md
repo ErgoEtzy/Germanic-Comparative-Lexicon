@@ -92,7 +92,3 @@ From pre-Germanic *h₂rh̥́₁-t-(y)e-, from Proto-Indo-European *h₂reh₁-.
 ### Germanic descendants
 
 - **Gothic:** 𐌲𐌰𐍂𐌰𐌸𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

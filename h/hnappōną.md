@@ -109,7 +109,3 @@ From Pre-Germanic *knobʰnéh₂-, an o-grade iterative to Proto-Indo-European *
     - **Norwegian Bokmål:** nappe
   - **Old Swedish:** nappa
     - **Swedish:** nappa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

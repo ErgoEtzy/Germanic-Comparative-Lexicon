@@ -99,7 +99,3 @@ From *gernaz (“eager, willing”) + *-janą.
   - **Icelandic:** girna
   - **Faroese:** girnast
 - **Gothic:** 𐌲𐌰𐌹𐍂𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

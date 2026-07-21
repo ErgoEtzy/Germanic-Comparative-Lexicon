@@ -56,7 +56,3 @@ From a Proto-Indo-European *gnewbʰ-o-s, from *gnewbʰ-, an extension of *gen- (
       - **German:** Knopf
 - **Old Norse:** 
   - **Norwegian:** knupp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

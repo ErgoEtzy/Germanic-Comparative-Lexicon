@@ -58,7 +58,3 @@ From Proto-Indo-European *ud-s- (“up, out”), from Proto-Indo-European *úd (
   - **Norwegian Bokmål:** ør-
   - **Norwegian Nynorsk:** ør-
 - **Gothic:** 𐌿𐍃-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

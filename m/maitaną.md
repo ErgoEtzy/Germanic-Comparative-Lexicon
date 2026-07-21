@@ -170,7 +170,3 @@ However, in view of the likely causative *maidijaną (“to hurt”) (see there 
   - **Danish:** meda
   - **Swedish:** meta
 - **Gothic:** 𐌼𐌰𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ Unknown. Perhaps derived from or related to *ba-, *bō- (“father, older male r
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -77,7 +77,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
           - **Swedish:** boss — _borrowed_
         - **West Frisian:** baas — _borrowed_
       - **West Flemish:** baos
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

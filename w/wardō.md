@@ -88,7 +88,3 @@ Nominal formation related to *wardaz (“guard”).
   - **Norwegian Nynorsk:** vord
   - **Norwegian Nynorsk:** vørd
   - **Swedish:** vård
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

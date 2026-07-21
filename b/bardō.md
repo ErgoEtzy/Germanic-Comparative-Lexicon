@@ -49,7 +49,3 @@ Of uncertain origin; possibly from *bardaz (“edge, brim; beard”),, from earl
   - **Old High German:** barta
 - **Old Norse:** barða
   - **Icelandic:** barða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -79,7 +79,3 @@ From Proto-Indo-European *gewlos (“vessel; bowl”), from *gew- (“to bend; b
       - **German:** Kiel
 - **Old Norse:** kjóll
   - **Icelandic:** kjóll
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

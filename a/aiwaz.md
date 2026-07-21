@@ -366,7 +366,3 @@ From Proto-Indo-European *h₂óyu ~ *h₂yéws, reformed as a thematic (a-stem)
       - **English:** aye
 - **Gothic:** 𐌰𐌹𐍅𐍃
 - **Gothic:** 𐌰𐌹𐍅
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

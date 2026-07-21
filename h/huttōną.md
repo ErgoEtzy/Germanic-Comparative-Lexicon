@@ -98,7 +98,3 @@ From Pre-Germanic *kudnéh₂-, a zero-grade iterative to Proto-Indo-European *(
   - **German:** hutzen
 - **Norwegian:** hutta
 - **Norwegian:** hotta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

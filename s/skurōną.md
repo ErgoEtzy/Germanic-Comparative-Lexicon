@@ -107,7 +107,3 @@ From *skurō (“incision; tear; rift”) + *-ōną.
     - **Middle High German:** schōren
 - **Old Norse:** skora
   - **Icelandic:** skora
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ Uncertain. Kroonen rejects comparisons to Latin lamina (“thin sheet of metal�
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -57,7 +57,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Elfdalian:** lą̊s — _n_
   - **Danish:** lås — _c_
     - **Norwegian Bokmål:** lås — _m or n; neuter through dialectal Norwegian_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

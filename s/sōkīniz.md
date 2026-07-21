@@ -49,7 +49,3 @@ From *sōkijaną (“to seek”) + *-īniz.
 - **Old High German:** *suohhī
   - **German:** Suche
 - **Gothic:** 𐍃𐍉𐌺𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -107,7 +107,3 @@ From Proto-Indo-European *h₂erd- (“sharp point, stinger”). Cognate with Ol
     - **English:** ert
     - **English:** art
     - **Scots:** ert
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

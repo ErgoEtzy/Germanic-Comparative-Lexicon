@@ -100,7 +100,3 @@ From *þehs- (“to hew; hackle”), from Proto-Indo-European *teḱs- (“weapo
     - **Danish:** tængsel
     - **Danish:** tengsel
     - **Danish:** tingsel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

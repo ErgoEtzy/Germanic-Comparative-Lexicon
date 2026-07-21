@@ -49,7 +49,3 @@ From pre-Germanic *yugusíh₂, presumably a fossilized perfect participle meani
   - **Old English:** ġycer — _inherited; uncertain_
   - **Old English:** ġicer — _inherited; uncertain_
 - **Gothic:** 𐌾𐌿𐌺𐌿𐌶𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

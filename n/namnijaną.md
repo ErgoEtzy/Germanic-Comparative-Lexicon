@@ -191,7 +191,3 @@ From *namô + *-janą. Compare Ancient Greek ὀνομαίνω (onomaínō) for 
     - **Swedish:** nämna
   - **Danish:** nævne
 - **Gothic:** 𐌽𐌰𐌼𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

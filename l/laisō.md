@@ -53,7 +53,3 @@ From Proto-Indo-European *lóyseh₂. Cognate with Latin līra (“furrow”). P
       - **German:** Leise
         - **German:** Geleise — _reshaped by analogy or addition of morphemes_
         - **German:** Gleise — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

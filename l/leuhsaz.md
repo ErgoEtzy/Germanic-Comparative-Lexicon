@@ -107,7 +107,3 @@ From Proto-Indo-European *lewk-s-ós, a thematic derivative of *léwkos (“ligh
   - **Danish:** lys
     - **Norwegian Bokmål:** lys
       - **Norwegian Nynorsk:** lys — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

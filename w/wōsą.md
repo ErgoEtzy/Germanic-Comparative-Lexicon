@@ -69,7 +69,3 @@ Derived from Proto-Indo-European *wes- (“wet”). Cognate with Sanskrit वस
   - **Norwegian:** os
   - **Old Swedish:** ōs
     - **Swedish:** os
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

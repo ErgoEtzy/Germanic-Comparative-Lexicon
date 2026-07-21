@@ -53,7 +53,3 @@ From Proto-Indo-European *ǵenh₁- (“to beget”).
   - **Old High German:** *kuni
 - **Old Norse:** konr
   - **Icelandic:** konur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

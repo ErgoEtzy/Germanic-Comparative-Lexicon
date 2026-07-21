@@ -50,7 +50,3 @@ From Proto-Indo-European *krh₃-yo-s, from *kerh₃- (“to burn”), whence al
 
 - **Old Norse:** hyrr
   - **Icelandic:** hyr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

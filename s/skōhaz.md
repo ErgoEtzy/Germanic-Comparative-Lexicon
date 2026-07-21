@@ -221,7 +221,3 @@ Uncertain. Perhaps derived from *skehaną (“to move quickly”), from Proto-In
   - **Danish:** sko
     - **Norwegian Bokmål:** sko
 - **Gothic:** 𐍃𐌺𐍉𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

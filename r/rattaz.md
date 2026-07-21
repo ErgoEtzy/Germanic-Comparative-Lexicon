@@ -161,7 +161,3 @@ Kroonen notes that consonant variation is high in descendant languages, especial
       - **Luxembourgish:** Rat
       - **Vilamovian:** rot
       - **Vilamovian:** rott
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

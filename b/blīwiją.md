@@ -149,7 +149,3 @@ Older theories tentatively derived the word from *mleh₁y- (“to be weak, wear
   - **Scanian:** blý
   - **Elfdalian:** bly
   - **Gutnish:** blöi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -69,7 +69,3 @@ From Proto-Indo-European *h₁rep-.
   - **Faroese:** rævur
   - **Norwegian Nynorsk:** råv
   - **Norwegian Nynorsk:** ræve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

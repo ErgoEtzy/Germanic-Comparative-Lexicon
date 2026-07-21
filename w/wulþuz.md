@@ -53,7 +53,3 @@ From Pre-Germanic *wl̥tus, from Proto-Indo-European *wel- (“to see”) + *-tu
   - **Proto-Norse:** ᛟᚹᛚᚦᚢᚦᛖᚹᚨᛉ — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍅𐌿𐌻𐌸𐌿𐍃
 - **Vandalic:** *wulþ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

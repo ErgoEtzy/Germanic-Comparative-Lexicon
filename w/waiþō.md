@@ -86,7 +86,3 @@ From Proto-Indo-European *wóyh₁-teh₂, from *weyh₁- (“to chase, pursue, 
     - **Middle High German:** weide
       - **Alemannic German:** weidu
       - **German:** Weide
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

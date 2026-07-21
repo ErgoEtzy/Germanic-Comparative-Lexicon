@@ -52,7 +52,3 @@ According to Orel, from Proto-Indo-European *(s)kewH- (“to cover”), from whi
   - **Norwegian:** skjul
   - **Swedish:** skjul
   - **Danish:** skjul
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

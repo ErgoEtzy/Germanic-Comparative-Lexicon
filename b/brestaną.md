@@ -204,7 +204,3 @@ Uncertain, perhaps from a Proto-Indo-European *bʰres- (“to burst, break, crac
   - **Norwegian Bokmål:** briste
   - **Norwegian Nynorsk:** breste
   - **Danish:** briste
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

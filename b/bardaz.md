@@ -172,7 +172,3 @@ The change from a feminine first declension pattern to a masculine short a-stem 
   - **Swedish:** bard
   - **Swedish:** bård
 - **Crimean Gothic:** bars
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

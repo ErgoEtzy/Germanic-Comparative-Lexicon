@@ -1098,7 +1098,3 @@ From Proto-Indo-European *kapyéti, from the root *kap- (“to seize”), and th
     - **Norwegian Bokmål:** heve
       - **Norwegian Nynorsk:** heva — _borrowed_
 - **Gothic:** 𐌷𐌰𐍆𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

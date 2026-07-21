@@ -40,7 +40,3 @@ From earlier *milit, from Pre-Germanic *melid, from Proto-Indo-European *mélit 
 
 - **Proto-West Germanic:** *mili
 - **Gothic:** 𐌼𐌹𐌻𐌹𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -52,7 +52,3 @@ From Proto-Indo-European *per-.
   - **Icelandic:** Freyr
   - **Swedish:** Frej
   - **Swedish:** Frö-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

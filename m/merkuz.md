@@ -133,7 +133,3 @@ From earlier *merkwuz, from Proto-Indo-European *(h₂)mer(H)gʷ- (“dark”), 
   - **Swedish:** mörk
   - **Danish:** mørk
   - **Norwegian Bokmål:** mørk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

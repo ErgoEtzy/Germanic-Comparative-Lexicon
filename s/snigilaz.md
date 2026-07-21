@@ -65,7 +65,3 @@ From *sneganą (“to crawl, creeping”) + *-ilaz (agent suffix). Parallel form
       - **Norwegian Bokmål:** snegle
   - **Gutnish:** snegel
   - **Gutnish:** snigull
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

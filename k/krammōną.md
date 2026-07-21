@@ -101,7 +101,3 @@ An o-grade iterative verb from Proto-Indo-European *gromH-néh₂-ti, closely re
     - **Middle High German:** krammen
 - **Old Norse:** 
   - **Swedish:** krama — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

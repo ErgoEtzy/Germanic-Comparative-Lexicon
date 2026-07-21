@@ -130,7 +130,3 @@ An iterative verb to the strong verb *wrītaną (“to write”), perhaps from P
       - **West Frisian:** ritsje — _borrowed_
 - **Old Norse:** rita
   - **Faroese:** rita
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

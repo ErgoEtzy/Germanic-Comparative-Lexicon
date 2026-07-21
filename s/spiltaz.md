@@ -68,7 +68,3 @@ Unknown. It may or may not be cognate with Russian по́лба (pólba, “spel
   - **Icelandic:** speldi
 - **Old Norse:** *spiltō
   - **Icelandic:** speldi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

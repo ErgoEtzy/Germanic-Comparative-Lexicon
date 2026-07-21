@@ -179,7 +179,3 @@ From *deupaz (“deep”) + *-į̄.
     - **Icelandic:** dýpi
     - **Faroese:** dýpi
 - **Gothic:** 𐌳𐌹𐌿𐍀𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

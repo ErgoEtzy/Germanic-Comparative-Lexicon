@@ -169,7 +169,3 @@ From *ga- + *wissaz (past participle of *witaną).
     - **Swedish:** viss
   - **Danish:** vis
     - **Norwegian Bokmål:** viss
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

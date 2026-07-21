@@ -97,7 +97,3 @@ Inherited from Proto-Indo-European *km̥H-néh₂-ti, probably onomatopoeic from
     - **German:** hummen
     - **German:** hummeln
 - **Norwegian:** humre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

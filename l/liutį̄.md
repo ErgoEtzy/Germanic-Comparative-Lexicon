@@ -48,7 +48,3 @@ From *leutaz (“deceitful”) + *-į̄.
 - **Old Norse:** lýti
   - **Icelandic:** lýti
 - **Gothic:** 𐌻𐌹𐌿𐍄𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

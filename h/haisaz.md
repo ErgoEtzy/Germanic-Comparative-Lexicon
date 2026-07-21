@@ -390,7 +390,3 @@ Unknown. The forms in *-r- are difficult to explain; they may be from the additi
     - **Norwegian Bokmål:** hås
   - **Old Swedish:** hes
     - **Swedish:** hes
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

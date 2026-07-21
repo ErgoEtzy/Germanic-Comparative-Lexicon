@@ -132,7 +132,3 @@ From earlier *medjaz, from Proto-Indo-European *médʰyos (“middle”).
   - **Old Swedish:** miþer
     - **Swedish:** mid-
 - **Gothic:** 𐌼𐌹𐌳𐌾𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

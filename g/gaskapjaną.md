@@ -95,7 +95,3 @@ From *ga- + *skapjaną.
 - **Old Saxon:** giskeppian
 - **Old High German:** giscaffan
 - **Gothic:** 𐌲𐌰𐍃𐌺𐌰𐍀𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

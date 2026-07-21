@@ -124,7 +124,3 @@ From earlier *hnaskwuz, from Proto-Indo-European *knes- (“to scrape; scratch; 
     - **Middle Dutch:** nisch
       - **Dutch:** nes
 - **Gothic:** 𐌷𐌽𐌰𐍃𐌵𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

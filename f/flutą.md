@@ -77,7 +77,3 @@ From earlier *pludom, from Proto-Indo-European *plewd- (“to fly; flow; run”)
     - **Swedish:** flott
   - **Old Danish:** flot
     - **Danish:** flåd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -142,7 +142,3 @@ Possibly an n-stem derivative from either Proto-Indo-European *skey- (“to cut,
   - **English:** chine
 - **Middle English:** chyne — _borrowed_ — _through a non-Germanic route_
   - **English:** chine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -65,7 +65,3 @@ From Proto-Indo-European *tup-t-eh₂. Possibly related to Lithuanian tupė́ti 
     - **Norwegian Bokmål:** tofte
     - **Norwegian Nynorsk:** tofte
     - **Swedish:** toft
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

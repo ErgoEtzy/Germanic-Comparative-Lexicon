@@ -127,7 +127,3 @@ From Proto-Indo-European *leyt- (“to go, depart, die”). Cognate with Tochari
   - **Danish:** lide
   - **Scots:** lide — _borrowed_
 - **Gothic:** *𐌻𐌴𐌹𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

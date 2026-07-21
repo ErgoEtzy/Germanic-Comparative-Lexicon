@@ -81,7 +81,3 @@ Maybe derived from a tu-stem Proto-Indo-European *uH-tu-s from a root Proto-Indo
   - **Norwegian Nynorsk:** modve
   - **Old Swedish:** vaþve
     - **Swedish:** vad
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

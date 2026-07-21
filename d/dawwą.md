@@ -217,7 +217,3 @@ Uncertain; possibly from Proto-Indo-European *dʰowh₂-o-m, from Proto-Indo-Eur
   - **Norwegian Nynorsk:** dogg
   - **Swedish:** dagg
   - **Swedish:** dugg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

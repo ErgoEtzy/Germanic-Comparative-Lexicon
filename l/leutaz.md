@@ -109,7 +109,3 @@ From Proto-Indo-European *lewd- (“to duck, crouch, feign, cringe, become small
   - **Elfdalian:** liuot
   - **Elfdalian:** liuot-
 - **Gothic:** 𐌻𐌹𐌿𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

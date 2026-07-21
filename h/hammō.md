@@ -97,7 +97,3 @@ Uncertain. Perhaps from earlier *hanmō, from Proto-Indo-European *kónh₂méh�
   - **Norwegian Bokmål:** homme
   - **Swedish:** hamboge
   - **Danish:** hambugt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

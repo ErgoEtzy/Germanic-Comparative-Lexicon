@@ -234,7 +234,3 @@ From Proto-Indo-European *dʰrewgʰ- (“to hold fast; retain; support”).
       - **English:** dree
       - **English:** drudge
 - **Gothic:** 𐌳𐍂𐌹𐌿𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

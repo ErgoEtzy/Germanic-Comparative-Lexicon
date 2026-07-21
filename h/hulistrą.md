@@ -68,7 +68,3 @@ From *huljaną + *-strą.
             - **Norwegian Nynorsk:** hylster — _borrowed_
 - **Frankish:** *hulistar
 - **Gothic:** 𐌷𐌿𐌻𐌹𐍃𐍄𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

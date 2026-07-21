@@ -110,7 +110,3 @@ Close to the synonym *slingwaną, though with some formal difficulty. Presumably
   - **Gutnish:** slinke
   - **Gutnish:** slink'
   - **Gutnish:** slinka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

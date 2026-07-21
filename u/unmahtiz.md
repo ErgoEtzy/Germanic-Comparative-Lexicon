@@ -78,7 +78,3 @@ From *un- + *mahtiz.
 - **Old Norse:** ómáttr
   - **Icelandic:** ómáttur
 - **Gothic:** 𐌿𐌽𐌼𐌰𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

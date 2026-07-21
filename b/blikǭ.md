@@ -51,7 +51,3 @@ A nominal formation related to *bliką (“shine, look, metal”).
 - **Old Norse:** blika
   - **Icelandic:** blika
   - **Norwegian Bokmål:** blike
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -245,7 +245,3 @@ Appears to be from pre-Germanic *bʰóltos (“inflated, strong”), from Proto-
       - **Swedish:** ball — _Stockholm_
 - **Gothic:** *𐌱𐌰𐌻𐌸𐍃
   - **Gothic:** 𐌱𐌰𐌻𐌸𐌰𐌱𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

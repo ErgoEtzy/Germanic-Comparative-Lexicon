@@ -149,7 +149,3 @@ Conventionally from Proto-Indo-European *bʰerH-on-, from the root *bʰerH- (“
 - **Old Norse:** *beri
 - **Gothic:** *𐌱𐌰𐌹𐍂𐌰
 - **Vandalic:** *bera
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

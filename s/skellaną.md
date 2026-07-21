@@ -126,7 +126,3 @@ Cognate with Latvian skaļš (“loud; noisy”) and Russian скули́ть (s
     - **Swedish:** skälla
   - **Old Swedish:** *skalla — _inherited; uncertain_
     - **Swedish:** skalla — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

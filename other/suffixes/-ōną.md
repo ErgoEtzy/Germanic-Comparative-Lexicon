@@ -145,7 +145,3 @@ Note that Ringe (2017) reconstructs this suffix with a trimoraic vowel, *-ôną 
     - **Danish:** -e
       - **Norwegian Bokmål:** -e
 - **Gothic:** -𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

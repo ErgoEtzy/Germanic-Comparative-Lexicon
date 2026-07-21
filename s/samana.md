@@ -274,7 +274,3 @@ From Proto-Indo-European *sem- (“one, same”).
   - **Danish:** sammen
   - **Danish:** tilsammen
 - **Gothic:** 𐍃𐌰𐌼𐌰𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

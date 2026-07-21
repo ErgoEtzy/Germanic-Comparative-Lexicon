@@ -971,7 +971,3 @@ Uncertain. Often explained as derived from the Proto-Indo-European root *dʰegʷ
 - **Crimean Gothic:** tag
 - **Gothic:** 𐌳𐌰𐌲𐍃
 - **Vandalic:** *dag-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

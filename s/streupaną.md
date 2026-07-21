@@ -116,7 +116,3 @@ Older theories derived the term from Proto-Indo-European *strew-, *sterw-, *ster
     - **Norwegian Nynorsk:** strype
     - **Norwegian Nynorsk:** strypa
   - **Swedish:** strypa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

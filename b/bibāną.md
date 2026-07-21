@@ -630,7 +630,3 @@ From Proto-Indo-European *bʰe-bʰóyh₂-e ~ *bʰe-bʰih₂-ḗr, reduplicated 
   - **Old Norse:** bifr — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** bifur
     - **Swedish:** bäver — _archaic_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

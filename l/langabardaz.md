@@ -112,7 +112,3 @@ Proto-Germanic *langabardaz Compound of *langaz (“long”) + *bardaz (“beard
 - **Middle English:** Lombard — _borrowed_ — _through a non-Germanic route_
   - **English:** Lombard
 - **English:** Langobard — _learned borrowing; learned_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

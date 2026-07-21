@@ -120,7 +120,3 @@ From *kwikwaz (“alive”) + *-naną.
     - **Scots:** quikkin
     - **Scots:** quickin
 - **Gothic:** 𐌲𐌰𐌵𐌹𐌿𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -103,7 +103,3 @@ From Proto-Indo-European *welH- (“to turn, to wind”), most likely an o-grade
       - **German:** walzen
         - **Dutch:** walsen — _borrowed_
         - **English:** waltz — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

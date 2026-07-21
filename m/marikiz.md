@@ -113,7 +113,3 @@ From Proto-Indo-European *móri (“water, sea”).
   - **Middle High German:** *merk
     - **German:** Merk
 - **Old Norse:** merki
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

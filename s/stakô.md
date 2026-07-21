@@ -102,7 +102,3 @@ Older theories derived the word from a Proto-Indo-European *steg- (“pole, stic
   - **Old Danish:** staghe
     - **Danish:** stage
 - **Gothic:** *𐍃𐍄𐌰𐌺𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

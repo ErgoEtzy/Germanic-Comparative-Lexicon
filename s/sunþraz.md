@@ -194,7 +194,3 @@ From Proto-Indo-European *sh₂ún-teros, from *sóh₂w-l̥ ~ *sh₂w-én-s (�
     - **Norwegian Bokmål:** syd
   - **Gutnish:** sudar
   - **Gutnish:** sudur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

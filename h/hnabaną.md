@@ -92,7 +92,3 @@ From Proto-Indo-European *knebʰ-. Related to Lithuanian knabt and Latvian knāb
 ### Germanic descendants
 
 - **Old Norse:** hnafa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

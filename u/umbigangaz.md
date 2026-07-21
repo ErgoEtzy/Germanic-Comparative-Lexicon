@@ -88,7 +88,3 @@ Derived from *umbiganganą; equivalent to *umbi + *gangaz.
   - **Old Swedish:** umganger
     - **Swedish:** omgång
   - **Danish:** omgang
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

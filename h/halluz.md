@@ -14,7 +14,7 @@ Uncertain; possibly from Proto-Indo-European:
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -81,7 +81,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Scots:** hall — _borrowed; Shetlandish_
 - **Gothic:** 𐌷𐌰𐌻𐌻𐌿𐍃
 - **Crimean Gothic:** ael
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

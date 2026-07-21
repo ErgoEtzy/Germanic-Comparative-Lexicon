@@ -12,7 +12,7 @@ Unknown; likely borrowed from a substrate language, compare Ancient Greek βαί
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -63,7 +63,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
       - **Old English:** hoppāda — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍀𐌰𐌹𐌳𐌰
   - **Gothic:** 𐌲𐌰𐍀𐌰𐌹𐌳𐍉𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

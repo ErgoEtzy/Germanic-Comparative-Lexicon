@@ -116,7 +116,3 @@ Alternatively, from Proto-Indo-European *senh₂- (“to obtain”).
   - **Old High German:** sinnan
     - **Middle High German:** sinnen
       - **German:** sinnen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

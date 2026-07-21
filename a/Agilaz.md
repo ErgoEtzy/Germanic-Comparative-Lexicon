@@ -12,7 +12,7 @@ From the element *agaz (“fear; dread”) or *agjō (“edge, point ( of a weap
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -102,7 +102,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Danish:** Eghil
     - **Danish:** Eigil
     - **Danish:** Ejgil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

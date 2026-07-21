@@ -64,7 +64,3 @@ Traditionally derived from Proto-Indo-European *molko- (“leather pouch”) and
     - **Middle High German:** malhe
   - **Old High German:** malha
     - **Middle High German:** malhe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

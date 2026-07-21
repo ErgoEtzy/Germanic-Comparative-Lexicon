@@ -284,7 +284,3 @@ From *nēhwaz (“nigh, close by”) + *gabūrô (“dweller”) (see *būraz).
   - **Danish:** nabo
     - **Norwegian Bokmål:** nabo — _borrowed_
     - **Norwegian Nynorsk:** nabo — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

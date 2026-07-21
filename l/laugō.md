@@ -90,7 +90,3 @@ Derived from Proto-Indo-European *lewh₃- (“to wash”), perhaps via pre-Germ
     - **Danish:** løj
     - **Danish:** lørdag
     - **Danish:** Løgum
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

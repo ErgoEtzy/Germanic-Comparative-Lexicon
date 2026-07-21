@@ -161,7 +161,3 @@ From Proto-Indo-European *ploh₃tús (“overflow, deluge”), from the root *p
       - **Norwegian Bokmål:** flod — _f_
       - **Norwegian Bokmål:** flo — _f_
 - **Gothic:** 𐍆𐌻𐍉𐌳𐌿𐍃 — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

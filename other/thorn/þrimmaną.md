@@ -95,7 +95,3 @@ From Proto-Indo-European *trem- (“to tremble (in fear)”).
   - **Old Saxon:** thrimman
 - **Old Norse:** þramma
   - **Icelandic:** þramma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

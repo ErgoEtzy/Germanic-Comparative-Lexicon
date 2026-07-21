@@ -518,7 +518,3 @@ From Proto-Indo-European *peh₂- (“to protect, guard, graze, feed”) + *-dʰ
   - **Norwegian Nynorsk:** foder
   - **Swedish:** foder
 - **Gothic:** 𐍆𐍉𐌳𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

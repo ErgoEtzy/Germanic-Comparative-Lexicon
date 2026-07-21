@@ -58,7 +58,3 @@ From *skulaną + *-ô; a zero-grade agentive n-stem.
       - **Middle High German:** geschol
         - **Middle High German:** selpgeschol — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍃𐌺𐌿𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

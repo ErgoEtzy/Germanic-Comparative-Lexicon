@@ -49,7 +49,3 @@ From Pre-Germanic *sn̥tér or *sn̥Htér, from Proto-Indo-European *sen-, *senH
     - **Swedish:** sönder
   - **Danish:** sønder
     - **Norwegian Bokmål:** sønder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

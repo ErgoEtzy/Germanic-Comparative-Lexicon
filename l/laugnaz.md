@@ -109,7 +109,3 @@ From pre-Germanic *lowg-no-s, from Proto-Indo-European *h₂lewgʰ-.
   - **Swedish:** lönn-
   - **Danish:** løn
 - **Gothic:** 𐌰𐌽𐌰𐌻𐌰𐌿𐌲𐌽𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

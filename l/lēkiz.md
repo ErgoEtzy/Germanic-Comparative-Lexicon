@@ -124,7 +124,3 @@ Possible vṛddhi gerundive of otherwise unattested *lekaną (“to heal”), fr
 ### Germanic descendants
 
 - **Gothic:** *𐌻𐌴𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

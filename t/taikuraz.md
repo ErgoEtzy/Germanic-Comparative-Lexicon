@@ -53,7 +53,3 @@ From Proto-Indo-European *dayh₂ur-o-s, thematicized from *dayh₂wḗr ~ *dayh
   - **Old Frisian:** tāker
   - **Old High German:** zeihhur
     - **Middle High German:** zeicher
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

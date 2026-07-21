@@ -894,7 +894,3 @@ From Proto-Indo-European *merkʷ- (“to flicker, twinkle, darken”). Cognate w
   - **Gutnish:** mårgen
   - **Gutnish:** mårren
 - **Gothic:** 𐌼𐌰𐌿𐍂𐌲𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

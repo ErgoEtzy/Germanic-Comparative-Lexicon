@@ -53,7 +53,3 @@ From Proto-Indo-European *Hreth₂- (“to run”). Cognate with Latin rota (“
   - **Old Saxon:** radul
 - **Old Norse:** rǫðull
   - **Icelandic:** röðull
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

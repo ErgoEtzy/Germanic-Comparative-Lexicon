@@ -175,7 +175,3 @@ From Proto-Indo-European *kʷeh₂s- (“to cough”), equivalent to *hwōstô (
     - **Scots:** host
     - **Scots:** hoist
     - **English:** hoast
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

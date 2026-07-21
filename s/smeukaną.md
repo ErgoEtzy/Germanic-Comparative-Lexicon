@@ -138,7 +138,3 @@ From Proto-Indo-European *smewgʰ- (“smoke”), a term whose exact form is dif
     - **Middle High German:** smiechen
       - **German:** smiehen — _dialectal_
       - **Bavarian:** smiechen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

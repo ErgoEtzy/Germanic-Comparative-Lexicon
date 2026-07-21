@@ -59,7 +59,3 @@ From *nakwadaz + *-į̄.
   - **Icelandic:** nekt
   - **Faroese:** nekt
 - **Gothic:** 𐌽𐌰𐌵𐌰𐌳𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

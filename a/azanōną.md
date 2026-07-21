@@ -122,7 +122,3 @@ From *azaniz (“summer, harvest”) + *-ōną.
 - **Old Norse:** anna — _inherited; uncertain_
   - **Icelandic:** anna
   - **Norwegian Nynorsk:** anna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

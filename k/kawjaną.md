@@ -105,8 +105,4 @@ From Proto-Indo-European *gewH- (“to call, cry out”).
 - **Old Norse:** *kaukōną — _reshaped by analogy or addition of morphemes_
   - **Norwegian:** kauka
   - **Jamtish:** kauke
-  - **Helsingian:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+  - **Helsingian:**

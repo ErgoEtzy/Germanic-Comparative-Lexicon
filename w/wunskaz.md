@@ -63,7 +63,3 @@ A nominal formation from Proto-Indo-European *wnh₁-ske- (“to desire”), an 
       - **German:** Wunsch
 - **Old Norse:** ósk — _f_
   - **Icelandic:** ósk — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

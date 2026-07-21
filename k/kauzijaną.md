@@ -94,7 +94,3 @@ By surface analysis, *keusaną (“to choose”) + *-janą. Perhaps inherited fr
 - **Proto-West Germanic:** *kauʀijan
   - **Old Frisian:** kēra
 - **Gothic:** 𐌺𐌰𐌿𐍃𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

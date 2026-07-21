@@ -98,7 +98,3 @@ From Proto-Indo-European *strew- (“to spread around, strew”). Cognate with L
 - **Old Saxon:** gistriuni
 - **Old High German:** gistriuni
 - **Old High German:** kistriuni
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

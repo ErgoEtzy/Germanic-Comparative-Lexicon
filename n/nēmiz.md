@@ -118,7 +118,3 @@ Vṛddhi gerundive of *nemaną (“to take”).
   - **Old Swedish:** nǣmber
 - **Gothic:** *𐌽𐌴𐌼𐍃
   - **Gothic:** 𐌰𐌽𐌳𐌰𐌽𐌴𐌼𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -190,7 +190,3 @@ From Pre-Germanic *bʰloyǵ-os, from Proto-Indo-European *bʰleyǵ- (“to shine
     - **Scots:** blaiken
     - **English:** blake
     - **English:** bleak — _partly_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

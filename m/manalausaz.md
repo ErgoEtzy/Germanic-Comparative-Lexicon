@@ -112,7 +112,3 @@ From *mann- (“man”) + *-lausaz (“less”).
     - **German:** mannlos
 - **Old Norse:** mannlauss
   - **Icelandic:** mannlauss
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

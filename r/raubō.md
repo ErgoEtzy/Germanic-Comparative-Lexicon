@@ -65,7 +65,3 @@ From *reufaną (“to tear”), from Proto-Indo-European *Hrewp- (“to peel; te
     - **Norwegian Bokmål:** ræv
     - **Swedish:** röv
     - **Danish:** røv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

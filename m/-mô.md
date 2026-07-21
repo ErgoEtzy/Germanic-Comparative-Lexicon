@@ -61,7 +61,3 @@ From a conflation of Proto-Indo-European *-mō and *-mn̥.
 - **Gothic:** 
 - **Gothic:** -𐌼𐌰
 - **Gothic:** 𐌰𐌷𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -65,7 +65,3 @@ From Proto-Indo-European *kápros (“buck, male goat”). Cognate with Latin ca
   - **Old Norse:** hafr
     - **Icelandic:** hafur
     - **Faroese:** havur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

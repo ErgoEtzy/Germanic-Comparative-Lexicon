@@ -72,7 +72,3 @@ Possibly cognate with Proto-Slavic *oldi (“boat”), Lithuanian eldijà (“ho
       - **Swedish:** olla
       - **Swedish:** ålla
       - **Swedish:** ålle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

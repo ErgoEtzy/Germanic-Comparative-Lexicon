@@ -70,7 +70,3 @@ From Pre-Germanic *pl̥th₂éh₂, feminine form of the adjective "flat", from 
   - **Faroese:** fold
   - **Norwegian:** fold
   - **Norwegian:** foll
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

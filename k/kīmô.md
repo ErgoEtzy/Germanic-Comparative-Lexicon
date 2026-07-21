@@ -97,7 +97,3 @@ From Proto-Indo-European *ǵéyH-mon-, related to *kīnaną (“to split open, g
     - **Middle High German:** kīme
       - **German:** Keim
       - **Luxembourgish:** Kéng
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

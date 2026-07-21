@@ -280,7 +280,3 @@ Alinei also mentions the Latin plaumoratum (Pliny the Elder, Naturalis historia 
     - **English:** plough
   - **Middle English:** plow — _borrowed; partially_
     - **English:** plough
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

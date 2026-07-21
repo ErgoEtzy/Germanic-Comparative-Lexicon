@@ -99,7 +99,3 @@ From Proto-Indo-European *(H)rewH- (“to tear open”). See *rūmaz for more.
     - **Norwegian Bokmål:** rom
     - **Norwegian Nynorsk:** rom
 - **Gothic:** 𐍂𐌿𐌼 — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

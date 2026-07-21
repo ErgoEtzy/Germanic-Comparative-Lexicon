@@ -90,7 +90,3 @@ From Proto-Indo-European *h₁widʰ-u-s, and cognate with Proto-Celtic *widus (�
     - **Old Danish:** with
       - **Danish:** ved
         - **Norwegian Bokmål:** ved
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -221,7 +221,3 @@ From *bikjaną (“to thrust, attack”) (compare Old Norse bikkja (“plunge in
     - **Swedish:** argbigga — _inherited; uncertain_
   - **Old Danish:** bikke
   - **Scots:** bik — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -180,7 +180,3 @@ From pre-Germanic *kobʰnéh₂- an o-grade iterative to Proto-Indo-European *ko
 - **Old Norse:** *habba
   - **Swedish:** happa
   - **Swedish:** habba
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

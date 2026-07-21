@@ -141,7 +141,3 @@ From Proto-Indo-European *sengʷ- (“to sink, to drop”). Cognate with Old Arm
   - **Gutnish:** sjunke
   - **Gutnish:** sinke
 - **Gothic:** 𐍃𐌹𐌲𐌵𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

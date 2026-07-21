@@ -538,7 +538,3 @@ An alternate theory by Matasovic derives the root from a Proto-Indo-European *b�
       - **Scots:** breeg
         - **English:** brig — _borrowed_
         - **English:** brigg — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

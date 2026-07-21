@@ -107,7 +107,3 @@ From Proto-Indo-European *bʰel- (“to sound; roar; bark”).
     - **Middle High German:** bëllen
       - **Cimbrian:** pèlln
       - **German:** bellen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

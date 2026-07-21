@@ -515,7 +515,3 @@ From Proto-Indo-European *leyp- (“leave, cling, linger”), with semantic deve
   - **Danish:** leve
     - **Norwegian Bokmål:** leve
 - **Gothic:** 𐌻𐌹𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

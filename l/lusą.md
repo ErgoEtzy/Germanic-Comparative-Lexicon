@@ -82,7 +82,3 @@ A nominal formation from *leusaną (“to lose”).
   - **Norwegian:** løsne
   - **Danish:** løsne
   - **Swedish:** lossna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

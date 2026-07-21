@@ -442,7 +442,3 @@ From earlier *ohtṓw, from Proto-Indo-European *oḱtṓw (“eight”).
 - **East Germanic:** 
   - **Gothic:** 𐌰𐌷𐍄𐌰𐌿
   - **Crimean Gothic:** athe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

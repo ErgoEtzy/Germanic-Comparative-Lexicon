@@ -65,7 +65,3 @@ From pre-Germanic *ǵʰorneh₂, from Proto-Indo-European *ǵʰerH- (“intestin
 - **Old Norse:** gǫrn
   - **Icelandic:** görn
   - **Faroese:** gørn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

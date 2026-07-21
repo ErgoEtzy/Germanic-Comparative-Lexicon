@@ -58,7 +58,3 @@ From *friþuz (“peace”) + *gaizaz (“spear”).
   - **Norwegian:** Fredgeir
   - **Old Swedish:** Fridhger
   - **Old Danish:** Frithger
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

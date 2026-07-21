@@ -121,7 +121,3 @@ From pre-Germanic *gʰrm̥tús, a tu-stem derived from a Proto-Indo-European *g�
   - **Norwegian Nynorsk:** grønn
 - **Gothic:** *𐌲𐍂𐌿𐌽𐌳𐌿𐍃
 - **Gothic:** 𐌲𐍂𐌿𐌽𐌳𐌿𐍅𐌰𐌳𐌳𐌾𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

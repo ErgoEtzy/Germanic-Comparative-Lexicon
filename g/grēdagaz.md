@@ -126,7 +126,3 @@ Alteration of earlier *grēdugaz, equivalent to *grēduz (“hunger”) + *-gaz.
     - **Swedish:** grådig
   - **Danish:** grådig
 - **Gothic:** 𐌲𐍂𐌴𐌳𐌰𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

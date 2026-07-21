@@ -403,7 +403,3 @@ From earlier *watskaną, from Proto-Indo-European *wod-sḱé-ti, an o-grade s�
   - **Old Danish:** vaskæ
     - **Danish:** vaske
     - **Norwegian Bokmål:** vaske
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

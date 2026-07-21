@@ -160,7 +160,3 @@ An o-grade adjective derived from *skerpaną, from Proto-Indo-European *(s)kerb-
   - **Danish:** skarp
 - **Gothic:** *𐍃𐌺𐌰𐍂𐍀𐍃
   - **Gothic:** *𐍃𐌺𐌰𐍂𐍀𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

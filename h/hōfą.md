@@ -73,7 +73,3 @@ From Proto-Indo-European *kap- (“to seize”). Compare, in particular, Ancient
   - **Norwegian Nynorsk:** hóv
   - **Norwegian Nynorsk:** hóv — _alternative spelling_
   - **Swedish:** hov — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

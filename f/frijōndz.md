@@ -447,7 +447,3 @@ Present participle of *frijōną, equivalent to *frijōną + *-ndz.
   - **Danish:** frænde
     - **Norwegian Bokmål:** frende
 - **Gothic:** 𐍆𐍂𐌹𐌾𐍉𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

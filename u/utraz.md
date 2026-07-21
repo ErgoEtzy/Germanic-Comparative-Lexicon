@@ -124,7 +124,3 @@ From Proto-Indo-European *udrós (“water-animal, otter”), from *wed- (“wat
   - **Old Swedish:** oter
     - **Swedish:** utter
   - **Danish:** odder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

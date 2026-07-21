@@ -97,7 +97,3 @@ From *saiwalō (“soul”) + *-ōną.
   - **Old Norse:** sálask — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** sálast
     - **Faroese:** sálast
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

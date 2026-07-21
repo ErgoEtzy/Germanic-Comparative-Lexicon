@@ -105,7 +105,3 @@ Likely from Proto-Indo-European *swēdʰh₁-s-os or *swēdʰh₁-to-s. Related 
 - **Old Norse:** sváss
   - **Icelandic:** svás
 - **Gothic:** 𐍃𐍅𐌴𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

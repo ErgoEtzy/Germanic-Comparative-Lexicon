@@ -81,7 +81,3 @@ Probably originally used of birds, in which case a derivation from *flukkōną (
   - **Old Swedish:** flukker
     - **Swedish:** flock
   - **Danish:** flok
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

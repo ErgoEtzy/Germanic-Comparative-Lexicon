@@ -100,7 +100,3 @@ From Proto-Indo-European *bʰleh₁-ye-ti, from *bʰleh₁- (“to bleat”). Co
       - **German:** blähen
     - **Middle High German:** blæjen
       - **German:** blähen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

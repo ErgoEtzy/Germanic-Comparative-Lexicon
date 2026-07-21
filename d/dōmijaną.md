@@ -150,7 +150,3 @@ From *dōmaz (“judgement”) + *-janą.
       - **Norwegian Nynorsk:** dømma — _borrowed_
   - **Old Gutnish:** dyma
 - **Gothic:** 𐌳𐍉𐌼𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

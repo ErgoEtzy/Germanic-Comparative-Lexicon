@@ -119,7 +119,3 @@ From *sakaną (“to quarrel, to argue, to debate”) + *-ō.
     - **Old Danish:** sak
       - **Danish:** sag — _c_
         - **Norwegian Bokmål:** sak — _m or f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -100,7 +100,3 @@ Derived from *hwerbaną (“to turn”) + *-az (deverbal adjective suffix).
 - **Old High German:** sinwerf
 - **Old Norse:** hverfr
   - **Icelandic:** hverfur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -52,7 +52,3 @@ From Proto-Indo-European *wip-rós, from *weyp- (“to shake, tremble, agitate�
 - **Proto-West Germanic:** *wibr
   - **Old English:** wifer
 - **Old Norse:** vifr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

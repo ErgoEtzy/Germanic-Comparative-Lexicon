@@ -106,7 +106,3 @@ From *dimmaz (“dim, dark”) + *-ōną.
     - **Norwegian Bokmål:** dimme
     - **Norwegian Nynorsk:** dimme
     - **Norwegian Nynorsk:** dimma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -148,7 +148,3 @@ From Pre-Germanic *pémpe, with an irregular consonant change of the second *p f
       - **Norwegian Bokmål:** fem
 - **Gothic:** 𐍆𐌹𐌼𐍆
 - **Crimean Gothic:** fyuf
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -169,7 +169,3 @@ From Proto-Indo-European *per(H)- (“fore, first”) or *per- (“forth, over, 
   - **Danish:** forn
     - **Norwegian Bokmål:** forn
 - **Gothic:** 𐍆𐌰𐌹𐍂𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

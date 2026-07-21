@@ -105,7 +105,3 @@ From Proto-Indo-European *doyḱ-weh₂-, from *deyḱ- (“to point out”). Co
   - **Swedish:** tå
   - **Danish:** tå
     - **Norwegian Bokmål:** tå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

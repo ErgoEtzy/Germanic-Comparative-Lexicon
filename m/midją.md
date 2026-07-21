@@ -59,7 +59,3 @@ Traditionally taken as a derivative of *midjaz (“middle”). In addition to th
   - **Norwegian Nynorsk:** med
   - **Norwegian Nynorsk:** méd — _n_
   - **Norwegian Bokmål:** med — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

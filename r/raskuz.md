@@ -240,7 +240,3 @@ From earlier *raþskuz, from Proto-Indo-European *Hroth₂skus (“rapid”), fr
     - **Middle High German:** rasch
       - **German:** rasch
 - **Proto-Norse:** ᚱᚨᛊᚲᚨᛉ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

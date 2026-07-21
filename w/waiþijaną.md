@@ -104,7 +104,3 @@ From *waiþiz, *waiþō, from Proto-Indo-European *weyh₁- (“to chase, pursue
     - **Swedish:** (obsolete) veda
   - **Old Danish:** wethæ
     - **Danish:** (obsolete) vejde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

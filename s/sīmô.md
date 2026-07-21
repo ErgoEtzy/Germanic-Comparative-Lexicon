@@ -56,7 +56,3 @@ From Proto-Indo-European *sh₂imṓ, from *sh₂ey- (“to bind, fetter”). Co
   - **Icelandic:** síma
   - **Old Swedish:** sīme
     - **Swedish:** simme
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

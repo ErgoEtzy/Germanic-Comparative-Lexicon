@@ -96,7 +96,3 @@ From Proto-Indo-European *dʰerHbʰ- (“to work, perish, die”). Related to Li
   - **Old English:** deorfan
     - **Middle English:** derven
 - **Old Norse:** fordjarfa — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -139,7 +139,3 @@ From Proto-Indo-European *tenk- (“to be suitable”). Possibly related to Lith
       - **Luxembourgish:** gedeien
       - **Yiddish:** געדײַען
 - **Gothic:** 𐌸𐌴𐌹𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

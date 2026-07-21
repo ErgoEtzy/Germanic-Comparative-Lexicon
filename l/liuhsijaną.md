@@ -103,7 +103,3 @@ From *leuhsą (“light”) + *-janą or *leuhsaz (“bright”) + *-janą.
     - **Norwegian Nynorsk:** lysa
   - **Swedish:** lysa
   - **Danish:** lyse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

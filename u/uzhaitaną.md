@@ -94,7 +94,3 @@ From *uz- + *haitaną.
 - **Proto-West Germanic:** *uʀhaitan
   - **Old English:** āhātan
 - **Gothic:** 𐌿𐍃𐌷𐌰𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

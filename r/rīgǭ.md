@@ -89,7 +89,3 @@ From Proto-Indo-European *Hréyk-ō ~ *Hrik-nés, from *Hreyk- (“to line up; t
       - **German:** Ricke — _dialectal; m_
 - **Old Norse:** *rikka — _f_
   - **Gutnish:** räckå — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

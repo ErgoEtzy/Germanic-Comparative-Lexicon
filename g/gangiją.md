@@ -69,7 +69,3 @@ from Proto-Indo-European *ǵʰengʰ- (“stride, step”).
     - **Middle English:** gynge
       - **English:** ging — _obsolete_
       - **Middle Scots:** ging
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

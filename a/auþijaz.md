@@ -125,7 +125,3 @@ From Proto-Indo-European *h₂ewtyos (“forlorn, deserted”), from Proto-Indo-
         - **Norwegian Bokmål:** ørken
           - **Norwegian Nynorsk:** ørken — _borrowed_
 - **Gothic:** 𐌰𐌿𐌸𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

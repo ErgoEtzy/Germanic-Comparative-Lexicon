@@ -150,7 +150,3 @@ From Proto-Indo-European *perk⁽ʷ⁾- (“oak”), probably a root noun *pérk
     - **Old Norse:** *furi
       - **Old Swedish:** *fure
         - **Swedish:** fure
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

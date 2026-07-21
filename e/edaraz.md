@@ -103,7 +103,3 @@ Cognate with Proto-Slavic *odrъ (“bed”). Possibly from Proto-Indo-European 
     - **Swedish:** jäder — _c_
   - **Old Danish:** jæder
     - **Danish:** jæder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

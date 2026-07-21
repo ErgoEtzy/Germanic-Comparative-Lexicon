@@ -121,7 +121,3 @@ Perhaps from a Proto-Indo-European *smeyd- (“to smear, whick, strike, rub”),
 - **Gothic:** *𐍃𐌼𐌴𐌹𐍄𐌰𐌽
 - **Gothic:** 𐌱𐌹𐍃𐌼𐌴𐌹𐍄𐌰𐌽
 - **Gothic:** 𐌲𐌰𐍃𐌼𐌴𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

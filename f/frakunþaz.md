@@ -127,7 +127,3 @@ Equivalent to *frakunnaną (“to despise”) + *-þaz, or *fra- + *kunþaz.
   - **Old Dutch:** farkūth
   - **Old Dutch:** farkunth
 - **Gothic:** 𐍆𐍂𐌰𐌺𐌿𐌽𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

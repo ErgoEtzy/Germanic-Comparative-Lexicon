@@ -217,7 +217,3 @@ From *kitōną, from Proto-Indo-European *geyd- (“to sting; prick; tickle”) 
       - **English:** kittle
       - **Scots:** kittil
       - **Scots:** kittill
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

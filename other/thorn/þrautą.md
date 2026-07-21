@@ -81,7 +81,3 @@ From Proto-Indo-European *trewd- (“to squeeze; push; press”).
   - **Faroese:** treyt
   - **Norwegian:** traut — _f_
   - **Norwegian:** traute — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

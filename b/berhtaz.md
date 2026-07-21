@@ -225,7 +225,3 @@ From Proto-Indo-European *bʰer(H)ǵ-tó-s, from *bʰerHǵ- (“to shine”) + *
   - **Old Danish:** bærth
     - **Danish:** bjært
 - **Gothic:** 𐌱𐌰𐌹𐍂𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

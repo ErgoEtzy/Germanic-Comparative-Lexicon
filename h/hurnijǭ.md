@@ -114,7 +114,3 @@ From *hurną (“horn”) + *-jǭ (diminutive suffix).
       - **Norwegian Nynorsk:** hjørne — _borrowed_
   - **Old Norse:** hyrning — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** hyrningr — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

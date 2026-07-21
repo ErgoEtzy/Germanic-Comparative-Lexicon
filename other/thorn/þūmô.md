@@ -166,7 +166,3 @@ From Proto-Indo-European *tu(h₂)m-ō, from *tum- (“to swell”), thus "big s
     - **Norwegian Bokmål:** tomme — _borrowed_
   - **Old Gutnish:** 
     - **Gutnish:** tumme
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -64,7 +64,3 @@ Cognate with Proto-Celtic *markos. This is generally reconstructed as being from
   - **Icelandic:** mar
 - **Gothic:** *𐌼𐌰𐍂𐌷𐍃
 - **Vandalic:** *mar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

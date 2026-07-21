@@ -141,7 +141,3 @@ From Proto-Indo-European *wreg- (“track, hunt, follow”). Cognate with Hittit
   - **Danish:** vrage
   - **Gutnish:** bräkä
 - **Gothic:** 𐍅𐍂𐌹𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -97,7 +97,3 @@ From *swellaną (“to swell”) + *-janą.
   - **Middle High German:** swellen
 - **Gothic:** *𐍃𐍅𐌰𐌻𐌻𐌾𐌰𐌽
 - **(in prefixed form in the noun derivate:** 𐌿𐍆𐍃𐍅𐌰𐌻𐌻𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -315,7 +315,3 @@ From Proto-Indo-European *-éh₁-ti (stative verb suffix), which was athematic,
     - **Old Danish:** -iæ
       - **Danish:** -e — _archaic_
 - **Gothic:** -𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

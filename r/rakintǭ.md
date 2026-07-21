@@ -701,7 +701,3 @@ From Proto-Indo-European *reǵ- (“to bind”).
   - **Icelandic:** rekendur
   - **Icelandic:** rekendi
   - **Icelandic:** rekindi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

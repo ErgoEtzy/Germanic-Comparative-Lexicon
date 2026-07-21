@@ -106,7 +106,3 @@ From *uz- + *bīdaną.
     - **Middle High German:** irbīten
     - **Middle High German:** erbīten
 - **Gothic:** 𐌿𐍃𐌱𐌴𐌹𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

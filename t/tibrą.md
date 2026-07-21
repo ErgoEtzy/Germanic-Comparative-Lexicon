@@ -95,7 +95,3 @@ From Proto-Indo-European *dipró- (“sacrificial animal”), from Proto-Indo-Eu
 - **Old Norse:** tífurr
 - **Old Norse:** tívurr
 - **Gothic:** 𐌰𐌹𐌱𐍂 — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

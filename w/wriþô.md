@@ -137,7 +137,3 @@ From *wrīþaną (“to writhe”) + *-ô (agentive suffix).
   - **Icelandic:** riði
   - **Norwegian Nynorsk:** ride
   - **Norwegian Nynorsk:** vride
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

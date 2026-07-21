@@ -95,7 +95,3 @@ From Proto-Indo-European *kweth₂- (“to bubble, foam”).
   - **Old English:** hwaþerian
   - **Old English:** hwoþerian
 - **Gothic:** 𐍈𐌰𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

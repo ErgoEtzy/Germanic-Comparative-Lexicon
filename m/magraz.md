@@ -135,7 +135,3 @@ From Proto-Indo-European *mh₂ḱrós (“tall, thin, lean, meager”).
       - **Norwegian Bokmål:** mager
   - **Scots:** mager — _borrowed_
   - **Scots:** maager — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

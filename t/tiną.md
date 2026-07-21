@@ -92,7 +92,3 @@ Likely related to Old Irish tinne (“ingot”) (itself a hapax legomenon). The 
     - **Swedish:** tenn
   - **Danish:** tin
   - **Jamtish:** tin
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -49,7 +49,3 @@ From Proto-Indo-European *gewl- (“vessel; ball”), from Proto-Indo-European *
 - **Old English:** cylle
 - **Old Norse:** kýll
   - **Icelandic:** kýll
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

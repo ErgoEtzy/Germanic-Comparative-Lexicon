@@ -53,7 +53,3 @@ From Proto-Indo-European *ḱey- (“to be lying down”).
   - **Old Norse:** hýbýli — _reshaped by analogy or addition of morphemes; pl n_
 - **Gothic:** *𐌷𐌴𐌹𐍅
   - **Gothic:** 𐌷𐌴𐌹𐍅𐌰𐍆𐍂𐌰𐌿𐌾𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

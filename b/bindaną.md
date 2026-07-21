@@ -171,7 +171,3 @@ From Proto-Indo-European *bʰéndʰ-e-ti, from *bʰendʰ- (“to tie, bind”).
   - **Gutnish:** bind'
   - **Gutnish:** binda
 - **Gothic:** 𐌱𐌹𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

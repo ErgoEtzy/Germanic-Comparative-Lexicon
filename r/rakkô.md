@@ -200,7 +200,3 @@ From Proto-Indo-European *reǵ- (“to tie, bind”). The "dog" sense may be a s
   - **Norwegian:** rakke
   - **Elfdalian:** rakke
   - **Gutnish:** hundrakkrar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

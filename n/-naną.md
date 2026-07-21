@@ -109,7 +109,3 @@ Reconstructed by Ringe from an alternating suffix *-nō- (singular) ~ *-na- (non
   - **Swedish:** -na
   - **Danish:** -ne
 - **Gothic:** -𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

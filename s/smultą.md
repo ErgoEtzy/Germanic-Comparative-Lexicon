@@ -64,7 +64,3 @@ Adjectival ablaut formation from *smeltaną (“melt”).
         - **Dutch:** schmalz — _borrowed_
         - **Dutch:** sjmalts — _borrowed_
         - **English:** schmaltz — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

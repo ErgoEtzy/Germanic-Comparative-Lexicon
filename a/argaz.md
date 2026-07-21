@@ -256,7 +256,3 @@ From Proto-Indo-European *h₃orǵʰ-o-s, from *h₃erǵʰ- (“to copulate; ard
   - **Scots:** arg — _borrowed_
   - **Scots:** arga — _borrowed_
 - **Gothic:** *𐌰𐍂𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -54,7 +54,3 @@ From *ga- + *nesaną (“to save”) + *-þiz.
     - **Middle High German:** gnist
       - **German:** Genist
 - **Gothic:** 𐌲𐌰𐌽𐌹𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

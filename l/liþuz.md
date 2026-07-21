@@ -127,7 +127,3 @@ Of uncertain origin; Kroonen considers the word as cognate with *limuz (“limb�
   - **Old Danish:** lith
     - **Danish:** led
 - **Gothic:** 𐌻𐌹𐌸𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

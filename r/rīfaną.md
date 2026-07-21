@@ -103,7 +103,3 @@ From Proto-Indo-European *h₁reyp- (“to tear”).
     - **Danish:** rive
   - **Old Swedish:** rīva
     - **Swedish:** riva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

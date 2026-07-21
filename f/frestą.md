@@ -66,7 +66,3 @@ From an earlier *fres (“forward”), abstracted from a Proto-Indo-European *pr
   - **Danish:** frist
     - **Norwegian Bokmål:** frist
     - **Norwegian Nynorsk:** frist — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

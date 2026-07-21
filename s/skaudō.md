@@ -54,7 +54,3 @@ From Proto-Indo-European *skówdʰ-eh₂, from *(s)kewH- (“to cover, hide”).
   - **Norwegian Bokmål:** skaud
 - **Gothic:** *𐍃𐌺𐌰𐌿𐌳𐌰
 - **Gothic:** 𐍃𐌺𐌰𐌿𐌳𐌰𐍂𐌰𐌹𐍀𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

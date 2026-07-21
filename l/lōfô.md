@@ -103,7 +103,3 @@ From Proto-Indo-European *leh₂p- (“to be flat; palm”). Cognate with Lithua
     - **Scots:** lufe
     - **Scots:** luff
 - **Gothic:** 𐌻𐍉𐍆𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -67,7 +67,3 @@ From Proto-Indo-European *meyth₂-, from Proto-Indo-European *mey- (“to excha
 - **Old Norse:** *meiðm
 - **Old Norse:** meiðmar — _pl_
 - **Gothic:** 𐌼𐌰𐌹𐌸𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

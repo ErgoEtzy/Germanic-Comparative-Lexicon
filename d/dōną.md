@@ -1400,7 +1400,3 @@ Both originate from the root *dʰeh₁- (“to place, do”).
       - **German:** tun
       - **Rhine Franconian:** 
       - **Yiddish:** טאָן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -52,7 +52,3 @@ From Proto-Indo-European *h₃reyH- (“to boil, churn”).
 - **Gothic:** *𐍂𐌿𐌽𐍃
   - **Gothic:** 𐌲𐌰𐍂𐌿𐌽𐍃 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌿𐍂𐍂𐌿𐌽𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

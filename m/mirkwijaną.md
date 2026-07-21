@@ -107,7 +107,3 @@ From *merkuz (“dark”) + *-janą.
     - **English:** mirk
     - **Scots:** myrk
     - **Scots:** mirk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

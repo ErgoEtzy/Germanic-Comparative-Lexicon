@@ -177,7 +177,3 @@ From Proto-Indo-European *dʰreh₁n- (“bee, hornet, drone”). Cognate with L
       - **Limburgish:** dreen
   - **Old High German:** trān
   - **Old High German:** trāno
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

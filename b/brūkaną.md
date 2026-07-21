@@ -123,7 +123,3 @@ From Proto-Indo-European *bʰrewHg- (“to make use of”). Cognate with Latin f
       - **German:** brauchen
       - **Mòcheno:** prauchen
 - **Gothic:** 𐌱𐍂𐌿𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

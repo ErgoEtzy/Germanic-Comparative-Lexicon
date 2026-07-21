@@ -120,7 +120,3 @@ From Pre-Germanic *spoyg-eh₂, from Proto-Indo-European *speyg-, extension of *
       - **Vilamovian:** śpaach
 - **Old Gutnish:** *spaik
   - **Gutnish:** spaik
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

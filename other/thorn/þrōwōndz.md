@@ -54,7 +54,3 @@ From *þrōwōną (“to thrive, prosper”) + *-ndz (“-er”).
     - **Danish:** trønd — _borrowed_
       - **Norwegian Bokmål:** trønder
 - **Old English:** Þrōwendas
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

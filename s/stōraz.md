@@ -195,7 +195,3 @@ From Proto-Indo-European *steh₂-u-ro-s (“large, big, thick; old”), from *s
   - **Danish:** stor
     - **Norwegian Bokmål:** stor
   - **Gutnish:** stäur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

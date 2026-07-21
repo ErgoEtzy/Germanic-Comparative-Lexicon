@@ -224,7 +224,3 @@ From Proto-Indo-European *merw- (“to rub, pack”).
     - **Swedish:** mör
   - **Old Danish:** miør
     - **Danish:** mør
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

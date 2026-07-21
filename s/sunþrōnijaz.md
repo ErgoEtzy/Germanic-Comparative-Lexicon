@@ -160,7 +160,3 @@ From *sunþraz + *-ōnijaz.
   - **Icelandic:** suðrænn
   - **Norwegian Nynorsk:** sudrøn
   - **Norwegian Nynorsk:** sørrøn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

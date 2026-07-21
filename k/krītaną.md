@@ -106,7 +106,3 @@ From Proto-Indo-European *greyd-, *grey- (“to shout”), which appears to be c
     - **Middle High German:** krīzen
       - **German:** kreißen
 - **Crimean Gothic:** eriten — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

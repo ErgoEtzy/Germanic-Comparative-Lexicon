@@ -12,7 +12,7 @@ From *hulaz (“hollow”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -98,7 +98,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Danish:** hul
     - **Norwegian Bokmål:** hull
 - **Gothic:** 𐌷𐌿𐌻𐌿𐌽𐌳𐌹 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

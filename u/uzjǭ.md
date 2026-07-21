@@ -43,7 +43,3 @@ From Proto-Indo-European *Hus-yéh₂, either from *h₁ews- or *h₂ews-.
 
 - **Old Norse:** yrja
   - **Old Swedish:** øria
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -85,7 +85,3 @@ Uncertain; one theory derives the term from Proto-Indo-European *swā-n- (“hea
   - **Icelandic:** són
 - **Old Norse:** sonar-
   - **Icelandic:** són
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

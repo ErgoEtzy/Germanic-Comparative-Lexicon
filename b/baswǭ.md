@@ -12,7 +12,7 @@ Unknown. Perhaps originally *waswǭ, then altered to baswǭ under the influence 
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -56,7 +56,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
       - **German:** Base
       - **Alemannic German:** Base
     - **Old High German:** basūnsunu — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

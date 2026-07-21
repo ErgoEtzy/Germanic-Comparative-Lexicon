@@ -101,7 +101,3 @@ From Proto-Indo-European *kʷelp- (“to bend”), with -b- instead of -f- due t
     - **German:** wölben
 - **Old Norse:** *hvelfa
   - **Norwegian:** kvelva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

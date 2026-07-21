@@ -58,7 +58,3 @@ Uncertain. Potentially from *swōgiz (“noise, sound”).
     - **Middle High German:** swegel
       - **German:** Schwegel
 - **Gothic:** *𐍃𐍅𐌹𐌲𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

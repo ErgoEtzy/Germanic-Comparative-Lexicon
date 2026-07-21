@@ -106,7 +106,3 @@ A derivation from *aiwaz (“age, eternity”), *aiwō. The *-k- suffix is uncer
     - **Middle English:** eche
 - **Gothic:** *𐌰𐌾𐌿𐌺𐍃
   - **Gothic:** 𐌰𐌾𐌿𐌺𐌳𐌿𐌸𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -138,7 +138,3 @@ May also be analyzed as from pre-Germanic *ǵń̥h₃tos, via unexplained accent
   - **Old Danish:** 
     - **Danish:** kund
 - **Gothic:** 𐌺𐌿𐌽𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

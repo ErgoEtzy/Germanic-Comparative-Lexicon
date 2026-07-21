@@ -60,7 +60,3 @@ From Proto-Indo-European *h₃ósdos (“branch”). Cognate with Ancient Greek 
       - **German:** Ast
       - **Luxembourgish:** Aascht
 - **Gothic:** 𐌰𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

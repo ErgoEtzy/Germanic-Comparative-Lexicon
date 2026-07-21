@@ -93,7 +93,3 @@ From pre-Germanic *stignéh₂-, a zero-grade iterative to *stikaną (“to stic
 
 - **Old English:** stician
 - **Middle Dutch:** sticken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

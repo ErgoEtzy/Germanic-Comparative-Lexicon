@@ -91,7 +91,3 @@ From Proto-Indo-European *(le-)lóys-e, stative from the root *leys- (“track, 
 ### Germanic descendants
 
 - **Gothic:** 𐌻𐌹𐍃𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

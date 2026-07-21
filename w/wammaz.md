@@ -58,7 +58,3 @@ From Proto-Indo-European *wemh₁- (“to spew, vomit”). Cognate with Latin vo
   - **Old Norse:** vǫmm
     - **Icelandic:** vamm
 - **Gothic:** 𐍅𐌰𐌼𐌼
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

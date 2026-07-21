@@ -106,7 +106,3 @@ From Proto-Indo-European *geybʰ- (“to quarrel, dispute”). Cognate with Lith
   - **Icelandic:** kífa
   - **Swedish:** kiva
   - **Danish:** kives
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

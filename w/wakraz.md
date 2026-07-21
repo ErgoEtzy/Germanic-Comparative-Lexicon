@@ -146,7 +146,3 @@ From *wakaną + *-raz. Possibly corresponds to Proto-Indo-European *wóǵ-ros, f
     - **Gutnish:** vakkar
     - **Gutnish:** vakka
     - **Gutnish:** vakur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

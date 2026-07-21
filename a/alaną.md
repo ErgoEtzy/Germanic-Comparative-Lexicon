@@ -179,7 +179,3 @@ From Proto-Indo-European *h₁elh₂- (“to drive, move, go”). Compare Ancien
     - **Old Danish:** alæ
     - **Old Gutnish:** ala
 - **Gothic:** 𐌰𐌻𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

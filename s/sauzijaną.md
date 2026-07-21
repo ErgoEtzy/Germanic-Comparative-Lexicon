@@ -101,7 +101,3 @@ Surface derivation from *sauzaz (“dry”) + *-janą. May be formally cognate w
   - **Icelandic:** seyra
   - **Norwegian Nynorsk:** søyre
   - **Norwegian Nynorsk:** søyra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

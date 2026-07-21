@@ -156,7 +156,3 @@ From Proto-Indo-European *h₁ep-r-. Indo-European cognates include Latin aper, 
 - **Old Norse:** jǫfurr
   - **Icelandic:** jöfur
   - **Swedish:** jofur — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -153,7 +153,3 @@ From *haiþī (“heath; untilled land”) + *-īnaz (“made of; having the cha
     - **Swedish:** heden
 - **Old Norse:** heinir — _m pl_
   - **Old Norse:** Heinafylki — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

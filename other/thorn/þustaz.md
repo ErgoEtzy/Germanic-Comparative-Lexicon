@@ -58,7 +58,3 @@ From Proto-Indo-European *tews- (“to clear; empty; drain”).
     - **Middle Dutch:** dost
   - **Old High German:** dost
     - **Middle High German:** dost
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -180,7 +180,3 @@ From *sōkijaną (“to seek, look for; to dispute”) + *-niz.
   - **Gutnish:** sokken
   - **Scanian:** sóğn
 - **Gothic:** 𐍃𐍉𐌺𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

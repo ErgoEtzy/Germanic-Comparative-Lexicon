@@ -105,7 +105,3 @@ From *hwīlō (“while, period, pause”) + *-āną.
   - **Old Danish:** hwilæ
     - **Danish:** hvile
 - **Gothic:** 𐍈𐌴𐌹𐌻𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

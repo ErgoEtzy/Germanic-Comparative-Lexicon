@@ -94,7 +94,3 @@ From Pre-Germanic *dh₁k-ye- from Proto-Indo-European *deh₁k-, further relate
 - **Old Norse:** tæja
   - **Icelandic:** tæja
 - **Gothic:** 𐍄𐌰𐌷𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

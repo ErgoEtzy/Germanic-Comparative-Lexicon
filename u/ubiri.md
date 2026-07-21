@@ -281,7 +281,3 @@ From Proto-Indo-European *upéri, from *upér (ultimately from *upo + *-i).
   - **Gutnish:** yfvar
   - **Gutnish:** yfver
   - **Elfdalian:** yvyr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

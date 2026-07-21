@@ -84,7 +84,3 @@ Often derived from Proto-Indo-European *swē. In any case related to *swa.
   - **Gutnish:** så
   - **Scanian:** sá
 - **Gothic:** 𐍃𐍅𐌴
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

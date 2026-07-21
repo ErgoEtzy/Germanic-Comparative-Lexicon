@@ -239,7 +239,3 @@ From Pre-Germanic *stoyh₂nos, o-grade from Proto-Indo-European *steyh₂- (“
     - **Middle English:** steynen — _borrowed_
       - **English:** stain
 - **Gothic:** 𐍃𐍄𐌰𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

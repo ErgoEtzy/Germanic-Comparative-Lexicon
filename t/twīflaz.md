@@ -83,7 +83,3 @@ From Proto-Indo-European *dwi-pl-o-s (“double, twofold”). Identical with Anc
       - **German:** Zweifel
       - **Luxembourgish:** Zweiwel
 - **Gothic:** 𐍄𐍅𐌴𐌹𐍆𐌻 — _?_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

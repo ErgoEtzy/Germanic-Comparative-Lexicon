@@ -142,8 +142,4 @@ From Proto-Indo-European *h₃lemH- (“weak, broken, soft”). Cognate with Pro
   - **Old Swedish:** lamber
     - **Swedish:** lam
   - **Danish:** lam
-  - **Ostrobothnian:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+  - **Ostrobothnian:**

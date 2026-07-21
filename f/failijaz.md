@@ -140,7 +140,3 @@ Uncertain; has been linked with Proto-Indo-European *peh₂- (“to protect”),
       - **German:** feil
     - **Middle High German:** veil
       - **German:** feil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

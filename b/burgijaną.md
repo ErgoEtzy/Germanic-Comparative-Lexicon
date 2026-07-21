@@ -525,7 +525,3 @@ From *burgaz (“promise, debt”) + *-janą, or *burgijô (“surety”) + *-ja
 - **Old Norse:** *byrgja
   - **Old Norse:** ábyrgja — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** ábyrgja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

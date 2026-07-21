@@ -105,7 +105,3 @@ From *hwītaz (“white”) + *-janą.
       - **German:** weißen
 - **Gothic:** *𐍈𐌴𐌹𐍄𐌾𐌰𐌽
   - **Gothic:** 𐌲𐌰𐍈𐌴𐌹𐍄𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

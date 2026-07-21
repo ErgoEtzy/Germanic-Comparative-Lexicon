@@ -100,7 +100,3 @@ From *skardaz (“cut up, damaged”) + *-janą.
     - **Middle High German:** scherten
 - **Old Norse:** skerða
   - **Icelandic:** skerða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

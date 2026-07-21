@@ -93,7 +93,3 @@ According to Kroonen, from Proto-Indo-European *sl̥k-, an old root noun from *s
     - **Middle English:** zuolȝ — _Kent_
       - **English:** sullow
   - **Old Saxon:** sulh
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

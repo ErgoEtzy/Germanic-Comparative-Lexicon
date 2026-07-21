@@ -95,7 +95,3 @@ Alternatively, from Proto-Indo-European *kʷeḱ- (“to see, look”), or perha
     - **Danish:** hu — _c_
     - **Danish:** hov — _dialectal; c_
 - **Gothic:** 𐌷𐌿𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

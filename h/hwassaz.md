@@ -113,7 +113,3 @@ From Proto-Indo-European *kʷh₁dtós (“sharpened”); by surface analysis, t
     - **Norwegian Bokmål:** hvass
 - **Gothic:** *𐍈𐌰𐍃𐍃
   - **Gothic:** 𐍈𐌰𐍃𐍃𐌰𐌱𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

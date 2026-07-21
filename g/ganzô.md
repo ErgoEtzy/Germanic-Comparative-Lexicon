@@ -174,7 +174,3 @@ From Proto-Indo-European *ǵʰh₂éns (“goose”); see *gans.
   - **Danish:** gase
   - **Swedish:** gasse
   - **Scanian:** gáse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

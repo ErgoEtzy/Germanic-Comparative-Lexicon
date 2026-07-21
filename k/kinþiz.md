@@ -64,7 +64,3 @@ From Proto-Indo-European *ǵénh₁tis, oblique *ǵn̥h₁tí-.
 - **Old Norse:** kind
   - **Icelandic:** kind
   - **Faroese:** kind
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

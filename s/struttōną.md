@@ -167,7 +167,3 @@ Possibly from Proto-Indo-European *(s)ter- (“strong, firm, stiff, rigid”)
 - **Proto-West Germanic:** *strottōn
   - **Old High German:** *strotzōn
     - **Middle High German:** strotzen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

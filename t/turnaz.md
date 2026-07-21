@@ -159,7 +159,3 @@ From Proto-Indo-European *dr̥-nós, from Proto-Indo-European *der- (“to flay,
       - **German:** Zorn
       - **Luxembourgish:** Zar
       - **Yiddish:** צאָרן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

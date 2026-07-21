@@ -43,7 +43,3 @@ Of disputed origin:
   - **Old High German:** -zō
     - **Old High German:** -zug — _reshaped by analogy or addition of morphemes; uncertain; influenced by -zig_
 - **Gothic:** -𐍄𐌰𐌹𐌷𐌿𐌽𐌳
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

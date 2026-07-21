@@ -58,7 +58,3 @@ From *frōdaz (“wise, experienced”) + *-į̄ (stative noun suffix).
   - **Swedish:** frode
   - **Swedish:** fröde
 - **Gothic:** 𐍆𐍂𐍉𐌳𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

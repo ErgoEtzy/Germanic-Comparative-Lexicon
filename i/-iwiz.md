@@ -47,7 +47,3 @@ Inherited from Proto-Indo-European *-ewes, from *-us (u-stem suffix) + *-es (nom
   - **Old Swedish:** -er
     - **Swedish:** -er
 - **Gothic:** -𐌾𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

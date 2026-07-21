@@ -146,7 +146,3 @@ Either formed analogously from the lower decads, compare *þrīz tigiwiz (“thi
   - **Norwegian Bokmål:** nitti
     - **Danish:** niti — _borrowed_
   - **Old Danish:** nitigh
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -102,7 +102,3 @@ From *ainaz (“one”) + *harduz (“hard”).
   - **Old High German:** einharti
 - **Old Norse:** einharðr
   - **Icelandic:** einharður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

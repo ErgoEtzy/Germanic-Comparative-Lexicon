@@ -101,7 +101,3 @@ From Proto-Indo-European *sekʷ- (“to see, notice”).
   - **Old Norse:** skuggsjá — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** umsjá — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** umsjá
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

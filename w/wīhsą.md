@@ -50,7 +50,3 @@ Derived from Proto-Indo-European *wéyḱ-os ~ *wéyḱ-es-, from *weyḱ-.
   - **Old English:** *wīx — _n_
     - **Middle English:** wīx
 - **Gothic:** 𐍅𐌴𐌹𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -317,7 +317,3 @@ From *weraz (“man”) + *aldiz (“age, lifetime”), literally “era of man�
       - **Norwegian Bokmål:** verden — _m_
     - **Scanian:** værlð
   - **Gutnish:** värd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

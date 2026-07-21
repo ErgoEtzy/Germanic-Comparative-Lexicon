@@ -106,7 +106,3 @@ From the root underlying *swinganą (“to swing”) + *-janą.
   - **Old High German:** swenken
     - **Middle High German:** swenken
       - **German:** schwenken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

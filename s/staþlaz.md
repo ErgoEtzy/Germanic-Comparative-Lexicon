@@ -52,7 +52,3 @@ From Proto-Indo-European *sth₂tlos, from *steh₂- (“to stand”). Cognate w
 - **Old Dutch:** *stathal
   - **Middle Dutch:** stadel
 - **Old High German:** stadal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

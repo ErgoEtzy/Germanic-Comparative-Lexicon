@@ -960,7 +960,3 @@ A diminutive of *karaz (but a Proto-Indo-European l-stem according to Kroonen 20
         - **Middle Scots:** cairle
           - **Scots:** carl
           - **Scots:** cairl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

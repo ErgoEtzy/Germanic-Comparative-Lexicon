@@ -86,7 +86,3 @@ According to Ringe (2017), from Proto-Indo-European *wé-dwo. Ringe, in turn, ci
   - **Elfdalian:** wįð
   - **Old Swedish:** vit
 - **Gothic:** 𐍅𐌹𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

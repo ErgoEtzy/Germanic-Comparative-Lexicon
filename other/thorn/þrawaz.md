@@ -104,7 +104,3 @@ Older theories compared the word to Proto-Indo-European *ter- (“to rub, grind�
     - **English:** thro
   - **Middle English:** thra — _borrowed_
     - **English:** thro
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

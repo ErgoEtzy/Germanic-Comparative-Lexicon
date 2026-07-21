@@ -108,7 +108,3 @@ From *gebaną (“to give”) + *-īgaz.
   - **Icelandic:** göfugur
 - **Gothic:** 𐌲𐌰𐌱𐌹𐌲𐍃
 - **Gothic:** 𐌲𐌰𐌱𐌴𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

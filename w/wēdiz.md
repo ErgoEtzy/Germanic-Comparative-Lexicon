@@ -186,7 +186,3 @@ Presumedly the vṛddhi gerundive of *wedaną (“to join, bind, tie”), via an
     - **Norwegian Bokmål:** vadmel
     - **Norwegian Nynorsk:** vadmål
     - **Swedish:** vadmal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

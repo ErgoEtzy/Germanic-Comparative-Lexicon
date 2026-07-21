@@ -96,7 +96,3 @@ From *sōþą (“satisfaction”) + *-janą.
   - **Old English:** sœ̄dan
 - **Gothic:** *𐍃𐍉𐌸𐌾𐌰𐌽
   - **Gothic:** 𐌲𐌰𐍃𐍉𐌸𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

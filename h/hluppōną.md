@@ -100,7 +100,3 @@ From earlier paradigm *hluppōþi ~ *hlubunanþi, from pre-Proto-Germanic *klub-
   - **Old Dutch:** *loppon
     - **Middle Dutch:** loppen
   - **Old High German:** loffōn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

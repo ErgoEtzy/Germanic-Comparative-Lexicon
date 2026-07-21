@@ -142,7 +142,3 @@ From Proto-Indo-European *bʰru(h₁)-to-m, from *bʰrewh₁- (“to seethe; roi
     - **Scots:** brulyie
 - **Old Norse:** broð
   - **Icelandic:** broð
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

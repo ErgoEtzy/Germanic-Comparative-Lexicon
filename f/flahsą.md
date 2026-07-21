@@ -76,7 +76,3 @@ From Proto-Indo-European *pleḱ- (“to fold, plait, weave”).
       - **Rhine Franconian:** Flas
       - **Rhine Franconian:** Flachs
       - **Vilamovian:** fłaoks
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

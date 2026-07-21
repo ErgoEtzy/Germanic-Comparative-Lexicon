@@ -52,7 +52,3 @@ From Proto-Indo-European *tewk-tḗr, derived from the root *tewk- (“seed, off
 - **Old High German:** *diohter
   - **Middle High German:** diehter
   - **Middle High German:** tiehter
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

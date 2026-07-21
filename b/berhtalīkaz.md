@@ -103,7 +103,3 @@ From *berhtaz (“bright”) + *-līkaz (“-ly”).
 - **Old Saxon:** berhtlīk
 - **Old Norse:** bjartligr
   - **Icelandic:** bjartlegur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

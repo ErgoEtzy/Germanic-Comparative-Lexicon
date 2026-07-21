@@ -151,7 +151,3 @@ Substantivization of the adjective. If the tribe did use it as a name for themse
   - **Old High German:** *quāt
     - **Middle High German:** quāt
       - **Central Franconian:** kodd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

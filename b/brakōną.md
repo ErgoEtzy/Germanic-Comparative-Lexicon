@@ -105,7 +105,3 @@ Either from a denominative formation equivalent to *braką (“burst, crack”) 
 - **Old Norse:** braka
   - **Faroese:** braka
   - **Icelandic:** braka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

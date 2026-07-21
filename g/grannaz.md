@@ -102,7 +102,3 @@ From a Proto-Indo-European *gʰroH-n-uó-s, probably related to *granō (“awn,
   - **Old Swedish:** 
     - **Swedish:** grann
   - **Elfdalian:** grann
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

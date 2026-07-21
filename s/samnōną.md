@@ -195,7 +195,3 @@ From *samanai (“together”) + *-ōną, from Proto-Indo-European *sem- (“one
   - **Icelandic:** safna
   - **Faroese:** savna
   - **Old Swedish:** samna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

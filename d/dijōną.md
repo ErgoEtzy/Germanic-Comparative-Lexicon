@@ -109,7 +109,3 @@ From Proto-Indo-European *dʰh₁éyeti (“to suckle, nurse”). Cognate with L
     - **Swedish:** di
   - **Old Danish:** di
     - **Danish:** die
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

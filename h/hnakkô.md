@@ -491,7 +491,3 @@ Compare also the suffix *-kô, found in names of several other body parts.
     - **Swedish:** nacke
   - **Old Danish:** nakkæ
     - **Danish:** nakke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -692,7 +692,3 @@ Likely from a substrate language of northwestern Europe. Proto-Celtic *menekkis 
     - **English:** marra — _borrowed_
     - **English:** marrow — _dialectal; borrowed_
 - **Gothic:** 𐌼𐌰𐌽𐌰𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

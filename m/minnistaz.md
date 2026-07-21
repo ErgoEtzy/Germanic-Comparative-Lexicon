@@ -112,7 +112,3 @@ Superlative of Proto-Indo-European *mey- (“small”). Cognate with Latin minor
   - **Old Swedish:** minster
     - **Swedish:** minst
 - **Gothic:** 𐌼𐌹𐌽𐌽𐌹𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

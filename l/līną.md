@@ -83,7 +83,3 @@ If such roots were borrowed from one or several non-IE languages, locating the s
     - **Danish:** lin
     - **→ Danish:** linned
 - **Gothic:** 𐌻𐌴𐌹𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

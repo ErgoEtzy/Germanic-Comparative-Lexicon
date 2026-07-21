@@ -101,7 +101,3 @@ From Proto-Indo-European *dʰeh₁(y)- (“to suckle, nurse”). Cognate with La
     - **Norwegian Nynorsk:** degge — _borrowed_
     - **Norwegian Nynorsk:** degga — _borrowed_
 - **Gothic:** 𐌳𐌰𐌳𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

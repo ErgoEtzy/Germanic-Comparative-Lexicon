@@ -278,7 +278,3 @@ Derived from *skulaną (“to owe”), and thus of the same origin as the "debt"
 - **Old Norse:** skyldr
   - **Icelandic:** skyldur
   - **Old Swedish:** skylder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

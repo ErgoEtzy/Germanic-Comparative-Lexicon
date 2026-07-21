@@ -100,7 +100,3 @@ From *meh₂d- (“to be wet”). Equivalent to *matiz (“food”) + *-ōną.
   - **Danish:** made
   - **Elfdalian:** måtå
   - **Gutnish:** mate
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

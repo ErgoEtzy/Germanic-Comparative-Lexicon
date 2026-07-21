@@ -110,7 +110,3 @@ From *gōdaz (“good”) + *-janą. Cognate with Proto-Slavic *godìti.
   - **Old Swedish:** gø̄þa
     - **Swedish:** göda
   - **Danish:** gøde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

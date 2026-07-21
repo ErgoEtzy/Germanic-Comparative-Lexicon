@@ -63,7 +63,3 @@ From *hulaz, *hulhwaz (“hollow”), from Proto-Indo-European *ḱel- (“to te
   - **Norwegian:** hyl
   - **Danish:** hyl
   - **Danish:** høl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

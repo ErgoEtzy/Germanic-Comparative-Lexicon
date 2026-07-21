@@ -246,7 +246,3 @@ From Proto-Indo-European *gley- (“to glue, stick together”). Originally a re
     - **Dutch:** klinken
 - **Old High German:** klingan
   - **Middle High German:** klingen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -94,7 +94,3 @@ From *ga- + *mōtijaną (“to meet”).
 - **Proto-West Germanic:** *gamōtijan
   - **Old English:** ġemētan
 - **Gothic:** 𐌲𐌰𐌼𐍉𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

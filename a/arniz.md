@@ -102,7 +102,3 @@ From a Proto-Indo-European *Her-, with original sense and exact identity of the 
   - **Icelandic:** ern
 - **Gothic:** *𐌰𐍂𐌽𐍃
   - **Gothic:** 𐌰𐍂𐌽𐌹𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

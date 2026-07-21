@@ -161,7 +161,3 @@ From Pre-Germanic *sprewd-, but also possibly back-formed from the iterative, fr
   - **Swedish:** spruta
   - **Icelandic:** sprauta
   - **Icelandic:** spretta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

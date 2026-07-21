@@ -121,7 +121,3 @@ From *kernǭ (“butter tub”) + *-janą.
   - **Swedish:** kärna
   - **Danish:** kærne
     - **Norwegian Bokmål:** kjerne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

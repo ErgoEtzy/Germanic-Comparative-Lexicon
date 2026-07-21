@@ -101,7 +101,3 @@ From Pre-Germanic *strow-o-m, from Proto-Indo-European *strew-.
     - **English:** streea — _dialectal_
     - **Middle Scots:** stra
       - **Scots:** strae
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

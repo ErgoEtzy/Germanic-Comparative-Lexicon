@@ -123,7 +123,3 @@ From Proto-Indo-European *dewk- (“to pull, lead”).
       - **Luxembourgish:** zéien
       - **Yiddish:** ציִען
 - **Gothic:** 𐍄𐌹𐌿𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

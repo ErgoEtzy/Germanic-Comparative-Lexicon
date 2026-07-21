@@ -578,7 +578,3 @@ From Proto-Indo-European *dʰóyǵʰ-o-s, from *dʰeyǵʰ- (“to build, mold, f
     - **Danish:** dejg — _c_
   - **Gutnish:** daig
 - **Gothic:** 𐌳𐌰𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

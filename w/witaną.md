@@ -266,7 +266,3 @@ From Proto-Indo-European *wóyde (“to have seen, known”).
       - **Scanian:** veda
     - **Gutnish:** vite
 - **Gothic:** 𐍅𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -246,7 +246,3 @@ From earlier *snaygʷaz, from Proto-Indo-European *snóygʷʰos (“snow”).
     - **Scanian:** sný
   - **Gutnish:** snåi
 - **Gothic:** 𐍃𐌽𐌰𐌹𐍅𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

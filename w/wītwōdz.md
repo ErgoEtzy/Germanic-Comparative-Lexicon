@@ -45,7 +45,3 @@ From pre-Germanic *wéydwō(t)s, substantivization of *weydwṓ(t)s, a perfect p
 ### Germanic descendants
 
 - **Gothic:** 𐍅𐌴𐌹𐍄𐍅𐍉𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

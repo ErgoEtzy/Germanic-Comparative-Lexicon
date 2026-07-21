@@ -56,7 +56,3 @@ From Proto-Indo-European *awAdʰ-, *audʰ- (“band, weave, plait”). Cognate w
 - **Old High German:** wata
   - **Middle High German:** wate
     - **German:** Wate
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

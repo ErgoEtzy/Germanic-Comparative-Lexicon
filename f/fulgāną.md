@@ -134,7 +134,3 @@ May be derived from a Proto-Indo-European *pelḱ- (“to turn, twist, wind”),
       - **Yiddish:** פֿאָלגן
 - **Old Norse:** fulger
   - **Old Swedish:** folger
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

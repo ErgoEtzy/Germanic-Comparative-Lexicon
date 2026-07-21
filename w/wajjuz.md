@@ -69,7 +69,3 @@ From pre-Proto-Germanic *wəyús (quasi-Proto-Indo-European *wh̥₁y-ú-s), fro
   - **Scots:** veggel — _borrowed_
   - **Scots:** wugrum — _borrowed_
 - **Gothic:** *𐍅𐌰𐌳𐌳𐌾𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

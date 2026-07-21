@@ -132,7 +132,3 @@ From *wundrą (“wonder, miracle”) + *-ōną.
   - **Norwegian Bokmål:** undres
   - **Swedish:** undra
   - **Danish:** undre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

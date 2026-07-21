@@ -230,7 +230,3 @@ Uncertain. Perhaps from Proto-Indo-European *bud- (“to shoot, sprout”); if s
   - **Swedish:** pötta
   - **Swedish:** påta
   - **Danish:** putte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

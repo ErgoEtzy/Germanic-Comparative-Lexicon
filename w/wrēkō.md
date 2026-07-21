@@ -131,7 +131,3 @@ From Proto-Indo-European *wreg- (“to drive”). Kroonen suggests that the term
       - **German:** Rache
         - **Luxembourgish:** Rach — _borrowed_
         - **Saterland Frisian:** Rache — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

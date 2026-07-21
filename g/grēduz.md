@@ -56,7 +56,3 @@ From Pre-Germanic *gʰreh₁tús, from Proto-Indo-European *gʰreh₁-, *gʰer- 
   - **Norwegian Nynorsk:** gråde
   - **Old Swedish:** grādh — _f_
 - **Gothic:** 𐌲𐍂𐌴𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

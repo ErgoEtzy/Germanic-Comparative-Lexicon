@@ -54,7 +54,3 @@ Compare Ancient Greek -ονες (-ones) and Sanskrit -आनस् (-ānas).
   - **Danish:** -e
   - **Old Frisian:** -ar — _borrowed; uncertain_
 - **Gothic:** -𐌰𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

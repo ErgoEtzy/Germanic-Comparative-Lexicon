@@ -102,7 +102,3 @@
   - **Danish:** bedre
     - **Norwegian Bokmål:** bedre
 - **Gothic:** 𐌱𐌰𐍄𐌹𐌶𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

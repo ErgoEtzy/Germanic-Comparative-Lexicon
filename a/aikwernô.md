@@ -284,7 +284,3 @@ From Proto-Indo-European *wer- (“squirrel”). The first component may be Prot
       - **Norwegian Bokmål:** egern — _Riksmål_
   - **Gutnish:** eikånn
   - **Scanian:** igarne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

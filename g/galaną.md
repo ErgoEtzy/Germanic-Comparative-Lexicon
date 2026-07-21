@@ -141,7 +141,3 @@ From Proto-Indo-European *gʰel- (“to shout, cry”).
     - **Swedish:** gala
     - **Swedish:** gall — _verbal noun_
     - **Swedish:** gallra — _derivation_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

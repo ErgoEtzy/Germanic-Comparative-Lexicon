@@ -124,7 +124,3 @@ From *traustaz (“firm, reliable”) + *-janą or *traustą (“aid, shelter”
   - **Middle English:** tryst — _borrowed_ — _through a non-Germanic route_
     - **English:** tryst
     - **Scots:** tryst
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

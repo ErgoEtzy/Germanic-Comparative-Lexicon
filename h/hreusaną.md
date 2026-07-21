@@ -101,7 +101,3 @@ Probably from Proto-Indo-European *krows- (“to bump, strike, push”); related
   - **Norwegian:** 
     - **Nynorsk:** rjosa
   - **Swedish:** rysa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

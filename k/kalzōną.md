@@ -126,7 +126,3 @@ Possibly derived from an unattested noun *kalzaz, cognate with Proto-Balto-Slavi
   - **Old Danish:** kallæ
     - **Danish:** kalde
       - **Norwegian Bokmål:** kalle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

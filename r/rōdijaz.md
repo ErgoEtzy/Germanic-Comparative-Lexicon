@@ -104,7 +104,3 @@ Derived from *rōdijaną (“to speak, talk about”).
 - **Old Norse:** fjǫlrǿðr
   - **Icelandic:** ræður
   - **Icelandic:** fjölræður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

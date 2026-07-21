@@ -99,7 +99,3 @@ From Proto-Indo-European *h₁s-n̥t-yós, from *h₁sónts, participial of *h�
 
 - **Gothic:** 𐍃𐌿𐌽𐌾𐌹𐍃
 - **Gothic:** 𐍃𐌿𐌽𐌾𐌰𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

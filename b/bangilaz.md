@@ -72,7 +72,3 @@ From *bangōną (“to bang, pound, beat”) + *-ilaz.
     - **Middle High German:** bengel
       - **German:** Bengel
 - **Old Norse:** bǫngull
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

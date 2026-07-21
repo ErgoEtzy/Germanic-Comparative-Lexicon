@@ -53,7 +53,3 @@ From Proto-Indo-European *kéHy-os, from *keHy- (“to be hot”).
     - **Old High German:** gehei — _reshaped by analogy or addition of morphemes_
       - **Alemannic German:** gehei
 - **Gothic:** 𐌷𐌰𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

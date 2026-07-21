@@ -204,7 +204,3 @@ From earlier *pulnos, from Proto-Indo-European *pl̥h₁nós, the original past 
   - **Danish:** fuld
     - **Norwegian Bokmål:** full
 - **Gothic:** 𐍆𐌿𐌻𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

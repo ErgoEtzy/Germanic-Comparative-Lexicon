@@ -146,7 +146,3 @@ From Pre-Germanic *dḿ̥tis, equivalent to *temaną (“to befit”) + *-þiz.
   - **Old English:** toft — _borrowed_
     - **Middle English:** toft
       - **English:** toft
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

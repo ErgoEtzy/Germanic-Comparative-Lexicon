@@ -99,7 +99,3 @@ From pre-Germanic *spreyt-, of uncertain origin, with no certain cognates outsid
   - **Old High German:** sprīzan
     - **Middle High German:** sprīden
     - **Middle High German:** sprīten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

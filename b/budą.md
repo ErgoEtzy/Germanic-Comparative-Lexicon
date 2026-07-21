@@ -77,7 +77,3 @@ Derived from *beudaną (“to command; to offer”).
     - **Old Danish:** both
       - **Danish:** bud
         - **Norwegian Bokmål:** bud
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

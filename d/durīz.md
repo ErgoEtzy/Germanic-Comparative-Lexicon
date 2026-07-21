@@ -54,7 +54,3 @@ Reformed as a feminine i-stem from earlier *durī, from Pre-Germanic *dʰúrih�
   - **Scanian:** dør
   - **Elfdalian:** dörer — _f pl_
   - **Elfdalian:** dörum
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

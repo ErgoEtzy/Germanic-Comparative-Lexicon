@@ -98,8 +98,4 @@ From *wesaną (“to consume, feast”) + *-þiz.
   - **Faroese:** vist
   - **Old Swedish:** vist
     - **Swedish:** hemvist — _reshaped by analogy or addition of morphemes_
-- **Gothic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Gothic:**

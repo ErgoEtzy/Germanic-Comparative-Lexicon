@@ -26,7 +26,3 @@ From *þeudō (“nation, people”) + *wulfaz (“wolf”).
   - **Old High German:** Diudolf
 - **Old Norse:** Þjóðólfr
   - **Icelandic:** Þjóðólfur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

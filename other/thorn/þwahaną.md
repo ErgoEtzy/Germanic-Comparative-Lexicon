@@ -145,7 +145,3 @@ From pre-Germanic *twók-e-ti, of unclear further origin; possibly related to Ol
   - **Old Danish:** tho
     - **Danish:** to
 - **Gothic:** 𐌸𐍅𐌰𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

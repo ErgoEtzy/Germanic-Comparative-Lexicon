@@ -111,7 +111,3 @@ Kroonen derives the term from Proto-Indo-European *dʰóbʰ-e-, an o-grade prese
   - **Icelandic:** dafna
 - **Gothic:** 𐌲𐌰𐌳𐌰𐌱𐌰𐌽 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *gadabaną — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

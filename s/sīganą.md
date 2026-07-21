@@ -116,7 +116,3 @@ According to Orel, a variant of *sīhwaną, which is from Proto-Indo-European *s
     - **Swedish:** siga
   - **Old Danish:** sighæ
     - **Danish:** sige
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

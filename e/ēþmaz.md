@@ -608,7 +608,3 @@ From Proto-Indo-European *h₁eh₁tmén (“breath”). Compare Sanskrit आत
       - **German:** Odem — _influenced by Low German_
       - **Hunsrik:** Ochtem
       - **Yiddish:** אָטעם
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

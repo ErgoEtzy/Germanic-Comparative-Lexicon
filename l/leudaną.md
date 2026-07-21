@@ -103,7 +103,3 @@ From Proto-Indo-European *h₁léwdʰ-e-ti, from *h₁lewdʰ- (“to grow; peopl
   - **Danish:** lodden
     - **Norwegian Bokmål:** lodden
 - **Gothic:** 𐌻𐌹𐌿𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

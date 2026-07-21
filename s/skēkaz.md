@@ -90,7 +90,3 @@ From Proto-Indo-European *skeg- (“to jump; move”).
     - **German:** Schächer
   - **Middle High German:** schāchære
     - **German:** Schächer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

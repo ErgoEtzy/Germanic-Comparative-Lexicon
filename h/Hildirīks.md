@@ -40,7 +40,3 @@ From *hildiz (“battle, fight”) + *rīks (“king, ruler”).
 
 - **Proto-West Germanic:** *Hildirīk
 - **Vandalic:** *Hildirīx
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

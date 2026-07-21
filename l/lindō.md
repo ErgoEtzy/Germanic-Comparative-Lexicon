@@ -109,7 +109,3 @@ Has also been compared to Albanian lëndë (“wood, material”), Lithuanian le
   - **Old Swedish:** lind
     - **Swedish:** lind
   - **Danish:** lind
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

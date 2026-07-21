@@ -66,7 +66,3 @@ From pre-Germanic *moyryom, from Proto-Indo-European *moyro-, from *mey- (“to 
   - **Old Swedish:** landamǣre
     - **Swedish:** landamäre
   - **Old Danish:** landemæræ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

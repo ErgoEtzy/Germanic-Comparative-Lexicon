@@ -99,7 +99,3 @@ From *fra- + *kweþaną.
 - **Old Norse:** fyrirkveða
   - **Icelandic:** fyrirkveða
 - **Gothic:** 𐍆𐍂𐌰𐌵𐌹𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

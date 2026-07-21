@@ -120,7 +120,3 @@ Per Vasmer, the above root *drunjuz is perhaps ultimately from an imitative Prot
   - **Icelandic:** drynja
   - **Norwegian:** drynja
   - **Danish:** drøne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

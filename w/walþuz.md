@@ -185,7 +185,3 @@ Possibly from a Proto-Indo-European *wel-, in which case it would be cognate wit
       - **Norwegian Bokmål:** voll
     - **Danish:** val
       - **Norwegian Bokmål:** voll
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -97,7 +97,3 @@ Likely derived from an unattested adjective *rahtaz + *-ōną, seemingly an o-gr
   - **Old High German:** *rahtōn
     - **Middle High German:** rahten
 - **Gothic:** 𐍂𐌰𐌷𐍄𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

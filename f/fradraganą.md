@@ -117,7 +117,3 @@ From *fra- (“for-”) + *draganą (“to draw”).
     - **Cimbrian:** vortràgan
     - **German:** vertragen
     - **Luxembourgish:** verdroen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

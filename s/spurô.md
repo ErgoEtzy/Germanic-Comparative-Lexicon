@@ -284,7 +284,3 @@ From Proto-Indo-European *sperH- (“to twitch, push, fidget, be quick”).
   - **Swedish:** sporre
   - **Danish:** spore
 - **Gothic:** *𐍃𐍀𐌰𐌿𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

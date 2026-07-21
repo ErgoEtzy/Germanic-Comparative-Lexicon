@@ -114,7 +114,3 @@ Uncertain. Probably from Proto-Indo-European *(s)kreb- (“to turn, bend, shrink
   - **Old Swedish:** harpa
     - **Swedish:** harpa
   - **Danish:** harpe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

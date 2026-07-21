@@ -58,7 +58,3 @@ From Proto-Indo-European *dʰayleh₂, from *dʰayl- (“part, watershed”). Se
   - **Danish:** del
   - **Danish:** dele
 - **Gothic:** 𐌳𐌰𐌹𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -119,7 +119,3 @@ Derived from Proto-Indo-European *men- (“to think”).
     - **Middle High German:** manen
       - **German:** mahnen
       - **Yiddish:** מאָנען
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

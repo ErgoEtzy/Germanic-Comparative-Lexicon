@@ -106,7 +106,3 @@ From a variant or development of the root found in Proto-Indo-European *kʷos + 
   - **Danish:** ikke
   - **Danish:** aldrig
   - **Danish:** ej
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -118,7 +118,3 @@ From Proto-Indo-European *twenk- (“to squeeze, press, pack; pressure”). Cogn
     - **Norwegian Nynorsk:** tvinga
     - **Norwegian Nynorsk:** tvinge
   - **Middle English:** twingen — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

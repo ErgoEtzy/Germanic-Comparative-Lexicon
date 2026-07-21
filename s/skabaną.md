@@ -165,7 +165,3 @@ From Proto-Indo-European *skábʰ-e-, present tense of Proto-Indo-European *skab
   - **Scots:** skave — _borrowed_
   - **Scots:** skaave — _borrowed_
 - **Gothic:** 𐍃𐌺𐌰𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -205,7 +205,3 @@ From *anô (“ancestor”) + *laibō (“remnant, legacy”) (shifted to the ma
     - **Danish:** Oluf
     - **English:** Olaf — _borrowed_
     - **Faroese:** Lávus — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

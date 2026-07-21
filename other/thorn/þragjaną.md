@@ -94,7 +94,3 @@ Apparently from a Proto-Indo-European *tregʰ-, which may be a variant of *dʰre
 - **Proto-West Germanic:** *þraggjan
   - **Old English:** þrægan
 - **Gothic:** 𐌸𐍂𐌰𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

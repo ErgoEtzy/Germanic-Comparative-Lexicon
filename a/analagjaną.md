@@ -120,7 +120,3 @@ From *ana- + *lagjaną.
   - **Old Swedish:** ālæggia
     - **Swedish:** ålägga
 - **Gothic:** 𐌰𐌽𐌰𐌻𐌰𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

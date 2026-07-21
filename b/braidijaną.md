@@ -149,7 +149,3 @@ From *braidaz (“broad”) + *-janą.
   - **Danish:** brede
 - **Gothic:** *𐌱𐍂𐌰𐌹𐌳𐌾𐌰𐌽
 - **Gothic:** 𐌿𐍃𐌱𐍂𐌰𐌹𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

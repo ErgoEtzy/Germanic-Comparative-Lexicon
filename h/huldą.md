@@ -65,7 +65,3 @@ From Proto-Indo-European *kel(H)-, whence also Proto-Celtic *kolanis (whence Wel
     - **Norwegian Nynorsk:** hold
   - **Old Swedish:** huld
     - **Swedish:** hull
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

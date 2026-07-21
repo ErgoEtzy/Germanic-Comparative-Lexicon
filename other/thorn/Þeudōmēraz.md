@@ -49,7 +49,3 @@ From *þeudō (“people”) + *mēraz (“famous”).
 - **Gothic:** *𐌸𐌹𐌿𐌳𐌰𐌼𐌴𐍂𐍃
   - **English:** Theodemer — _borrowed_ — _through a non-Germanic route_
   - **English:** Theodemer — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

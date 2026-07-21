@@ -12,7 +12,7 @@ Similar to the verb *pikkōną (“to pick, peck”) (or a secondary form of it)
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -70,7 +70,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Swedish:** pik
 - **Gothic:** *𐍀𐌴𐌹𐌺𐍃
   - **Gothic:** 𐍀𐌴𐌹𐌺𐌰𐌱𐌰𐌲𐌼𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

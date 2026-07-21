@@ -70,7 +70,3 @@ From Proto-Indo-European *mén-ti-s ~ *mn̥-téy-s (“thought”). Equivalent t
   - **Icelandic:** mynd
   - **Faroese:** mynd
   - **Swedish:** mynd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

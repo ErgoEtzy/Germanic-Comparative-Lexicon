@@ -99,7 +99,3 @@ From *wai (“woe”) + *mērijaz (“renowned, famous”).
 - **Gothic:** *𐍅𐌰𐌾𐌰𐌼𐌴𐍂𐌴𐌹𐍃
   - **Gothic:** 𐍅𐌰𐌾𐌰𐌼𐌴𐍂𐌴𐌹 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐍅𐌰𐌾𐌰𐌼𐌴𐍂𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

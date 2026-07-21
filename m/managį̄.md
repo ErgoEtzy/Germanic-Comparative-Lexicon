@@ -298,7 +298,3 @@ From *managaz (“many”) + *-į̄ (“nominal suffix”).
   - **Swedish:** mänge
   - **Danish:** mænge — _c_
 - **Gothic:** 𐌼𐌰𐌽𐌰𐌲𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

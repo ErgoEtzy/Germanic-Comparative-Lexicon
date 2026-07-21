@@ -43,7 +43,3 @@ From Proto-Indo-European *-eh₂ey (eh₂-stem dative singular), from *-eh₂ (e
   - **Middle Norwegian:** -o
   - **Old Swedish:** -o
 - **Gothic:** -𐌰𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

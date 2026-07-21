@@ -64,7 +64,3 @@ From Proto-Indo-European *múHtrom (“excrement, filth”).
     - **Afrikaans:** modder
   - **Dutch:** moeder — _dialectal_
     - **Afrikaans:** modder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -106,7 +106,3 @@ From some derivative of Proto-Indo-European *bʰel- (“shiny, white”).
     - **Middle High German:** blas
       - **German:** blass
       - **German:** blaß — _superseded_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

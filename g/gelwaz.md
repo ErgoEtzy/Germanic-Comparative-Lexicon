@@ -661,7 +661,3 @@ From Proto-Indo-European *ǵʰelh₃wós, from *ǵʰelh₃- (“green, yellow”
     - **Gutnish:** gull — _n_
   - **Gothic:** 𐌲𐌿𐌻𐌸
   - **Crimean Gothic:** goltz
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

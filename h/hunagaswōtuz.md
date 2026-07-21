@@ -101,7 +101,3 @@ From *hunagą (“honey”) + *swōtuz (“sweet”).
 - **Middle Dutch:** honichsoet
 - **Middle High German:** honecsüeze
 - **Old Norse:** hunangsœtr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -178,7 +178,3 @@ From *fleuhaną (“to flee”) + *-janą.
   - **Old High German:** *flougen
     - **Middle High German:** vlougen
     - **Middle High German:** flougen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

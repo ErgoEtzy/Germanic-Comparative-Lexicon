@@ -229,7 +229,3 @@ From Proto-Indo-European *tewtéh₂ (“tribe”).
 - **Gothic:** 𐌸𐌹𐌿𐌳𐌰
 - **Vandalic:** *þeuðo
 - **Vandalic:** *þeuðō
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

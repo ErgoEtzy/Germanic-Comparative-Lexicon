@@ -99,7 +99,3 @@ Derived from *maganą (“power, a variant of *maginą”) + *-ōną.
     - **Old High German:** ubarmaganōn — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** magna
   - **Icelandic:** magna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

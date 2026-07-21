@@ -107,7 +107,3 @@ From *aba- + *nemaną.
 - **Old Norse:** afnema
   - **Icelandic:** afnema
 - **Gothic:** 𐌰𐍆𐌽𐌹𐌼𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

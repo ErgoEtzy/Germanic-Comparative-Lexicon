@@ -208,7 +208,3 @@ From Proto-Indo-European *h₂eh₂óyḱe, from *h₂eyḱ- (“ability, posses
   - **Scanian:** æğa
 - **Gothic:** 𐌰𐌹𐌲𐌰𐌽
 - **Gothic:** 𐌰𐌹𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

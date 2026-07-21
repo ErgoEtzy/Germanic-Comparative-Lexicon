@@ -108,7 +108,3 @@ From Proto-Indo-European *ǵab-, *ǵeb- (“to look after”). Cognate with Lith
   - **Icelandic:** kópa
   - **Norwegian Bokmål:** kope
   - **Norwegian Nynorsk:** kope
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

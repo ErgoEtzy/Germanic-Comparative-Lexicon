@@ -131,7 +131,3 @@ From Proto-Indo-European *dʰórh₃-eh₂, from *dʰerh₃- (“to leap, spring
   - **Old Dutch:** *dara — _inherited; uncertain_
     - **Middle Dutch:** dāre — _possibly derived from Middle Dutch dāren < Proto-West Germanic *darōn_
   - **Old High German:** tara
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

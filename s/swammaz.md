@@ -319,7 +319,3 @@ See also *sumpaz (“swamp”). This along with the variants *swambaz (Old High 
     - **Danish:** sop
       - **Norwegian Bokmål:** svamp
 - **Gothic:** 𐍃𐍅𐌰𐌼𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

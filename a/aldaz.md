@@ -1146,7 +1146,3 @@ From Proto-Indo-European *h₂eltós, from *h₂el- (“to grow, nourish”); eq
   - **Icelandic:** aldinn
 - **Gothic:** 𐌰𐌻𐌸𐌴𐌹𐍃
 - **Crimean Gothic:** alt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

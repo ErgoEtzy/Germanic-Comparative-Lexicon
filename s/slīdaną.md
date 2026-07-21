@@ -119,7 +119,3 @@ From Proto-Indo-European *sléydʰ-e-ti, from *sleydʰ- (“slippery”). Cognat
     - **Middle Dutch:** slīden
   - **Old High German:** slītan
     - **Middle High German:** slīten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

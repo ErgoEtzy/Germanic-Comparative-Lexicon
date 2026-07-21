@@ -186,7 +186,3 @@ From earlier *þunwuz, from Proto-Indo-European *tn̥h₂wús, variant of *ténh
     - **Danish:** tynd
   - **Gutnish:** tunnar
   - **Scanian:** tynðer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

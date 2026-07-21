@@ -59,7 +59,3 @@ From Proto-Indo-European *selh₁- (“to take, grab”). Cognate with Lithuania
       - **Scots:** saill
       - **Scots:** seall
       - **English:** sale
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

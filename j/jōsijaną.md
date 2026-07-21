@@ -95,7 +95,3 @@ From otherwise unattested *jōsiz (“tumultuous”) + *-janą, which is the v�
   - **Icelandic:** æsa
   - **Faroese:** øsa
   - **Norwegian Nynorsk:** øsa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

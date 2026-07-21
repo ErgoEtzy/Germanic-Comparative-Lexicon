@@ -227,7 +227,3 @@ However, according to Martirosyan “we are hardly dealing with a Proto-Indo-Eur
   - **Danish:** fast
 - **Gothic:** *𐍆𐌰𐍃𐍄𐍃
 - **Vandalic:** *fast-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

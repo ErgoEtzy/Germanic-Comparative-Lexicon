@@ -124,7 +124,3 @@ From *feþur- + *-falþaz.
 - **Old Norse:** ferfaldr
   - **Icelandic:** ferfaldur
 - **Gothic:** 𐍆𐌹𐌳𐌿𐍂𐍆𐌰𐌻𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -264,7 +264,3 @@ The present stem is an n-infixed stem derived from the innovated past tense, Pre
   - **Old Danish:** 
     - **Danish:** stande — _poetic_
 - **Gothic:** 𐍃𐍄𐌰𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

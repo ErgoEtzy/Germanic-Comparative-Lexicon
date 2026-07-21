@@ -120,7 +120,3 @@ From *sakō (“quarrel, charge; case; lawsuit, thing; matter”) + *-lausaz.
     - **Old Danish:** saglø̄s
       - **Danish:** sagesløs
         - **Norwegian Bokmål:** sakesløs
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

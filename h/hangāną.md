@@ -125,7 +125,3 @@ From *hanhaną (“to hang”) + *-āną.
   - **Old Danish:** hængæ — _merger with hengja_
     - **Danish:** hænge
 - **Gothic:** 𐌷𐌰𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

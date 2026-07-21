@@ -95,7 +95,3 @@ From *skammaz (“short, blunt”) + *-janą.
   - **Old High German:** skemmen
 - **Old Norse:** skemma
   - **Icelandic:** skemma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

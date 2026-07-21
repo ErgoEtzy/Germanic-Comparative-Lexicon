@@ -48,7 +48,3 @@ From *fadēr + *banô, from Proto-Indo-European *ph₂tr̥-gʷʰon-ō, ultimatel
 - **Old Norse:** fǫðurbani
   - **Icelandic:** föðurbani
   - **Faroese:** faðirbani
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

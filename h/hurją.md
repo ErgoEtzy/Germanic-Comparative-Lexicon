@@ -47,7 +47,3 @@ From Proto-Indo-European *krh₃-yo-m, from *kerh₃- (“to burn”), whence al
 ### Germanic descendants
 
 - **Gothic:** 𐌷𐌰𐌿𐍂𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

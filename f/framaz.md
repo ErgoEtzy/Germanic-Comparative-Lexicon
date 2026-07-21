@@ -103,7 +103,3 @@ From Proto-Indo-European *prómos (“leading”), derived from Proto-Indo-Europ
   - **Old English:** fram
   - **Middle High German:** fram
 - **Old Norse:** framr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

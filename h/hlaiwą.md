@@ -63,7 +63,3 @@ From Proto-Indo-European *ḱloy-wo-m, from *ḱley- (“to lean; slope”).
   - **Old High German:** lēo
 - **Proto-Norse:** ᚺᛚᚨᛁᚹᚨ
 - **Gothic:** 𐌷𐌻𐌰𐌹𐍅
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

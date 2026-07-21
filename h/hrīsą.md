@@ -83,7 +83,3 @@ From Proto-Indo-European *(s)kreys- (“to turn; bend; wind; shake”).
   - **Old Swedish:** rīs
     - **Swedish:** ris
   - **Danish:** ris
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

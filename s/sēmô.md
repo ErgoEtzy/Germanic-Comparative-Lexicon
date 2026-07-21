@@ -65,7 +65,3 @@ From earlier *sēmâ, from Proto-Indo-European *séh₁mn̥ (“seed”); thus e
       - **Luxembourgish:** Som
       - **Vilamovian:** zöma
       - **Yiddish:** זוימען
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

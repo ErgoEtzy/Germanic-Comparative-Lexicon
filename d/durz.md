@@ -234,7 +234,3 @@ Likely back-formed from *dʰur-ih₁, an old neuter dual form, from Proto-Indo-E
   - **Danish:** dør
   - **Gutnish:** dur
   - **Gutnish:** duri
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

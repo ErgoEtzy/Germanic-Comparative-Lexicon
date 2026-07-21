@@ -97,7 +97,3 @@ A nominal formation from Proto-Indo-European *sekʷ- (“to say”).
   - **English:** saga — _borrowed_
     - **Afrikaans:** saga — _borrowed_
   - **German:** Saga — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

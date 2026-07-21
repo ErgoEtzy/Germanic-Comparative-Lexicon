@@ -64,7 +64,3 @@ Uncertain. Perhaps from Proto-Indo-European *(s)tur-, *(s)twer- (“to turn arou
   - **Icelandic:** styrr
   - **Icelandic:** styr
   - **Norwegian Nynorsk:** styr — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

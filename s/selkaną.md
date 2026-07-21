@@ -122,7 +122,3 @@ From Proto-Indo-European *selǵ- (“to let go, send”), Cognate with Sanskrit 
     - **Old High German:** irselkan — _reshaped by analogy or addition of morphemes_
   - **Old High German:** giselkēn — _reshaped by analogy or addition of morphemes_
   - **Old High German:** selkenēn — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

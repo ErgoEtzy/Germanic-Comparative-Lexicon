@@ -332,7 +332,3 @@ From Proto-Indo-European *kówk-o-s, from Proto-Indo-European *kewk- (“to elev
     - **Gutnish:** hau
 - **Gothic:** 𐌷𐌰𐌿𐌷𐍃
 - **Vandalic:** *oas
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

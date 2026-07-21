@@ -172,7 +172,3 @@ Compare also Ashkun kāṭ (“strength”), Kamkata-viri koṭ (“strength”)
     - **Danish:** hård
     - **Norwegian Bokmål:** hård
 - **Gothic:** 𐌷𐌰𐍂𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -390,7 +390,3 @@ The displacement of unattested Proto-Germanic *urkundą, from Proto-Indo-Europea
     - **Scanian:** sølver
 - **Gothic:** 𐍃𐌹𐌻𐌿𐌱𐍂
 - **Crimean Gothic:** silvir
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

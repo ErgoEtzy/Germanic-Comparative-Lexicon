@@ -89,7 +89,3 @@ From *steupaz (“pushed away; cut off; abandoned; deserted; orphaned”), from 
   - **Danish:** stiv-
   - **Danish:** stif-
   - **Danish:** sted-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -107,7 +107,3 @@ From Proto-Indo-European *swelH- (“to burn”). Cognate with Lithuanian svi̇�
       - **Dutch:** zwelen
   - **Old High German:** *swelan
     - **Old High German:** erswelan — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

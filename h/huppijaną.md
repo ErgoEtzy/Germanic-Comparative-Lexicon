@@ -118,7 +118,3 @@ a Proto-Indo-European *kup-; see there for more.
       - **German:** hüpfen
 - **Proto-Norse:** 
   - **Old Norse:** *hyppa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

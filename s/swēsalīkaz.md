@@ -107,7 +107,3 @@ From *swēsaz + *-līkaz.
   - **Old High German:** swāslīh
 - **Old Norse:** svásligr
   - **Icelandic:** sváslegur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

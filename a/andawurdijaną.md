@@ -131,7 +131,3 @@ From *andawurdiją (“answer”) + *-janą.
       - **Luxembourgish:** äntweren
       - **Yiddish:** ענטפֿערן
 - **Gothic:** 𐌰𐌽𐌳𐍅𐌰𐌿𐍂𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

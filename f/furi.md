@@ -128,7 +128,3 @@ From Pre-Germanic *pr̥h₂-i, from Proto-Indo-European *preh₂- (“before, in
   - **Old Danish:** fyr
     - **Danish:** for
 - **Gothic:** 𐍆𐌰𐌿𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

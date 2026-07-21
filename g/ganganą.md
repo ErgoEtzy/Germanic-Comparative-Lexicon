@@ -144,7 +144,3 @@ From Proto-Indo-European *ǵʰengʰ- (“to walk, step”). Cognate with Lithuan
     - **Norwegian Bokmål:** gange — _archaic_
   - **Old Gutnish:** ganga
 - **Gothic:** 𐌲𐌰𐌲𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

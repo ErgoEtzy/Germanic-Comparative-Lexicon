@@ -172,7 +172,3 @@ Probably from a Proto-Indo-European *ǵʰreh₁- (“to glow, be visible”), an
   - **Gutnish:** grar
   - **Gutnish:** gra
   - **Gutnish:** graur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

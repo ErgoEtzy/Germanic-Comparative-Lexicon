@@ -12,7 +12,7 @@ Possibly from the same source as *mauraz.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -75,7 +75,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Swedish:** mørastakker
     - **Swedish:** myra
 - **Crimean Gothic:** miera
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -53,7 +53,3 @@ From Pre-Germanic *gʰlów-mo-s, a mo-stem noun from Proto-Indo-European *gʰlew
     - **Scots:** glamer
 - **Old Norse:** glaumr
   - **Icelandic:** glaumur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

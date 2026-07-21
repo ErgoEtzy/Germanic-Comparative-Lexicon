@@ -58,7 +58,3 @@ From *bernuz (“bear”) + *harduz (“hard, brave”).
   - **Icelandic:** Bjarnharður
   - **Icelandic:** Bernharður
   - **Icelandic:** Bernarður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

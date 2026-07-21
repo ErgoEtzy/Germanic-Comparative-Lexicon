@@ -84,7 +84,3 @@ Uncertain. Possibly related to *spōk, from Proto-Indo-European *(s)pāuǵ-, *(s
   - **English:** bucca — _borrowed_ — _through a non-Germanic route_
   - **English:** pooka — _borrowed_ — _through a non-Germanic route_
   - **English:** puka — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

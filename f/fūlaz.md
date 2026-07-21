@@ -134,7 +134,3 @@ From Proto-Indo-European *púH-lo-s, from *puH- (“to be rotten; putrid”). Co
   - **Danish:** ful
   - **Gutnish:** fäul
 - **Gothic:** 𐍆𐌿𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

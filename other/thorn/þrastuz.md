@@ -52,7 +52,3 @@ From Proto-Indo-European *trosdos (“thrush (bird)”). See Proto-West Germanic
   - **Norwegian:** trast
   - **Swedish:** trast
   - **Danish:** trost
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

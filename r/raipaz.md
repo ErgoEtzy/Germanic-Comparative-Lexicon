@@ -120,7 +120,3 @@ Apparently from a quasi-Indo-European *h₁royp-nó-s (“band, strip, strap”)
     - **Norwegian Bokmål:** rep
 - **Gothic:** *𐍂𐌰𐌹𐍀𐍃
 - **Gothic:** 𐍃𐌺𐌰𐌿𐌳𐌰𐍂𐌰𐌹𐍀𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

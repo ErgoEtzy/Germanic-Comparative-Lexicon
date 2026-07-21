@@ -141,7 +141,3 @@ Cognate with Proto-Celtic *reideti (“to ride”) (whence Old Irish réidid (�
     - **Gutnish:** reide
     - **Gutnish:** reid'
     - **Gutnish:** reida
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

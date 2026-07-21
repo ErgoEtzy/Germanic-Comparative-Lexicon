@@ -103,7 +103,3 @@ From Proto-Indo-European *knewH-e-ti, from *kneh₂- (“to scrape, scratch, rub
   - **Elfdalian:** negga
 - **Old Norse:** hnyggja
   - **Elfdalian:** negga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

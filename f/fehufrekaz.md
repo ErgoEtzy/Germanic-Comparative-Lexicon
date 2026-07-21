@@ -101,7 +101,3 @@ From *fehu (“money”) + *frekaz (“greedy”).
 
 - **Old Norse:** féfrekr
 - **Gothic:** 𐍆𐌰𐌹𐌷𐌿𐍆𐍂𐌹𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -121,7 +121,3 @@ From Proto-Indo-European *kh₂póneh₂ or *kh₂pnéh₂, from the root *kap- 
     - **Swedish:** hamn
   - **Danish:** havn
     - **Norwegian Bokmål:** havn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

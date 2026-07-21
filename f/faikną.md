@@ -66,7 +66,3 @@ From Proto-Indo-European *peyǵ- (“evil, fiendish”).
     - **Middle High German:** veichen
 - **Old Norse:** feikn
   - **Icelandic:** feikn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

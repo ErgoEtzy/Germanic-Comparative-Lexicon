@@ -142,7 +142,3 @@ From Proto-Indo-European *(s)meld- (â€œto beat, grind, crush, soften, make weakâ
   - **Old Swedish:** smultna
     - **Swedish:** smulta
     - **Swedish:** smylta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -103,7 +103,3 @@ Uncertain. Possibly representing a sigmatic aorist or s-extension to Proto-Indo-
   - **Swedish:** gjösa
   - **Gutnish:** gjausa
   - **Danish:** gyse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -60,7 +60,3 @@ From Proto-Indo-European *(s)neh₁- (“to spin; sew”). Cognate with Ancient 
 - **Old High German:** nāt
   - **Middle High German:** nāt
     - **German:** Naht
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

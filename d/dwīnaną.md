@@ -118,7 +118,3 @@ According to Orel, from Proto-Indo-European *dʰwey- (“to slip away; dwindle; 
   - **Icelandic:** dvína
   - **Faroese:** dvína
   - **Swedish:** tvina
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

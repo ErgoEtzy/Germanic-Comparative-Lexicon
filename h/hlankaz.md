@@ -103,7 +103,3 @@ Perhaps from Proto-Indo-European *kleng-, *klenk- (“to bend; wind; twist”), 
     - **English:** lank
       - **English:** lanky — _reshaped by analogy or addition of morphemes_
     - **Scots:** lank
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

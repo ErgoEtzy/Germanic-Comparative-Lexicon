@@ -118,7 +118,3 @@ From *uber- + *wahsijaną.
     - **Middle High German:** überwahsen
       - **German:** überwachsen
 - **Gothic:** 𐌿𐍆𐌰𐍂𐍅𐌰𐌷𐍃𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

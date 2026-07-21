@@ -121,7 +121,3 @@ From Pre-Germanic *péth₂reh₂, extended from the nominative stem of the Prot
       - **Yiddish:** פֿעדער
     - **Cimbrian:** fòdara — _borrowed_ — _through a non-Germanic route_
 - **Old Norse:** fjǫðr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -323,7 +323,3 @@ From early *péku, from Proto-Indo-European *péḱu (“livestock”).
         - **Norwegian Bokmål:** fe
 - **Gothic:** 𐍆𐌰𐌹𐌷𐌿
 - **Gothic:** 𐍆𐌰𐌹𐌷𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

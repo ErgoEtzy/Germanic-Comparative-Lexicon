@@ -138,7 +138,3 @@ From *uz- + *laubijaną.
       - **German:** erlauben
         - **Saterland Frisian:** ärlaubje — _borrowed_
 - **Gothic:** 𐌿𐍃𐌻𐌰𐌿𐌱𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

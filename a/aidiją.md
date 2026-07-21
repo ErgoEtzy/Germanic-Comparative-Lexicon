@@ -71,7 +71,3 @@ Ultimately derived from Proto-Indo-European *h₁ey- (“to go”). Kroonen sugg
   - **Old Swedish:** ēþ
     - **Swedish:** ed
   - **English:** eid — _dialectal; borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

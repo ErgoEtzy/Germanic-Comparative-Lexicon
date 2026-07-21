@@ -50,7 +50,3 @@ From *aitaz + *-ilaz.
 - **Old Norse:** eitill
   - **Faroese:** eitil
   - **Icelandic:** eitill
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

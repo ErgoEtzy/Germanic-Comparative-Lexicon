@@ -50,7 +50,3 @@ From Proto-Indo-European *wrēto- (“multitude, crowd, troop, company”), from
 - **Old Norse:** ráði
   - **Old Danish:** vrāth
 - **Gothic:** 𐍅𐍂𐌹𐌸𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

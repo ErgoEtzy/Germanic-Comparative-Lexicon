@@ -119,7 +119,3 @@ Vṛddhi gerundive of otherwise unattested *feraną, from Proto-Indo-European *p
 - **Old High German:** *fāri
 - **Old High German:** langfāri
 - **Old High German:** lancfāri
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

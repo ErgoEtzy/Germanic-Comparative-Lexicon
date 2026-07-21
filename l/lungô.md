@@ -77,7 +77,3 @@ From Proto-Indo-European *h₁ln̥gʷʰ-on-, a neuter n-stem nominal formation f
   - **Danish:** lunge — _c_
   - **Gutnish:** lungge
   - **Gutnish:** lunggå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

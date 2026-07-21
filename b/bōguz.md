@@ -102,7 +102,3 @@ From Proto-Indo-European *bʰeh₂ǵʰús (“arm”).
   - **Danish:** boug — _in the nautical sense formerly_
     - **Norwegian Bokmål:** baug
       - **Norwegian Nynorsk:** baug — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

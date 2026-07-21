@@ -74,7 +74,3 @@ Possibly from a Pre-Germanic *kr̥k-wo-, which Kroonen suggests might be connect
       - **German:** Hor
 - **Old Norse:** horr
   - **Icelandic:** hor
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

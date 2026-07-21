@@ -203,7 +203,3 @@ From Proto-Indo-European *ḱeywo- (“trusted; familiar”), from Proto-Indo-Eu
     - **Old Swedish:** ohyris
       - **Swedish:** ohyra
     - **Danish:** uhyre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

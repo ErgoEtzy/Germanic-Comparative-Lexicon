@@ -104,7 +104,3 @@ From *skeraną (“to shave, shear”) + *-janą.
     - **Middle High German:** scheren
 - **Gothic:** *𐍃𐌺𐌰𐍂𐌾𐌰𐌽
   - **Gothic:** 𐌿𐍃𐍃𐌺𐌰𐍂𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

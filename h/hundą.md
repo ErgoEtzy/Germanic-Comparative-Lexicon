@@ -64,7 +64,3 @@ From earlier *humdan, from Proto-Indo-European *ḱm̥tóm (“hundred”). Cogn
   - **Old Norse:** Fjaðryndaland — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** Tíundaland — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌷𐌿𐌽𐌳
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

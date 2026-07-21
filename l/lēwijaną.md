@@ -119,7 +119,3 @@ From *lēwą (“occasion, opportunity”) + *-janą.
     - **Old High German:** gilāwen — _reshaped by analogy or addition of morphemes_
     - **Old High German:** gilāen — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌻𐌴𐍅𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

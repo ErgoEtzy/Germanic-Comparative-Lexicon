@@ -302,7 +302,3 @@ From Proto-Indo-European *wers- (“to protrude; peak, excrescence”). Cognate 
       - **West Flemish:** warre
 - **Old Norse:** 
   - **Elfdalian:** weer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

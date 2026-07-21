@@ -49,7 +49,3 @@ From Proto-Indo-European *storbʰ-o-, from *sterbʰ- (“to be stiff, become sti
 - **Old Norse:** starf
   - **Faroese:** starv
   - **Icelandic:** starf
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -129,7 +129,3 @@ From Pre-Germanic *mn̥-dʰh₁-ró-s, from Proto-Indo-European *men(s)dʰh₁- 
         - **Plautdietsch:** munta — _borrowed_
         - **Saterland Frisian:** munter — _borrowed_
         - **Swedish:** munter — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -50,7 +50,3 @@ From Proto-Indo-European *ḱwenHdʰ-.
   - **Faroese:** hvonn — _f_
   - **Icelandic:** hvönn — _f_
   - **Swedish:** kvanne — _c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

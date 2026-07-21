@@ -132,7 +132,3 @@ Others have taken the word as a variant (with formative k) of *rūsōną (“to 
     - **Middle High German:** geriusche — _reshaped by analogy or addition of morphemes_
       - **Alemannic German:** Grüüsch
       - **German:** Geräusch
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

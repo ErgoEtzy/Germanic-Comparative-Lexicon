@@ -279,7 +279,3 @@ Uncertain, possibly from a Proto-Indo-European *Hréǵʰ-no-s, from a root *Hre�
 - **East Germanic:** 
   - **Gothic:** 𐍂𐌹𐌲𐌽
   - **Crimean Gothic:** reghen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

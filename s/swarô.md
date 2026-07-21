@@ -55,7 +55,3 @@ From *swarjaną + *-ô.
   - **Icelandic:** svari
 - **Gothic:** *𐍃𐍅𐌰𐍂𐌰
 - **Gothic:** 𐌿𐍆𐌰𐍂𐍃𐍅𐌰𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

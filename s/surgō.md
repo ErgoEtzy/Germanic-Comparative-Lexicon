@@ -145,7 +145,3 @@ From earlier *swurgō, from Proto-Indo-European *swergʰ- (“to watch over, wor
     - **Swedish:** sorg
   - **Danish:** sorg
 - **Gothic:** 𐍃𐌰𐌿𐍂𐌲𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

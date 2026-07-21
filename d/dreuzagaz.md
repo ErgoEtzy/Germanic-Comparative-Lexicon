@@ -236,7 +236,3 @@ From *dreuzaz (“liquid; blood”) + *-gaz (“-y, adjectival suffix”).
   - **Icelandic:** dreyrugur
 - **Old Norse:** dreyrugr
   - **Icelandic:** dreyrugur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

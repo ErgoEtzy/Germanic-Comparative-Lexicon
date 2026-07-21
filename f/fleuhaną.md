@@ -137,7 +137,3 @@ Probably from Proto-Indo-European *plewk-, enlargement of *plew- (“flow”), a
       - **Norwegian Bokmål:** fly
   - **Gutnish:** flöi
 - **Gothic:** 𐌸𐌻𐌹𐌿𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -117,7 +117,3 @@ From Proto-Indo-European *stengʷ- (“to push, thrust”).
   - **Norwegian:** stank — _inherited; uncertain_
   - **Swedish:** stank — _inherited; uncertain_
   - **Danish:** stank — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

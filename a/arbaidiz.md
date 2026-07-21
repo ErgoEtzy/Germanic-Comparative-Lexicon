@@ -610,7 +610,3 @@ From earlier *arbaiþiz. Apparently linked to a verb *arbijaną, *arbāną (“b
         - **Pennsylvania German:** Arewet
       - **Yiddish:** אַרבעט
 - **Gothic:** 𐌰𐍂𐌱𐌰𐌹𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

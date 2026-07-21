@@ -103,7 +103,3 @@ From Proto-Indo-European *séǵʰos (“the overpowering”), from root *seǵʰ-
   - **Gothic:** 𐍃𐌹𐌲𐌹𐍃
   - **Burgundian:** *sigis
   - **Vandalic:** *sigis
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

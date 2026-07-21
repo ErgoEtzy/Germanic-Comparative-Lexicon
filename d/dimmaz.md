@@ -162,7 +162,3 @@ According to Kroonen, from either Proto-Indo-European *dʰem(H)-nó-s or *dʰemb
   - **Norwegian:** dim
   - **Danish:** dim
   - **Old Swedish:** dimber
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

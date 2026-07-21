@@ -147,7 +147,3 @@ From Proto-Indo-European *dewk- (“to pull, lead”). Either a variant of *tukk
 - **Old Norse:** toga
   - **Icelandic:** toga
   - **Faroese:** toga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

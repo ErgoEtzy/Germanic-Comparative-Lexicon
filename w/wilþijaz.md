@@ -227,7 +227,3 @@ According to Kroonen, from Proto-Indo-European *welt-yo-s (“wild, savage”) (
   - **Old Swedish:** vilder — _reshaped by analogy or addition of morphemes; influenced by Old Saxon wildi_
     - **Swedish:** vild
 - **Gothic:** 𐍅𐌹𐌻𐌸𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

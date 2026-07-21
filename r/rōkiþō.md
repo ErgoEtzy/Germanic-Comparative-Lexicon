@@ -65,7 +65,3 @@ From *rōkijaną + *-iþō.
       - **Swedish:** rykta
     - **Danish:** røgte
       - **Norwegian Bokmål:** røkte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

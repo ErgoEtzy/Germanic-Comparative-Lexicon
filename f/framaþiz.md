@@ -575,7 +575,3 @@ From an unattested-in-descendants *framaþaz, related to *framaz (“forward, pr
       - **Vilamovian:** fremd
       - **Yiddish:** פֿרעמד
 - **Gothic:** 𐍆𐍂𐌰𐌼𐌰𐌸𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

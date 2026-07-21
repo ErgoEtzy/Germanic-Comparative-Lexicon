@@ -115,7 +115,3 @@ From *rekaną (“to rake”), from Proto-Indo-European *h₃reǵ- (“to straig
     - **Hunsrik:** Rechel
     - **Luxembourgish:** Reech
 - **Old Norse:** reka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

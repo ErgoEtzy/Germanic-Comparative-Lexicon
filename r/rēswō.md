@@ -49,7 +49,3 @@ From Proto-Indo-European *h₂reh₁dʰ-tweh₂, from *h₂reh₁dʰ- (“to arr
   - **Old English:** rǣs
   - **Middle Low German:** rassen — _reshaped by analogy or addition of morphemes; uncertain_
     - **Middle Low German:** rasselen — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

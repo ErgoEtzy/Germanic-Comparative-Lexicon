@@ -85,7 +85,3 @@ Derived from *stikaną (“to stick, stab”). An alternative theory derives the
   - **Old Swedish:** stokker
     - **Swedish:** stock
   - **Danish:** stok
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

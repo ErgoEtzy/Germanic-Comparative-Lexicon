@@ -101,7 +101,3 @@ Probably originally *streuganą, with -k- due to influence from the iterative *s
     - **Danish:** stryge
   - **Elfdalian:** striuoka
   - **Gutnish:** sträuke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

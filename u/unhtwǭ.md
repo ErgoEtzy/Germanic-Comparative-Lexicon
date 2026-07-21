@@ -123,7 +123,3 @@ From Pre-Germanic *n̥kʷ-tw-, derived from Proto-Indo-European *nókʷts (“ni
     - **Faroese:** óttast
     - **Norwegian Nynorsk:** ottast
 - **Gothic:** 𐌿𐌷𐍄𐍅𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

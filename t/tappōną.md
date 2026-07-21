@@ -125,7 +125,3 @@ From *tappô + *-ōną.
   - **Norwegian Nynorsk:** tappe
   - **Swedish:** tappa
   - **Danish:** tappe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

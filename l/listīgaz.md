@@ -120,7 +120,3 @@ From *listiz (“craft, cunning”) + *-gaz.
   - **Swedish:** listig
   - **Danish:** listig
 - **Gothic:** 𐌻𐌹𐍃𐍄𐌴𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

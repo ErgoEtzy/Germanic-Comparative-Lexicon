@@ -76,7 +76,3 @@ From Proto-Indo-European *wél-ti-s ~ *wl̥-téy-s, from *wel- (“to see”) + 
       - **Scots:** litt
       - **English:** lit
 - **Gothic:** 𐍅𐌻𐌹𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

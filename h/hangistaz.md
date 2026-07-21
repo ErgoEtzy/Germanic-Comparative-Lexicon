@@ -263,7 +263,3 @@ From Proto-Indo-European *ḱanḱestos, *kankestos (“horse”), with further 
     - **Gutnish:** häst
     - **Scots:** hest — _borrowed_
     - **Scots:** hesten — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

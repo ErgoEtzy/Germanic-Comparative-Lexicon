@@ -82,7 +82,3 @@ Substantive past participle of *ailijaną (“to kindle”).
     - **Scanian:** ílð
   - **Gutnish:** eld
   - **Gutnish:** ild
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

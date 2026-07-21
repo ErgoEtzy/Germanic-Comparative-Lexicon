@@ -69,7 +69,3 @@ From Proto-Indo-European *h₁engō, from *h₁eng-. Cognate with Proto-Slavic *
 - **Old Norse:** ekki
   - **Icelandic:** ekki
   - **Faroese:** ekki
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -66,7 +66,3 @@ From Proto-Indo-European *ǵʰey-, *ǵʰeh₂- (“to gape; yawn”).
   - **Lombardic:** *farageita — _reshaped by analogy or addition of morphemes_
     - **Old High German:** fārigaidus — _reshaped by analogy or addition of morphemes_ — _through a non-Germanic route_
 - **Gothic:** 𐌲𐌰𐌹𐌳𐍅
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

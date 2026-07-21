@@ -130,7 +130,3 @@ From *grimmaną (“to rage, be furious”) + *-janą or *gramaz (“furious”)
     - **Swedish:** gräma
   - **Danish:** græmme
 - **Gothic:** 𐌲𐍂𐌰𐌼𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

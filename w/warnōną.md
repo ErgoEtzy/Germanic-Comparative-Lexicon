@@ -122,7 +122,3 @@ From Proto-Indo-European *wer- (“to become aware; take heed”). Equivalent to
 - **Old Norse:** varna
   - **Old Swedish:** varna
     - **Swedish:** varna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

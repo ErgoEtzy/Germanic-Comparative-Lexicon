@@ -104,7 +104,3 @@ Attempts have been made to point the foregoing hypothetical verbs to Proto-Indo-
 - **Proto-West Germanic:** *figan
   - **Old English:** *fiġen
     - **Old English:** āfiġen — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

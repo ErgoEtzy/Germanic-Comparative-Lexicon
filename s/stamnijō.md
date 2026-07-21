@@ -91,7 +91,3 @@ From Pre-Germanic *stom(m)n-o-s, from Proto-Indo-European *stemn- (“mouth, muz
       - **Afrikaans:** stem
 - **Old High German:** stemma
 - **Old High German:** stemna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

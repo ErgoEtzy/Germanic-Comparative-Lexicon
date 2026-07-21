@@ -129,7 +129,3 @@ From pre-Germanic *kn̥h₂onkós, from Proto-Indo-European *kn̥h₂ónks (gen.
     - **Danish:** honning
       - **Norwegian Bokmål:** honning
   - **Gutnish:** hånnungg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

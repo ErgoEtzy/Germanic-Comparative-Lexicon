@@ -63,7 +63,3 @@ From Pre-Germanic *kréh₂tis or *kréh₃tis, from Proto-Indo-European *kreH- 
   - **Icelandic:** hróð-
   - **Icelandic:** Hróð-
 - **Gothic:** *𐌷𐍂𐍉𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

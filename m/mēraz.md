@@ -106,7 +106,3 @@ From Proto-Indo-European *meh₁-ró-s (“measurable, great”), from *meh₁- 
     - **Icelandic:** -mar
     - **Faroese:** -mar
 - **Gothic:** *𐌼𐌴𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

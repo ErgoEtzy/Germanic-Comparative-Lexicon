@@ -105,7 +105,3 @@ From *sūganą (“to suck”) + *-janą.
 - **Old Norse:** *seygja
   - **Icelandic:** seygja
   - **Norwegian Nynorsk:** søygja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

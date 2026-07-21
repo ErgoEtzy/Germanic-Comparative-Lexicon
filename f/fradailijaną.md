@@ -123,7 +123,3 @@ From *fra- + *dailijaną.
       - **German:** verteilen
       - **Luxembourgish:** verdeelen
 - **Gothic:** 𐍆𐍂𐌰𐌳𐌰𐌹𐌻𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

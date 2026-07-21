@@ -489,7 +489,3 @@ From Proto-Indo-European *(s)tenh₂- (“to thunder”). Cognate with Proto-Cel
     - **Norwegian Nynorsk:** torde — _influenced by Þórðr_
       - **Norwegian Bokmål:** tore — _borrowed_
     - **Swedish:** tor
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

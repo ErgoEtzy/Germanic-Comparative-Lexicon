@@ -101,7 +101,3 @@ From earlier *fargwaz, from Pre-Germanic *porḱwós, from Proto-Indo-European *
 - **Old Saxon:** faru
 - **Old High German:** faro
   - **Middle High German:** vare
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

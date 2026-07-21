@@ -68,7 +68,3 @@ From *dīkaz + *-ją.
   - **English:** digue — _borrowed_ — _through a non-Germanic route_
   - **Middle English:** dik — _borrowed; uncertain_
   - **Middle English:** dike — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

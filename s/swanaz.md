@@ -135,7 +135,3 @@ From Proto-Indo-European *sewH- (“to bear, give birth”).
   - **Old High German:** *swanar
     - **Middle High German:** swaner — _m_
     - **Old High German:** swanering — _reshaped by analogy or addition of morphemes; m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

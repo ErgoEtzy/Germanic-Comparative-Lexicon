@@ -206,7 +206,3 @@ From Pre-Germanic *pugnéh₂-, likely a zero-grade iterative from Proto-Indo-Eu
   - **Faroese:** fukka
   - **Norwegian Nynorsk:** fukka — _dialectal_
   - **Swedish:** fokka — _Bohuslän_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

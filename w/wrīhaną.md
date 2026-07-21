@@ -284,7 +284,3 @@ From Proto-Indo-European *wreyḱ- (“to twist, weave, bind”). Cognate with L
     - **Middle High German:** rîhhen
       - **German:** reihen
       - **Luxembourgish:** reien
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

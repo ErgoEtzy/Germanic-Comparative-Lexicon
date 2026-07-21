@@ -114,7 +114,3 @@ From Pre-Germanic *grs-néh₂-ti an iterative verb closely related to the stron
   - **Swedish:** kurra
   - **Swedish:** korra
   - **Danish:** kurre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

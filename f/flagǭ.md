@@ -80,7 +80,3 @@ Derived from a lost verb *flahaną (“to beat, strike”), from Proto-Indo-Euro
     - **Swedish:** flaga
   - **Norwegian:** flage
   - **Danish:** flage
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

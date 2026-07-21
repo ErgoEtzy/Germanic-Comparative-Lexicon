@@ -105,7 +105,3 @@ From Pre-Germanic *dr̥ḱtos, originally a past participle from Proto-Indo-Euro
 - **Old High German:** zorht
 - **Old High German:** zoraht
 - **Old High German:** zorft
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

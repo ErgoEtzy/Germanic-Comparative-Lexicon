@@ -52,7 +52,3 @@ From Pre-Germanic *derwos, derived from or related to *terwą (“tar”), ultim
 - **Old Norse:** tjǫrr
   - **Swedish:** tjor
   - **Swedish:** tjur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

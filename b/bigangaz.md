@@ -52,7 +52,3 @@ From *bi- + *gangaz, or perhaps a derivation of *biganganą.
 - **Old English:** begong
 - **Old High German:** bigang
   - **Middle High German:** beganc
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

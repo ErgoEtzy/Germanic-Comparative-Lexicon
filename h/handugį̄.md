@@ -48,7 +48,3 @@ From *handugaz (“handy”) + *-į̄.
 - **Old High German:** hantagī
 - **Old High German:** hantigī
 - **Gothic:** 𐌷𐌰𐌽𐌳𐌿𐌲𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

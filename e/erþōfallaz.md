@@ -59,7 +59,3 @@ From *erþō + *fallaz, with the latter derived from *fallaną (“to fall”).
     - **German:** Erdfall
 - **Old Norse:** jarðfall
   - **Icelandic:** jarðfall
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

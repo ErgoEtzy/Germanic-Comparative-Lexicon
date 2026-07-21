@@ -128,7 +128,3 @@ By surface analysis, *swait- (“sweat”) + *-janą. There is a morphologically
     - **Norwegian Nynorsk:** sveitte
   - **Swedish:** svettas
   - **Danish:** svede
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -133,7 +133,3 @@ From virtual Proto-Indo-European *gʰersd-eh₂, from *ǵʰersd-. Cognate with L
         - **Luxembourgish:** Geescht
       - **German:** Gerste
       - **Yiddish:** גערשט
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

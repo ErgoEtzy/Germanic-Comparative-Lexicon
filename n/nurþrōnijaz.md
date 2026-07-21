@@ -739,7 +739,3 @@ From *nurþraz + *-ōnijaz.
   - **Swedish:** norrön — _learned borrowing; learned_
   - **Danish:** norrøn — _learned borrowing; learned_
     - **Norwegian Bokmål:** norrøn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

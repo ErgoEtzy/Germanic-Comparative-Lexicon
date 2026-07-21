@@ -111,7 +111,3 @@ Compare Gothic 𐌰𐌽𐌳 (and), which may preserve the original preposition *
 - **Gothic:** 𐌰𐌽𐌳𐌰-
 - **Gothic:** 𐌰𐌽𐌳-
 - **Vandalic:** *and-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

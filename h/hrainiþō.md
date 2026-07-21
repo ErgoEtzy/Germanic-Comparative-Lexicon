@@ -50,7 +50,3 @@ From *hrainiz (“clean, not dirty, pure”) + *-iþō.
 - **Old High German:** reinida
   - **Middle High German:** reinde
 - **Gothic:** 𐌿𐌽𐌷𐍂𐌰𐌹𐌽𐌹𐌸𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -89,7 +89,3 @@ Unclear; compare Proto-West Germanic *slaut (“puddle”) and Proto-Slavic *slu
 - **Proto-Norse:** 
   - **Old Gutnish:** sloita
     - **Gutnish:** sloyta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

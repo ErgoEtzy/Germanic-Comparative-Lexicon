@@ -182,7 +182,3 @@ From *stainaz + *-gaz.
       - **German:** steinig
       - **Luxembourgish:** stengeg
 - **Gothic:** 𐍃𐍄𐌰𐌹𐌽𐌰𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

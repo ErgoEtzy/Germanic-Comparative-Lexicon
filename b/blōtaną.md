@@ -106,7 +106,3 @@ Derived from *blōt- (“to sacrifice”) + *-aną.
 - **Old Danish:** blotæ
   - **Danish:** blote
 - **Gothic:** 𐌱𐌻𐍉𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -90,7 +90,3 @@ From *kuningaz + *rīkiją. Proto-West Germanic synonyms such as *kunirīkī, *k
   - **Swedish:** kungarike
   - **Swedish:** konungarike
   - **Danish:** kongerige
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

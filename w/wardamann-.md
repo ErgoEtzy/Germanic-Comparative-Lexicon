@@ -51,7 +51,3 @@ From *wardaz (“guard”) + *mann- (“man”).
       - **German:** Wartmann — _archaic_
 - **Old Norse:** varðmaðr
   - **Icelandic:** varðmaður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

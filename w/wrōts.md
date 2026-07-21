@@ -137,7 +137,3 @@ From Proto-Indo-European *wréh₂ds (“root”).
       - **English:** wroot — _obsolete_
       - **Scots:** ruit
       - **Scots:** rute
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

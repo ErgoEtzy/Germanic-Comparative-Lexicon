@@ -1150,7 +1150,3 @@ From an n-suffixed form of Proto-Indo-European *h₃ekʷ- (“eye; to see”), w
     - **Gutnish:** auge
 - **Gothic:** 𐌰𐌿𐌲𐍉
 - **Crimean Gothic:** oeghene
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

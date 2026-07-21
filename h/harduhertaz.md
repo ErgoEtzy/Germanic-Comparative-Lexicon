@@ -101,7 +101,3 @@ From *harduz + *hertô.
   - **Middle English:** hardhert
 - **Gothic:** *𐌷𐌰𐍂𐌳𐌿𐌷𐌰𐌹𐍂𐍄𐍃
 - **Gothic:** 𐌷𐌰𐍂𐌳𐌿𐌷𐌰𐌹𐍂𐍄𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

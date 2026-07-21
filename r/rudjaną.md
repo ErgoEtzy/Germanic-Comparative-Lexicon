@@ -122,7 +122,3 @@ From *rudą (“a clearing”) + *-janą, possibly from Proto-Indo-European *(H)
     - **Danish:** rydde
       - **Norwegian Bokmål:** rydde
         - **Norwegian Nynorsk:** rydda — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

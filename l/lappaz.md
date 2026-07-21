@@ -158,7 +158,3 @@ From Pre-Germanic *lopnó-, from Proto-Indo-European *leb- (“to hang loosely, 
   - **Old Swedish:** lapper
     - **Swedish:** lapp
   - **Danish:** lap
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

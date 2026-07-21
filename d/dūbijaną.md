@@ -101,7 +101,3 @@ According to Orel, derived from *dūbaną (“dive, sink”).
 - **Old Norse:** dýfa
   - **Icelandic:** dýfa
   - **Faroese:** dýva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

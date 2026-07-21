@@ -123,7 +123,3 @@ From Proto-Indo-European *weh₁iros (“a twist, thread, cord, wire”), from *
   - **Norwegian:** vire
   - **Swedish:** vire
   - **Danish:** vire
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

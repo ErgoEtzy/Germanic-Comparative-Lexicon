@@ -96,7 +96,3 @@ From Proto-Indo-European *stoh₂w-éh₂, from *steh₂- (“to stand, place, p
   - **Norwegian:** sto
   - **Old Swedish:** stō
 - **Gothic:** 𐍃𐍄𐌰𐌿𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

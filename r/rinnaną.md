@@ -187,7 +187,3 @@ Either way, both paths ultimately trace back to the same root, *h₃er- (“to m
   - **Gutnish:** rinn'
   - **Gutnish:** rinna
 - **Gothic:** 𐍂𐌹𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

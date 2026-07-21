@@ -51,7 +51,3 @@ From Proto-Indo-European *os(e)n- (“summer, harvest-time, harvest”).
     - **Middle Low German:** asnen
   - **Old High German:** asni
 - **Gothic:** 𐌰𐍃𐌽𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

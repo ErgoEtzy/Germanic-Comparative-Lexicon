@@ -103,7 +103,3 @@ From *ainaz + *nahts.
     - **Middle High German:** einnehte
 - **Old Norse:** einnættr
   - **Icelandic:** einnættur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

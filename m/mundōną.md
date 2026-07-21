@@ -99,7 +99,3 @@ From Proto-Indo-European *men(s)dʰh₁-, "to put in mind", a compound of Proto-
   - **Icelandic:** munda
   - **Faroese:** munda
 - **Gothic:** 𐌼𐌿𐌽𐌳𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

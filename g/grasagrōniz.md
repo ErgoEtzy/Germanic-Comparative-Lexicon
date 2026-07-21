@@ -127,7 +127,3 @@ From *grasą + *grōniz.
   - **Icelandic:** grasgrænn
   - **Norwegian:** gressgrønn
   - **Swedish:** gräsgrön
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

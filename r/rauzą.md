@@ -64,7 +64,3 @@ Of unknown origin. The semantic and formal resemblance to Proto-Slavic *rogozъ 
 - **Old Norse:** 
   - **Faroese:** royggj
 - **Gothic:** 𐍂𐌰𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

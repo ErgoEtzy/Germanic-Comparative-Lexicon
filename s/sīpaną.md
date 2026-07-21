@@ -107,7 +107,3 @@ Perhaps from a Proto-Indo-European *seyp-, *seybʰ- (“to pour, dribble, trickl
         - **Luxembourgish:** säifeg — _reshaped by analogy or addition of morphemes_
       - **Central Franconian:** seife
         - **Luxembourgish:** säifeg — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

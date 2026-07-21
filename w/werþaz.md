@@ -154,7 +154,3 @@ From Pre-Germanic *wértos. While Kroonen leaves the origin open, Matasović der
     - **Swedish:** värd
 - **Gothic:** 𐍅𐌰𐌹𐍂𐌸𐍃
 - **Gothic:** 𐍅𐌰𐌹𐍂𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

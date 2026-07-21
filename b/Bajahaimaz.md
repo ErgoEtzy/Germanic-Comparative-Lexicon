@@ -35,7 +35,3 @@ From *bajaz (“A member of the Boii”) + *haimaz (“home”).
 ### Germanic descendants
 
 - **English:** Bohemia — _learned borrowing; learned_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

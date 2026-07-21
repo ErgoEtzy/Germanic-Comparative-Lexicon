@@ -99,7 +99,3 @@ From Pre-Germanic *gʰowro-s, probably from a suffixed form of Proto-Indo-Europe
       - **Dutch:** gor
   - **Proto-West Germanic:** *gaurag — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐌰𐌿𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

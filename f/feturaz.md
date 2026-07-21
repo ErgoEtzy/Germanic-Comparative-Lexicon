@@ -76,7 +76,3 @@ From Proto-Indo-European *ped- (“foot”). Derived under the same logic as Pro
     - **Danish:** fjeder — _c_
     - **Danish:** fjæder
     - **Danish:** fjær
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -94,7 +94,3 @@ Of uncertain origin. Orel considers the word as cognate to or possibly borrowed 
     - **Swedish:** potta
   - **Danish:** pot
   - **Danish:** potte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

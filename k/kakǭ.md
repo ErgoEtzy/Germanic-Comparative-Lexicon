@@ -109,7 +109,3 @@ Unknown. The relationship with Lithuanian gúogas (“skull”) by supposed Prot
       - **Scots:** kyaak
       - **Yola:** caake
       - **Yola:** kaake
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

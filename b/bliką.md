@@ -94,7 +94,3 @@ A nominal formation related to *blīkaną (“to gleam, shine”).
       - **German:** Blech
 - **Old Norse:** blik
   - **Icelandic:** blik
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

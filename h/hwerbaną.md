@@ -130,7 +130,3 @@ Uncertain. Possibly from Proto-Indo-European *kʷerp-, in which case the origina
   - **Old Swedish:** hværva
     - **Swedish:** värva
 - **Gothic:** 𐍈𐌰𐌹𐍂𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

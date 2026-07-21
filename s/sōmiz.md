@@ -114,7 +114,3 @@ Unknown; possible vṛddhi gerundive of otherwise unattested strong verb *saman�
   - **Icelandic:** sæmur
   - **Norwegian Nynorsk:** søm
   - **Middle English:** seme — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

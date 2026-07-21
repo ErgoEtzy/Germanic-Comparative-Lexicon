@@ -80,7 +80,3 @@ From Proto-Indo-European *sth₂-, from *steh₂- (“to stand”).
       - **German:** Stadel
 - **Old Norse:** stǫðull
   - **Icelandic:** stöðull
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

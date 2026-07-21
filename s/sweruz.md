@@ -73,7 +73,3 @@ From Proto-Indo-European *swer- (“stick, pole”).
   - **Middle High German:** swir
     - **Alemannic German:** Schwiren
     - **Bavarian:** Schwirren
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

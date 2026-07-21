@@ -136,7 +136,3 @@ From Proto-Indo-European *h₁lówdʰos, a o-grade formation from Proto-Indo-Eur
   - **Gothic:** 𐍃𐍅𐌰𐌻𐌰𐌿𐌸𐍃 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌻𐌰𐌿𐌸𐍃
   - **Gothic:** 𐌾𐌿𐌲𐌲𐌰𐌻𐌰𐌿𐌸𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

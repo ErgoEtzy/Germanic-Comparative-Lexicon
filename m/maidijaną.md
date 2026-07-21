@@ -97,7 +97,3 @@ From Proto-Indo-European *moyth₂-éye-ti, from *meyth₂- (“to change, excha
   - **Faroese:** meiða
     - **Faroese:** meiðsla
 - **Gothic:** 𐌼𐌰𐌹𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

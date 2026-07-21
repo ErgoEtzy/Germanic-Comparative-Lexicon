@@ -12,7 +12,7 @@ Likely a substrate borrowing from the same Mediterranean source as Ancient Greek
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -62,7 +62,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Dutch Low Saxon:** hummer
       - **Dutch:** hommer — _borrowed_
     - **German:** Hummer — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

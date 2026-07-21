@@ -81,7 +81,3 @@ From Proto-Indo-European *uh₁r-, zero grade form of *weh₁r- (“water”).
       - **Scots:** urey — _reshaped by analogy or addition of morphemes_
       - **Scots:** oorie — _reshaped by analogy or addition of morphemes_
       - **Scots:** ourie — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

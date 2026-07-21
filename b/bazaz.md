@@ -184,7 +184,3 @@ From Proto-Indo-European *bʰosós (“bare, naked”).
     - **Danish:** bar
   - **Gutnish:** bär
   - **Gutnish:** bärar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

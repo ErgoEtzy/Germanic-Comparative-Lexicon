@@ -94,7 +94,3 @@ From *ga- + *nuganą, although the latter has no attested descendants. Ultimatel
 - **Old Saxon:** *ginugan
 - **Old High German:** ginah
 - **Gothic:** 𐌲𐌰𐌽𐌰𐌿𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

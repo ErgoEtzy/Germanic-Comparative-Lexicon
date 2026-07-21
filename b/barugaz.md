@@ -149,7 +149,3 @@ From Pre-Germanic *bʰoru-ḱos. For the root, compare Russian бо́ров (bó
       - **German:** Barg
       - **German:** Barch — _dialectal_
 - **Old Norse:** bǫrgr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -52,7 +52,3 @@ From *-ij(i)-(interpreted as the weak class 1 thematic vowel) + *-niz (abstract 
 - **Proto-Norse:** 
   - **Old Norse:** -n
 - **Gothic:** -𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

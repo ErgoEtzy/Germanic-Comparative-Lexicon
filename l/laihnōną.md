@@ -129,7 +129,3 @@ From *laihną (“a loan”) + *-ōną.
   - **Old Swedish:** lāna
     - **Swedish:** låna
   - **Danish:** låne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

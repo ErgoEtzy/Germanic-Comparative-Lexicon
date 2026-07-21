@@ -113,7 +113,3 @@ See the etymology of the corresponding lemma form.
   - **Old High German:** liohhan
     - **Middle High German:** liechen
       - **German:** liechen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

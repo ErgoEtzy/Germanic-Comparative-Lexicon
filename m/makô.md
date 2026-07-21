@@ -282,7 +282,3 @@ An old n-stem as evidenced by the Kluge's law variant *makkô, perhaps from Prot
   - **Old Swedish:** maki
     - **Swedish:** make — _c_
   - **Danish:** mage — _c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

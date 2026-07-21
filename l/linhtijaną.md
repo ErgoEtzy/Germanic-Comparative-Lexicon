@@ -120,7 +120,3 @@ From *linhtaz (“light, having little weight”) + *-janą.
     - **Nynorsk:** lette
     - **Nynorsk:** letta
   - **Danish:** lette
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

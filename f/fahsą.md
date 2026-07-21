@@ -65,7 +65,3 @@ From Proto-Indo-European *poḱsom (“hair”, literally “that which is combe
   - **Faroese:** faks
   - **Norwegian Bokmål:** faks
   - **Scots:** fax — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

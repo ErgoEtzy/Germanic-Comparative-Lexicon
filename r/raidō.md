@@ -108,7 +108,3 @@ An o-grade nominal formation from *rīdaną (“to ride”).
     - **Old Gutnish:** raiþ
 - **Gothic:** *𐍂𐌰𐌹𐌳𐌰
 - **Swedish:** rajd — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

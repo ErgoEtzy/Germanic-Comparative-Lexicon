@@ -136,7 +136,3 @@ From Pre-Germanic *swoyd-o-, from Proto-Indo-European *sweyd- (“to sweat”).
   - **Old Swedish:** svēte
     - **Swedish:** svett
   - **Danish:** sved
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

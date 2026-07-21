@@ -99,7 +99,3 @@ From Pre-Germanic *Hrēh₃dis, a long-grade verbal adjective derived to a lost 
 
 - **Old High German:** rāzi
   - **Middle High German:** ræze
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

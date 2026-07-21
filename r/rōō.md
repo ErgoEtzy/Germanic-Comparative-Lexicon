@@ -116,7 +116,3 @@ From Proto-Indo-European *h₁roh₁-weh₂, from *h₁reh₁- (“quiet, calm�
   - **Old Swedish:** rō
     - **Swedish:** ro
   - **Danish:** ro
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -66,7 +66,3 @@ From Proto-Indo-European *mogʰus (“boy”), which appears to be restricted to
   - **Old Norse:** mǫgr
     - **Icelandic:** mögur
 - **Gothic:** 𐌼𐌰𐌲𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

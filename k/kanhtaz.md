@@ -107,7 +107,3 @@ Of uncertain origin. The traditional reconstruction of the Germanic as *kawataz 
   - **Swedish:** kåt
   - **Danish:** kåd
     - **Norwegian Bokmål:** kåt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

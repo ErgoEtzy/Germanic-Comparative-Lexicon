@@ -127,7 +127,3 @@ From Proto-Indo-European *weǵ- (“to wake, be strong”). Equivalent to *wakan
     - **Scanian:** vaga
   - **Elfdalian:** wåkå
   - **Gutnish:** vake
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -55,7 +55,3 @@ From Proto-Indo-European *wl̥p-íh₂, an alteration of *wl̥kʷ-íh₂, ultima
     - **Swedish:** Ylva
   - **Old Swedish:** Ylva
     - **Swedish:** Ylva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

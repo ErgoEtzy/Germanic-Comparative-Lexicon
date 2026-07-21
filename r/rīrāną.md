@@ -88,7 +88,3 @@ Seemingly from the same reduplicated Proto-Indo-European *Hrey-Hroy-e- as Sanskr
 ### Germanic descendants
 
 - **Gothic:** 𐍂𐌴𐌹𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

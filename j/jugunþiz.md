@@ -83,7 +83,3 @@ From earlier *juwunþiz (possibly influenced in form by *dugunþō), from Proto-
       - **German:** Jugend
       - **Luxembourgish:** Jugend
       - **Yiddish:** יוגנט
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

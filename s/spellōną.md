@@ -110,7 +110,3 @@ Derived from *spellą (“story”) + *-ōną.
 - **Old Norse:** spjalla
   - **Icelandic:** spjalla
 - **Gothic:** 𐍃𐍀𐌹𐌻𐌻𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

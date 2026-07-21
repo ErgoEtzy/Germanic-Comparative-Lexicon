@@ -129,7 +129,3 @@ From *wētaz (“wet”) + *-janą.
     - **Swedish:** väta
   - **Old Danish:** wætæ
     - **Danish:** væde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

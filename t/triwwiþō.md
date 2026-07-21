@@ -259,7 +259,3 @@ From *triwwiz + *-iþō.
     - **Old Danish:** trygd
       - **Danish:** trygd
         - **Norwegian Bokmål:** trygd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

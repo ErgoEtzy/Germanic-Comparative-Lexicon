@@ -182,7 +182,3 @@ From Proto-Indo-European *dʰrewHs- (“to fall down, break off”). Cognate wit
       - **Swedish:** drösslig — _reshaped by analogy or addition of morphemes_
       - **Swedish:** drusslig — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌳𐍂𐌹𐌿𐍃𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

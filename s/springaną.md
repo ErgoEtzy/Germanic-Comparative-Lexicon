@@ -135,7 +135,3 @@ From Proto-Indo-European *sprenǵʰ-, nasalised form of Proto-Indo-European *spe
     - **Danish:** sprække
   - **Gutnish:** springge
   - **Gutnish:** springga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

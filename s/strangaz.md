@@ -280,7 +280,3 @@ From Pre-Germanic *strongʰos, an adjective formed from the strong verb *stringa
     - **Swedish:** strang — _dialectal_
   - **Old Danish:** stræng
     - **Danish:** streng
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

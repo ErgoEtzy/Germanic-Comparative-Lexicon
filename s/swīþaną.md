@@ -103,7 +103,3 @@ Possibly from a Proto-Indo-European *swey- (“to burn”), which could be an ex
     - **Swedish:** svida
   - **Old Danish:** swithæ
     - **Danish:** svide
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

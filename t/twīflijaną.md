@@ -107,7 +107,3 @@ From *twīflaz (“doubt”) + *-janą.
     - **Middle High German:** zwīveln — _merged with descendant of *twīflōn_
       - **German:** zweifeln
 - **Gothic:** 𐍄𐍅𐌴𐌹𐍆𐌻𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

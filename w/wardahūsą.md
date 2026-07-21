@@ -54,7 +54,3 @@ From *wardaz (“guard”) + *hūsą (“house”).
       - **German:** Warthaus — _archaic_
 - **Old Norse:** varðhús
   - **Icelandic:** varðhús
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

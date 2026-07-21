@@ -1044,7 +1044,3 @@ Kroonen (2011) regards the variant *ulmaz as evidence of an ablauting paradigm, 
   - **Old Norse:** elmi — _reshaped by analogy or addition of morphemes_
     - **Danish:** elm
     - **Swedish:** älme — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -181,7 +181,3 @@ From Pre-Germanic *ǵénh₁tom, from Proto-Indo-European *ǵenh₁- (“to bear
   - **Old High German:** Censindus — _reshaped by analogy or addition of morphemes_
   - **Old High German:** Cindaswinth — _reshaped by analogy or addition of morphemes_
   - **Old High German:** Cintila — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

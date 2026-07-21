@@ -180,7 +180,3 @@ Akin to Proto-Slavic *želsti (attested only in Old Church Slavonic жлѣсти
   - **Old Danish:** gialdæ
     - **Danish:** gælde
 - **Gothic:** *𐌲𐌹𐌻𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

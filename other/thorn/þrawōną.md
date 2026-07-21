@@ -124,7 +124,3 @@ From *þrawō (“suffering, longing”) + *-ōną.
     - **Swedish:** trå
   - **Old Danish:** thra
     - **Danish:** attrå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -50,7 +50,3 @@ An ablaut variant of the root *mēs-, mōs, from Proto-Indo-European *meh₂d- (
   - **Middle Low German:** met
     - **German Low German:** Mett
     - **German:** Mett — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

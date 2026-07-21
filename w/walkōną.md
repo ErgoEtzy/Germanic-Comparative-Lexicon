@@ -148,7 +148,3 @@ From Proto-Indo-European *wolg- (“to twist; turn; move”).
   - **Norwegian Bokmål:** valke
   - **Swedish:** valka
   - **Danish:** valke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

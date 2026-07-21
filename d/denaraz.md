@@ -52,7 +52,3 @@ Thematicized form of Proto-Indo-European *dʰénr̥ (“flat of the hand, palm�
 - **Old High German:** tenra
   - **Middle High German:** tëner
   - **Middle High German:** tënre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

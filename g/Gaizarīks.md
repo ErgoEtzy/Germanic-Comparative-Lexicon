@@ -50,7 +50,3 @@ From *gaizaz (“spear”) + *rīks (“king, ruler”). Cognate with Celtic Gae
 - **Old Norse:** Geirrekr
   - **Icelandic:** Geirrekur
   - **Norwegian:** Geirrek
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

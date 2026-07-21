@@ -63,7 +63,3 @@ From Proto-Indo-European *perh₃- (“to provide”).
   - **Icelandic:** farri
   - **Norwegian Bokmål:** farre
   - **Swedish:** farre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

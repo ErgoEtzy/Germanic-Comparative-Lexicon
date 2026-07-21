@@ -64,7 +64,3 @@ From Proto-Indo-European *sed- (“to sit”).
     - **Middle High German:** sëz
 - **Old Norse:** set
   - **Icelandic:** set
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

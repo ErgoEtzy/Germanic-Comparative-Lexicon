@@ -172,7 +172,3 @@ Compare Lithuanian abu (“both”), Proto-Slavic *oba, Sanskrit उभ (ubhá),
     - **Swedish:** båda
   - **Old Danish:** bathe
     - **Danish:** både
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

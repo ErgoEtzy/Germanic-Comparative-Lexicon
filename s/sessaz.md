@@ -55,7 +55,3 @@ From Proto-Indo-European *sedtós (“seated”), from *sed- (“to sit”) + *-
   - **Faroese:** sessur
   - **Norwegian Nynorsk:** sess
   - **Norwegian Bokmål:** sess
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -165,7 +165,3 @@ Uncertain. Possibly related to Proto-Germanic *ginnaną (“to begin, cut open�
   - **Old Norse:** ginn-
 - **Proto-Norse:** ᚷᛁᚾᛟ-
   - **Old Norse:** ginn-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

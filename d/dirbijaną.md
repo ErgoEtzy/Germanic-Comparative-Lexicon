@@ -96,7 +96,3 @@ From *derbaz (“bold, daring”) + *-janą.
 - **Old Norse:** dirfa
   - **Icelandic:** dirfa
   - **Norwegian:** dirvast
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

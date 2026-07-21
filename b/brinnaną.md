@@ -208,7 +208,3 @@ Kroonen reconstructs Pre-Germanic *bʰrénuh₁e-, from Proto-Indo-European *bʰ
       - **Scots:** brenn
       - **Scots:** brend
 - **Gothic:** 𐌱𐍂𐌹𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

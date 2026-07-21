@@ -57,7 +57,3 @@ From Proto-Indo-European *peh₂- (“to protect”). Cognate with Latin pāscō
 - **Old Norse:** fóstr
   - **Danish:** foster
   - **Swedish:** foster
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

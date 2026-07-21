@@ -133,7 +133,3 @@ From Pre-Germanic *bʰh₂-nw-, a zero grade nu-present form of Proto-Indo-Europ
     - **Norwegian Bokmål:** banne
   - **Middle English:** banne(n) — _borrowed_
     - **Scots:** ban
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

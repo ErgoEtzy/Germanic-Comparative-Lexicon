@@ -203,7 +203,3 @@ From *slīkaną (“to slide, slip”) + *-þaz.
   - **Danish:** slet
   - **Gutnish:** slètur
 - **Gothic:** 𐍃𐌻𐌰𐌹𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

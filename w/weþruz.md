@@ -105,7 +105,3 @@ From Proto-Indo-European *wétrus, from *wet- (“year”). Cognate with Latin v
     - **Danish:** vædder
   - **Gutnish:** vädrä
 - **Gothic:** 𐍅𐌹𐌸𐍂𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

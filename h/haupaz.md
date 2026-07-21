@@ -81,7 +81,3 @@ From earlier *hauppaz, reflecting pre-Germanic *kouHp-nó- or *keh₂up-nó-, pr
   - **Old High German:** houf
     - **Middle High German:** houf
       - **German:** Haufen — _merged with *hūpô_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

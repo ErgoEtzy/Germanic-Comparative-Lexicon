@@ -96,7 +96,3 @@ From Proto-Indo-European *seyl- (“still, windless, quiet, slow”). Cognate wi
   - **Faroese:** sil
     - **Faroese:** silvetni — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌰𐌽𐌰𐍃𐌹𐌻𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

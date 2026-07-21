@@ -62,7 +62,3 @@ From Proto-Indo-European *yéwHs (“sap, juice, broth”), from *yewH- (“to b
     - **Norwegian Bokmål:** ost
   - **Old Gutnish:** ustr
   - **North Frisian:** Aast — _Sylt; borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

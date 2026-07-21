@@ -50,7 +50,3 @@ From Proto-Indo-European *(s)h₁es-.
   - **Old Saxon:** asna
     - **Middle Low German:** asne
     - **Middle Low German:** asnen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

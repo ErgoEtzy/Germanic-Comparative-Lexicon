@@ -45,7 +45,3 @@ From Proto-Germanic *hwī, from a form of Proto-Indo-European *kʷos, stem of re
 - **Old Norse:** *hvaðra
   - **Faroese:** hvagar
 - **Gothic:** 𐍈𐌰𐌳𐍂𐌴
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

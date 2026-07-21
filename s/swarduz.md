@@ -12,7 +12,7 @@ Of unknown origin. Often the only cognate compared is Latvian šērve (“pigski
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -113,7 +113,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **English:** swarth
       - **Middle Scots:** swarf — _borrowed_
       - **Middle Scots:** swarffe — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

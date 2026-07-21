@@ -270,7 +270,3 @@ From Proto-Indo-European *kenk-, *kemǝk- (“joint, legbone”). Cognate with L
       - **Scots:** houch
 - **Old Norse:** há
   - **Icelandic:** há
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

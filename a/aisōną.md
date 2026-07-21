@@ -89,7 +89,3 @@ From Proto-Indo-European *h₁oysh₂-éh₂, from *h₁eys- (“to propel”).
 
 - **Old Norse:** eisa
   - **Icelandic:** eisa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

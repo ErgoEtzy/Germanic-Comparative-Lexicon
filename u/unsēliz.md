@@ -139,7 +139,3 @@ From *un- + *sēliz.
     - **Old Swedish:** ūsæl
       - **Swedish:** usel
 - **Gothic:** 𐌿𐌽𐍃𐌴𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

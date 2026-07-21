@@ -152,7 +152,3 @@ From *ga- + *mainiz, from Proto-Indo-European *ḱom-moynis. Related to Latin co
           - **English:** gmina — _borrowed_ — _through a non-Germanic route_
         - **Luxembourgish:** Gemeng
 - **Gothic:** 𐌲𐌰𐌼𐌰𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

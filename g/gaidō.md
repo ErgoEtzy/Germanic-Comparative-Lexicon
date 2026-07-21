@@ -72,7 +72,3 @@ From Proto-Indo-European *ǵʰey- (“to drive, move, hurl, fling; missile, proj
     - **Scots:** gaid
 - **Langobardic:** *gaida
 - **Gothic:** *𐌲𐌰𐌹𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

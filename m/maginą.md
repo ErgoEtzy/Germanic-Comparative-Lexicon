@@ -229,7 +229,3 @@ From Proto-Indo-European *megʰ- (“to be able”). Synchronically analyzed as 
     - **Swedish:** mägen — _obsolete_
   - **Old Danish:** mæghæn
     - **Norwegian Nynorsk:** megje — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

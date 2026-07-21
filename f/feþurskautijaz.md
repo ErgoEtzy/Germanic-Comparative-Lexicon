@@ -108,7 +108,3 @@ From *feþur- (“four”) + *skautijaz (“cornered”); an adjective derived f
 - **Old Norse:** *fjaðrskeyttr
   - **Icelandic:** ferskeyttur
   - **Swedish:** fiæþerskø̄tter
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

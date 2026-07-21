@@ -101,7 +101,3 @@ An older hypothesis compares Ancient Greek σῑ́νομαι (sī́nomai, “to 
   - **Old Danish:** twæne
     - **Danish:** tvine
       - **Norwegian Bokmål:** tvine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

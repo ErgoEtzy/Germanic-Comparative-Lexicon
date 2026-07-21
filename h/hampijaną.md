@@ -118,7 +118,3 @@ From *hampą (“good luck, chance”) + *-janą.
   - **Middle English:** hapnen — _borrowed_
     - **English:** hap
     - **English:** happen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

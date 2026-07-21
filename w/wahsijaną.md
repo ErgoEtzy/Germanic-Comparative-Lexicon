@@ -241,7 +241,3 @@ From *wahsą (“wax”) + *-janą.
     - **Old High German:** giwahsen — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** vexa
   - **Icelandic:** vexa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

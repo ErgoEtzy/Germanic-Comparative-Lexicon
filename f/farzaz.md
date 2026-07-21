@@ -65,7 +65,3 @@ From Proto-Indo-European *perh₃- (“to provide”).
       - **German:** Farr
     - **Middle High German:** phar
       - **German:** Farr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

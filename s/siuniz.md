@@ -186,7 +186,3 @@ Identical to the "sight" sense of Etymology 1, used in an adjectival sense.
   - **Icelandic:** sýnn
 - **Gothic:** *𐍃𐌹𐌿𐌽𐍃
   - **Gothic:** 𐌰𐌽𐌰𐍃𐌹𐌿𐌽𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

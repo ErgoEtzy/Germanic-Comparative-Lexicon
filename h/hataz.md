@@ -139,7 +139,3 @@ From Proto-Indo-European *ḱh₂d-es-, from *ḱeh₂d- (“strong emotion”).
   - **Old Danish:** hath
     - **Danish:** had
 - **Gothic:** 𐌷𐌰𐍄𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

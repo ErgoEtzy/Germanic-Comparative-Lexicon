@@ -66,7 +66,3 @@ From *rūnō (“secret, mystery, rune”) + *stabaz (“staff, stick; letter of
   - **Faroese:** rúnastavur
   - **Swedish:** runstav
   - **Danish:** runestav
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

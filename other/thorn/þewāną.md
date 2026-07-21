@@ -103,7 +103,3 @@ From *þewaz (“servile, slavish”) + *-āną or *þewaz (“slave”) + *-ān
 - **Gothic:** *𐌸𐌹𐍅𐌰𐌽
 - **Gothic:** 𐌰𐌽𐌰𐌸𐌹𐍅𐌰𐌽
 - **Gothic:** 𐌲𐌰𐌸𐌹𐍅𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

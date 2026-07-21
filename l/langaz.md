@@ -212,7 +212,3 @@ From Proto-Indo-European *dlongʰos (“long”).
   - **Gutnish:** langgår
   - **Gutnish:** langgur
 - **Gothic:** 𐌻𐌰𐌲𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -69,7 +69,3 @@ Derived from *friþōną (“to make peace”).
   - **Icelandic:** friðun
 - **Gothic:** *𐍆𐍂𐌹𐌸𐍉𐌽𐍃
 - **Gothic:** 𐌲𐌰𐍆𐍂𐌹𐌸𐍉𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

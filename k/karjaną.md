@@ -137,7 +137,3 @@ Other theories connect the verb to Proto-Indo-European *ger- (“to scrape”) o
   - **Middle High German:** kern
     - **Cimbrian:** khéeran
     - **German:** kehren
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

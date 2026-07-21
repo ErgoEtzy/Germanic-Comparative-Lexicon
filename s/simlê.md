@@ -66,7 +66,3 @@ From Proto-Indo-European *sem- (“one; together; same”) + *-ê (adverbial suf
 - **Old High German:** simples
 - **Old Norse:** simla
 - **Gothic:** 𐍃𐌹𐌼𐌻𐌴
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

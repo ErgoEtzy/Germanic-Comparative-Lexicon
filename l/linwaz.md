@@ -121,7 +121,3 @@ From Proto-Indo-European *leyh₂- (“to decrease, dwindle; lean, slim”).
   - **Old Swedish:** len
     - **Elfdalian:** lin
     - **Swedish:** len
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

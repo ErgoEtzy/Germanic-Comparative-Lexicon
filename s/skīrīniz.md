@@ -49,7 +49,3 @@ From *skīrijaną (“to make clear, make pure”) + *-īniz.
   - **Icelandic:** skírn
   - **Faroese:** skírn
 - **Gothic:** 𐍃𐌺𐌴𐌹𐍂𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

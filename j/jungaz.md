@@ -206,7 +206,3 @@ From earlier *yunhós (from which /h/ > /g/ due to Verner's law), from Proto-Ind
   - **Gutnish:** unggar
   - **Scanian:** onger
 - **Gothic:** 𐌾𐌿𐌲𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

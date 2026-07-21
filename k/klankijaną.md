@@ -98,7 +98,3 @@ From *klinganą + *-janą. A variant of *klangijaną that arose due to the influ
       - **English:** clinch
     - **Old English:** beclencan — _reshaped by analogy or addition of morphemes_
   - **Old High German:** klenken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -76,7 +76,3 @@ From Proto-Indo-European *lewbʰ- (“to desire, praise, love”).
   - **Old Danish:** lof
     - **Danish:** lov
       - **Norwegian Bokmål:** lov
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

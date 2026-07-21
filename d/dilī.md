@@ -190,7 +190,3 @@ From Proto-Indo-European *dʰelh₁-íh₂s ~ *dʰl̥h₁-ih₂és, from *dʰelh
     - **Swedish:** dill
   - **Danish:** dild
     - **Faroese:** dild — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

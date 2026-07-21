@@ -114,7 +114,3 @@ From Proto-Indo-European *wid-tó-s.
   - **Norwegian Bokmål:** viss
   - **Norwegian Nynorsk:** viss
   - **Swedish:** viss
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

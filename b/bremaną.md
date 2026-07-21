@@ -100,7 +100,3 @@ From Proto-Indo-European *bʰrémeti, from *bʰrem- (“to make noise”), an on
       - **Middle High German:** breme
         - **Alemannic German:** Brämme
         - **German:** Breme — _archaic_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

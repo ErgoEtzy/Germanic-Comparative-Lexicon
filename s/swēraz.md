@@ -226,7 +226,3 @@ Vṛddhi gerundive of an otherwise unattested strong verb *sweraną, from Proto-
   - **Norwegian:** svær
   - **(probably influenced by German:** schwer
 - **Gothic:** 𐍃𐍅𐌴𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

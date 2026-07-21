@@ -92,7 +92,3 @@ Cognate with Irish cró (“pen, barn, cabin”), Proto-Slavic *stropъ.
   - **Norwegian:** ruff — _inherited; uncertain; effected by Dutch roef; Low German ruf_
   - **Swedish:** ruff — _inherited; uncertain_
   - **Swedish:** roff — _inherited; uncertain; effected by Dutch roef; Low German ruf_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

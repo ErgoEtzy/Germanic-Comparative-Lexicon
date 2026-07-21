@@ -264,7 +264,3 @@ From *midjaz (“mid”) + *sumaraz (“summer”). Cognate with Proto-Celtic *m
       - **Norwegian Nynorsk:** midsommar — _borrowed_
   - **Elfdalian:** missåmår
   - **Gutnish:** missåmmar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

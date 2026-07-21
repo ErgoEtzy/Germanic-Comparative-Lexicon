@@ -93,7 +93,3 @@ From Proto-Indo-European *séyt-e-ti, thematic root present to Proto-Indo-Europe
 
 - **Old Norse:** síða
   - **Icelandic:** síða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

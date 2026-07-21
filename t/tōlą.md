@@ -68,7 +68,3 @@ Perhaps from earlier *taudlą, from Proto-Indo-European *dowh₂-dʰlo-m, from *
   - **Norn:** tøl
   - **Norwegian Nynorsk:** tol
   - **Old Swedish:** tōl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

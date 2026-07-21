@@ -128,7 +128,3 @@ From Proto-Indo-European *smérus (“grease, fat”).
     - **Gutnish:** smer
     - **Gutnish:** smyr
 - **Gothic:** 𐍃𐌼𐌰𐌹𐍂𐌸𐍂 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

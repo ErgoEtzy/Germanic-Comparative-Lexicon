@@ -185,7 +185,3 @@ From *faimô ~ *faim(i)niz (“girl, young woman”) + *-jǭ (femininizing suffi
       - **German Low German:** Foon
     - **Middle Low German:** *fone — _borrowed_
       - **German Low German:** Foon
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

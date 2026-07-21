@@ -75,7 +75,3 @@ From Proto-Indo-European *ǵʰyem- (“winter”) (in o-grade *ǵʰyom- with los
   - **Middle English:** gymbure — _borrowed_
     - **English:** gimmer
     - **Scots:** gimmer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

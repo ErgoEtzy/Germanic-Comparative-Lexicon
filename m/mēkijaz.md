@@ -71,7 +71,3 @@ Some reconstruct *mēǵ/g-yos and connect it with Proto-Germanic *mekaną (“to
       - **English:** meak
 - **Gothic:** 𐌼𐌴𐌺𐌴𐌹𐍃
 - **Crimean Gothic:** mycha
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

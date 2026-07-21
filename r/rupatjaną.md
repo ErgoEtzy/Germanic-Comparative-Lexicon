@@ -107,7 +107,3 @@ From *rupōną (“to belch”) + *-atjaną.
 - **Old Norse:** *rupitjaną
   - **Middle English:** riften — _borrowed_
     - **English:** rift
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

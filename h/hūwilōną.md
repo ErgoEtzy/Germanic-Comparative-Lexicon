@@ -505,7 +505,3 @@ Ultimately of imitative origin. Said by Pokorny to be from Proto-Indo-European *
   - **Norwegian Nynorsk:** yla
   - **Norwegian Nynorsk:** ula
   - **Swedish:** yla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -102,7 +102,3 @@ Possibly from a Proto-Indo-European *ḱent- (“to reach, sting”) (alternativ
   - **unknown:** 𐍆𐍂𐌰𐌷𐌹𐌽𐌸𐌰𐌽
     - **unknown:** 𐌼𐌹𐌸𐍆𐍂𐌰𐌷𐌹𐌽𐌸𐌰𐌽
   - **unknown:** 𐌿𐍃𐌷𐌹𐌽𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

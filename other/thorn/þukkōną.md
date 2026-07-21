@@ -134,7 +134,3 @@ From earlier paradigm *þukkōþi ~ *þugunanþi, from pre-Proto-Germanic *tuk-n
   - **Norwegian Nynorsk:** tukla
   - **Norwegian Nynorsk:** tukle
   - **Norwegian Bokmål:** tukle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

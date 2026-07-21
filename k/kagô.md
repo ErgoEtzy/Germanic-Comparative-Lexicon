@@ -84,7 +84,3 @@ Of uncertain origin. Kroonen proposes a derivation from a northern Proto-Indo-Eu
       - **English:** cag
       - **Scots:** cag
       - **Scots:** caig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

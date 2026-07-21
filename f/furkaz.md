@@ -75,7 +75,3 @@ From Proto-Indo-European *perg- (“board, beam, post”). Cognate with Lithuani
   - **Swedish:** fork
   - **Danish:** fork
     - **Norwegian Bokmål:** fork
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

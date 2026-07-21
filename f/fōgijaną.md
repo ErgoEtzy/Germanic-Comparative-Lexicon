@@ -122,7 +122,3 @@ From Proto-Indo-European *poh₂ḱ-éye-, causative of the root *peh₂ḱ- (�
       - **German:** fügen
     - **Middle High German:** vüegen
       - **German:** fügen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

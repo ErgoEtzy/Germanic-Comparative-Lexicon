@@ -73,7 +73,3 @@ Likely from Pre-Germanic *kelh₂tís, from Proto-Indo-European *kelh₂- (“to
 - **Gothic:** *𐌷𐌹𐌻𐌳𐍃
 - **Gothic:** *𐌷𐌹𐌻𐌳𐌹-
 - **Vandalic:** *hildi-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

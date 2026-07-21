@@ -154,7 +154,3 @@ From Proto-Indo-European *gʰlewH- (“clear, sharp”); cognate with Old Irish 
     - **Scots:** gleg
 - **Gothic:** *𐌲𐌻𐌰𐌲𐌲𐍅𐍃
 - **Gothic:** *𐌲𐌻𐌰𐌲𐌲𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

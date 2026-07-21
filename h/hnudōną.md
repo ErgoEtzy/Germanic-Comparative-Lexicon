@@ -108,7 +108,3 @@ From Proto-Indo-European *knḍʰ-, from *knu-, *knew- (“to scratch; scrape; r
   - **Norwegian:** nyssa
   - **Swedish:** nussa
   - **Swedish:** nossa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

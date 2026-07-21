@@ -597,7 +597,3 @@ From Proto-Indo-European *-kos, *-ḱos. Cognates include Latin -cus, Ancient Gr
 - **Gothic:** -𐌴𐌹𐌲𐍃
 - **Gothic:** -𐌹𐌲𐍃
 - **Gothic:** -𐌿𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

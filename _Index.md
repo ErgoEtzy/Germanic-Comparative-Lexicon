@@ -14,7 +14,7 @@ Long vowels are alphabetized under their base letters. Thorn (**þ**) and recons
 
 ## C
 
-_No headwords begin with this letter in the current snapshot._
+_No headwords begin with this letter._
 
 ## D
 
@@ -70,7 +70,7 @@ _No headwords begin with this letter in the current snapshot._
 
 ## Q
 
-_No headwords begin with this letter in the current snapshot._
+_No headwords begin with this letter._
 
 ## R
 
@@ -90,7 +90,7 @@ _No headwords begin with this letter in the current snapshot._
 
 ## V
 
-_No headwords begin with this letter in the current snapshot._
+_No headwords begin with this letter._
 
 ## W
 
@@ -98,15 +98,15 @@ _No headwords begin with this letter in the current snapshot._
 
 ## X
 
-_No headwords begin with this letter in the current snapshot._
+_No headwords begin with this letter._
 
 ## Y
 
-_No headwords begin with this letter in the current snapshot._
+_No headwords begin with this letter._
 
 ## Z
 
-_No headwords begin with this letter in the current snapshot._
+_No headwords begin with this letter._
 
 ## Þ (Thorn)
 

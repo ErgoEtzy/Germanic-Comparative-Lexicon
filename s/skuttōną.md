@@ -108,7 +108,3 @@ From earlier paradigm *skuttōþi ~ *skutunanþi, from pre-Proto-Germanic *skud-
   - **Norwegian:** skotta
   - **Old Norse:** skotra — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** skotra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

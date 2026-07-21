@@ -274,7 +274,3 @@ From the original past participle of *kalaną, ultimately from Proto-Indo-Europe
       - **Norwegian Bokmål:** kold — _Riksmål_
   - **Gutnish:** kaldar
 - **Gothic:** 𐌺𐌰𐌻𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -128,7 +128,3 @@ Zero-grade ye-present, pre-Germanic *bʰr̥ye/o-, from Proto-Indo-European *bʰe
     - **Danish:** burde
     - **Scanian:** børja
   - **Gutnish:** byre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

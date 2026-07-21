@@ -144,7 +144,3 @@ From *kunnaną (“to know”) + *-janą (“causative suffix”).
     - **Scanian:** kænða
   - **Gutnish:** känne
 - **Gothic:** 𐌺𐌰𐌽𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

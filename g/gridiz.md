@@ -48,7 +48,3 @@ Derived from *grīdaną (“to step, spread the legs wide”), from Proto-Indo-E
 - **Old High German:** *grit
 - **Old High German:** gritmāli
 - **Gothic:** 𐌲𐍂𐌹𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

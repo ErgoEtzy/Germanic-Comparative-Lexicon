@@ -226,7 +226,3 @@ From Proto-Indo-European *h₁rebʰ-yo-m, from Proto-Indo-European *h₁rebʰ- (
     - **Dutch:** rif
       - **Afrikaans:** rif
 - **Suevic:** *rippja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

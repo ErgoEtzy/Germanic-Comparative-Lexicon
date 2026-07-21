@@ -55,7 +55,3 @@ From *kōniz + *-į̄.
 - **Old Norse:** *kǿni
   - **Old Norse:** lǫgkǿni — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** lögkæni
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -49,7 +49,3 @@ From Proto-Indo-European *kreH-tro-, from *kreH- (“to shout”). Cognate with 
 - **Old English:** hrōdor
 - **Old Norse:** hróðr
   - **Icelandic:** hróður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

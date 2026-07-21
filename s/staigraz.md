@@ -110,7 +110,3 @@ From *staigijaną (“to raise up, elevate”) + *-raz.
   - **Old Norse:**  — _reshaped by analogy or addition of morphemes_
     - **Latin script:** steigurliga
     - **Runic script:** ᛋᛏᛁᛁᚴᚢᚱᛚᛁᚴᛅ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

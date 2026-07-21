@@ -63,7 +63,3 @@ From Proto-Indo-European *néh₂us (“sea-boat, ship”). Cognate with Latin n
   - **Swedish:** no — _dialectal_
   - **Old Norse:** Nóatún — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** Nóatún
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

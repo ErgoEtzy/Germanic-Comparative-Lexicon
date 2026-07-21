@@ -96,7 +96,3 @@ From Proto-Indo-European *(s)leh₂g- (“to be slack; be limp; droop; sag”).
   - **Middle High German:** lachen
     - **German:** Lachen
     - **German:** Leilachen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -131,7 +131,3 @@ Causative of *skellaną, from Proto-Indo-European *skel- (“to sound, resound�
     - **Swedish:** skälla
   - **Scots:** skelloch — _borrowed_
   - **English:** skell — _dialectal; borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

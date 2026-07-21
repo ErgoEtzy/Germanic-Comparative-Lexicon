@@ -68,7 +68,3 @@ From Proto-Indo-European *tetḱ-ló-s, or *tétḱ-dʰlo-m, with cluster simpli
   - **Norwegian Bokmål:** teksle
   - **Norwegian Nynorsk:** teksla
   - **Swedish:** täxla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

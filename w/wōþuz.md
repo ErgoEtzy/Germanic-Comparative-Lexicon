@@ -39,7 +39,3 @@ From Proto-Indo-European *weh₂t- (“to be excited”). Cognate with Proto-Cel
       - **Afrikaans:** woede
 - **Old Norse:** óðr
   - **Icelandic:** óður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

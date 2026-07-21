@@ -126,7 +126,3 @@ From *faihaz (“colored, painted”) + *-janą.
   - **Old Norse:** ᚠᛆᚦᛁ — _third singular past indicative_
     - **Icelandic:** fá
     - **Norwegian Nynorsk:** få — _uncommon_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

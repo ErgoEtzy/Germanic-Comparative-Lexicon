@@ -98,7 +98,3 @@ From Proto-Indo-European *penk-. The current form with -k- was influenced by the
     - **Old High German:** *finklōn — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** finkeln
         - **German:** finkeln
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -181,7 +181,3 @@ From Proto-Indo-European *swerd- (“dirty, dark, black”); compare Latin sord�
       - **Norwegian Bokmål:** sort
   - **Gutnish:** svartar
 - **Gothic:** 𐍃𐍅𐌰𐍂𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

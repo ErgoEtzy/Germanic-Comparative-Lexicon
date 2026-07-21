@@ -103,7 +103,3 @@ From *hrēką (“saliva, snot”) + *-janą.
 - **Old Norse:** hrækja
   - **Icelandic:** hrækja
   - **Norwegian Nynorsk:** rækja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

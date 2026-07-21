@@ -135,7 +135,3 @@ From pre-Germanic *ḱluHdrós, equivalent to an unattested *hleutaną (“to cl
       - **Dutch:** louter — _borrowed_
         - **Afrikaans:** louter
 - **Gothic:** 𐌷𐌻𐌿𐍄𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

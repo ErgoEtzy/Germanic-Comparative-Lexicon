@@ -73,7 +73,3 @@ From Proto-Indo-European *melh₂- (“to grind”).
     - **Swedish:** malm
   - **Danish:** malm
 - **Gothic:** 𐌼𐌰𐌻𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -109,7 +109,3 @@ From *rēsō (“running, course, rush”) + *-ōną.
   - **Icelandic:** rása
   - **Middle English:** rasen — _borrowed_
     - **English:** race
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

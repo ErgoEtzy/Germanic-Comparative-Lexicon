@@ -89,7 +89,3 @@ From *ainagaz + *-kjǭ. Compare Old Norse einka (“separate; special; peculiar�
   - **Old Swedish:** ænkia
     - **Elfdalian:** aintja
     - **Swedish:** änka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

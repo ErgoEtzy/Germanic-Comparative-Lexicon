@@ -97,7 +97,3 @@ From a merger of two originally distinct prepositions as a result of Verner's la
   - **Gutnish:** unda
   - **Gutnish:** undur
 - **Gothic:** 𐌿𐌽𐌳𐌰𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

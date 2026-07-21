@@ -93,7 +93,3 @@ From Proto-Indo-European *dʰrebʰ- (“to grind; crush; kill”). Cognate with 
 
 - **Gothic:** *𐌳𐍂𐌰𐌱𐌰𐌽
   - **Gothic:** 𐌲𐌰𐌳𐍂𐌰𐌱𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

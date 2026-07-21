@@ -203,7 +203,3 @@ Apparently from a pre-Germanic *kolp-ó-s, of unclear further origin. Possibly f
     - **Scanian:** halver
   - **Gutnish:** halvar
 - **Gothic:** 𐌷𐌰𐌻𐌱𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

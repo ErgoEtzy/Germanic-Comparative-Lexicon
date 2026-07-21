@@ -100,7 +100,3 @@ Thought to be related to Old High German hranca and Middle Dutch ranke (“tendr
   - **Norwegian Nynorsk:** rekka
   - **Danish:** række
     - **Norwegian Bokmål:** rekke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

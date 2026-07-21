@@ -143,7 +143,3 @@ From Proto-Indo-European *se + *ge. Compare *mek and *þek.
   - **Swedish:** -s
   - **Danish:** -s
 - **Gothic:** 𐍃𐌹𐌺
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

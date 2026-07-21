@@ -75,7 +75,3 @@ Possibly from Proto-Indo-European *léyH-tu ~ *liH-téw-s, from *leyH- (“to po
 - **Old Norse:** líð
   - **Icelandic:** líð
 - **Gothic:** 𐌻𐌴𐌹𐌸𐌿
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -58,7 +58,3 @@ From Proto-Indo-European *te-ge. Compare *mek and *sek.
     - **Swedish:** dig
   - **Danish:** dig
 - **Gothic:** 𐌸𐌿𐌺 — _with analogical vowel_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

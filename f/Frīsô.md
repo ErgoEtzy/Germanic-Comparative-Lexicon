@@ -12,7 +12,7 @@ Unknown, though perhaps from *frisaz (“curly”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Noun
 
@@ -87,7 +87,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old High German:** Frieson
     - **German:** Friese
 - **English:** Frisii — _learned borrowing; learned_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

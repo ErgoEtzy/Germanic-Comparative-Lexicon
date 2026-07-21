@@ -56,7 +56,3 @@ From *uz- + *etaną (“to eat”) + *-ô.
   - **Middle Dutch:** oraete
     - **Dutch:** oort
 - **Gothic:** 𐌿𐌶𐌴𐍄𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

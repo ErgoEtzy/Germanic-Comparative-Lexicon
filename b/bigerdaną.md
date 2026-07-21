@@ -98,7 +98,3 @@ From *bi- + *gerdaną.
   - **Middle English:** begirden
     - **English:** begird
 - **Gothic:** 𐌱𐌹𐌲𐌰𐌹𐍂𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

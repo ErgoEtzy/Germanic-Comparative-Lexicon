@@ -53,7 +53,3 @@ From *auzi (“dawn”) + *wandilaz (“wanderer”). The first element from Pro
   - **Icelandic:** Aurvandill
   - **Icelandic:** Örvandill
 - **Gothic:** 𐌰𐌿𐌶𐌰𐌽𐌳𐌹𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

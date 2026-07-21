@@ -12,7 +12,7 @@ From Pre-Germanic *snitnéh₂-, a zero-grade iterative to *snīþaną (“to cu
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -118,7 +118,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Middle Low German:** snitsen — _borrowed_
       - **German Low German:** sniddjen
 - **Old Norse:** sniða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

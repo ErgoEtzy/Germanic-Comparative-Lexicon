@@ -97,7 +97,3 @@ A formation related to *hwistlōną (“to whistle”), *hwīnaną (“to whiz, 
   - **Swedish:** viska
   - **Danish:** hviske
     - **Norwegian Bokmål:** hviske
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

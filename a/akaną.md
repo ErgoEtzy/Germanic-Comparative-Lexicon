@@ -210,7 +210,3 @@ Kroonen prefers to reconstruct the proto-form as *h₂eǵ- and adduces as cognat
   - **Old Dutch:** *akan
     - **Middle Dutch:** ākel — _reshaped by analogy or addition of morphemes_
       - **Dutch:** akelig — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

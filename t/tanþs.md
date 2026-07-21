@@ -492,7 +492,3 @@ From Proto-Indo-European *h₃dónts (“tooth”).
     - **Gutnish:** tann
     - **Gutnish:** tand
 - **Gothic:** 𐍄𐌿𐌽𐌸𐌿𐍃 — _reshaped by analogy or addition of morphemes; converted to u-stem_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

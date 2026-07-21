@@ -77,7 +77,3 @@ Perhaps from *geutaną (“to pour”). Compare Proto-Germanic *gautaz and Proto
       - **Norwegian Nynorsk:** gotar — _borrowed_
   - **Old Gutnish:** gutar — _pl_
 - **Gothic:** *𐌲𐌿𐍄𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

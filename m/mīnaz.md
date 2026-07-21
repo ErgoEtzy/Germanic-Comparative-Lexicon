@@ -226,7 +226,3 @@ From pre-Proto-Germanic *mey-no-s, from Proto-Indo-European *éǵh₂ ~ *h₁mey
     - **Danish:** min
 - **Gothic:** 𐌼𐌴𐌹𐌽𐍃
 - **Crimean Gothic:** mine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

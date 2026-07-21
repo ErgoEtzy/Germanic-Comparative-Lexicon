@@ -248,7 +248,3 @@ From Proto-Indo-European *h₁eyHw- (“yew”), with probably intrusive *-gw-/-
 - **Old Norse:** ýr
   - **Icelandic:** ýr
   - **Norwegian Nynorsk:** y — _learned borrowing; learned_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

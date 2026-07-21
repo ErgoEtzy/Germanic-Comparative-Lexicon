@@ -157,7 +157,3 @@ From Proto-Indo-European *bʰlowdh₂-o-s, from *bʰlow- (“emaciated, soft”)
   - **Old Danish:** bløthær
     - **Danish:** blød
       - **Norwegian Bokmål:** bløt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

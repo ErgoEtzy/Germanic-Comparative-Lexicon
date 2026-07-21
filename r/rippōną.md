@@ -101,7 +101,3 @@ From Pre-Germanic *Hripnéh₂-, a zero-grade iterative to *rīfaną/*rīpaną (
 - **Old Norse:** *ripa
   - **Faroese:** ripa
   - **Norwegian:** ripe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -134,7 +134,3 @@ From Proto-Indo-European *mosgʷ- (“netting, mesh, knot, loop”), from *mesg�
   - **Old Swedish:** maska
     - **Swedish:** maska
   - **Danish:** maske
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

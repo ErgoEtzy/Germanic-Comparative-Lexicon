@@ -236,7 +236,3 @@ From Proto-Indo-European *ḱewb- (“thorn, briar”).
     - **English:** shoop
     - **English:** shoup
     - **English:** choop
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

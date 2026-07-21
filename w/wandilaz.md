@@ -69,7 +69,3 @@ From the root of *wandōną (“to wander”) + *-ilaz.
     - **Danish:** vendel
     - **Danish:** vendelbo
 - **English:** Vandal — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

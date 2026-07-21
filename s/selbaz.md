@@ -343,7 +343,3 @@ From Proto-Indo-European *selbʰ- (“one's own”), probably from the reflexive
     - **Jutish:** sjæl
 - **Gutnish:** självar
 - **Gothic:** 𐍃𐌹𐌻𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

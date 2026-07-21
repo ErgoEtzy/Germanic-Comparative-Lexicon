@@ -138,7 +138,3 @@ From Proto-Indo-European *dʰaylom, *dʰayl- (“part, watershed”). See *daili
   - **Middle High German:** teil
     - **German:** Teil
     - **Luxembourgish:** Deel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

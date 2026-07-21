@@ -88,7 +88,3 @@ From Proto-Indo-European *bʰren- (“to protrude”).
     - **Danish:** brat
       - **Norwegian Bokmål:** bratt
   - **Old Norse:** brant — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

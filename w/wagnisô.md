@@ -63,7 +63,3 @@ From Proto-Indo-European *wogʷʰnis, *wogʷʰmis, probably from Proto-Indo-Euro
   - **Norwegian:** vangsne
   - **Norwegian:** vagnse
   - **Swedish:** vangs
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

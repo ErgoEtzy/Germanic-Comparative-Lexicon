@@ -126,7 +126,3 @@ Back-formation from the iterative *druppōną, from Proto-Indo-European *dʰrbʰ
   - **Norwegian Nynorsk:** drjupa
   - **Norwegian Nynorsk:** drypa
   - **Swedish:** drypa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -77,7 +77,3 @@ From Proto-Indo-European *gel- (“to be cold, freeze”).
       - **English:** calm
     - **Middle English:** calm — _borrowed_ — _through a non-Germanic route_
       - **English:** calm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

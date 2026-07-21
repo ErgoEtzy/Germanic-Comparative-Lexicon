@@ -71,7 +71,3 @@ From Proto-Indo-European *sewg- (“grievous; sorrowful; ill”).
   - **Old Danish:** syslæ
     - **Danish:** syssel
     - **Danish:** sysle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

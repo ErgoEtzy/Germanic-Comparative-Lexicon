@@ -128,7 +128,3 @@ From Proto-Indo-European *trenkʷ- (“to beat, hew, press”).
   - **Norwegian Nynorsk:** trenga
   - **Norwegian Nynorsk:** trenge — _strong past forms_
 - **Gothic:** 𐌸𐍂𐌴𐌹𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

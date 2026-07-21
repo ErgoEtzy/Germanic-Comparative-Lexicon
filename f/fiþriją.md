@@ -112,7 +112,3 @@ From the nominative stem of the Proto-Indo-European *péth₂r̥ ~ pth₂én-, f
   - **Icelandic:** fiðri
   - **Icelandic:** fiður
   - **Faroese:** fiðri
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

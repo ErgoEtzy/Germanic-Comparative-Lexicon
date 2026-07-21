@@ -130,7 +130,3 @@ From Proto-Indo-European *srow-mo-s, which is derived from Proto-Indo-European *
     - **Swedish:** ström
   - **Danish:** strøm
     - **Norwegian Bokmål:** strøm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

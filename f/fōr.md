@@ -579,7 +579,3 @@ From Proto-Indo-European *péh₂wr̥ ~ *ph₂wéns (“fire”).
     - **Danish:** fyr
       - **Norwegian Bokmål:** fyr
 - **Gothic:** 𐍆𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

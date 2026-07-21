@@ -53,7 +53,3 @@ From *berhtaz + *-į̄.
 - **Old Norse:** birti
   - **Icelandic:** birti
 - **Gothic:** 𐌱𐌰𐌹𐍂𐌷𐍄𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

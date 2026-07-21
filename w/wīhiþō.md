@@ -50,7 +50,3 @@ From *wīhaz (“sacred, holy”) + *-iþō.
 - **Old High German:** wīhida
   - **Middle High German:** wīhede
 - **Gothic:** 𐍅𐌴𐌹𐌷𐌹𐌸𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

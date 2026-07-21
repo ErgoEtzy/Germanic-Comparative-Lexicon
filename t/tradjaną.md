@@ -102,7 +102,3 @@ From *trudaną (“to tread”) + *-janą.
     - **Middle High German:** tretten
 - **Old Norse:** treðja
   - **Icelandic:** treðja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

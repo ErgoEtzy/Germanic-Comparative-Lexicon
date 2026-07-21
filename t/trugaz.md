@@ -80,7 +80,3 @@ From Proto-Indo-European *drukós (“trough, vessel”), from the same root as 
   - **Norwegian Nynorsk:** trau
   - **Danish:** trug
   - **Swedish:** tråg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -97,7 +97,3 @@ From Proto-Indo-European *kreg-, *krek-, *kerk- (“to crow, croak”), from Pro
     - **Swedish:** råka
   - **Danish:** råge
 - **Burgundian:** hrōks
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

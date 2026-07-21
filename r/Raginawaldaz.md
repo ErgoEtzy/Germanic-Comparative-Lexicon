@@ -65,7 +65,3 @@ From *raginą (“decision, advice, counsel”) + *waldaz (“ruler”).
 - **English:** Reginald — _borrowed_ — _through a non-Germanic route_
 - **Dutch:** Reinoud — _borrowed_ — _through a non-Germanic route_
 - **Old High German:** Regnald — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

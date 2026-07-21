@@ -96,7 +96,3 @@ From *ga- + *rehtaz + *-ją.
     - **German:** Gericht
 - **Old Norse:** rétti
   - **Icelandic:** rétti
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

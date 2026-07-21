@@ -269,7 +269,3 @@ Kroonen derives the word from Pre-Germanic *gʰodom, itself from *getaną (“to
   - **Icelandic:** gat
   - **Faroese:** gat
   - **Swedish:** gat
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

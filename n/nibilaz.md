@@ -105,7 +105,3 @@ Derived from or related to *nebulaz (“fog, darkness”).
     - **Faroese:** nivlungar — _borrowed_
   - **Old Norse:** Niflheimr — _reshaped by analogy or addition of morphemes_
     - **English:** Niflheim — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

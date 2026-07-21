@@ -97,7 +97,3 @@ From *standaną + *-janą.
   - **Icelandic:** stæða
 - **Gothic:** *𐍃𐍄𐍉𐌳𐌾𐌰𐌽
 - **Gothic:** 𐌰𐌽𐌰𐍃𐍄𐍉𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

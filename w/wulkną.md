@@ -116,7 +116,3 @@ Nominalized from Proto-Indo-European *wl̥g-nó-s, from *welg- (“wet, damp”)
       - **Bavarian:** Woikn
       - **Bavarian:** Wolkn
       - **Yiddish:** וואָלקן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

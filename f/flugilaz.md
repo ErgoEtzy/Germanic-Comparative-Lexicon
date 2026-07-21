@@ -82,7 +82,3 @@ From *fleuganą (“to fly”) + *-ilaz (“agent instrumental noun suffix”). 
     - **Luxembourgish:** Fligel
     - **Vilamovian:** fłygel
     - **Yiddish:** פֿליגל
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

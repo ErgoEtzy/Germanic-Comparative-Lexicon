@@ -121,7 +121,3 @@ Uncertain. Possibly a derivative of *grubilaz (“lying face down", or "a diggin
       - **Scots:** grovel
       - **Scots:** grovle
       - **Scots:** gruvil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

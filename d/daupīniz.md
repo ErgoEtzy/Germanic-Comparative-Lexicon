@@ -95,7 +95,3 @@ From *daupijaną (“to dip”) + *-īniz.
       - **Luxembourgish:** Daf
       - **Pennsylvania German:** Daaf
 - **Gothic:** 𐌳𐌰𐌿𐍀𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

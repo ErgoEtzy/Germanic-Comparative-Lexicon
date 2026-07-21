@@ -809,7 +809,3 @@ From earlier *sebunt, from Pre-Germanic *sepḿ̥t, a dissimilatory alteration o
     - **Gutnish:** sjau
     - **Gutnish:** sjavv
 - **Gothic:** 𐍃𐌹𐌱𐌿𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -46,7 +46,3 @@ From Proto-Indo-European *h₁éh₁t-mō ~ *h₁h₁t-m̥nés (“breath, spiri
   - **Old Frisian:** ēthma
   - **German:** Atem
   - **German:** Odem
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

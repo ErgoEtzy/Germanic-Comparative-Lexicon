@@ -129,7 +129,3 @@ From *juką (“yoke”) + *-ōną.
       - **German:** jochen
 - **Old Norse:** oka
   - **Icelandic:** oka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

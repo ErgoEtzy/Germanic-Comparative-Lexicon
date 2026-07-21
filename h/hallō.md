@@ -101,7 +101,3 @@ From pre-Germanic *ḱol-n-éh₂, from a Proto-Indo-European n-stem meaning “
     - **Old Swedish:** hal
       - **Swedish:** hall
     - **Danish:** hal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

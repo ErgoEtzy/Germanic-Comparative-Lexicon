@@ -141,7 +141,3 @@ From pre-Proto-Germanic *kunkr-ú-s, derived from some Proto-Indo-European zero-
   - **Old Danish:** hunger
     - **Danish:** hunger
 - **Gothic:** 𐌷𐌿𐌷𐍂𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

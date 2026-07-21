@@ -226,7 +226,3 @@ From Proto-Indo-European *(me)mógʰe, from *megʰ-. Cognate with Proto-Slavic *
         - **Swedish:** må
       - **Danish:** må
 - **Gothic:** 𐌼𐌰𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

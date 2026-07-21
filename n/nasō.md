@@ -112,7 +112,3 @@ Griepentrog also considers the zero-grade form *nus- instead of **uns- regular, 
   - **Old Danish:** næsæ — _f_
     - **Danish:** næse — _c_
   - **Gutnish:** nos — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

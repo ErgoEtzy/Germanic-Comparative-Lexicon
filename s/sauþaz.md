@@ -110,7 +110,3 @@ From Proto-Indo-European *h₂sewt- (“to roil”).
 - **Old Gutnish:** sauþr
 - **Old Gutnish:** soyþr
 - **Gothic:** 𐍃𐌰𐌿𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

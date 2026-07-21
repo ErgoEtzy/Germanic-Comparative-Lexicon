@@ -51,7 +51,3 @@ From pre-Germanic *plowyom, from Proto-Indo-European *plew- (“to sail, flow”
   - **Faroese:** floy
   - **Norwegian Bokmål:** fløy
   - **Old English:** flōeġe — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

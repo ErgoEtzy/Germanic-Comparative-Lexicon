@@ -100,7 +100,3 @@ From Proto-Indo-European *lugnós, from *lewg- (“to bend”) + *-nós. Synchro
   - **Norwegian:** lokk
   - **Swedish:** lock
   - **Danish:** lok
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

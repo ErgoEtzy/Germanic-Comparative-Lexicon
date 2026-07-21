@@ -93,7 +93,3 @@ From Proto-Indo-European *gʰerdʰ- (“to enclose”).
 - **Gothic:** *𐌲𐌰𐌹𐍂𐌳𐌰𐌽
 - **Gothic:** 𐌱𐌹𐌲𐌰𐌹𐍂𐌳𐌰𐌽
 - **Gothic:** 𐌿𐍆𐌲𐌰𐌹𐍂𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

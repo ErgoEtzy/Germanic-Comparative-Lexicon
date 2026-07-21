@@ -116,7 +116,3 @@ Possibly from Proto-Indo-European *(s)ley- (“smooth; slick; sticky; slimy”),
       - **English:** sliver
   - **Old Saxon:** *slīvan
     - **Middle Low German:** slîven — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

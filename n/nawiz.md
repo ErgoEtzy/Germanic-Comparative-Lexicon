@@ -53,7 +53,3 @@ From Proto-Indo-European *nh̥₂w-i-s (“corpse”), from *neh₂w- (“death;
   - **Norwegian Nynorsk:** nåe
   - **Norwegian Bokmål:** nåe
 - **Gothic:** 𐌽𐌰𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

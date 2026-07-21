@@ -53,7 +53,3 @@ From Proto-Indo-European *lókus (“lake; pond”).
     - **Middle High German:** lā
 - **Old Norse:** lá
   - **Icelandic:** lá
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -121,7 +121,3 @@ From *uber- + *stīganą.
 - **Old Norse:** *yfirstíga
   - **Old Norse:** yfirstígari — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌿𐍆𐌰𐍂𐍃𐍄𐌴𐌹𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -139,7 +139,3 @@ Mechanically, from a Proto-Indo-European *ḱwey- (“to hiss, whistle, whisper�
     - **Swedish:** hvina — _pre-1906 spelling_
   - **Danish:** hvine
     - **Norwegian Bokmål:** hvine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

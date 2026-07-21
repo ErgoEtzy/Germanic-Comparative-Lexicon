@@ -118,7 +118,3 @@ From post-Proto-Indo-European / pre-Proto-Germanic *gʷʰn̥tis → *gʷʰuntis 
       - **English:** Gunn
 - **Vandalic:** *gunþ
 - **Vandalic:** *gunðV-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

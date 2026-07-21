@@ -162,7 +162,3 @@ Compare typologically драть (dratʹ), дра́ться (drátʹsja).
     - **Middle High German:** vëhten
       - **Alemannic German:** fëchte
       - **German:** fechten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

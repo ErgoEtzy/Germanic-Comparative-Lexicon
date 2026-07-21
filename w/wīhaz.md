@@ -107,7 +107,3 @@ From Proto-Indo-European *wéyk-o-s, from *weyk- (“to choose, separate out, se
     - **Middle High German:** wīch
       - **German:** weih
 - **Gothic:** 𐍅𐌴𐌹𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

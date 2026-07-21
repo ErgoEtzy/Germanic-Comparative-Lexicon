@@ -101,7 +101,3 @@ From *sūkaną (“to suck”) + *-janą.
   - **Old Dutch:** *sōken
     - **Middle Dutch:** sôken
       - **Dutch:** zoken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

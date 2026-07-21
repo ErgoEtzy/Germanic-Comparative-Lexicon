@@ -64,7 +64,3 @@ Possibly from Proto-Indo-European *muH-lo-s (“lips, muzzle”), from a root *m
       - **Central Franconian:** Muul
       - **Luxembourgish:** Maul
       - **Yiddish:** מויל
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

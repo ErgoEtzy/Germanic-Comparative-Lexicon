@@ -69,7 +69,3 @@ From *skiljaną + *-lingaz.
     - **Norwegian Bokmål:** skilling
     - **Norwegian Nynorsk:** skilling
 - **Gothic:** 𐍃𐌺𐌹𐌻𐌻𐌹𐌲𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

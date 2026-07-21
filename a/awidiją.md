@@ -50,7 +50,3 @@ Likely from Proto-Indo-European *h₃ewi-dʰh₁-yo-, equivalent to *awiz + *-dj
 - **Old High German:** ewit
 - **Old High German:** ewida
 - **Gothic:** 𐌰𐍅𐌴𐌸𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

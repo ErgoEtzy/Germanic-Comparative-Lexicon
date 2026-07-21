@@ -136,7 +136,3 @@ From Pre-Germanic *koldos, from Proto-Indo-European *kelh₂-d-. Related to Old 
     - **Swedish:** halt
   - **Danish:** halt
 - **Gothic:** 𐌷𐌰𐌻𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -187,7 +187,3 @@ The causative-iterative formation to a lost strong verb *afaną, from Proto-Indo
     - **Rhine Franconian:** iwe
 - **Old Norse:** *œfa
   - **Icelandic:** æfa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -38,7 +38,3 @@ From Proto-Indo-European *kʷéh₁. Compare Ancient Greek πῆ (pê).
   - **Icelandic:** hve
   - **Norwegian Nynorsk:** ko
 - **Gothic:** 𐍈𐌴
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

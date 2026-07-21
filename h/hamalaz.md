@@ -107,7 +107,3 @@ From Proto-Indo-European *ḱom-olo-s, from *ḱem- (“hornless”). Cognate wi
 - **Old Norse:** hamall — _inherited; uncertain_
   - **Swedish:** hammel
   - **Old Norse:** fylkja hamalt — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

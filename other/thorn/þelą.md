@@ -66,7 +66,3 @@ Likely from Proto-Indo-European *telh₂-o-s, from *telh₂- (“flat surface, g
   - **Old Swedish:** þiæl
 - **Old Norse:** þeli — _n_
   - **Old Swedish:** þiæl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

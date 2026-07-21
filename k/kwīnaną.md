@@ -107,7 +107,3 @@ From Proto-Indo-European *gʷeyH- (“to dwindle”) or possibly, Proto-Indo-Eur
   - **Old High German:** *quīnan
     - **Middle High German:** *quīnen
       - **Middle High German:** verquīnen — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

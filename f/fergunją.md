@@ -98,7 +98,3 @@ The Celtic word could have been also originally an adjective. Compare the Gallo-
 - **Old Norse:** fjǫrgyn — _f_
   - **Icelandic:** fjörgyn — _f_
 - **Gothic:** 𐍆𐌰𐌹𐍂𐌲𐌿𐌽𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

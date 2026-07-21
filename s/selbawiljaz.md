@@ -100,7 +100,3 @@ From *selbaz + *wiljaz.
 - **Old English:** selfwille
   - **Middle English:** selfwill
 - **Gothic:** 𐍃𐌹𐌻𐌱𐌰𐍅𐌹𐌻𐌾𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

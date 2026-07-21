@@ -69,7 +69,3 @@ From *bait- (“to make bite”) + *-ilaz (suffix deriving names of tools). The 
   - **Gutnish:** baitel
   - **Gutnish:** baitl
   - **Gutnish:** baitul
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

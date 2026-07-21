@@ -104,7 +104,3 @@ Via pre-Germanic *ph₂ǵóm, from Proto-Indo-European *peh₂ǵ- (“to fit, fa
         - **English:** Fach — _borrowed_
         - **Luxembourgish:** Fach — _borrowed_
       - **Yiddish:** פֿאַך
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

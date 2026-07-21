@@ -174,7 +174,3 @@ From Proto-Indo-European *gʰendʰ- (“sore, ulcer, abscess, boil”). Cognate 
 - **Old Norse:** *gundr
   - **Norwegian:** gund
 - **Gothic:** 𐌲𐌿𐌽𐌳 — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

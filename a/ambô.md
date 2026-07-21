@@ -56,7 +56,3 @@ From Proto-Indo-European *h₃émbʰō ~ *h₃m̥bʰnés (< *h₃énbʰ-on-), va
     - **German:** Amen — _Hessian_
   - **Old High German:** ambana
     - **German:** Amen — _Hessian_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

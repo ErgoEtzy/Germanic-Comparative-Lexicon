@@ -103,7 +103,3 @@ From Proto-Indo-European *h₁os-on-i-s (“harvest”). Cognate with Proto-Slav
     - **Swedish:** (archaic or dialectal) and
     - **Swedish:** ann
 - **Gothic:** 𐌰𐍃𐌰𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

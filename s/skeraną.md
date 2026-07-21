@@ -276,7 +276,3 @@ From Proto-Indo-European *(s)ker- (“to cut”) (though Kroonen reconstructs th
   - **Danish:** skære
     - **Norwegian Bokmål:** skjære
 - **Gothic:** *𐍃𐌺𐌰𐌹𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

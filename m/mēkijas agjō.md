@@ -12,7 +12,7 @@ From *mēkijaz + *agjō. The phrase may well have originated in a later Germanic
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Noun
 
@@ -24,7 +24,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old English:** mǣċes eċġ
   - **Old Saxon:** mākies eggia
 - **Old Norse:** mækis egg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

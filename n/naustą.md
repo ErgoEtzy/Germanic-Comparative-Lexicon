@@ -85,7 +85,3 @@ From Proto-Indo-European *neh₂u- (“sea-boat, ship”) + *sth₂om, from *ste
   - **Scots:** newst — _borrowed_
   - **Scots:** noost — _borrowed_
   - **Scots:** noast — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

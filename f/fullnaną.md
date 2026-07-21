@@ -94,7 +94,3 @@ From *fullaz (“full”) + *-naną.
 - **Old Norse:** fullna
   - **Icelandic:** fullna
 - **Gothic:** 𐍆𐌿𐌻𐌻𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

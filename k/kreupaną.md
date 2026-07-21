@@ -166,7 +166,3 @@ According to Kroonen, the derivations containing -p(p)- and -b(b)- show that the
   - **Elfdalian:** kriuopa
   - **Gutnish:** kräupe
   - **Scanian:** krýba
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

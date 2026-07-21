@@ -112,7 +112,3 @@ Uncertain; suggested to be cognate with Proto-Slavic *dolъ (“below, down; val
 - **Gothic:** 𐌳𐌰𐌻
 - **Gothic:** *𐌳𐌰𐌻𐍃
 - **Gothic:** *dals
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

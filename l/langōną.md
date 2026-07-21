@@ -264,7 +264,3 @@ Other derive the verb from Proto-Indo-European *lengʷʰ-, *legʷʰ- (“to be e
   - **Old Swedish:** langa
     - **Swedish:** långa
   - **Danish:** længes
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

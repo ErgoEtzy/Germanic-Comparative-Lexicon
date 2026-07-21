@@ -95,7 +95,3 @@ Likely from *brutjô (“distributor, donor, giver”) + *-ōną. Closely relate
   - **Old English:** bryttian
   - **Old English:** bryttan
 - **Old Norse:** brytja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

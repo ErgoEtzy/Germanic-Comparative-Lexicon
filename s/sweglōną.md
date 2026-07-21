@@ -98,7 +98,3 @@ From *sweglō (“flute”) + *-ōną.
     - **Middle High German:** sweglen
       - **German:** schwegeln
 - **Gothic:** 𐍃𐍅𐌹𐌲𐌻𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

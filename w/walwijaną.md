@@ -131,7 +131,3 @@ From *waluz (“staff, stick”) + *-ijaną (“denominal suffix”), invoking t
   - **Gothic:** 𐌰𐍄𐍅𐌰𐌻𐍅𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌰𐍆𐍅𐌰𐌻𐍅𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐍆𐌰𐌿𐍂𐍅𐌰𐌻𐍅𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

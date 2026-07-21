@@ -150,7 +150,3 @@ From Proto-Indo-European *négʷʰrō. Cognate with Latin nefrōnēs pl (“test
   - **Elfdalian:** niųora
   - **Elfdalian:** niųore
   - **Old Gutnish:** vig-niauri — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

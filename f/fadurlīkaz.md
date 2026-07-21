@@ -135,7 +135,3 @@ From *fadēr + *-līkaz.
   - **Swedish:** faderlig
   - **Danish:** faderlig
     - **Norwegian Bokmål:** faderlig — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

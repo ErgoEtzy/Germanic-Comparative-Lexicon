@@ -120,7 +120,3 @@ Likely from Proto-Indo-European *stréy-dʰe-ti, from *strey- (“to resist”) 
 - **Old Norse:** *stríða
   - **Old Swedish:** strīþa
     - **Swedish:** strida
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

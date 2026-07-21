@@ -140,7 +140,3 @@ Due to the *p, which otherwise points to a dubious Proto-Indo-European *b, Kroon
   - **Danish:** dræbe
     - **Norwegian Bokmål:** drepe
   - **Old Gutnish:** drepa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

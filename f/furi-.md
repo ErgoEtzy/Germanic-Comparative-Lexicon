@@ -133,7 +133,3 @@ From the preposition and adverb *furi (“for, in front”).
   - **Old High German:** for-
 - **Old Norse:** fyrir-
 - **Gothic:** 𐍆𐌰𐌿𐍂-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

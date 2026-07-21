@@ -98,7 +98,3 @@ From *klibāną (“to cling”) + *-rōną (frequentative suffix).
     - **Middle High German:** kleberen
 - **Old Norse:** klifra
   - **Icelandic:** klifra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

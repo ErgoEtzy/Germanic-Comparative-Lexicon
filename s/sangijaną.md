@@ -152,7 +152,3 @@ Causative of a lost strong verb *singaną, from Proto-Indo-European *senk- (“t
   - **Old High German:** sengēn
     - **Middle High German:** sengen
       - **German:** sengen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

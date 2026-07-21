@@ -262,7 +262,3 @@ By Holtzmann's law from *oyóm, by Dybo's law from *ōyóm, by Mahlow's law from
       - **Scots:** egg
     - **Yola:** egges — _plural_
 - **Crimean Gothic:** ada
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

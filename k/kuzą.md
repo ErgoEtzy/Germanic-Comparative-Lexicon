@@ -64,7 +64,3 @@ From Proto-Indo-European *ǵews- (“to taste; choose”).
     - **Swedish:** kor
     - **Danish:** kår
       - **Norwegian Bokmål:** kår
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

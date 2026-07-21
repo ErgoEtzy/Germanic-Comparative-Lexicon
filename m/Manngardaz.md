@@ -50,7 +50,3 @@ From *mann- (“man”) + *gardaz (“garden, protection”).
   - **Norwegian:** Mangård
   - **Danish:** Mangård
   - **Swedish:** Mangård
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -102,7 +102,3 @@ Unclear, possibly from *līką (“body, shape”) + *-inōną or *līkinō (“
 - **Old Norse:** líkna
   - **Icelandic:** líkna
   - **Faroese:** líkna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -52,7 +52,3 @@ From *irzijaz (“crazy, confused, lost, erring, wrong”) + *-iþō.
   - **Old High German:** reinida
     - **Middle High German:** reinde
 - **Gothic:** 𐌰𐌹𐍂𐌶𐌹𐌸𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

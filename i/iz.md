@@ -423,7 +423,3 @@ From Proto-Indo-European *ís, *éy.
       - **German:** ihnen
       - **Cimbrian:** innàndarn — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌹𐌼
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

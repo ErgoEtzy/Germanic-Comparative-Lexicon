@@ -68,7 +68,3 @@ From *balþaz (“bold”) + *-į̄.
     - **Middle High German:** belde
       - **(German:** in Bälde
 - **Gothic:** 𐌱𐌰𐌻𐌸𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

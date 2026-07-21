@@ -110,7 +110,3 @@ According to Kroonen, a nasal-infixed derivative from the verb *weganą (“to m
 - **Old Norse:** vakka
   - **Icelandic:** vakka
   - **Faroese:** vakka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

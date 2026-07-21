@@ -103,7 +103,3 @@ From Proto-Indo-European *trowH-eh₂-ti, from *trewh₁- (“to endure, suffer�
     - **Danish:** attrå
       - **Norwegian Bokmål:** attrå
         - **Norwegian Nynorsk:** attrå — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

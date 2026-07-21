@@ -85,7 +85,3 @@ From the unattested Proto-Germanic *frawiz or *frawaz and the suffix *-jô, the 
 - **Vandalic:** *frauja-
 - **Vandalic:** froia
 - **Vandalic:** froja — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

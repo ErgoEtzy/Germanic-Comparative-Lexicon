@@ -51,7 +51,3 @@ From *-ukaz + *-ô.
   - **Old High German:** -ko
     - **Middle High German:** -ke
 - **Old Norse:** -ki
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

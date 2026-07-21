@@ -140,7 +140,3 @@ From *bi- + *ganganą.
     - **German:** Begängnis
   - **Middle High German:** begencnisse — _reshaped by analogy or addition of morphemes_
     - **German:** Begängnis
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

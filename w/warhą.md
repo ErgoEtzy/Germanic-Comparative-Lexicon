@@ -54,7 +54,3 @@ From Pre-Germanic *wórkom, o-grade derivation from Proto-Indo-European *werk- (
   - **Norwegian:** var
   - **Old Swedish:** var
     - **Swedish:** var
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

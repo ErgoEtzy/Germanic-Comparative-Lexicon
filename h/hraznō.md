@@ -50,7 +50,3 @@ From Proto-Indo-European *kros-néh₂, from *kres- (“spring, wave”). Cognat
 - **Old Norse:** Hrǫnn
   - **Icelandic:** hrönn
   - **Icelandic:** Hrönn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

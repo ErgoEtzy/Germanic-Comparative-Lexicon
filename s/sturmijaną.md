@@ -99,7 +99,3 @@ From *sturmaz (“storm”) + *-janą.
       - **Yiddish:** שטורעמען — _inherited; uncertain_
 - **Old Norse:** styrma
   - **Icelandic:** styrma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

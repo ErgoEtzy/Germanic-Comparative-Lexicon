@@ -124,7 +124,3 @@ From Proto-Indo-European *-rós.
     - **Elfdalian:** -er
     - **Swedish:** -er
 - **Gothic:** -𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

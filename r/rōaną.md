@@ -121,7 +121,3 @@ From Proto-Indo-European *h₁roh₁-(ye-)-ti, from *h₁reh₁- (“to row”).
   - **Old Swedish:** rōa
     - **Swedish:** ro
   - **Danish:** ro
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

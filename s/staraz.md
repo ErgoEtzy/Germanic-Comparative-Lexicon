@@ -107,7 +107,3 @@ From Pre-Germanic *storh₁-os, from Proto-Indo-European *sterh₁- (“to be st
     - **Middle High German:** star
       - **German:** starr
 - **Old Norse:** starr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

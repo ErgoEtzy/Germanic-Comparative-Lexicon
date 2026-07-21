@@ -101,7 +101,3 @@ From earlier *taugmaz, from *teuhaną, from Proto-Indo-European *dewk- (“to dr
   - **Old Swedish:** tømber
     - **Swedish:** töm
   - **Danish:** tømme
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

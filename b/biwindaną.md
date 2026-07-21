@@ -106,7 +106,3 @@ From *bi- + *windaną.
     - **Middle High German:** bewinden
       - **German:** bewinden
 - **Gothic:** 𐌱𐌹𐍅𐌹𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

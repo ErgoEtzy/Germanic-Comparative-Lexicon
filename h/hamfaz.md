@@ -15,7 +15,7 @@ In either case, considered cognate with Lithuanian kam̃pas (“corner”), Anci
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Adjective
 
@@ -100,7 +100,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Saxon:** hāf
   - **Old High German:** hamf
 - **Gothic:** 𐌷𐌰𐌼𐍆𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

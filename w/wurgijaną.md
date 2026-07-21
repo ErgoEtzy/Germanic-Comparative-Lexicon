@@ -136,7 +136,3 @@ From Proto-Indo-European *wr̥ǵʰ-ye-, a zero-grade jan-present formation from 
   - **Middle High German:** worgen
     - **German:** würgen
     - **Luxembourgish:** wiergen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

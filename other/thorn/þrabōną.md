@@ -143,7 +143,3 @@ From *þrebaną, from Proto-Indo-European *trep- (“to scamper, trip, trample, 
     - **German:** traben
   - **Middle High German:** traben
     - **German:** traben
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

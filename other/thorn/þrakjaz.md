@@ -84,7 +84,3 @@ Probably from Proto-Indo-European *(s)terǵ-, *(s)terḱ-, *(s)treḱ- (“manur
     - **Swedish:** träck
   - **Old Danish:** træk
     - **Danish:** dræk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

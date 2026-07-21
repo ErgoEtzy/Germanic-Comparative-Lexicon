@@ -70,7 +70,3 @@ From pronominal stem *þa- + *-nē (ablatival suffix). Compare *hinē (“from h
       - **Old Danish:** æn
         - **Danish:** end
 - **Gothic:** 𐌸𐌰𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -50,7 +50,3 @@ Plausibly from Pre-Germanic *h₂(e)kʷrós: Proto-Indo-European *h₂ekʷ-, the
   - **Old Dutch:** *aggar
     - **Middle Dutch:** *agger
       - **Dutch:** agger
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

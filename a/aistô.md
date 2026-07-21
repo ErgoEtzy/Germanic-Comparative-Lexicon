@@ -45,7 +45,3 @@ From Proto-Indo-European *h₂oyd-sth₂-o-, from the root *h₂eyd- (“to swel
   - **Icelandic:** eista
   - **Faroese:** eista
   - **Norwegian Nynorsk:** eiste
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

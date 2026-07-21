@@ -101,7 +101,3 @@ Related to Proto-Norse *ᚺᛖᚱᛗᚨ (*herma), as found in Proto-Norse ᚺᛖ
     - **Middle High German:** gehirmen — _reshaped by analogy or addition of morphemes_
       - **Alemannic German:** gehirme
       - **Switzerland German:** gehirmen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

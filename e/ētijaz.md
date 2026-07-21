@@ -107,7 +107,3 @@ From the same Proto-Indo-European [Term?] word as Sanskrit आद्य (ādyá)
 - **Old Norse:** ætr
   - **Icelandic:** ætur
   - **Norwegian Nynorsk:** -æt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -55,7 +55,3 @@ From Proto-Indo-European *úd-s (“up, off”), from *úd (“out, outward”).
     - **Gutnish:** ör
     - **Gutnish:** öir
 - **Gothic:** 𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

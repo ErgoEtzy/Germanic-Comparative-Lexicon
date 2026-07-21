@@ -22,7 +22,3 @@ From Proto-Indo-European *(s)kelH- (“to cut, divide”) or *(s)kel- (“to cov
 
 - **Old English:** sċeallan
 - **Old Frisian:** skal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

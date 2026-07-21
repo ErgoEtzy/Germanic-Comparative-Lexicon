@@ -113,7 +113,3 @@ From *ēbanþs + *sternǭ.
     - **Norwegian Bokmål:** aftenstjerne
   - **Middle English:** even sterne — _borrowed_
     - **Scots:** evin-starn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

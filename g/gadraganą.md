@@ -97,7 +97,3 @@ From *ga- + *draganą.
 - **Old High German:** *gitragan
   - **Middle High German:** getragen
 - **Gothic:** 𐌲𐌰𐌳𐍂𐌰𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

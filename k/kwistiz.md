@@ -54,7 +54,3 @@ From Proto-Indo-European *(s)gʷes- (“extinguish, quell”). Cognate with Sans
   - **Old High German:** quist
 - **Gothic:** *𐌵𐌹𐍃𐍄𐍃
   - **Gothic:** 𐍆𐍂𐌰𐌵𐌹𐍃𐍄𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

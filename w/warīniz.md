@@ -74,7 +74,3 @@ From *warjaną (“to ward off”) + *-īniz.
   - **Norwegian Nynorsk:** vern — _n_
   - **Old Swedish:** værn
     - **Swedish:** värn — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

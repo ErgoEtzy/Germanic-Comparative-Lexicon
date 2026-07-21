@@ -52,7 +52,3 @@ From Proto-Indo-European *steh₂- (“to stand (up)”).
 - **Old Norse:** staði
 - **Gothic:** *𐍃𐍄𐌰𐌸𐌰
   - **Gothic:** 𐌻𐌿𐌺𐌰𐍂𐌽𐌰𐍃𐍄𐌰𐌸𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

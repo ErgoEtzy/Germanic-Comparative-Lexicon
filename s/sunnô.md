@@ -139,7 +139,3 @@ Suggested to be a nominalization of a lost adjective, possibly from *sunnaz (“
       - **Yiddish:** זון
 - **Gothic:** *𐍃𐌿𐌽𐌽𐌰 — _inherited; uncertain_
 - **Gothic:** 𐍃𐌿𐌽𐌽𐌹𐌽 — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

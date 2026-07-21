@@ -124,7 +124,3 @@ From *windaną (“to wind, wrap”) + *-janą (“causative suffix”).
     - **Swedish:** vända
   - **Danish:** vende
 - **Gothic:** 𐍅𐌰𐌽𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

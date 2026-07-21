@@ -103,7 +103,3 @@ From *gladaz (“bright, smooth, cheerful”) + *-ōną.
       - **Dutch:** gladden — _backformed to the adjective_
 - **Old Norse:** glaða
   - **Icelandic:** glaða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

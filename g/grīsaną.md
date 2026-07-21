@@ -101,7 +101,3 @@ Of disputed origin. Watkins suggests Proto-Indo-European *gʰer- (“to grind, r
   - **Old Dutch:** *grīsan
     - **Middle Dutch:** grisen
       - **Dutch:** afgrijzen — _reshaped by analogy or addition of morphemes; obsolete except as gerund_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -614,7 +614,3 @@ From Proto-Indo-European *bʰudʰmḗn, genitive form *bʰudʰmnós. According t
   - **Elfdalian:** buottn
   - **Gutnish:** buttn
   - **Scanian:** bónð
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

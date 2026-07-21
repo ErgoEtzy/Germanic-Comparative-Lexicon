@@ -93,7 +93,3 @@ From the root of *leuhtaz + *-atjaną.
 
 - **Old High German:** lohezzen
 - **Gothic:** 𐌻𐌰𐌿𐌷𐌰𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

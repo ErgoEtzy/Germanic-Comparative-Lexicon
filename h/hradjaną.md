@@ -135,7 +135,3 @@ Equivalent to *hradaz (“fast”) + *-janą; the original meaning was probably 
     - **Middle High German:** retten
       - **German:** retten
       - **Luxembourgish:** retten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -127,7 +127,3 @@ From Proto-Indo-European *wíterom, adverbial accusative of *wíteros, from *wí
     - **Danish:** ved
       - **Norwegian Bokmål:** ved
 - **Gothic:** 𐍅𐌹𐌸𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

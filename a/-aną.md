@@ -171,7 +171,3 @@ From Proto-Indo-European *-onom, from *-o- (thematic vowel) + *-nom (verbal noun
   - **Danish:** -e
     - **Norwegian Bokmål:** -e
 - **Gothic:** -𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -50,7 +50,3 @@ From Proto-Indo-European *(s)kreyt- (“to wind; twist; bend”), from *(s)ker- 
 - **Old English:** hrīþ
 - **Old Norse:** hríð
   - **Icelandic:** hríð
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

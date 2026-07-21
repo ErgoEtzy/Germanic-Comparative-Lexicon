@@ -105,7 +105,3 @@ From *samaz (“same, alike”) + *-janą.
   - **Old Danish:** sæmje
     - **Danish:** sammes
 - **Gothic:** 𐍃𐌰𐌼𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

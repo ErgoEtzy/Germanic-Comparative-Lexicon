@@ -159,7 +159,3 @@ From Proto-Indo-European *kewh₂- (“to beat, hew, forge”).
         - **Norwegian Bokmål:** hugge
       - **Scanian:** hogga
     - **Gutnish:** hagge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -113,7 +113,3 @@ Probably backformed to the iterative *fukkōną (“to blow, gust”). From Prot
 - **Proto-West Germanic:** *fūkan
   - **Dutch:** fuiken
   - **German:** fauchen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

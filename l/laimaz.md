@@ -92,7 +92,3 @@ From Proto-Indo-European *h₂leyH- (“to smear”). Related to *līmaz (“glu
     - **Hunsrik:** Lehm
     - **Luxembourgish:** Leem
     - **Yiddish:** ליים
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -77,7 +77,3 @@ From Proto-Indo-European *ǵéwstus (“taste”), from Proto-Indo-European *ǵe
     - **Swedish:** farkost
   - **Danish:** kost
 - **Gothic:** 𐌺𐌿𐍃𐍄𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

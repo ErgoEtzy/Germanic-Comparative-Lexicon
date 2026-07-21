@@ -84,7 +84,3 @@ From Proto-Indo-European *dʰelg-, *dʰelk- (“to stick, prick, stab”). Cogna
 - **Old Norse:** dálkr
   - **Icelandic:** dálkur
   - **Faroese:** dolkur — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

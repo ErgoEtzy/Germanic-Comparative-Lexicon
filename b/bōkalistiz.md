@@ -48,7 +48,3 @@ From *bōks (“book”) + *listiz (“art, craft”).
 - **Old High German:** buohliste
 - **Old Norse:** bóklist
   - **Icelandic:** bóklist
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

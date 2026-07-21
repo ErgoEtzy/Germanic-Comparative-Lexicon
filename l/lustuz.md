@@ -96,7 +96,3 @@ A tu-stem nominal formation from a root *lus-, whose further origin is disputed:
   - **Faroese:** losti
   - **Old Swedish:** luste
 - **Gothic:** 𐌻𐌿𐍃𐍄𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

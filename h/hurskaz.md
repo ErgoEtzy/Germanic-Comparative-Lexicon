@@ -108,7 +108,3 @@ Alternative etymology derives from Proto-Indo-European *kerd- (“wise, clever, 
   - **Old High German:** *horsk
 - **Old Norse:** horskr
   - **Icelandic:** horskur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

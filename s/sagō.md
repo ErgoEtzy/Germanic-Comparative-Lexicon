@@ -100,7 +100,3 @@ From Proto-Indo-European *sok-éh₂, from *sek- (“to cut”) + *-éh₂.
   - **Smalandian:** 
   - **Scanian:** saw
   - **Gutnish:** sag
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -116,7 +116,3 @@ From *framaz + *-janą, from Proto-Indo-European *pró-mo-s, from *pró (“towa
     - **Danish:** fremme — _through a non-Germanic route_
       - **Norwegian Bokmål:** fremme
         - **Norwegian Nynorsk:** fremma — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

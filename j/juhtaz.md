@@ -100,7 +100,3 @@ From Proto-Indo-European *yugtós.
 - **Old English:** ġeiht
 - **Old High German:** *joht
 - **Old High German:** gijoht
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -75,7 +75,3 @@ From *waldaz or *waldą + *harjaz. Compare *Harjawaldaz, composed of the same el
   - **Norwegian:** 
   - **Norwegian:** Valdar
   - **Danish:** Valdar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

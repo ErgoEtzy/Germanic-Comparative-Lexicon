@@ -95,7 +95,3 @@ From Proto-Indo-European *tpḗrsneh₂ (“heel”).
       - **Cimbrian:** vèerzinga — _reshaped by analogy or addition of morphemes_
       - **Cimbrian:** bèerzinga — _reshaped by analogy or addition of morphemes; Mezzaselva_
 - **Gothic:** 𐍆𐌰𐌹𐍂𐌶𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -81,7 +81,3 @@ From Pre-Germanic *séntos, from Proto-Indo-European *sent- (“to head for, go�
     - **Swedish:** sinom
 - **Gothic:** 𐍃𐌹𐌽𐌸𐍃
 - **Vandalic:** *sinda-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -104,7 +104,3 @@ From Proto-Indo-European *swerg-.
   - **Old Dutch:** *swerkan
     - **Middle Dutch:** swerken
   - **Old High German:** swërchan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

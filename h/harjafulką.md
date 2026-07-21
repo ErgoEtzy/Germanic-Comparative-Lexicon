@@ -50,7 +50,3 @@ From *harjaz (“army”) + *fulką (“people”).
 - **Old Frisian:** hirifolk
 - **Old Norse:** herfolk
   - **Icelandic:** herfólk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

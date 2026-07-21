@@ -49,7 +49,3 @@ Traditionally derived from a Proto-Indo-European *(s)pelH- (“to split off, sep
 - **Proto-West Germanic:** *spelþ
   - **Old English:** spild
 - **Old Norse:** spjall
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

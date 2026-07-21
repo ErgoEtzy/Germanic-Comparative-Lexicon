@@ -74,7 +74,3 @@ From *beraną (“to carry, transport”) + *-ilaz.
       - **Middle High German:** barellīn — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** berill
   - **Icelandic:** berill
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -187,7 +187,3 @@ From Proto-Indo-European *h₁néh₃-mō ~ *h₁n̥h₃-m̥n-és (“name”), 
       - **Norwegian Bokmål:** navn
   - **Gutnish:** namn
 - **Gothic:** 𐌽𐌰𐌼𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

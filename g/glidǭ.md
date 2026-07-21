@@ -74,7 +74,3 @@ Ultimately from Proto-Indo-European *ǵʰleydʰ- (“to glide”); compare *glī
   - **Danish:** glæde
   - **Danish:** gleje
   - **Swedish:** glada
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

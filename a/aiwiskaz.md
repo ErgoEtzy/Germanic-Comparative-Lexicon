@@ -110,7 +110,3 @@ Formerly often compared with Ancient Greek αἶσχος (aîskhos), but this hy
   - **Middle High German:** eisch
   - **Old High German:** ēwisklīh — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌰𐌹𐍅𐌹𐍃𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

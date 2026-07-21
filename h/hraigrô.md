@@ -142,7 +142,3 @@ From Proto-Indo-European *(s)ḱrey- (“to scream, screech”), from *sḱer- (
     - **Norwegian Bokmål:** heire
   - **Scots:** hegrie — _borrowed_
   - **Scots:** haigrie — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

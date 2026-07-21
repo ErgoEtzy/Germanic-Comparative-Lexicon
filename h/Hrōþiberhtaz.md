@@ -108,7 +108,3 @@ From *hrōþiz (“fame”) + *berhtaz (“bright, shining”).
 - **Old Norse:** Hróbjartr
   - **Icelandic:** Hróbjartur
   - **Faroese:** Róðbjartur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

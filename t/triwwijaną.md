@@ -173,7 +173,3 @@ From *triwwiz (“true, faithful”) + *-janą and *trewwō (“fidelity, pledge
   - **Old English:** *tryccan — _borrowed; uncertain_
     - **Old English:** ġetryccan — _reshaped by analogy or addition of morphemes_
     - **Old English:** ġetryċċan — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

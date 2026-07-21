@@ -81,7 +81,3 @@ From earlier *kʷoryos, from Proto-Indo-European *kʷ-.
     - **Danish:** hver
       - **Norwegian Bokmål:** hver
 - **Gothic:** 𐍈𐌰𐍂𐌾𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

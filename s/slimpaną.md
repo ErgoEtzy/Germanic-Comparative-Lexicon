@@ -103,7 +103,3 @@ From Proto-Indo-European *(s)lembʰ- (“to hang limply”). It likely has the s
     - **Norwegian Nynorsk:** sleppe
   - **Swedish:** slippa
   - **Danish:** slippe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

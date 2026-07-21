@@ -128,7 +128,3 @@ From *hinder (“behind”) + *-ōną.
     - **Swedish:** hindra
   - **Danish:** hindre
   - **Gutnish:** hindre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

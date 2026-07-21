@@ -115,7 +115,3 @@ From Proto-Indo-European *Hrewp- (“to snatch”). It is perhaps inherited from
     - **Norwegian Bokmål:** røve — _borrowed_
     - **Faroese:** røva — _borrowed_
     - **Norwegian Nynorsk:** røva — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

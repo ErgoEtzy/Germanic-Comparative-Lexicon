@@ -65,7 +65,3 @@ From *afti + *-umô.
 ### Germanic descendants
 
 - **Gothic:** 𐌰𐍆𐍄𐌿𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

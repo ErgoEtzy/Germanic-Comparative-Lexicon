@@ -230,7 +230,3 @@ From earlier *bulhstraz, from Proto-Indo-European *bʰelǵʰ- (“bag, pillow, p
     - **Swedish:** bolster
   - **Old Danish:** bulstær
     - **Danish:** bolster
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

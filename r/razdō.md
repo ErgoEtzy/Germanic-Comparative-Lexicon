@@ -244,7 +244,3 @@ From Proto-Indo-European *Hres- (“to shout, speak”), extended as *Hros-dʰ(h
   - **Faroese:** rødd
   - **Scots:** rede — _borrowed_
 - **Gothic:** 𐍂𐌰𐌶𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

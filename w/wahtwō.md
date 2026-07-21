@@ -131,7 +131,3 @@ From *wakaną (“to wake, be awake”) + *-þwō.
 - **Gothic:** *𐍅𐌰𐌷𐍄𐍅𐌰
 - **Gothic:** *𐍅𐌰𐌷𐍄𐍅𐍉
 - **; only the dative plural:** 𐍅𐌰𐌷𐍄𐍅𐍉𐌼
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

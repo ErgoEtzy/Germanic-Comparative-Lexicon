@@ -101,7 +101,3 @@ From *saulijǭ (“filth, manure”) or directly from its antecedent Proto-Indo-
     - **Swedish:** söla
   - **Danish:** søle
 - **Gothic:** *𐍃𐌰𐌿𐌻𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

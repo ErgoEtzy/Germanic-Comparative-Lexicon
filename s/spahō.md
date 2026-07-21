@@ -63,7 +63,3 @@ From Proto-Indo-European *speḱ- (“to see, to look, to observe”).
 - **Proto-Norse:** ᛋᛒᛡ
   - **Old Norse:** spá
     - **Icelandic:** spá
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

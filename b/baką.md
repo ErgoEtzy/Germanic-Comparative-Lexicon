@@ -94,7 +94,3 @@ Of uncertain origin. Possibly from Proto-Indo-European *bʰeg- (“to vault; arc
     - **Swedish:** bak
   - **Old Danish:** bak
     - **Danish:** bag
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

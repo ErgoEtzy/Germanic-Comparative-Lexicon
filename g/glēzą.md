@@ -59,7 +59,3 @@ Related to *glasą; see there for more.
   - **Old Saxon:** *glār
     - **Middle Low German:** glâr
     - **Middle Low German:** glar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

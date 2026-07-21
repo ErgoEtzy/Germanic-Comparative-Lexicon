@@ -96,7 +96,3 @@ From Proto-Indo-European *ḱley- (“to shelter, cover”).
   - **Old Frisian:** hlīda
   - **Old Saxon:** *hlīdan
     - **Old Saxon:** bihlīdan — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

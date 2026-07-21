@@ -100,7 +100,3 @@ From *fullaz (“full”) + *-ōną.
   - **Old High German:** follōn
     - **Middle High German:** follen
 - **Old Norse:** fulla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

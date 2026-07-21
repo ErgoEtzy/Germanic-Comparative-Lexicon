@@ -89,7 +89,3 @@ From Pre-Germanic *h₃éplom, from Proto-Indo-European *h₃ep- (“to work”)
     - **Swedish:** avel
   - **Old Danish:** affl
     - **Danish:** avl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

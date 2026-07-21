@@ -141,7 +141,3 @@ From Proto-Indo-European *(s)kenH- (“skin, rind; to peel”). Cognate with Lit
       - **Yola:** skien
   - **Old Frisian:** skene — _borrowed_
   - **Middle Low German:** schin — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

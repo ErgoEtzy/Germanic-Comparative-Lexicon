@@ -384,7 +384,3 @@ From *flunþrą (“something flat”). Compare cognate Late Latin platessa (“
     - **English:** flounder
     - **Scots:** flunner
     - **Scots:** flunder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

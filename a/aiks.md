@@ -259,7 +259,3 @@ May be from Proto-Indo-European *h₂éyǵs (“oak”), if related to the first
   - **Danish:** eg — _c_
     - **Norwegian Bokmål:** ek — _m_
   - **Gutnish:** aik
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

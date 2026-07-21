@@ -100,7 +100,3 @@ Likely from Proto-Indo-European *tórmos (“borehole”), and cognate with Anci
     - **Swedish:** tarm
   - **Danish:** tarm
     - **Norwegian Bokmål:** tarm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

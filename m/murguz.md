@@ -173,7 +173,3 @@ From Proto-Indo-European *mréǵʰus ~ *mr̥ǵʰéws (“short”). Cognate with
 - **Old Norse:** *myrgill — _reshaped by analogy or addition of morphemes_
   - **Norwegian Nynorsk:** myrjel — _dialectal_
   - **Norwegian Nynorsk:** myrjil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

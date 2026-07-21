@@ -52,7 +52,3 @@ From *murþrijaną (“to murder”) + *-ijô.
   - **Old High German:** murdiro
 - **Gothic:** *𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰
 - **Gothic:** 𐌼𐌰𐌽𐌰𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

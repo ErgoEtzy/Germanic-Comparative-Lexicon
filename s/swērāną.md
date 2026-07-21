@@ -100,7 +100,3 @@ From both *swēraz (“heavy”) + *-āną (stative-fientive suffix) and *swēra
     - **Middle High German:** swāren
     - **Old High German:** anairswārēn — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍃𐍅𐌴𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

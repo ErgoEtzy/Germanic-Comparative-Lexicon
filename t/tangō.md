@@ -208,7 +208,3 @@ A nominal formation from *tinganą (“to press upon”).
   - **Gutnish:** tangg
   - **Danish:** tang — _c_
     - **Norwegian Bokmål:** tang — _m or f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

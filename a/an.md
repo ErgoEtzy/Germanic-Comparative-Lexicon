@@ -366,7 +366,3 @@ From Proto-Indo-European *h₂én (“up, on high”), but the exact formation i
     - **Old Danish:** ā
       - **Danish:** å — _dialectal_
 - **Gothic:** 𐌰𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

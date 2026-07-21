@@ -245,7 +245,3 @@ Unknown. From the same root as *fēlaz (“terrifying”) (which see for more de
     - **Middle High German:** vel — _[± 1340; Minnereden]; reinforced or possibly reborrowed from Old French_
       - **Middle High German:** velheit — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** felheit — _reshaped by analogy or addition of morphemes; [± 1340; Minnereden]; or from Middle Dutch?_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

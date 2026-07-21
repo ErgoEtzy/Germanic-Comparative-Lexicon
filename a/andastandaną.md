@@ -101,7 +101,3 @@ From *anda- + *standaną.
     - **Old High German:** *intstantunga — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** entstandunge
 - **Gothic:** 𐌰𐌽𐌳𐍃𐍄𐌰𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

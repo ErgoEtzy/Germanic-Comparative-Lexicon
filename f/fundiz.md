@@ -157,7 +157,3 @@ A zero-grade oxytone noun derived from *finþaną (“to find”).
     - **Swedish:** fynd — _n_
   - **Old Danish:** fynd
     - **Danish:** fund — _c or n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -326,7 +326,3 @@ Often cited as deriving from *h₂ews- (“dawn; to dawn”), whence Proto-Balto
       - **Luxembourgish:** Ouschteren
     - **English:** Ostara — _learned borrowing; learned_
     - **German:** Ostara — _learned borrowing; learned_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

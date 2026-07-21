@@ -36,7 +36,3 @@ From *hwaz + *-n. Compare with Latin quandō and Old Irish cuin.
       - **Dutch:** wen — _archaic_
       - **Limburgish:** wen
 - **Gothic:** 𐍈𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

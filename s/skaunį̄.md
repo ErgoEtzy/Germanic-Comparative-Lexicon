@@ -50,7 +50,3 @@ From *skauniz + *-į̄.
     - **German:** Schöne
 - **Gothic:** *𐍃𐌺𐌰𐌿𐌽𐌴𐌹
   - **Gothic:** 𐌲𐌿𐌳𐌰𐍃𐌺𐌰𐌿𐌽𐌴𐌹 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

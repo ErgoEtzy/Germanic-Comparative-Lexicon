@@ -104,7 +104,3 @@ From *þau (“in that case”) + *-hw (“and”).
   - **Old Swedish:** þō
   - **Old Gutnish:** þau
 - **Gothic:** 𐌸𐌰𐌿𐌷
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

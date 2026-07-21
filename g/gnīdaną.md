@@ -105,7 +105,3 @@ From Proto-Indo-European *gʰneydʰ- (“to rub”).
     - **Swedish:** gnida
   - **Danish:** gnide
   - **Danish:** nithe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

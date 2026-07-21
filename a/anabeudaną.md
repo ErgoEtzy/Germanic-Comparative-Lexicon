@@ -95,7 +95,3 @@ From *ana- + *beudaną.
   - **Old English:** onbēodan
   - **Old Saxon:** anbiodan
 - **Gothic:** 𐌰𐌽𐌰𐌱𐌹𐌿𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -108,7 +108,3 @@ From pre-Proto-Germanic *prugʰskos, from Proto-Indo-European *prugʰ-ḱó-s, f
   - **Norwegian:** frosk
   - **Middle English:** frosk — _borrowed_
     - **English:** frosk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

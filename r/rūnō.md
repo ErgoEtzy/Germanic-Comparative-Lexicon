@@ -12,7 +12,7 @@ Possibly a borrowing either from Proto-Celtic *rūnā or from the same source as
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -289,7 +289,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Swedish:** runa — _borrowed; c or f_ — _through a non-Germanic route_
   - **Swedish:** runo — _borrowed; c or f_ — _through a non-Germanic route_
 - **Gothic:** 𐍂𐌿𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

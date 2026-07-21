@@ -50,7 +50,3 @@ From Proto-Indo-European *bʰewgʰ- (“to curve, bend”).
 - **Old Norse:** bugr
   - **Icelandic:** bugur
   - **Faroese:** bugur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -194,7 +194,3 @@ From Proto-Indo-European *tong-éye-ti, causative of *teng- (“to think, feel, 
   - **Icelandic:** þekkja
   - **Faroese:** tekkja
 - **Gothic:** 𐌸𐌰𐌲𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -103,7 +103,3 @@ From Proto-Indo-European *woydéyeti, causative of *weyd- (“to see”). Equiva
     - **Norwegian Nynorsk:** veita
     - **Norwegian Nynorsk:** veite
   - **Old Swedish:** vēta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

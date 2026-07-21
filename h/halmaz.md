@@ -114,7 +114,3 @@ From Proto-Indo-European *ḱolh₂mos, from Proto-Indo-European *ḱelh₂- (�
   - **Swedish:** halm
   - **Danish:** halm
     - **Norwegian Bokmål:** halm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

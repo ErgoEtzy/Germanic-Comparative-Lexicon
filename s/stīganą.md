@@ -149,7 +149,3 @@ From Proto-Indo-European *stéygʰeti, from *steygʰ- (“to walk, climb”). Co
     - **Danish:** stige
   - **Gutnish:** steige
 - **Gothic:** 𐍃𐍄𐌴𐌹𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

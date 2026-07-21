@@ -175,7 +175,3 @@ Put to Proto-Indo-European *melh₂- because of the mealy texture of its leaves.
     - **Swedish:** mäll
     - **Swedish:** mäld
     - **Swedish:** mäldyrt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

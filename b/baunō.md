@@ -211,7 +211,3 @@ Unknown; often cited as from earlier *babnō, from Proto-Indo-European *bʰabʰ-
         - **Norwegian Nynorsk:** bønne — _borrowed_
       - **Faroese:** bøn — _borrowed_
       - **Faroese:** bøna — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

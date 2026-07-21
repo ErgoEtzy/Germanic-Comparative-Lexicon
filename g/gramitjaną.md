@@ -106,7 +106,3 @@ From *gramaz (“angry”) + *-itjaną.
     - **German:** gremsen
 - **Old Norse:** 
   - **Norwegian Nynorsk:** grymte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

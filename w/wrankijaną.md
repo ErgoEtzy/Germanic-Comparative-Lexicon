@@ -127,7 +127,3 @@ Possibly the causative of *wrinkaną, or more likely *wringaną + *-janą, the r
     - **Middle High German:** renken
       - **German:** renken
 - **Gothic:** *𐍅𐍂𐌰𐌲𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

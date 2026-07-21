@@ -65,7 +65,3 @@ From Pre-Germanic *h₁úpm̥Ho-, equivalent to *ub + *-umô. Cognate with Sansk
 
 - **Old English:** yfemest
 - **Gothic:** 𐌰𐌿𐌷𐌿𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

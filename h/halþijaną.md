@@ -113,7 +113,3 @@ From *halþaz (“sloping, inclined”) + *-janą.
   - **Swedish:** hälla
   - **Middle English:** hellen — _borrowed_
     - **English:** hell
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

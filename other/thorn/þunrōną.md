@@ -112,7 +112,3 @@ From *þunraz (“thunder”) + *-ōną.
       - **German:** donnern
 - **Old Norse:** *þonara
   - **Norwegian:** tora
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

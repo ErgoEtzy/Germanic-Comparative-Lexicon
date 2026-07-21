@@ -112,7 +112,3 @@ From Proto-Indo-European *yú, dual of *túh₂. Cognate with Lithuanian jùdu (
     - **Finland Swedish:** et
     - **Finland Swedish:** ät
 - **Gothic:** 𐌾𐌿𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

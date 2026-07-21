@@ -292,7 +292,3 @@ From earlier *landwį̄, from Proto-Indo-European *lendʰ- (“waist, kidney”)
   - **Old Swedish:** lænd
     - **Swedish:** länd
   - **Danish:** lænd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

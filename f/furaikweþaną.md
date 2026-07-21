@@ -94,7 +94,3 @@ From *furai- + *kweþaną.
 - **Old English:** forecweþan
 - **Old High German:** foraquedan
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌰𐌵𐌹𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -161,7 +161,3 @@ From Proto-Indo-European *bʰerH- (“to pierce, strike”). Cognate with Latin 
   - **Old Danish:** bærie
     - **Danish:** bærje
   - **Elfdalian:** berras
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

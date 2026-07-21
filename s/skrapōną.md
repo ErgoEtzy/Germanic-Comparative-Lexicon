@@ -136,7 +136,3 @@ From *skrepaną (“to scratch, scrape”) + *-ōną.
   - **Norwegian Bokmål:** skrape
   - **Norwegian Nynorsk:** skrape
   - **Swedish:** skrapa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

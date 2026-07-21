@@ -218,7 +218,3 @@ From Proto-Indo-European *ténktos, from *tenk- (“to contract”). Cognate wit
   - **Old Swedish:** thǣtter
     - **Swedish:** tät
   - **Danish:** tæt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

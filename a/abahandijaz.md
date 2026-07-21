@@ -119,7 +119,3 @@ From *aba- (“away, off”) + *handuz (“hand”) + *-jaz (“-ed”).
   - **Old Swedish:** afhænda — _inherited; uncertain_
     - **Swedish:** avhända
   - **Faroese:** avhending — _reshaped by analogy or addition of morphemes; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

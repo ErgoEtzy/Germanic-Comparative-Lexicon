@@ -166,7 +166,3 @@ Either from Proto-Indo-European eye-iterative or eye-intensive *sokʷ-éye-ti, o
     - **Scanian:** sæğa
   - **Old Gutnish:** segia
     - **Gutnish:** säge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -106,7 +106,3 @@ From *belganą + *-janą.
     - **Swedish:** bälga
   - **Danish:** bælle
   - **Danish:** bælge — _dated_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

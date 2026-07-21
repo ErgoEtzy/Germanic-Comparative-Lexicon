@@ -157,7 +157,3 @@ From *ainaz + *-falþaz. Compare Latin simplex (“folded once”).
   - **Gutnish:** ainfaldur
   - **Gutnish:** ainfalduar
 - **Gothic:** 𐌰𐌹𐌽𐍆𐌰𐌻𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -145,7 +145,3 @@ From Proto-Indo-European *dʰus-no-s (cognate with Proto-Celtic *dusnos (“dark
 - **Old Saxon:** dun
 - **Old Saxon:** dosan
 - **Old High German:** tusin
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

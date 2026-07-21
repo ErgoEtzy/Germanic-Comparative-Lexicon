@@ -104,7 +104,3 @@ From Pre-Germanic *h₃(e)prós, equivalent to the lost strong verb *afaną + *-
 - **Old Norse:** *aibraz
   - **Icelandic:** afar
 - **Gothic:** 𐌰𐌱𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

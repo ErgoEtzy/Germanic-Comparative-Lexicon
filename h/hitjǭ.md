@@ -68,7 +68,3 @@ From Proto-Indo-European *kéHid-ih₂ ~ *kHid-yéh₂-s, ultimately from *keHy-
   - **Icelandic:** hita
   - **Norwegian:** hete
 - **Gothic:** 𐌷𐌴𐌹𐍄𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

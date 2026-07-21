@@ -173,7 +173,3 @@ Johan Ernst Rietz compared the presumed Swedish descendants to the cognate häla
   - **Norwegian Nynorsk:** hauld
   - **Scanian:** halare
     - **Swedish:** halare
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

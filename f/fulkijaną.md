@@ -103,7 +103,3 @@ From *fulką (“people, tribe”) + *-janą.
   - **Norwegian Nynorsk:** fylkja
   - **Old Swedish:** fylkia
     - **Swedish:** fylka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

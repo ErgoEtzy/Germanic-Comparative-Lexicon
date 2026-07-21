@@ -157,7 +157,3 @@ From *austraz + *-ōnijaz, the former from Proto-Indo-European *austero- (“eas
   - **Icelandic:** austrænn
   - **Faroese:** eystrønur
   - **Norwegian Nynorsk:** austrøn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

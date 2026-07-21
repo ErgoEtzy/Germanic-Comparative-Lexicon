@@ -132,7 +132,3 @@ From Proto-Indo-European *werg- (“to suffer”); likely cognate with Proto-Bal
   - **Old Swedish:** værker
     - **Swedish:** värk
   - **Danish:** værk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

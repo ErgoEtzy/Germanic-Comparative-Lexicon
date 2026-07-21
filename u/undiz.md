@@ -65,7 +65,3 @@ From *unnaną (“to bestow”) + *-þiz (“nominal suffix”).
       - **Middle High German:** gunst — _reshaped by analogy or addition of morphemes_
         - **German:** Gunst
         - **Luxembourgish:** Gonscht
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

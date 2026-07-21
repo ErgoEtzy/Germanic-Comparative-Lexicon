@@ -341,7 +341,3 @@ Presumably from Proto-Indo-European *terkʷ- (“to turn”); compare Sanskrit �
     - **Middle English:** thwert — _borrowed_
       - **English:** thwart
 - **Gothic:** 𐌸𐍅𐌰𐌹𐍂𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

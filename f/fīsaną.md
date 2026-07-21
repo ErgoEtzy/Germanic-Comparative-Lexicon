@@ -102,7 +102,3 @@ From Proto-Indo-European *(s)peys-. Cognate with Latin spīrō.
     - **Norwegian Nynorsk:** fisa
   - **Old Danish:** 
     - **Danish:** fise
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

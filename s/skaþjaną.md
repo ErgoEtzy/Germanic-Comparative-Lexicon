@@ -107,7 +107,3 @@ From Pre-Germanic *skh₁tH-ye-ti, perhaps from a Proto-Indo-European *(s)keh₁
   - **Swedish:** oskadd — _reshaped by analogy or addition of morphemes_
   - **Danish:** uskadt — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍃𐌺𐌰𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -175,7 +175,3 @@ From Proto-Indo-European *lewH- (“to separate, split, detach, shed”).
       - **Middle High German:** lōwen — _reshaped by analogy or addition of morphemes_
         - **German:** lohen
           - **German:** Lohe — _reshaped by analogy or addition of morphemes; f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

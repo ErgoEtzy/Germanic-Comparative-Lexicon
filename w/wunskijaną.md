@@ -203,7 +203,3 @@ From *wunskaz (“wish”) + *-janą or *wunskō (“wish”) + *-janą.
         - **Norwegian Nynorsk:** ønska — _borrowed_
   - **Elfdalian:** yönstja
   - **Gutnish:** ynske
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

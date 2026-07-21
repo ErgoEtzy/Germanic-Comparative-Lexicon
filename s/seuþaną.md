@@ -126,7 +126,3 @@ From Proto-Indo-European *h₂sewt- (“to move about, roil, seethe”), perhaps
     - **Danish:** syde
   - **Old Danish:** sythæ
     - **Danish:** syde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

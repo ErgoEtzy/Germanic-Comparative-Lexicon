@@ -98,7 +98,3 @@ From pre-Germanic *wleyd(ʰ)- or *wleyt-. Further etymology uncertain, but proba
   - **Icelandic:** líta
   - **Faroese:** líta
   - **Norwegian Nynorsk:** lita
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

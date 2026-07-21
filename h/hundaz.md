@@ -130,7 +130,3 @@ From Pre-Germanic *ḱun-tós, *ḱwn̥tós, an enlargement of Proto-Indo-Europe
       - **Scanian:** hońń
     - **Gutnish:** hund
 - **Gothic:** 𐌷𐌿𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

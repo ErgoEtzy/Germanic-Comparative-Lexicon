@@ -196,7 +196,3 @@ From pre-Germanic *ph₂ḱrós, equivalent to unattested *fahaną (“to fasten
     - **Danish:** favr
     - **Norwegian Bokmål:** fager
 - **Gothic:** 𐍆𐌰𐌲𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

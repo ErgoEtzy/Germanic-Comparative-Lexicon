@@ -235,7 +235,3 @@ From Proto-Indo-European *wergʷ- (“to bend, spin, warp”), with the *-p- in 
   - **Old Danish:** wærpæ
     - **Danish:** værpe
 - **Gothic:** 𐍅𐌰𐌹𐍂𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

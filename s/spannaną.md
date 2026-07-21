@@ -111,7 +111,3 @@ Originally a strong verb of the seventh class, the long -n- comes from an earlie
 - **Old High German:** spannan
   - **Middle High German:** spannen
     - **German:** spannen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

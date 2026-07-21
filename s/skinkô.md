@@ -82,7 +82,3 @@ From Proto-Indo-European *(s)keng- (“to limp; be inclined; aslant”).
       - **German:** Schinken
       - **Luxembourgish:** Schank
       - **Pennsylvania German:** Schinke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

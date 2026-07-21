@@ -108,7 +108,3 @@ From Proto-Indo-European *moldos, a derivation of *(s)meld- (â€œto soften, meltâ
     - **Middle High German:** malz
 - **Old Norse:** maltr
   - **Icelandic:** maltur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

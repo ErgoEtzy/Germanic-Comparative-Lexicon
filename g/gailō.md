@@ -53,7 +53,3 @@ From Proto-Indo-European *ǵʰeh₂- (“to yawn, gape”).
 - **Old Norse:** geil
   - **Icelandic:** geil
   - **Faroese:** geil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

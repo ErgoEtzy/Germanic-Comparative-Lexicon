@@ -106,7 +106,3 @@ From Pre-Germanic *plok-. Kroonen connects with Ancient Greek πλάξ (pláx, �
     - **Swedish:** flå
   - **Old Danish:** flaa
     - **Danish:** flå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

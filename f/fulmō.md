@@ -50,7 +50,3 @@ From Proto-Indo-European *pl̥h₂meh₂ (“palm of the hand”), from Proto-In
   - **Old English:** folme
   - **Old Saxon:** folm — _m; only attested as plural_
   - **Old High German:** folma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

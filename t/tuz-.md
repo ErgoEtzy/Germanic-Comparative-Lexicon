@@ -36,7 +36,3 @@ From Proto-Indo-European *dus- (“bad”). Cognate with Ancient Greek δυσ- (
   - **Norwegian Nynorsk:** tor-
   - **Swedish:** tor-
 - **Gothic:** 𐍄𐌿𐌶-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

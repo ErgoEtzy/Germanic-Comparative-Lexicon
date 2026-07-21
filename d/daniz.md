@@ -84,7 +84,3 @@ Possibly from Proto-Indo-European *dʰenh₂- (“run, flow”). Or possibly fro
     - **Norwegian Bokmål:** dane
   - **Middle English:** Dane — _borrowed_
     - **English:** Dane
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -102,7 +102,3 @@ By surface analysis, an iterative-intensive formation from *weganą + *-janą. T
     - **Middle Dutch:** weggen
   - **Old High German:** weggen
 - **Gothic:** 𐍅𐌰𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

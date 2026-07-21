@@ -99,7 +99,3 @@ Unknown; perhaps from Proto-Indo-European *dʰḿ̥ǵʰ-, metathesized from *dʰ
   - **Swedish:** dunge
   - **Swedish:** dung
   - **Swedish:** dunga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

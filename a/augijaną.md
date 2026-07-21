@@ -149,7 +149,3 @@ From *augô (“eye”) + *-janą, or perhaps inherited from Proto-Indo-European
   - **Norwegian Nynorsk:** øygje
   - **Old Swedish:** ø̄ghia
 - **Gothic:** 𐌰𐌿𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

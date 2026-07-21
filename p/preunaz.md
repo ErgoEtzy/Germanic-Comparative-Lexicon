@@ -72,7 +72,3 @@ Alternatively, from Proto-Indo-European *brewn-, related to Lithuanian briaunà 
   - **Norwegian Nynorsk:** pjone — _reshaped by analogy or addition of morphemes_
   - **Norwegian Nynorsk:** pjona — _reshaped by analogy or addition of morphemes_
   - **Danish:** pryne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

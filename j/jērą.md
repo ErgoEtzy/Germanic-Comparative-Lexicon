@@ -218,7 +218,3 @@ From Proto-Indo-European *yóh₁r̥ (“year; harvest season”).
     - **Old Danish:** aar
       - **Danish:** år
 - **Gothic:** 𐌾𐌴𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

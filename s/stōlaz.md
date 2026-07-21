@@ -97,7 +97,3 @@ From Proto-Indo-European *stoh₂los (“frame, rack, stand”), from *steh₂- 
   - **Gutnish:** stul
 - **Gothic:** 𐍃𐍄𐍉𐌻𐍃
 - **Crimean Gothic:** stul
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

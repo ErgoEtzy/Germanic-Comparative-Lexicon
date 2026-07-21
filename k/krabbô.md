@@ -86,7 +86,3 @@ An agent noun formation from *krabbōną (“to scratch”), itself from Proto-I
     - **Swedish:** krabba
   - **Danish:** krabbe
     - **Norwegian Bokmål:** krabbe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

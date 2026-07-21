@@ -180,7 +180,3 @@ Inherited from Proto-Indo-European *déh₂itis, from *deh₂y- + *-tis.
     - **Elfdalian:** tið
   - **Old Danish:** tith
     - **Danish:** tid
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -46,7 +46,3 @@ From Proto-Indo-European *h₂énHteh₂ (“doorjamb, doorpost”), and related
 ### Germanic descendants
 
 - **Old Norse:** ǫnd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

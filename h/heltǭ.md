@@ -49,7 +49,3 @@ From Proto-Indo-European *kel- (“to hit; beat”) + *-ō(n), see Proto-Germani
   - **Old English:** hilte — _f_
     - **Middle English:** hilte
   - **Old High German:** helza — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

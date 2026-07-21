@@ -19,4 +19,4 @@ Each entry can include etymology, Proto-Indo-European ancestry, pronunciation, d
 
 ## Source and license
 
-The material comes from English Wiktionary via the Kaikki/Wiktextract machine-readable extraction. Wiktionary entry text is dual-licensed under CC BY-SA 4.0 and the GNU Free Documentation License. See [ATTRIBUTION_AND_LICENSE.md](ATTRIBUTION_AND_LICENSE.md).
+The lexical content is adapted from English Wiktionary. Wiktionary entry text is dual-licensed under CC BY-SA 4.0 and the GNU Free Documentation License. See [ATTRIBUTION_AND_LICENSE.md](ATTRIBUTION_AND_LICENSE.md).

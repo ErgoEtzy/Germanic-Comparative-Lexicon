@@ -115,7 +115,3 @@ From *salbō (“salve, ointment”) + *-ōną.
       - **Luxembourgish:** sallefen
       - **Luxembourgish:** salewen
 - **Gothic:** 𐍃𐌰𐌻𐌱𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

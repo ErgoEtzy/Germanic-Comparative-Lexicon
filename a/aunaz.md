@@ -48,7 +48,3 @@ From earlier *akʷnaz, contaminated by *awiz (“ewe”), from Proto-Indo-Europe
   - **Old English:** *ēan
     - **Old English:** ġeēan — _reshaped by analogy or addition of morphemes_
   - **Old High German:** *ōn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

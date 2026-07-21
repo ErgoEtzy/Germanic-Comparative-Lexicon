@@ -88,7 +88,3 @@ From Proto-Indo-European *bʰh₁-tó-s, a zero-grade nominal formation from *b�
     - **Swedish:** bad
   - **Danish:** bad
   - **Gutnish:** bad
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

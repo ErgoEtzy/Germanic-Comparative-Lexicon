@@ -52,7 +52,3 @@ From *harjaz (“army, warband”) + *-anaz. Cognate with Ancient Greek κοίρ
 - **Old Norse:** Herjann
   - **Icelandic:** Herjann
   - **Norwegian Nynorsk:** Herjan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

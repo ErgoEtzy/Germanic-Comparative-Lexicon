@@ -55,7 +55,3 @@ From Proto-Indo-European *h₂étnos (“that which goes; sun; year”), *h₂et
 ### Germanic descendants
 
 - **Gothic:** 𐌰𐌸𐌽𐌰𐌼
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

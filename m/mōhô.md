@@ -156,7 +156,3 @@ From Proto-Indo-European *méh₂k-ō ~ *m̥h₂k-né-s, from *meh₂k- + *-ō. 
         - **Icelandic:** valmúi — _borrowed_
         - **Faroese:** valmúi — _borrowed_
         - **Norwegian Nynorsk:** valmue — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -120,7 +120,3 @@ Possibly from *webaną (“to weave”) + *-ilaz. Suggested to be related to Lit
       - **German:** Wiebel
     - **Middle High German:** wupel
       - **German:** Wiebel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

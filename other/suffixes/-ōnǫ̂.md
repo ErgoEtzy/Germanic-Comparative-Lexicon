@@ -50,7 +50,3 @@ From *-ō (ō-stem suffix) + *-anǫ̂ (an-stem genitive plural suffix).
   - **Icelandic:** -na
   - **Old Swedish:** -na
 - **Gothic:** -𐍉𐌽𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

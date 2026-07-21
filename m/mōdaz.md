@@ -134,7 +134,3 @@ Compare typologically cognate via PIE Russian наме́рение (namérenije)
 - **East Germanic:** 
   - **Gothic:** 𐌼𐍉𐌸𐍃
   - **Vandalic:** *muths
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

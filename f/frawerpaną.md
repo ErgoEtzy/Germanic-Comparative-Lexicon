@@ -106,7 +106,3 @@ From *fra- + *werpaną.
     - **Middle High German:** verwerfen
       - **German:** verwerfen
 - **Gothic:** 𐍆𐍂𐌰𐍅𐌰𐌹𐍂𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

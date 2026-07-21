@@ -114,7 +114,3 @@ From *hlināną (“to lean”) + *-janą (causative suffix), the former a stati
 - **Old Norse:** *hleina
   - **Danish:** læne
   - **Swedish:** läna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

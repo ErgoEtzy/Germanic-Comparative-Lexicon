@@ -50,7 +50,3 @@ From Proto-Indo-European *méh₁-ti-s ~ *m̥h₁-téy-s, from *meh₁- (“to m
     - **Middle English:** mæþ
     - **Middle English:** methe
     - **Middle English:** meth
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

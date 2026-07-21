@@ -12,7 +12,7 @@ Unknown. Perhaps related to the root of Old Norse tík (“bitch”). A geminate
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -77,7 +77,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Middle High German:** *zibbe, *zippe — _inherited; uncertain_
       - **German:** Zibbe — _inherited; uncertain_
       - **German:** Zippe — _inherited; uncertain; attetsted 19th c._
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

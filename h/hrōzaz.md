@@ -120,7 +120,3 @@ Alternatively a vṛddhi derivative of *hrasaną, an otherwise unreflected stron
   - **Old High German:** *ruor
     - **Middle High German:** ruor — _in derivatives_
 - **Proto-Norse:** ᚺᚱᛟᛉᚨᛉ — _reshaped by analogy or addition of morphemes; proper name_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

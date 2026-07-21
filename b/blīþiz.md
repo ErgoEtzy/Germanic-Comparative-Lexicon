@@ -152,7 +152,3 @@ From *blī-, *bli- (“to shine, gleam, glow; be light, be glad”), from Proto-
     - **Swedish:** blid
   - **Danish:** blid
 - **Gothic:** 𐌱𐌻𐌴𐌹𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

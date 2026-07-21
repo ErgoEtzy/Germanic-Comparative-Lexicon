@@ -184,7 +184,3 @@ Ultimately from Proto-Indo-European *negʷ- (“naked, bare”); see there for t
   - **Gutnish:** nåkugur
   - **Gutnish:** nåkagur
 - **Gothic:** 𐌽𐌰𐌵𐌰𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

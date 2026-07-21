@@ -165,7 +165,3 @@ From Proto-Indo-European *h₂eḱs-(i)l-eh₂-, from *h₂eḱs- (“axis”).
   - **Elfdalian:** aksul
   - **Gutnish:** axl
   - **Scanian:** áğsel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

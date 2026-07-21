@@ -112,7 +112,3 @@ From *drunkanaz (“drunk”) + *-āną.
   - **Norwegian Nynorsk:** drukna
   - **Danish:** drukne
     - **Norwegian Bokmål:** drukne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

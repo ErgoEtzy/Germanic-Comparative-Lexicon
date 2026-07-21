@@ -226,7 +226,3 @@ From Proto-Indo-European *preyskos (“fresh, unsalted”), and cognate with Pro
   - **Swedish:** färsk
   - **Old Danish:** færsk
     - **Danish:** fersk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

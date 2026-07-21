@@ -561,7 +561,3 @@ From pre-Grimm *petwṓr, with an irregular consonant change from *kʷetwṓr, t
         - **Norwegian Nynorsk:** fire — _borrowed_
 - **Gothic:** 𐍆𐌹𐌳𐍅𐍉𐍂
 - **Crimean Gothic:** fyder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

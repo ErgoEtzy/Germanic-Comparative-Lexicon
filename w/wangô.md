@@ -79,7 +79,3 @@ From Proto-Indo-European *wengʰ-, *wenk- (“to be bent or bowed”); see *wang
   - **Faroese:** vangi
   - **Norwegian:** vange
 - **Gothic:** *𐍅𐌰𐌲𐌲𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -88,7 +88,3 @@ From Proto-Indo-European *gʰroH-néh₂-, with shortening due to Dybo's law, li
   - **Old Norse:** greni — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** greni
     - **Norwegian Nynorsk:** grene
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

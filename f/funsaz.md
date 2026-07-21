@@ -115,7 +115,3 @@ From earlier *fundsaz, from Proto-Indo-European *pn̥tstós, from *pent- (“to 
   - **Old Swedish:** fūs
     - **Swedish:** fus
   - **Danish:** fus
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

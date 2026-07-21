@@ -191,7 +191,3 @@ From *ja (“yes”) + *-atjaną.
     - **Danish:** forjætte — _reshaped by analogy or addition of morphemes_
       - **Norwegian Bokmål:** jatte
       - **Norwegian Bokmål:** forjette
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

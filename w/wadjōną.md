@@ -144,7 +144,3 @@ From *wadją (“wager”) + *-ōną.
       - **Norwegian Bokmål:** vedde
       - **Faroese:** vedda — _borrowed_
 - **Gothic:** 𐌲𐌰𐍅𐌰𐌳𐌾𐍉𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -47,7 +47,3 @@ From *handuz + *sahsą.
     - **Middle English:** hond-sæx
 - **Old Norse:** handsax
   - **Icelandic:** handsax
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

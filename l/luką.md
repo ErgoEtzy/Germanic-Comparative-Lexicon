@@ -99,7 +99,3 @@ From Proto-Indo-European *lewg- (“to bend; turn”). Synchronically analyzable
   - **Danish:** låg
 - **Gothic:** *𐌻𐌿𐌺
 - **Gothic:** 𐌿𐍃𐌻𐌿𐌺
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

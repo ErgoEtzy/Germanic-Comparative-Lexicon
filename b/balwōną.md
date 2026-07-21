@@ -109,7 +109,3 @@ Either derived from *balwą (“evil, misfortune”) + *-ōną or *balwaz (“ev
     - **Old High German:** gibalawōn — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** bǫlva
   - **Icelandic:** bölva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

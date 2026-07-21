@@ -444,7 +444,3 @@ From *hwaz (“what”) + *-r (“locative suffix”).
       - **Norwegian Bokmål:** hvor
   - **Gutnish:** var
 - **Gothic:** 𐍈𐌰𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

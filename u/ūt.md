@@ -131,7 +131,3 @@ From Proto-Indo-European *úd (“out, outward”), vowel length due to monosyll
   - **Old Danish:** ut
     - **Danish:** ud
 - **Gothic:** 𐌿𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -53,7 +53,3 @@ From Proto-Indo-European *dʰeh₁(y)- (“to suckle, nurse”).
     - **Icelandic:** dilkur
     - **Faroese:** dilkur
     - **Norwegian Nynorsk:** dilk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

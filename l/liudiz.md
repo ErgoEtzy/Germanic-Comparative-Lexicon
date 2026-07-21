@@ -298,7 +298,3 @@ From Proto-Indo-European *h₁léwdʰis (“people”), from Proto-Indo-European
 - **Gothic:** *𐌻𐌹𐌿𐌳𐌴𐌹𐍃
   - **English:** leud — _borrowed_ — _through a non-Germanic route_
   - **English:** leud — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -97,7 +97,3 @@ Bammesberger (1990) suggests a relationship to Latin fīnis (“limit, border, e
     - **Scots:** bein
     - **Scots:** bien
     - **English:** bain
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -92,7 +92,3 @@ From Proto-Indo-European *h₁regʷes-yé-ti. Equivalent to *rekwaz (“darkness
 ### Germanic descendants
 
 - **Gothic:** 𐍂𐌹𐌵𐌹𐌶𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

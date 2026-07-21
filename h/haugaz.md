@@ -118,7 +118,3 @@ From Proto-Indo-European *kowk-ó-s (with Verner's law in effect on the second *
     - **English:** hoe
     - **English:** how
     - **English:** howe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

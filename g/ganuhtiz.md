@@ -63,7 +63,3 @@ From *ganuganą (“to suffice”) + *-þiz.
 - **Old Norse:** gnœtt
   - **Icelandic:** gnótt
   - **Icelandic:** gnætt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

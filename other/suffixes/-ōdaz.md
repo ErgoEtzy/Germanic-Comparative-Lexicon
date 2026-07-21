@@ -131,7 +131,3 @@ From Proto-Indo-European *-eh₂tos.
     - **Norwegian Bokmål:** -ete
     - **Norwegian Nynorsk:** -ete
 - **Gothic:** -𐍉𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

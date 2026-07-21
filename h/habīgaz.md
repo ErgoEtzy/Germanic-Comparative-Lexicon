@@ -167,7 +167,3 @@ From Proto-Indo-European *kap- (“to take, grasp, have, hold”), equivalent to
     - **Middle High German:** *hebig
       - **Cimbrian:** hévig
       - **German:** hebig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

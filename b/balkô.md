@@ -193,7 +193,3 @@ Traditionally derived from Proto-Indo-European *bʰelǵ- (“beam, plank”). Ho
   - **Danish:** bjælke
 - **Old Norse:** *bjalk — _inherited; uncertain_
 - **Old Norse:** *belkō — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

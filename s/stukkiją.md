@@ -540,7 +540,3 @@ An alternative theory, as follows, derives the word from Proto-Indo-European *(s
     - **Swedish:** stycke
   - **Danish:** stykke
   - **Scanian:** stikke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -130,7 +130,3 @@ From *fra- + *geldaną.
   - **Old Danish:** forgælde
     - **Danish:** forgælde
 - **Gothic:** 𐍆𐍂𐌰𐌲𐌹𐌻𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

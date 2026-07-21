@@ -132,7 +132,3 @@ The original sense of the above, synchronically analyzed as a nominal formation 
         - **Old English:** ūpāhafu — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** *haf
   - **Old Norse:** upphaf — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

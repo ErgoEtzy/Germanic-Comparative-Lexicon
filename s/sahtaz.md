@@ -105,7 +105,3 @@ From *sakaną (“to charge, dispute”) + *-þaz. Parralel construction with Ol
     - **Swedish:** såt
 - **Gothic:** *𐍃𐌰𐌷𐍄𐍃
   - **Gothic:** 𐌿𐌽𐍃𐌰𐌷𐍄𐌰𐌱𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

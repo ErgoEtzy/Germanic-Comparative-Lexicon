@@ -101,7 +101,3 @@ From *niwjaz (“new”) + *-janą.
   - **Old East Norse:** aternýa — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌽𐌹𐌿𐌾𐌰𐌽
   - **Gothic:** 𐌰𐌽𐌰𐌽𐌹𐌿𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

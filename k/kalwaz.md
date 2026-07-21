@@ -145,7 +145,3 @@ From pre-Germanic *golH-wo-s (found also in Balto-Slavic), from Proto-Indo-Europ
   - **Old Norse:** *kǫlr
     - **Swedish:** kal — _inherited; uncertain_
     - **Swedish:** kalka — _inherited; uncertain; reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

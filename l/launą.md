@@ -90,7 +90,3 @@ From Pre-Germanic *lh₂ewnom or *lowh₂nom (with laryngeal metathesis), from P
       - **Faroese:** løn — _borrowed_
       - **Norwegian Nynorsk:** løn — _borrowed_
 - **Gothic:** 𐌻𐌰𐌿𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -174,7 +174,3 @@ From Proto-Indo-European *pewH- (“to cleanse, purify”). Cognate Latin purus.
   - **Middle High German:** vewen
     - **Cimbrian:** vöoban
     - **Cimbrian:** böoban — _Mezzaselva_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

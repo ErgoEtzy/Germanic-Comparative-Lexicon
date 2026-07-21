@@ -69,7 +69,3 @@ From *arbiją (“inheritance”) + *-ijô.
     - **Faroese:** arvi
     - **Old Swedish:** arve
 - **Gothic:** 𐌰𐍂𐌱𐌾𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

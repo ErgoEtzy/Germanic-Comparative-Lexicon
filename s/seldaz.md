@@ -100,7 +100,3 @@ Unknown. Orel suggests a derivation from Proto-Indo-European *sel- (“to jump, 
     - **Norwegian:** sjeld-
     - **Swedish:** säll-
     - **Danish:** sjæld-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

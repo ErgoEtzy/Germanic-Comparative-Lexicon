@@ -12,7 +12,7 @@ Unknown.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -118,7 +118,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Frisian:** frēsle — _reshaped by analogy or addition of morphemes; f_
   - **Dutch:** friseren — _borrowed_ — _through a non-Germanic route_
   - **English:** frisure — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -112,7 +112,3 @@ Derived from *wiljaną (“to want”).
   - **Gutnish:** vilä — _m_
 - **Gothic:** 𐍅𐌹𐌻𐌾𐌰
 - **Vandalic:** *wilja-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

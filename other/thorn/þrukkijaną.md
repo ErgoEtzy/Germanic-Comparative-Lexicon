@@ -204,7 +204,3 @@ Has been suggested as the origin of Vulgar Latin *trūdicāre, but this appears 
     - **Danish:** trykke
     - **Norwegian Bokmål:** trykke
       - **Norwegian Nynorsk:** trykka — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

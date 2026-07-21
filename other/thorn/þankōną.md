@@ -157,7 +157,3 @@ From *þankaz (“gratitude”) + *-ōną.
   - **Old Swedish:** þakka
     - **Swedish:** tacka
   - **Danish:** takke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

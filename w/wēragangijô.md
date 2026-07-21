@@ -71,7 +71,3 @@ From *wēraz (“true”) + *gangijô (“goer”).
   - **Swedish:** väring — _learned borrowing; learned_
   - **Danish:** væring — _learned borrowing; learned_
     - **Norwegian Bokmål:** væring
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

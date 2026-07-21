@@ -115,7 +115,3 @@ From Proto-Indo-European *per- (“to go forth, risk, try”). Equivalent to *fr
     - **Middle High German:** vreisen
       - **German:** freisen
 - **Old Norse:** *freisa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

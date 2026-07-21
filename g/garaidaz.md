@@ -203,7 +203,3 @@ From *ga- + *raidaz.
     - **English:** graith
     - **English:** gradely
 - **Gothic:** 𐌲𐌰𐍂𐌰𐌹𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

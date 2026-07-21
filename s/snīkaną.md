@@ -139,7 +139,3 @@ Probably from a Proto-Indo-European *sneyg- (“to crawl”), and cognate with L
       - **English:** sny
     - **Middle English:** snyȝen — _borrowed_
       - **English:** sny
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

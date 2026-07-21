@@ -50,7 +50,3 @@ From *faimô ~ *faim(i)niz (“girl, young woman”) + *-jō (femininizing suffi
 - **Old Saxon:** fēhmia
 - **Old Norse:** feima
   - **Icelandic:** feima
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

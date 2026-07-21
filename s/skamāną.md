@@ -114,7 +114,3 @@ From *skamō (“shame”) + *-āną.
   - **Icelandic:** skamma
   - **Norwegian Bokmål:** skamme
 - **Gothic:** 𐍃𐌺𐌰𐌼𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

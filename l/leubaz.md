@@ -360,7 +360,3 @@ From Proto-Indo-European *lewbʰós (“beloved”), from *lewbʰ- (“to desire
       - **Swedish:** ljuf — _pre-1906 spelling_
     - **Old Danish:** ljuv
 - **Gothic:** 𐌻𐌹𐌿𐍆𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -153,7 +153,3 @@ From Proto-Indo-European *ph₂w-os, from *peh₂w- (“few, little”).
     - **Swedish:** få
   - **Danish:** få
 - **Gothic:** 𐍆𐌰𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

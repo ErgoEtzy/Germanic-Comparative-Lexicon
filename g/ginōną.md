@@ -144,7 +144,3 @@ From Proto-Indo-European *gʰh₂ey-, itself from *ǵʰeh₂- (“to yawn, gape�
     - **Middle High German:** ginnen
       - **German:** gähnen
 - **Old Norse:** gina
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

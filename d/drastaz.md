@@ -46,7 +46,3 @@ From earlier *drahstaz, from Proto-Indo-European *dʰragʰs-tó-s, from *dʰrā�
     - **Middle High German:** trester
       - **German:** Trester
     - **Old High German:** trestig — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

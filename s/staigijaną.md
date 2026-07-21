@@ -99,7 +99,3 @@ From *stīganą (“to rise”) + *-janą.
       - **Dutch:** steigen — _Southern dialects_
   - **Old High German:** *steigen
     - **Middle High German:** steigen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

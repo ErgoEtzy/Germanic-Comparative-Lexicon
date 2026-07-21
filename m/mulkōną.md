@@ -96,7 +96,3 @@ From *h₂ml̥ǵnéh₂-, a zero-grade iterative formation to Proto-Indo-Europea
 - **Old Norse:** molka
   - **Old Swedish:** molka
   - **Gutnish:** mulka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

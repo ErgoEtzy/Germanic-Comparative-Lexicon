@@ -79,7 +79,3 @@ Another possibility, though implausible because it would require *swid-, lies in
   - **Old Danish:** sith
     - **Danish:** sæd
 - **Gothic:** 𐍃𐌹𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

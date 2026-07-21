@@ -148,7 +148,3 @@ From Proto-Indo-European *lewp- (“to flake off, peel, damage”). Equivalent t
     - **English:** lift
     - **Scots:** lyft
     - **Scots:** lift
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

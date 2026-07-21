@@ -254,7 +254,3 @@ Kroonen instead claims that this word would rather be a loanword from Latin scyp
       - **Norwegian Bokmål:** skip
     - **Scanian:** śevv
 - **Gothic:** 𐍃𐌺𐌹𐍀
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -85,7 +85,3 @@ From *kip-, *kipp-, *kīp-, from Proto-Indo-European *gipn-, *gibʰn- (“to spl
   - **Norwegian Bokmål:** keip
   - **Norwegian Nynorsk:** keip
   - **Norwegian Nynorsk:** keipe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

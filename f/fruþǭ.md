@@ -52,7 +52,3 @@ From Proto-Indo-European *prutH-eh₂, from *prewtH- (“to splash”). Cognate 
   - **Middle English:** froth — _borrowed_
     - **English:** froth
     - **Scots:** froth
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

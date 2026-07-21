@@ -162,7 +162,3 @@ Pystynen (2024) proposes borrowing from Proto-Finnic *tup'as, in which case *tup
     - **Swedish:** topp
   - **Old Danish:** top
     - **Danish:** top
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

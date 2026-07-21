@@ -289,7 +289,3 @@ Paradigmatic leveling of *kenuz ~ *kunniz, from pre-Proto-Germanic *génus ~ *gu
     - **Swedish:** kind
   - **Danish:** kind
 - **Gothic:** 𐌺𐌹𐌽𐌽𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

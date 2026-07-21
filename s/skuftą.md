@@ -48,7 +48,3 @@ From Pre-Germanic *skup-to-s, of uncertain further origin. Pfeifer derives the t
   - **Icelandic:** skott
   - **Norwegian:** skoft
 - **Gothic:** 𐍃𐌺𐌿𐍆𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

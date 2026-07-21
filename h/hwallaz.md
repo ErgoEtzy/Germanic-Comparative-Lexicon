@@ -98,7 +98,3 @@ Uncertain. Possibly from Pre-Germanic *kʷolh₁nos, from Proto-Indo-European *k
 ### Germanic descendants
 
 - **Old English:** hweall
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

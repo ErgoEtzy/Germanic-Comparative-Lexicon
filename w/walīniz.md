@@ -62,7 +62,3 @@ From *waljaną (“to choose”) + *-īniz.
     - **Old High German:** selbwelī — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐍅𐌰𐌻𐌴𐌹𐌽𐍃
 - **Gothic:** 𐌲𐌰𐍅𐌰𐌻𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

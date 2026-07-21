@@ -61,7 +61,3 @@ Apparently from a Proto-Indo-European *gʰl̥bʰ-o-s, from a root *gʰelbʰ- (�
   - **Old Danish:** gulf
     - **Danish:** gulv
       - **Norwegian Bokmål:** gulv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

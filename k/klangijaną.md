@@ -98,7 +98,3 @@ From *klinganą + *-janą. This verb gave rise to the variant *klankijaną, due 
   - **Elfdalian:** klaindja
   - **Old Swedish:** klengia
     - **Swedish:** klänga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -189,7 +189,3 @@ Related to *rekaną (“to rake”), ultimately from Proto-Indo-European *h₃re
   - **Swedish:** raka
   - **Swedish:** räka
   - **Danish:** rage
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

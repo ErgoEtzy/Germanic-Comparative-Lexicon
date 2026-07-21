@@ -288,7 +288,3 @@ From earlier *swehs, from Proto-Indo-European *swéḱs (“six”) with a loss 
     - **Gutnish:** siex
     - **Gutnish:** sex
 - **Gothic:** 𐍃𐌰𐌹𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

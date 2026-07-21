@@ -363,7 +363,3 @@ The Latin verb implies *bʰewt-, but this violates the rule that PIE roots do no
 - **Old Norse:** bauta
   - **Icelandic:** bauta
 - **Gothic:** *𐌱𐌰𐌿𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

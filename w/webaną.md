@@ -127,7 +127,3 @@ From Proto-Indo-European *webʰ- (“to weave”).
     - **Swedish:** väva
     - **Swedish:** väfva — _pre-1906 spelling_
   - **Danish:** væve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

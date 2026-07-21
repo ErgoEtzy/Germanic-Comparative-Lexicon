@@ -127,7 +127,3 @@ From *maþlą (“speech, gathering, legal case”) + *-janą.
   - **Gutnish:** melä
 - **Gothic:** 𐌼𐌰𐌸𐌻𐌾𐌰𐌽
 - **Crimean Gothic:** malthata
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

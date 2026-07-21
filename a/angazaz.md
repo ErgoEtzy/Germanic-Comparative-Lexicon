@@ -58,7 +58,3 @@ A thematicization of an s-stem, from Proto-Indo-European *h₂énǵʰos, from *h
   - **Middle English:** anger — _borrowed_
     - **English:** anger
     - **Scots:** anger
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

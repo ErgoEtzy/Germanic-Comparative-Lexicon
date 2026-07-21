@@ -49,7 +49,3 @@ An i-stem derivative from Proto-Indo-European *spérdʰ-ti, the third-person sin
   - **Old English:** spyrd
   - **Old High German:** spurt
 - **Gothic:** 𐍃𐍀𐌰𐌿𐍂𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

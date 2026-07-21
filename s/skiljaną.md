@@ -116,7 +116,3 @@ From Proto-Indo-European *(s)kelH- (“to cut, separate”).
   - **Elfdalian:** stjila
 - **Gothic:** *𐍃𐌺𐌹𐌻𐌾𐌰𐌽
   - **Gothic:** 𐍃𐌺𐌹𐌻𐌾𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

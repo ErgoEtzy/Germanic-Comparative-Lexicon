@@ -12,7 +12,7 @@ Uncertain, but probably an extension of *weraz with the suffix + *-ud-, also see
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -57,7 +57,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Saxon:** werud
 - **Old Norse:** virðar
   - **Icelandic:** virðar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

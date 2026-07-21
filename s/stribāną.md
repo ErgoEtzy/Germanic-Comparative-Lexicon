@@ -88,7 +88,3 @@ Apparently from a *bʰ-extension of Proto-Indo-European *(s)ter(h₁)- (“to be
 ### Germanic descendants
 
 - **Proto-West Germanic:** *stribēn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -99,7 +99,3 @@ From earlier *hrepspaną, *hrepsaną, from Proto-Indo-European *(s)kreb-, *(s)kr
     - **Middle High German:** rëspen
   - **Old High German:** respan
     - **Middle High German:** rëspen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

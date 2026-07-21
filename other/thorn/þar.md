@@ -193,7 +193,3 @@ From *þa- (“that”) + *-r (“locative suffix”).
     - **Old Danish:** thær
       - **Danish:** der
 - **Gothic:** 𐌸𐌰𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

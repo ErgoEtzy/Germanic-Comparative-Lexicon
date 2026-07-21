@@ -63,7 +63,3 @@ From Proto-Indo-European *wor-tús, *wor-tós, suffixed o-grade forms of Proto-I
     - **Swedish:** vard
     - **Swedish:** vård
   - **Scots:** warth — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

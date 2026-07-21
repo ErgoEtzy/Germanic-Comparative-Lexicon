@@ -102,7 +102,3 @@ From *tappô (“plug, tap”) + *-janą.
   - **Icelandic:** teppa
   - **Faroese:** teppa
   - **Swedish:** täppa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

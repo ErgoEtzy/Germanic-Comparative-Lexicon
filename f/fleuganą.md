@@ -154,7 +154,3 @@ From Proto-Indo-European *plewk-, enlargement of *plew- (“flow”).
         - **Norwegian Bokmål:** fly
     - **Gutnish:** flauge
     - **Scanian:** flyğa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

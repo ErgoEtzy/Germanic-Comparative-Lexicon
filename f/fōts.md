@@ -176,7 +176,3 @@ From Proto-Indo-European *pṓds (“foot”). Cognate with Ancient Greek πού
       - **Norwegian Bokmål:** fot
   - **Gutnish:** fot
 - **Gothic:** 𐍆𐍉𐍄𐌿𐍃 — _reshaped by analogy or addition of morphemes; converted to u-stem_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

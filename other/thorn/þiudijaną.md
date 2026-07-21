@@ -259,7 +259,3 @@ Origin obscure. Possibly a conflated word, partly from *þeudō (“people”), 
       - **Norwegian Bokmål:** ty
   - **Gutnish:** tyde
   - **Scanian:** týða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

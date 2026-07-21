@@ -119,7 +119,3 @@ From Proto-Indo-European *méh₂-is-on-, a comparative formation in *-is- from 
     - **Norwegian Bokmål:** mer
     - **Norwegian Bokmål:** mere
 - **Gothic:** 𐌼𐌰𐌹𐌶𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

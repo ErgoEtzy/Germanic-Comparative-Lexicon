@@ -205,7 +205,3 @@ Uncertain. Expected to reflect either pre-Germanic *sloy(H)-wo-s or *slo/aH-i-wo
   - **Old Danish:** sliø̄
     - **Danish:** sløv — _influenced by sløv; from Old Norse slǿgr_
       - **Norwegian Bokmål:** sløv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

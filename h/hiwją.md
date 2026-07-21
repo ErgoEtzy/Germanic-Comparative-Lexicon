@@ -71,7 +71,3 @@ Disputed. Either from Proto-Indo-European *kew-, *ḱew- (“skin, cuticle, hide
     - **Danish:** hy — _borrowed_
   - **Gutnish:** höi
 - **Gothic:** 𐌷𐌹𐍅𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

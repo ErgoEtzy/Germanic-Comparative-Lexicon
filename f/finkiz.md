@@ -95,7 +95,3 @@ From Proto-Indo-European *(s)ping- (“small bird, sparrow”).
         - **Afrikaans:** vink
   - **Old High German:** finc
   - **Old High German:** fink
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -125,7 +125,3 @@ Traditionally derived from a Proto-Indo-European *gnod- (“to bind”), and com
   - **English:** knout — _borrowed_ — _through a non-Germanic route_
   - **German:** Knute — _borrowed_ — _through a non-Germanic route_
   - **Plautdietsch:** Knutt — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

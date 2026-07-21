@@ -143,7 +143,3 @@ From Proto-Indo-European *sperH- (“to kick”).
   - **Icelandic:** sporna
   - **Old Swedish:** spiærna
     - **Swedish:** spjärna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

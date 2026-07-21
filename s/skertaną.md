@@ -111,7 +111,3 @@ Possibly from a Proto-Indo-European *(s)kerd- (“to move, sway, swing”), and 
   - **Middle High German:** schërzen
     - **Cimbrian:** schèrtzan
     - **German:** scherzen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

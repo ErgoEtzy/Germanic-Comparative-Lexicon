@@ -56,7 +56,3 @@ According to Orel, from *þinhaną (“to thrive”) + *-ilaz; compare *þingą.
     - **Old Swedish:** Thængel — _reshaped by analogy or addition of morphemes; male given name_
       - **Swedish:** Tengil — _male given name_
   - **Old Danish:** thengil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

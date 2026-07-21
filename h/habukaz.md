@@ -306,7 +306,3 @@ Possibly ultimately derived from Proto-Indo-European *kap- (“seize”), but in
   - **Old Danish:** høk
     - **Danish:** høg
       - **Norwegian Bokmål:** høk — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

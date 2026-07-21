@@ -171,7 +171,3 @@ Uncertain. Perhaps from Proto-Indo-European *bʰenǵʰ- (“thick, tight, dense,
   - **Danish:** bunke
   - **Middle Low German:** bonk — _borrowed_
   - **Middle Low German:** bonik — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

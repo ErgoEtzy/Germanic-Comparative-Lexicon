@@ -12,7 +12,7 @@ Unknown; probably from a substrate language. Compare *gaits, which is likely fro
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -61,7 +61,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Middle English:** kid — _borrowed_
     - **Scots:** kid
     - **English:** kid
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

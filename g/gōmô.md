@@ -112,7 +112,3 @@ From Proto-Indo-European *ǵʰeh₂- (“to yawn, gape”) via a -w- extension. 
     - **Swedish:** gomme — _m_
     - **Swedish:** goma — _f_
   - **Old Danish:** gomæn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

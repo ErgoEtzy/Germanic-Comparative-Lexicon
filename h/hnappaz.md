@@ -12,7 +12,7 @@ Unknown. Perhaps related to *knuttô. See also *hnappōną.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -137,7 +137,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Swedish:** napper
     - **Swedish:** napp
 - **Gothic:** *𐌷𐌽𐌰𐍀𐍀𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

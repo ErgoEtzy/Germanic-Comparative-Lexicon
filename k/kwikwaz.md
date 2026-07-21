@@ -846,7 +846,3 @@ This word has been supposed to be an example of an h₃w > gʷ > kw shift termed
   - **Danish:** kvik
     - **Norwegian Bokmål:** kvikk
 - **Gothic:** 𐌵𐌹𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

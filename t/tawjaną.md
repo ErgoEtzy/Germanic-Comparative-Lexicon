@@ -371,7 +371,3 @@ Cognate with Tocharian B tsuwa and Ancient Greek δύναμαι (dúnamai).
     - **Swedish:** tya
     - **Swedish:** tjuga
 - **Gothic:** 𐍄𐌰𐌿𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

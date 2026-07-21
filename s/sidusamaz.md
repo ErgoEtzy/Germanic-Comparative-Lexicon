@@ -104,7 +104,3 @@ From *siduz (“custom, manner”) + *-samaz.
     - **Middle High German:** *sitsam
       - **German:** sittsam
 - **Old Norse:** siðsamr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

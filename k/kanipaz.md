@@ -78,7 +78,3 @@ From Proto-Indo-European *ǵénus (“jaw”). Cognate with Latin gena (“cheek
   - **(attested only as:** camp — _borrowed_
     - **English:** camp
     - **Scots:** camp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

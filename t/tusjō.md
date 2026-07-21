@@ -47,7 +47,3 @@ Uncertain, though possibly from Proto-Indo-European *dus- (“evil”).
 
 - **Old Norse:** *tysja
   - **Norwegian Nynorsk:** tysje
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

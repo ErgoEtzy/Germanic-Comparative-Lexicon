@@ -206,7 +206,3 @@ See the etymology of the corresponding lemma form.
 - **Gothic:** *𐌻𐌿𐌺𐌰𐌽
 - **Gothic:** 𐌲𐌰𐌻𐌿𐌺𐌰𐌽
 - **Gothic:** 𐌿𐍃𐌻𐌿𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

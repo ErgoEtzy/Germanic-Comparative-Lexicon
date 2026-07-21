@@ -45,8 +45,4 @@ From Pre-Germanic *h₂méh₁tuh₂, *h₂mh₁twéh₂-, the latter giving *ma
 
 ### Germanic descendants
 
-No Germanic descendants are listed in this snapshot.
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+No Germanic descendants are listed.

@@ -47,7 +47,3 @@ From Pre-Germanic *ní-to-, a derivation from Proto-Indo-European *ní (“down�
 ### Germanic descendants
 
 - **Old English:** niþ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

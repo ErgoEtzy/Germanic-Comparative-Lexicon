@@ -54,7 +54,3 @@ From pre-Germanic *Hodʰ-és-on-, from Proto-Indo-European *h₃edʰḗs (compar
     - **Middle English:** adse
       - **Scots:** eetch
       - **English:** adze
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

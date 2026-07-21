@@ -54,7 +54,3 @@ From *wiþiz (“rope, thong”) + *bainą (“bone”).
   - **Middle Low German:** wedebēn
 - **Old Norse:** viðbeina
   - **Icelandic:** viðbein
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

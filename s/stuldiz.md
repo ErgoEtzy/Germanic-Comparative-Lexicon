@@ -53,7 +53,3 @@ From *stelaną + *-þiz.
   - **Old Swedish:** styld — _f_
   - **Old Danish:** styld — _f_
     - **Danish:** styld
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

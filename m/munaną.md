@@ -189,7 +189,3 @@ From Proto-Indo-European *memóne, from *men- (“to think”).
     - **Scots:** man
     - **Scots:** mon
 - **Gothic:** 𐌼𐌿𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

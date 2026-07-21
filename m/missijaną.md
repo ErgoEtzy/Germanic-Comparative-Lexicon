@@ -133,7 +133,3 @@ From *missaz (“alternate, abberant, wrong”) + *-janą.
       - **Norwegian Bokmål:** misse
     - **Scanian:** mysta
   - **Gutnish:** miste
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

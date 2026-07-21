@@ -77,7 +77,3 @@ From Proto-Indo-European *ḱerh₂k- (“fenced or enclosed area”), from *ḱ
     - **Swedish:** horv — _c_
   - **Danish:** harg — _c_
   - **Danish:** hørg — _c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

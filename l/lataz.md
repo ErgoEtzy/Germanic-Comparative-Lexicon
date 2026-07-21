@@ -190,7 +190,3 @@ From Proto-Indo-European *lh₁d-o-, verbal adjective from the root *leh₁d- (�
   - **Gutnish:** lattur
   - **Scanian:** lader
 - **Gothic:** 𐌻𐌰𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

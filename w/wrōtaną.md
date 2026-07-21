@@ -115,7 +115,3 @@ Of uncertain origin. Perhaps from Proto-Indo-European *Hreh₃d- (“to scrape, 
       - **Dutch:** wroeten
   - **Old High German:** ruozzen
 - **Old Norse:** róta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

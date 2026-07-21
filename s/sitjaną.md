@@ -185,7 +185,3 @@ From Proto-Indo-European *sédyeti, from the root *sed- (“to sit”). Formal c
     - **Gutnish:** site
     - **Gutnish:** sitte
 - **Gothic:** 𐍃𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

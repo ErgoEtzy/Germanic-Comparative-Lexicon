@@ -66,7 +66,3 @@ From *hwarjaz + *-hw. Compare Latin quisque.
 ### Germanic descendants
 
 - **Gothic:** 𐍈𐌰𐍂𐌾𐌹𐌶𐌿𐌷
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -130,7 +130,3 @@ Exact origin unclear. Possibly from Proto-Indo-European *bʰōw- (“to inflate,
       - **Cimbrian:** pusum
       - **German:** Busen
       - **Yiddish:** בוזעם
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

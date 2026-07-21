@@ -478,7 +478,3 @@ From Proto-Indo-European *kʷékʷlom (“wheel”). The plural *hweulō is from
     - **Old Swedish:** hiughl
       - **Elfdalian:** juol
       - **Swedish:** hjul
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

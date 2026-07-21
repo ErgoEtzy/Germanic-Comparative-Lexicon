@@ -61,7 +61,3 @@ From *seukaz + *-į̄.
   - **Old Norse:** ǫfundarsýki — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** ǫfundsýki — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍃𐌹𐌿𐌺𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

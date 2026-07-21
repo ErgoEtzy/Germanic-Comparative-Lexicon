@@ -307,7 +307,3 @@ From *lausaz (“loose, free”).
     - **Danish:** -løs
       - **Norwegian Bokmål:** -løs
 - **Gothic:** -𐌻𐌰𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

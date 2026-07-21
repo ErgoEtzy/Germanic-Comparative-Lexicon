@@ -109,7 +109,3 @@ From *ga- + *durzaną.
     - **Middle High German:** getürren
     - **Middle High German:** gitürren
 - **Gothic:** 𐌲𐌰𐌳𐌰𐌿𐍂𐍃𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

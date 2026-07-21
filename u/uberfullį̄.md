@@ -60,7 +60,3 @@ From *uberfullaz + *-į̄.
 - **Old Norse:** offylli
   - **Icelandic:** offylli
 - **Gothic:** 𐌿𐍆𐌰𐍂𐍆𐌿𐌻𐌻𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

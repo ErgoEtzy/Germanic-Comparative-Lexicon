@@ -202,7 +202,3 @@ From Proto-Indo-European *skoy-pó-s, which may be a derivative of *skey- (“to
       - **Norwegian Bokmål:** skjev
     - **Danish:** skjev
       - **Norwegian Bokmål:** skjev
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

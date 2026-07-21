@@ -102,7 +102,3 @@ Uncertain. May be connected to Proto-Indo-European *kelh₁- (“to shout”); c
   - **Old High German:** hlimman
     - **Middle High German:** limmen
 - **Old Norse:** *hlimma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

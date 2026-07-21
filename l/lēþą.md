@@ -59,7 +59,3 @@ Beekes rejects an Indo-European etymology entirely and considers the purported G
       - **English:** lathe
 - **Old Norse:** láð
   - **Icelandic:** láð
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

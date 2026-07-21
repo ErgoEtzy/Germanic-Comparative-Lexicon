@@ -130,7 +130,3 @@ Alternately, from Proto-Indo-European *str̥gos, from *(s)terg-, *(s)terǵ- (“
     - **Swedish:** stork
   - **Old Danish:** stork
     - **Danish:** stork
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

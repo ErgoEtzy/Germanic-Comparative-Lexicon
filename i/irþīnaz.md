@@ -175,7 +175,3 @@ From *erþō + *-īnaz.
       - **German:** irden
       - **German:** erden — _obsolete_
 - **Gothic:** 𐌰𐌹𐍂𐌸𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

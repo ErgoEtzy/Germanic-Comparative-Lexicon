@@ -104,7 +104,3 @@ From Proto-Indo-European *(s)kong-os, from *(s)keng- (“to hobble, tilt”), an
   - **Swedish:** skank
   - **Danish:** skak
   - **Danish:** skank
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

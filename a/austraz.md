@@ -159,7 +159,3 @@ From either Proto-Indo-European *h₂éwsteros (“in the direction of dawn, eas
     - **Danish:** øst
       - **Norwegian Bokmål:** øst
         - **Norwegian Nynorsk:** øst — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

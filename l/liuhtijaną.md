@@ -112,7 +112,3 @@ From *leuhtą (“light”) + *-janą (denominative suffix) or *leuhtaz (“ligh
       - **, Yiddish:** לויכטן
       - **Bavarian:** laichdn
 - **Gothic:** 𐌻𐌹𐌿𐌷𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

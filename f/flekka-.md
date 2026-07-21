@@ -165,7 +165,3 @@ Maybe related to *flakaz (“flat”) if the original sense was rather "place, r
   - **Faroese:** flekkur
   - **Norwegian:** flekk
   - **Swedish:** fläck
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

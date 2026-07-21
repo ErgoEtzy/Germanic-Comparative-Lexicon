@@ -57,7 +57,3 @@ Possibly from Proto-Indo-European *(s)kew(H)- (“to cover, hide”).
     - **Middle High German:** hōde
       - **German:** Hode
       - **German:** Hoden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

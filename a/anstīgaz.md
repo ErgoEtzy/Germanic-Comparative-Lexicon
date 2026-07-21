@@ -103,7 +103,3 @@ From *anstiz + *-gaz.
 - **Old Norse:** ástigr
   - **Icelandic:** ástugur
 - **Gothic:** 𐌰𐌽𐍃𐍄𐌴𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

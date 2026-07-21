@@ -149,7 +149,3 @@ From earlier paradigm *wikkōþi ~ *wigunanþi, from pre-Proto-Germanic *wik-nā
   - **Old High German:** *wihhōn
     - **Middle High German:** wicken
       - **German:** wicken — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

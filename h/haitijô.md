@@ -56,7 +56,3 @@ From *haitaną + *-jô.
 - **Gothic:** *𐌷𐌰𐌹𐍄𐌾𐌰
   - **Gothic:** 𐌱𐌹𐌷𐌰𐌹𐍄𐌾𐌰 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌳𐌿𐌻𐌲𐌰𐌷𐌰𐌹𐍄𐌾𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

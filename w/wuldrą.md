@@ -52,7 +52,3 @@ From Pre-Germanic *wl̥tróm or *wl̥dʰrom, from Proto-Indo-European *wel- (“
   - **Old English:** wulder
     - **Middle English:** wulder
   - **Old High German:** Vuldar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

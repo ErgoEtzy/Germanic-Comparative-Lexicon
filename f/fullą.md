@@ -50,7 +50,3 @@ From Proto-Indo-European *pl̥-nó-, from *pel(w)- (“a kind of vessel”). Cog
 - **Old Saxon:** full
 - **Old Norse:** full
   - **Icelandic:** full
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -109,7 +109,3 @@ From *glōaną (“to glow”) + *-þiz.
       - **Norwegian Bokmål:** glød
         - **Norwegian Nynorsk:** glød — _borrowed_
   - **Scots:** glude — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

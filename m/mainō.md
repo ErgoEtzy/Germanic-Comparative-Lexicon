@@ -374,7 +374,3 @@ From Proto-Indo-European *moy(-)n-éh₂, apparently from a Late PIE root *mey(-
     - **West Frisian:** mienje
   - **Old High German:** meina
     - **Middle High German:** meine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -223,7 +223,3 @@ From *hailaz (“hail, healthy”) + *-isōną (“denominal suffix”).
   - **Middle English:** haylsen — _borrowed_
     - **Scots:** hailse
     - **Scots:** helse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

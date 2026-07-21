@@ -118,7 +118,3 @@ From Proto-Indo-European *ger- (“to scrape”).
   - **Icelandic:** kar — _reshaped by analogy or addition of morphemes; n_
   - **Norwegian:** kara
   - **Norwegian:** karra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

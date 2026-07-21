@@ -155,7 +155,3 @@ From Proto-Indo-European *ǵr̥h₂nóm.
     - **Danish:** korn
 - **Gothic:** 𐌺𐌰𐌿𐍂𐌽
 - **Crimean Gothic:** kor
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

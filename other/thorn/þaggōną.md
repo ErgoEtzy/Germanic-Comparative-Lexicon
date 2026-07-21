@@ -94,7 +94,3 @@ Factitive/causative counterpart to *þagjaną, from Proto-Indo-European *t(H)k-,
 - **Old Norse:** þagga
   - **Icelandic:** þagga
   - **Norwegian:** tagga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

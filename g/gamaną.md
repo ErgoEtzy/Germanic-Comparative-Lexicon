@@ -337,7 +337,3 @@ Exact origin uncertain. Perhaps from *ga- + *mann-, but the stress is on the fir
 - **Old Norse:** man — _inherited; uncertain_
   - **Icelandic:** man
 - **Gothic:** 𐌲𐌰𐌼𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

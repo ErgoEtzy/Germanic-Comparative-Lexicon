@@ -104,7 +104,3 @@ From *harduz (“hard”) + *-līkaz.
 - **Old High German:** hartlīh
 - **Old Norse:** harðligr
   - **Icelandic:** harðlegur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

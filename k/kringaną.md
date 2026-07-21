@@ -99,7 +99,3 @@ From Proto-Indo-European *grenǵʰ- (“to turn”). Related to Lithuanian grę�
   - **Middle Dutch:** cringen
     - **Dutch:** kringen
       - **Afrikaans:** krink
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -89,7 +89,3 @@ A participial formation from *kwelaną (“to suffer”); compare in particular 
     - **Swedish:** kväller
   - **Old Danish:** kwæld
     - **Danish:** kvæld
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

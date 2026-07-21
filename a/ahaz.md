@@ -747,7 +747,3 @@ From Proto-Indo-European *h₂éḱos, from Proto-Indo-European *h₂eḱ- (“s
       - **German:** Eher — _n_
       - **German:** Ehre — _obsolete; f_
       - **Vilamovian:** yjer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

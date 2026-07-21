@@ -102,7 +102,3 @@ From Proto-Indo-European *trew(H)- (“to norish, to grow”).
 - **Old Norse:** *þrór
   - **Old Norse:** þróskr — _reshaped by analogy or addition of morphemes_
     - **Old Norse:** þróski — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

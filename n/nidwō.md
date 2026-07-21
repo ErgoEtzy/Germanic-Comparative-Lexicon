@@ -61,7 +61,3 @@ From Pre-Germanic *nitwéh₂, derived from Proto-Indo-European *ní (“down”
     - **Swedish:** nedan
     - **Swedish:** ned — _prefix_
 - **Gothic:** 𐌽𐌹𐌳𐍅𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

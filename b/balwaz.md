@@ -12,7 +12,7 @@ Uncertain. Possibly related to Old Church Slavonic болѣти (bolěti, “to 
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -117,7 +117,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
 - **Gothic:** *𐌱𐌰𐌻𐌿𐍃
 - **Gothic:** 𐌱𐌰𐌻𐍅𐌰𐍅𐌴𐍃𐌴𐌹
 - **Gothic:** 𐌱𐌰𐌻𐍅𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

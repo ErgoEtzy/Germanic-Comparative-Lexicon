@@ -46,7 +46,3 @@ From Proto-Indo-European *ḱé-ḱl(h₁)-eh₂- or *ḱí-ḱel(h₁)-eh₂-, 
 - **Old Norse:** héla
   - **Icelandic:** héla
   - **Norwegian Nynorsk:** hele
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

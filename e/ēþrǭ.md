@@ -95,7 +95,3 @@ Possibly from Proto-Indo-European *h₁éh₁t-r̥ ~ *h₁h₁t-éns (“lung, i
     - **Swedish:** ådra
   - **Old Danish:** athræ
     - **Danish:** åre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

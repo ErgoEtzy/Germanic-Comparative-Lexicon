@@ -51,7 +51,3 @@ From *ahwō (“river, water”), ultimately from Proto-Indo-European *h₂ékʷ
   - **Old Norse:** ægir
     - **Icelandic:** Ægir, ægir
     - **Faroese:** ægir
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

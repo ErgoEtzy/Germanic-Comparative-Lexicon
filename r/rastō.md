@@ -114,7 +114,3 @@ According to Kroonen, from the same root as *rēsōną (“to rush”) and *rēs
     - **Swedish:** rast
   - **Danish:** rast
 - **Gothic:** 𐍂𐌰𐍃𐍄𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

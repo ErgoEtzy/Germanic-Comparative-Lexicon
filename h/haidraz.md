@@ -120,7 +120,3 @@ Probably from unattested *haiþaną + *-raz, from Proto-Indo-European *keyt- (�
     - **Faroese:** heiður
     - **Norwegian Nynorsk:** hei
       - **English:** hey — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

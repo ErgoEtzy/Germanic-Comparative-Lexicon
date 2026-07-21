@@ -114,7 +114,3 @@ From *snīþaną (“to cut”) + *-janą or *snaidō (“a cut”) + *-janą.
   - **Icelandic:** sneiða
   - **Norwegian Nynorsk:** sneia
   - **Norwegian Nynorsk:** sneie
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

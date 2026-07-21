@@ -207,7 +207,3 @@ From *stabnaz (“stem of a ship”) + *-janą.
     - **Norwegian Bokmål:** stevne
     - **Norwegian Nynorsk:** stemne
     - **Norwegian Nynorsk:** stemna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

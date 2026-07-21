@@ -65,7 +65,3 @@ From Proto-Indo-European *weyḱs- (“mistletoe”). Cognate with Russian ви�
 - **Old High German:** wīhsila
   - **Middle High German:** wīhsel
     - **German:** Weichsel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

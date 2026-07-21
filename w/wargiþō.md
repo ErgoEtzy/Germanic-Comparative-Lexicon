@@ -50,7 +50,3 @@ From *wargijaną + *-iþō.
   - **Old English:** wiergþu
   - **Old English:** wyrgþu
 - **Gothic:** 𐍅𐌰𐍂𐌲𐌹𐌸𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

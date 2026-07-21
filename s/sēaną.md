@@ -260,7 +260,3 @@ From Proto-Indo-European *seh₁- (“to sow”).
   - **Danish:** så
   - **Norwegian:** så
 - **Gothic:** 𐍃𐌰𐌹𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -155,7 +155,3 @@ For semantic development compare Russian засте́нчивый (zasténčivyj
   - **Norwegian:** skygg
   - **Swedish:** skygg
 - **Gothic:** *𐍃𐌺𐌹𐌿𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

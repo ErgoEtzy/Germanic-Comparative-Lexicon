@@ -181,7 +181,3 @@ Alternatively, Nikolaev (2015) suggests derivation from Proto-Indo-European *sw-
   - **Old Danish:** swærth
     - **Danish:** sværd
       - **Norwegian Bokmål:** sverd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

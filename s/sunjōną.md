@@ -98,7 +98,3 @@ Derived from *sunjō (“truth”) + *-ōną.
   - **Old Swedish:** synia
     - **Swedish:** söna
 - **Gothic:** 𐍃𐌿𐌽𐌾𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

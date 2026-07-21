@@ -181,7 +181,3 @@ From Proto-Indo-European *tetórpe, from *terp- (“to satiate”).
     - **, Swedish:** tarva — _archaic_
     - **Danish:** tarve — _borrowed_
 - **Gothic:** 𐌸𐌰𐌿𐍂𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

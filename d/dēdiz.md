@@ -197,7 +197,3 @@ Verbal adjective derived from *dōną (“to do”). Similar in construction to 
 - **Old High German:** meintatīg — _reshaped by analogy or addition of morphemes_
   - **Middle High German:** meintætec
   - **Middle High German:** meintætic
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

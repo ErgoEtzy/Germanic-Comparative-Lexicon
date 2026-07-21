@@ -1054,8 +1054,4 @@ From Proto-Indo-European *h₁ólos.
       - **Norwegian:** oldre
       - **Norwegian:** ordre
       - **Norwegian:** orre
-- **Gothic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Gothic:**

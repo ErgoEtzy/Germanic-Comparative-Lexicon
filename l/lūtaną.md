@@ -105,7 +105,3 @@ From Proto-Indo-European *lewd- (“to duck, crouch, feign, cringe, become small
     - **Swedish:** luta
   - **Danish:** lude
   - **Elfdalian:** lauta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

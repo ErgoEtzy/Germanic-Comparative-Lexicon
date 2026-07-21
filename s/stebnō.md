@@ -355,7 +355,3 @@ From Pre-Germanic *stemm-n-eh₂, from Proto-Indo-European *stemn- (“mouth, mu
   - **Norwegian Nynorsk:** stemne — _f or n_
   - **Norwegian Bokmål:** stevne — _n_
 - **Gothic:** 𐍃𐍄𐌹𐌱𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

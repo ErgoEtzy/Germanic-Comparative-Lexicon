@@ -107,7 +107,3 @@ From *blīþiz + *-janą.
 - **Old Norse:** blíða
   - **Icelandic:** blíða
 - **Gothic:** 𐌱𐌻𐌴𐌹𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

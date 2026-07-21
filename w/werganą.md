@@ -26,7 +26,3 @@ From Proto-Indo-European *wérǵʰ-e-, from *werǵʰ- (“to bind, squeeze”). 
 
 - **Middle High German:** *wergen
 - **Middle High German:** erwergen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -110,7 +110,3 @@ Vṛddhi gerundive of *habjaną (“to have; to hold”).
   - **Icelandic:** hæfur
 - **Gothic:** *𐌷𐍉𐌱𐍃
   - **Gothic:** 𐌲𐌰𐌷𐍉𐌱𐌰𐌹𐌽𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

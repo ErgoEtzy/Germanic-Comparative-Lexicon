@@ -107,7 +107,3 @@ From *skuldiz (“obligation, debt”) + *-ōną.
     - **Norwegian Bokmål:** skulde
     - **Norwegian Nynorsk:** skulde
     - **Norwegian Nynorsk:** skulda
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -100,7 +100,3 @@ From Pre-Germanic *pŕ̥sos, from Proto-Indo-European *pers- (“to spray, splas
   - **Middle English:** force — _borrowed_
     - **English:** force — _Northern England_
   - **Middle Low German:** vorsch — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

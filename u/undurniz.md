@@ -94,7 +94,3 @@ From Proto-Indo-European *h₁n̥ter, *h₁enter (“between”).
   - **Danish:** unden
 - **Gothic:** *𐌿𐌽𐌳𐌰𐌿𐍂𐌽𐍃
 - **Gothic:** 𐌿𐌽𐌳𐌰𐌿𐍂𐌽𐌹𐌼𐌰𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

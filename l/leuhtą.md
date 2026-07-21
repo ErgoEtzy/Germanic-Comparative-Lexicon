@@ -120,7 +120,3 @@ From Proto-Indo-European *lewktom, ultimately from the root *lewk- (“to shine�
       - **Rhine Franconian:** Liecht
       - **Rhine Franconian:** Lischt
       - **Yiddish:** ליכט
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

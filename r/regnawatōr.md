@@ -56,7 +56,3 @@ Compound of *regną (“rain”) + *watōr (“water”).
   - **Swedish:** regnvatten
   - **Old Danish:** rægnwatn
     - **Danish:** regnvand
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -189,7 +189,3 @@ From unattested strong verb *finhaną + *-lōną, from Proto-Indo-European *pi-n
       - **German:** feilen
     - **Middle High German:** fīlen
       - **German:** feilen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

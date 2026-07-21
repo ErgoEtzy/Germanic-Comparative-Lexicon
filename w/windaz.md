@@ -122,7 +122,3 @@ From Proto-Indo-European *h₂wéh₁n̥ts (“blowing; that which blows, i.e. a
   - **Gutnish:** vinn
   - **Gutnish:** vind
 - **Gothic:** 𐍅𐌹𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

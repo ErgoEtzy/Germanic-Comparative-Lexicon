@@ -107,7 +107,3 @@ From Proto-Indo-European *ḱok-ó-s, from *ḱek- (“to be able, capable”). 
     - **Norwegian:** hag
     - **Old Swedish:** hagher
     - **Jutish:** hav
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

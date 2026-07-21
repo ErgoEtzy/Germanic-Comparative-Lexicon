@@ -99,7 +99,3 @@ Derived from *leuþą (“song, verse”) + *-ōną.
   - **Faroese:** ljóða
 - **Gothic:** 𐌻𐌹𐌿𐌸𐍉𐌽
 - **Gothic:** 𐌰𐍅𐌹𐌻𐌹𐌿𐌳𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

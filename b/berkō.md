@@ -97,7 +97,3 @@ From Proto-Indo-European *bʰerHǵós. Cognate with Sanskrit भूर्ज (bh
     - **Danish:** birk
   - **Gutnish:** bjärk
   - **Scanian:** birk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -127,7 +127,3 @@ From *beuganą (“to bow, bend”) + *-janą (“causative suffix”).
   - **Danish:** bøje
     - **Norwegian Bokmål:** bøye
 - **Gothic:** 𐌿𐍃𐌱𐌰𐌿𐌲𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

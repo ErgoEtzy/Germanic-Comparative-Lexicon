@@ -63,7 +63,3 @@ From Proto-Indo-European *sep- (“to taste, test, try out”). Cognate with Lat
     - **Old High German:** insebida — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** sefi
   - **Icelandic:** sefi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

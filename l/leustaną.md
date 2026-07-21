@@ -96,7 +96,3 @@ Probably derived from the Proto-Indo-European *lew-s- (“loose, loosen”) in *
   - **Norwegian Bokmål:** lystre — _reshaped by analogy or addition of morphemes_
   - **Norwegian Nynorsk:** ljostra — _reshaped by analogy or addition of morphemes_
   - **Swedish:** ljustra — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

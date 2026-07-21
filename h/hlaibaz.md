@@ -149,7 +149,3 @@ Compare Latvian klàips (“loaf”), Lithuanian kliẽpas (“loaf”). Proto-I
     - **Danish:** lev
 - **Gothic:** 𐌷𐌻𐌰𐌹𐍆𐍃
 - **Gothic:** 𐌷𐌻𐌰𐌹𐌱𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

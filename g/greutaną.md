@@ -94,7 +94,3 @@ From Proto-Indo-European *gʰrewd-, *gʰer- (“to rub, grind, remove”). Cogna
 - **Proto-West Germanic:** *greutan
   - **Old High German:** *grioȥan
     - **Middle High German:** grieȥen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

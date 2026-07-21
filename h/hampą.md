@@ -60,7 +60,3 @@ From Proto-Indo-European *kob- (“good fortune, prophecy; to bend, bow, fit in,
     - **English:** hap
   - **Middle English:** happ — _borrowed_
     - **English:** hap
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

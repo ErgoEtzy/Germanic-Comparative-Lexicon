@@ -97,7 +97,3 @@ From *ga- + *nesaną.
   - **Middle High German:** genësen
     - **German:** genesen
 - **Gothic:** 𐌲𐌰𐌽𐌹𐍃𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

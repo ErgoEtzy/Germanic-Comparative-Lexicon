@@ -96,7 +96,3 @@ The origin of the senses in Gothic (“book, writing”) is unclear, but they ma
   - **Danish:** bog
   - **Danish:** bøg — _c_
 - **Gothic:** 𐌱𐍉𐌺𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

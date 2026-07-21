@@ -134,7 +134,3 @@ Ultimately from Proto-Indo-European *snusós (“daughter-in-law”). The remaki
 - **Old Norse:** snør
   - **Icelandic:** snör
 - **Crimean Gothic:** schuos
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

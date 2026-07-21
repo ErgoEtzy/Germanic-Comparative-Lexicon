@@ -62,7 +62,3 @@ Likely originally neuter, from Proto-Indo-European *ḱléwmn̥tom, extension an
   - **Old High German:** liumunt
     - **Middle High German:** liumunt
       - **German:** Leumund
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

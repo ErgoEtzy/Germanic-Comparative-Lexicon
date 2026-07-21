@@ -176,7 +176,3 @@ Unknown. Likely either from pre-Proto-Finnic *šülkeš (later Proto-Finnic *hü
     - **Swedish:** säl
   - **Danish:** sæl
   - **Gutnish:** själ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

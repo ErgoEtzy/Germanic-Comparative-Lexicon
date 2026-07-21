@@ -55,7 +55,3 @@ From *snutraz (“clever, wise”) + *-į̄.
   - **Old English:** snyteru
     - **Middle English:** snytere
 - **Gothic:** 𐍃𐌽𐌿𐍄𐍂𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -133,7 +133,3 @@ Of unknown origin. Traditionally considered equivalent to the "vessel" sense of 
 - **Old Norse:** fat
   - **Icelandic:** föt
   - **Icelandic:** fatnaður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

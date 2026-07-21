@@ -98,7 +98,3 @@ From unattested *slangaz + *-ô, from Proto-Indo-European *slonk-ó-s, from *sle
   - **Swedish:** slang
   - **Gutnish:** slangr
   - **Gutnish:** slang
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

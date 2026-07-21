@@ -223,7 +223,3 @@ Apparently from a Proto-Indo-European *dorgʰ-éye-ti, probably from *derHgʰ- (
       - **German:** zergen — _obsolete_
       - **Rhine Franconian:** zärche
       - **Rhine Franconian:** zerche
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

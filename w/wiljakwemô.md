@@ -448,7 +448,3 @@ From *wiljaną (“to want”) + *kwemaną (“to come”). Literally "desired c
       - **Cimbrian:** bóolkhèmm
       - **German:** willkommen
       - **Luxembourgish:** wëllkomm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

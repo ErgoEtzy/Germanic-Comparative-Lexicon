@@ -310,7 +310,3 @@ From Proto-Indo-European *per- (“going, passage”).
       - **Danish:** fare
       - **Norwegian Bokmål:** fare
 - **Gothic:** 𐍆𐌰𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

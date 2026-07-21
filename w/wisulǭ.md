@@ -978,7 +978,3 @@ A diminutive of a word *wisō- (“European polecat, Mustela putorius”). From 
     - **Danish:** væsel
   - **Gutnish:** vissle
   - **Gutnish:** visslå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

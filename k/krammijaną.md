@@ -93,7 +93,3 @@ From *krimmaną (“to push, squeeze”) + *-janą (causative suffix).
 
 - **Old Norse:** kremja
   - **Icelandic:** kremja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

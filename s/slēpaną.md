@@ -239,7 +239,3 @@ Older theories tentatively derived the word from a hypothetical base *slē‑, e
       - **Yiddish:** שלאָפֿן
 - **Gothic:** 𐍃𐌻𐌴𐍀𐌰𐌽
 - **Crimean Gothic:** schlipen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

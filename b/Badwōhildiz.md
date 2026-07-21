@@ -40,7 +40,3 @@ From *badwō (“battle, fight”) + *hildiz (“battle, fight”).
 - **Old High German:** Baduhilt
 - **Old Norse:** Bǫðvildr
   - **Icelandic:** Böðvildur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

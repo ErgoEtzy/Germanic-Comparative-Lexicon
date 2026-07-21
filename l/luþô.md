@@ -74,7 +74,3 @@ Unknown. Traditionally suggested as from Proto-Indo-European *(s)lewt- ~ *(s)lū
   - **Icelandic:** loði
   - **Icelandic:** loðinn
   - **Faroese:** loðin
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

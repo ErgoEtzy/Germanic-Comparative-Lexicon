@@ -121,7 +121,3 @@ Kroonen reconstructs Proto-Indo-European *sert- (“to hit (?); to rub against, 
 - **Old Norse:** serða
   - **Icelandic:** serða
   - **Old Swedish:** særþa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

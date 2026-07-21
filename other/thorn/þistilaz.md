@@ -177,7 +177,3 @@ Alternatively, Orel considers the word to be formed from Proto-Indo-European *te
     - **Danish:** tidsel
   - **Gutnish:** tissle
   - **Scanian:** tizle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

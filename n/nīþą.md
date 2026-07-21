@@ -90,7 +90,3 @@ From Pre-Germanic *néyHto- or *níHto-, from Proto-Indo-European *neyH- (“to 
     - **Swedish:** nid
   - **Danish:** nid
 - **Gothic:** 𐌽𐌴𐌹𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

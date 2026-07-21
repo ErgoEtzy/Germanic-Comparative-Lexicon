@@ -66,7 +66,3 @@ Traditionally from Proto-Indo-European *bʰlā-d- (“to offer, sacrifice”), c
     - **Swedish:** blot
   - **Old Gutnish:** blót
   - **Danish:** blot — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

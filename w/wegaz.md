@@ -113,7 +113,3 @@ Villanueva Svensson, while maintaining the root etymology, derives this noun mor
     - **Danish:** vej — _c_
     - **Norwegian Bokmål:** vei — _m_
 - **Gothic:** 𐍅𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

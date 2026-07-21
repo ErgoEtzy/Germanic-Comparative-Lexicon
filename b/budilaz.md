@@ -121,7 +121,3 @@ From *budą + *-ilaz.
     - **Dutch:** bedel — _borrowed_
   - **Middle English:** bedel — _borrowed_ — _through a non-Germanic route_
     - **English:** bedel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

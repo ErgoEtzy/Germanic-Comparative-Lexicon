@@ -93,7 +93,3 @@ From Proto-Indo-European *térs-tu-s ~ *tr̥s-téw-s, from *ters- (“dry”) + 
   - **Swedish:** törst
   - **Danish:** tørst
 - **Gothic:** 𐌸𐌰𐌿𐍂𐍃𐍄𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

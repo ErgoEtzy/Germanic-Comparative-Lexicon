@@ -58,7 +58,3 @@ From Proto-Indo-European *syewH-tós, from *syewH- (“to sew”).
 - **Old Norse:** sjóðr
   - **Icelandic:** sjóður
   - **Old Swedish:** siūþer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

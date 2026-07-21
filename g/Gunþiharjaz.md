@@ -97,8 +97,4 @@ From *gunþiz (“battle”) + *harjaz (“warrior”).
     - **Faroese:** Gundur — _borrowed_
     - **Norwegian:** Gunder — _borrowed_
     - **Norwegian:** Gunner — _borrowed_
-- **Suevic or Gothic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Suevic or Gothic:**

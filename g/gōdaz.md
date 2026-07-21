@@ -239,7 +239,3 @@ Vṛddhi gerundive of otherwise unattested strong verb *gadaną, from Proto-Indo
     - **Gutnish:** godar
 - **Gothic:** 𐌲𐍉𐌸𐍃
 - **Vandalic:** *guths
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

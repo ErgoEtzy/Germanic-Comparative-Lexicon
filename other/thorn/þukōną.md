@@ -125,7 +125,3 @@ Unknown. Perhaps from Proto-Indo-European *tewh₂- (“to swell”), or from Pr
     - **Danish:** tåge
     - **Scanian:** tága
     - **Scanian:** táge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

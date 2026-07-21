@@ -212,7 +212,3 @@ From Proto-Indo-European *h₂enh₁-dʰō, from *h₂enh₁- (“to breathe, bl
       - **Scots:** aynd
       - **Scots:** eind
       - **Scots:** end — _now Shetland_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

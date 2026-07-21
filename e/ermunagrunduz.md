@@ -44,7 +44,3 @@ From *ermunaz (“world, earth”) + *grunduz (“ground, foundation”). Compar
 - **Proto-West Germanic:** *ermungrundu
   - **Old English:** eormengrund
 - **Old Norse:** jǫrmungrund
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

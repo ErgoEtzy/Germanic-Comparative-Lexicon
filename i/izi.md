@@ -21,7 +21,3 @@ From earlier *ezi, from Proto-Indo-European *h₁ésti.
 ### Germanic descendants
 
 - **Gothic:** 𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

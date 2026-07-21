@@ -98,7 +98,3 @@ From Proto-Indo-European *-dyé- (verbal suffix). Cognate with Ancient Greek -ά
   - **Old Saxon:** -itōn
   - **Old High German:** -izzen
 - **Gothic:** *-𐌹𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -203,7 +203,3 @@ Uncertain. Traditionally compared with Ancient Greek σφήν (sphḗn, “wedge
     - **Danish:** spån
     - **Gutnish:** span
     - **Gutnish:** spån
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

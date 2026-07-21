@@ -206,7 +206,3 @@ Possibly from earlier *flahtskō, from Proto-Indo-European *pleḱ- (“to weave
   - **Swedish:** flaska
   - **Danish:** flaske
     - **Norwegian Bokmål:** flaske
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

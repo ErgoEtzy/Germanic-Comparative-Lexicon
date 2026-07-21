@@ -58,7 +58,3 @@ From Proto-Indo-European *-eyes (i-stem nominative plural), from *-is (i-stem su
   - **Old Swedish:** -er
     - **Swedish:** -er
 - **Gothic:** -𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

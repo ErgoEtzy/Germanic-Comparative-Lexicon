@@ -162,7 +162,3 @@ From Proto-Indo-European *bʰeg- (“to bend, curve, arch”). Cognate with Lith
     - **Old Danish:** bænk
       - **Danish:** bænk
         - **Norwegian Bokmål:** benk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -248,7 +248,3 @@ From Proto-Indo-European *bʰowgʰ-o-s, from *bʰewgʰ- (“to bend”).
     - **Swedish:** baug
     - **Swedish:** bäug
     - **Swedish:** bau
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

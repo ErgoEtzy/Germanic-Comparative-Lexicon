@@ -81,7 +81,3 @@ From Proto-Indo-European *wenh₁-i-s, an i-stem nominal formation from *wenh₁
         - **Norwegian Bokmål:** venn
           - **Norwegian Nynorsk:** venn — _borrowed_
 - **Gothic:** 𐌱𐌰𐍄𐍅𐌹𐌽𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

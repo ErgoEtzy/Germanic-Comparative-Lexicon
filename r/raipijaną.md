@@ -103,7 +103,3 @@ From *raipaz (“strap, band, rope”) + *-janą.
 - **Old Norse:** reipa
   - **Icelandic:** reipa
   - **Norwegian Nynorsk:** reipa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

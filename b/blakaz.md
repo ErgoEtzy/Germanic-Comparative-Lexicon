@@ -135,7 +135,3 @@ Alternatively, perhaps from Proto-Indo-European *ml̥h₂gos, from Proto-Indo-Eu
       - **(in combinations:** Blachmal
       - **(in combinations:** Blachfrost
       - **(in combinations:** Blachfeld
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

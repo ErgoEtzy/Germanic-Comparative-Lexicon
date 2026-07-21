@@ -104,7 +104,3 @@ From *swīkwaną + *-ulaz.
   - **Old High German:** *swihhil
     - **Old High German:** biswihhil — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** svikall
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

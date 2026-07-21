@@ -151,7 +151,3 @@ From Proto-Indo-European *gʰróbʰ-, o-grade form of Proto-Indo-European *gʰre
     - **Swedish:** gräfva — _pre-1906 spelling_
   - **Danish:** grave
 - **Gothic:** 𐌲𐍂𐌰𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

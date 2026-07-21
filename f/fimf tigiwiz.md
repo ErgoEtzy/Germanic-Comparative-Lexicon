@@ -12,7 +12,7 @@ From *fimf (“five”) + *tigiwiz, plural of *teguz (“group of ten”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -143,7 +143,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Jamtish:** femtig
 - **Gothic:** 𐍆𐌹𐌼𐍆 𐍄𐌹𐌲𐌾𐌿𐍃
 - **Gothic:** 𐍆𐌹𐌼 𐍄𐌹𐌲𐌾𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -66,7 +66,3 @@ From Proto-Indo-European *lówh₃trom (“that which is used for washing”), f
   - **Gutnish:** luddar
   - **Gutnish:** lau
   - **Gutnish:** lavv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

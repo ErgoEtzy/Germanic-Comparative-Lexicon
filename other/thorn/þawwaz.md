@@ -63,7 +63,3 @@ Uncertain. Possibly from Proto-Indo-European *(s)teh₂- (“to stand, place”)
   - **Old Saxon:** thau
   - **Old High German:** dau
   - **Old High German:** dou — _from the 9th C._
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -103,7 +103,3 @@ Alternatively it could be derived from the noun *ganaz (“yawn”) + *-āną.
       - **German Low German:** jahnen
 - **Old Norse:** gana
 - **Gothic:** *𐌲𐌰𐌽𐌰𐌽 — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

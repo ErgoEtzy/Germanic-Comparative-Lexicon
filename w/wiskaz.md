@@ -61,7 +61,3 @@ From Proto-Indo-European *wisgéh₂ (“flexible rod”) (cf. the feminine ō-s
   - **Danish:** visk
   - **Middle English:** wisk — _borrowed_
     - **English:** whisk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -234,7 +234,3 @@ Dunkel reconstructs Proto-Indo-European *énu (“along, after”) for Gothic an
       - **Scots:** ohn-
 - **Gothic:** 𐌹𐌽𐌿
 - **Gothic:** 𐌹𐌽𐌿𐌷
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

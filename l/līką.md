@@ -111,7 +111,3 @@ Probably Proto-Indo-European *leyǵ- (“to bind”), and cognate with Latin lig
 - **Middle High German:** geleich
 - **Old Norse:** lík
 - **Danish:** lig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

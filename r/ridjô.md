@@ -12,7 +12,7 @@ Derived from *rīdaną + *-jô.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -49,7 +49,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old English:** ridda
   - **Old High German:** ritto
 - **Old Norse:** -riði — _in compounds_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

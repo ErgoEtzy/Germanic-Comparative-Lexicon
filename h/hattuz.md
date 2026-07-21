@@ -112,7 +112,3 @@ However, Kroonen notes that the term looks like a derivative from the accusative
       - **Swedish:** hatt
     - **Old Danish:** hat
       - **Danish:** hat
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

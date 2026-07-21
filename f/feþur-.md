@@ -37,7 +37,3 @@ From pre-Germanic *kʷétwr̥-, probably resegmented as *kʷétur-, combining fo
     - **Norwegian Bokmål:** fir-
     - **Old Swedish:** fiæþer-
 - **Gothic:** 𐍆𐌹𐌳𐌿𐍂-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

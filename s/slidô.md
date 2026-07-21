@@ -95,7 +95,3 @@ Zero-grade form of the root of *slīdaną + *-ô, literally “slider”.
   - **Old Swedish:** slæþi
     - **Swedish:** släde
   - **Danish:** slæde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

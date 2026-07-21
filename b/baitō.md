@@ -161,7 +161,3 @@ From Proto-Indo-European *bʰeyd- (“to split; separate; sunder; cleave”).
   - **Middle English:** beit — _borrowed_
     - **Scots:** bait
     - **English:** bait
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

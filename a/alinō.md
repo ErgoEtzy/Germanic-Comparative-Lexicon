@@ -210,7 +210,3 @@ From Proto-Indo-European *Heh₃l-én-eh₂, from *Heh₃l- (“to bow, elbow”
     - **Old Swedish:** aln
       - **Swedish:** aln
     - **Danish:** alen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

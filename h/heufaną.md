@@ -119,7 +119,3 @@ From Proto-Indo-European *kew- (“to howl, scream”). Possibly related to Lith
 - **Old Norse:** hjúfra — _reshaped by analogy or addition of morphemes_
   - **Icelandic:** hjúfra
 - **Gothic:** 𐌷𐌹𐌿𐍆𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

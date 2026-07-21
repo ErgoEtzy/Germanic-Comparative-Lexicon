@@ -52,7 +52,3 @@ An i-stem nominal formation from *wrītaną (“to write”).
       - **Luxembourgish:** Rass
       - **Yiddish:** ריס
 - **Gothic:** 𐍅𐍂𐌹𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

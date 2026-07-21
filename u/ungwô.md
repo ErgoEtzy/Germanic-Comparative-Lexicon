@@ -47,7 +47,3 @@ Likely already rare or poetic in Proto-Germanic, as it came to be completely dis
     - **Middle High German:** unke — _f_
       - **German:** Unke — _f_
         - **English:** unke — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

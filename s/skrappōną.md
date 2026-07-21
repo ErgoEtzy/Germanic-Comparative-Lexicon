@@ -117,7 +117,3 @@ An iterative formed from Proto-Indo-European *(s)ker-b- (“to scratch, to engra
     - **Middle High German:** schraffen
 - **Old Norse:** skraba
   - **Danish:** skrabe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

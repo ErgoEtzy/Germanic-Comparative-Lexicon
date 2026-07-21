@@ -101,7 +101,3 @@ From *ga- + *bidjaną.
     - **Middle High German:** gebitten
     - **Middle High German:** gebiten
 - **Gothic:** 𐌲𐌰𐌱𐌹𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

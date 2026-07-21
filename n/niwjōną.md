@@ -378,7 +378,3 @@ Related to *niwjaz (“new”) + *-ōną.
           - **German:** erneuern
 - **Old Norse:** nýja
   - **Icelandic:** nýja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -97,7 +97,3 @@ From Pre-Germanic *dendʰ-n-e-ti, from a Germanic root with quasi-Indo-European 
   - **Old High German:** *zinnan
     - **Middle High German:** zinnen
     - **Middle High German:** zinden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

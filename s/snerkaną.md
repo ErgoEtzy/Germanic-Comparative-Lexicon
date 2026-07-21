@@ -123,7 +123,3 @@ From Proto-Indo-European *(s)nerg-, *(s)nerk- (“to turn; wind; lace; shrink; s
     - **Scots:** snirk
   - **Middle English:** snorkil — _borrowed_
     - **Scots:** snirk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

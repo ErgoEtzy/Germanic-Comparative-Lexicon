@@ -107,7 +107,3 @@ From Proto-Indo-European *gʰeyǵʰ-, *gʰeygʰ- (“to gape, protrude”), from
 - **Old Norse:** geiga
   - **Icelandic:** geiga
   - **Norwegian Nynorsk:** geige
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

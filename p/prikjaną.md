@@ -139,7 +139,3 @@ From *prikiz (“prick”) + *-janą. Likely a variant of *pikkōną (“to stri
       - **German:** prickeln
     - **Middle High German:** prickeln — _reshaped by analogy or addition of morphemes_
       - **German:** prickeln
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

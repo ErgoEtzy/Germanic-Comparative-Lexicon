@@ -222,7 +222,3 @@ Both theories are formally and semantically reasonable. For a semantic parallel,
   - **Old Gutnish:** burg
   - **Old Gutnish:** borg
 - **Gothic:** 𐌱𐌰𐌿𐍂𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

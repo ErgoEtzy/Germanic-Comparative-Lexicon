@@ -141,7 +141,3 @@ Possibly from Proto-Indo-European *gʰrem-nó-s or *gʰrem-wó-s, from *gʰrem-.
   - **Gutnish:** greimuar
   - **Gutnish:** greimugur
 - **Gothic:** *𐌲𐍂𐌹𐌼𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

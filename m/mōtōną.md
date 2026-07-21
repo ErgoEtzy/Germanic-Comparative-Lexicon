@@ -93,7 +93,3 @@ From Proto-Indo-European *med- (“to measure”). Equivalent to *mōtǭ (“lei
     - **West Frisian:** moezje
   - **Old High German:** muozōn
     - **Middle High German:** muozen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

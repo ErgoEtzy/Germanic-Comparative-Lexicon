@@ -69,7 +69,3 @@ From Proto-Indo-European *suH- (“pig, hog, swine”).
     - **Old Swedish:** sō
       - **Swedish:** so
     - **Danish:** so
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

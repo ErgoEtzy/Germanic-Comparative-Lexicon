@@ -63,7 +63,3 @@ The "cover" proposal eventually stopped being the dominant hypothesis of derivat
   - **Old Danish:** himæn
   - **Old Gutnish:** himin
 - **Gothic:** 𐌷𐌹𐌼𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -108,7 +108,3 @@ From Proto-Indo-European *krewp-o-s, from *krewp- (“scab, crust”).
   - **Old High German:** riob
 - **Old Norse:** hrjúfr
   - **Icelandic:** hrjúfur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -125,7 +125,3 @@ From Proto-Indo-European *ǵʰerH-no-s, from *ǵʰerH- (“to yearn for, rejoice
   - **Faroese:** gjarnur
   - **Old Swedish:** giærn
 - **Gothic:** *𐌲𐌰𐌹𐍂𐌽𐍃 — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

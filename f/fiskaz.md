@@ -520,7 +520,3 @@ From Proto-Indo-European *pisk-ó-s.
     - **Gutnish:** fisk
 - **Gothic:** 𐍆𐌹𐍃𐌺𐍃
 - **Crimean Gothic:** fisct
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

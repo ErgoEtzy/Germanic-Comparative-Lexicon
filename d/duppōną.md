@@ -122,7 +122,3 @@ From Pre-Germanic *dʰubʰ-néh₂- from Proto-Indo-European *dʰewbʰ- (“deep
   - **Elfdalian:** duppa
   - **Swedish:** doppa
   - **Danish:** duppe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

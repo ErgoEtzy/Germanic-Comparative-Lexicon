@@ -57,7 +57,3 @@ From *geraz (“greedy”) + *-į̄.
 - **Old East Norse:** giri
   - **Swedish:** girig
   - **Norwegian:** gīr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

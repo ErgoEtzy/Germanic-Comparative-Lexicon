@@ -438,7 +438,3 @@ From Proto-Indo-European *-teh₂ (“-th”), probably by way of Late PIE *-ét
   - **Norwegian:** -d
 - **Gothic:** -𐌹𐌸𐌰
 - **Gothic:** -𐌹𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

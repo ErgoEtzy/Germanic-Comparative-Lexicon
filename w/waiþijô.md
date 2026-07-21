@@ -45,7 +45,3 @@ From *waiþijaną (“to hunt”) + *-jô.
   - **Old English:** *wǣþa
     - **Old English:** herewǣþa — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍅𐌰𐌹𐌸𐌾𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

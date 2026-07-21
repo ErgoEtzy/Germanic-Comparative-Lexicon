@@ -105,7 +105,3 @@ From Proto-Indo-European *(s)meld- (“to beat, crush, grind”). Related to San
     - **Norwegian Nynorsk:** molte — _reshaped by analogy or addition of morphemes; f_
       - **Danish:** multebær — _borrowed_
     - **Swedish:** multen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

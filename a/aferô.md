@@ -52,7 +52,3 @@ Possibly a substantivization of *aferą (“after, following”), ultimately fro
   - **Middle Dutch:** aver
     - **Dutch:** aver
 - **Gothic:** 𐌰𐍆𐌰𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

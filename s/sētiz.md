@@ -106,7 +106,3 @@ Vṛddhi gerundive of *sitjaną (“to sit”).
 - **Old Norse:** sætr
   - **Icelandic:** sætur
 - **Gothic:** 𐌰𐌽𐌳𐌰𐍃𐌴𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

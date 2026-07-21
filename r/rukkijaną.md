@@ -135,7 +135,3 @@ From *rukkiz (“pull, jerk”) + *-janą, ultimately from the same source as *r
   - **Middle English:** *rikken — _borrowed_
     - **English:** rick
     - **Scots:** rick
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

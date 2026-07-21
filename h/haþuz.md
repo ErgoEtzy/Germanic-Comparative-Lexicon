@@ -52,7 +52,3 @@ From Proto-Indo-European *kéh₃tus (“fight”).
 - **Proto-Norse:** *ᚺᚨᚦᚢᛉ
   - **Old Norse:** Hǫðr
   - **Old Norse:** hǫð-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

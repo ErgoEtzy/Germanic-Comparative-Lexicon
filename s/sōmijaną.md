@@ -126,7 +126,3 @@ From *sōmiz (“fitting, seemly”) + *-janą.
   - **Middle English:** semyn — _borrowed_
     - **English:** seem
     - **Scots:** seem
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

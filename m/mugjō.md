@@ -223,7 +223,3 @@ From *mu- (from earlier *muwī, continuing Proto-Indo-European *muH-íh₂, *muH
       - **German:** Mücke
       - **Hunsrik:** Mick
       - **Luxembourgish:** Méck
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

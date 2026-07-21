@@ -132,7 +132,3 @@ Originally *krimbaną, with contamination of -p- from the iterative *krumpōną,
       - **German:** krimpfen
     - **Middle High German:** grimpfen
       - **German:** krimpfen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

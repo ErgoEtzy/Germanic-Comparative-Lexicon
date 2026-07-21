@@ -51,7 +51,3 @@ From *darō (“injury; damage, harm”) + *-ōþuz.
   - **Old High German:** tart
 - **Old Norse:** darraðr
   - **Icelandic:** darraður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

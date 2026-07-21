@@ -102,7 +102,3 @@ From Proto-Indo-European *dreg- (“to pull”).
   - **Old High German:** *trëhhan
     - **Old High German:** bitrëhhan — _reshaped by analogy or addition of morphemes_
       - **Middle High German:** betrëchen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

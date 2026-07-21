@@ -168,7 +168,3 @@ The first theory involves an analysis of Latin unda continuing *u-n-deh₂ rathe
     - **Gutnish:** vintar
     - **Gutnish:** vintur
 - **Gothic:** 𐍅𐌹𐌽𐍄𐍂𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -2596,7 +2596,3 @@ From *kunją (“clan”) + *-ingaz (“suffix of belonging”), with semantic s
   - **Old Gutnish:** kunungr
     - **Gutnish:** kuningg
     - **Gutnish:** kungg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -109,7 +109,3 @@ From Proto-Indo-European *kewp- (“to arch, bend, curve, vault”).
     - **Swedish:** huva
   - **Old Danish:** huvæ
     - **Danish:** hue
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

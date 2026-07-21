@@ -88,7 +88,3 @@ Likely derived from pre-Germanic *sebʰi/*sebʰyo, dative singular of reflexive 
   - **Old Swedish:** guþsif
   - **Danish:** Sif
 - **Gothic:** 𐍃𐌹𐌱𐌾𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

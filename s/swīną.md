@@ -147,7 +147,3 @@ From an adjectival neuter form *swiHnom of Proto-Indo-European *suH- (“pig”)
   - **Danish:** svin
     - **Norwegian Bokmål:** svin
 - **Gothic:** 𐍃𐍅𐌴𐌹𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

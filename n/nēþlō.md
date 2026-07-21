@@ -198,7 +198,3 @@ From *nēþlą + *-ō (feminine suffix), the former from Proto-Indo-European *(s
   - **Old Danish:** naal
     - **Danish:** nål
 - **Gothic:** 𐌽𐌴𐌸𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

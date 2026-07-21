@@ -183,7 +183,3 @@ From *gulþą (“gold”) + *-īnaz, possibly corresponding to from Proto-Indo-
   - **Swedish:** gyllen-
   - **Danish:** gylden
 - **Gothic:** 𐌲𐌿𐌻𐌸𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -79,7 +79,3 @@ Compare Latin hasta (“shaft; spear”). Traditionally derived from Proto-Indo-
       - **English:** gadfly — _reshaped by analogy or addition of morphemes_
     - **Scots:** gaud
 - **Gothic:** 𐌲𐌰𐌶𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

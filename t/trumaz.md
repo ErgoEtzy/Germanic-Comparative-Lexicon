@@ -141,7 +141,3 @@ Related to or derived from the above. For the semantic development, compare Prot
     - **(in compounds:** untrum
       - **Scots:** trim
       - **English:** trim
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -125,7 +125,3 @@ From *skaiþaną (“to separate”) + *-þiz (“nominal suffix”).
     - **Old Swedish:** skedhe
       - **Swedish:** skede — _today replaced by duplicate skida_
   - **Old English:** sċeġþ — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

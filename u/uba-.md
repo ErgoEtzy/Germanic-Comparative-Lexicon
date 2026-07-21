@@ -24,7 +24,3 @@ From Proto-Indo-European *(h₁)upó-.
 - **Old High German:** oba-
 - **Old Norse:** of-
 - **Gothic:** 𐌿𐍆-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

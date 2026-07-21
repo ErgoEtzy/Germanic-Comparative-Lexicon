@@ -96,7 +96,3 @@ From *stōraz (“big, large, strong”) + *-janą.
     - **North Frisian:** stiere
 - **Old Norse:** stǿra
   - **Icelandic:** stæra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

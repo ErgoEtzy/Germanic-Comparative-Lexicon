@@ -111,7 +111,3 @@ The connection, if any, between these two roots is unknown.
   - **Gutnish:** laug
   - **Gutnish:** lavv
 - **Gothic:** 𐌻𐌰𐌿𐍆𐍃 — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

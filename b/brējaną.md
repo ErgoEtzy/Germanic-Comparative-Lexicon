@@ -29,7 +29,3 @@ Uncertain, through traditionally connected to Proto-Indo-European *bʰrewh₁- (
   - **Middle Dutch:** bræyen
   - **Middle High German:** bræjen
 - **Crimean Gothic:** breen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

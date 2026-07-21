@@ -621,7 +621,3 @@ From *ga- + *nōgaz, the latter a lengthened-grade adjective formed from *nugan�
   - **Old Swedish:** nōgh
     - **Swedish:** nog
 - **Gothic:** 𐌲𐌰𐌽𐍉𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ The theonym (“heiti of Odin”) is likely derived from the third-person singul
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -66,7 +66,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Swedish:** gø̄tar — _pl_
     - **Swedish:** göt
 - **Gothic:** 𐌲𐌰𐌿𐍄𐍃*
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

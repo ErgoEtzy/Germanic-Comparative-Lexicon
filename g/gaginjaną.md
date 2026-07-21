@@ -135,7 +135,3 @@ From *gagin (“towards, against”) + *-janą.
   - **Middle English:** gainen — _borrowed_
     - **English:** gain
     - **Scots:** gain
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

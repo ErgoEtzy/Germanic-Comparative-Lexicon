@@ -209,7 +209,3 @@ From Proto-Indo-European *méh₂tēr (“mother”), via the suffix-stressed va
     - **Danish:** moder
   - **Gutnish:** mor
   - **Gutnish:** moder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

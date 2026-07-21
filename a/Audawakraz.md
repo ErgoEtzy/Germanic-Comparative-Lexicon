@@ -87,7 +87,3 @@ From *audaz (“wealth, riches”) + *wakraz (“awake, watchful, alert”).
 - **Gothic:** *𐌰𐌿𐌳𐌰𐍅𐌰𐌺𐍂𐍃
   - **English:** Odoacer — _borrowed_ — _through a non-Germanic route_
   - **German:** Odoaker — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

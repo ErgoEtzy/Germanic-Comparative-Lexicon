@@ -96,7 +96,3 @@ A strong verb derived from Pre-Germanic *ǵʰleymós (“shine”), an extension
     - **Middle High German:** glīmen
 - **Old Norse:** glíma
   - **Norwegian:** glima
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

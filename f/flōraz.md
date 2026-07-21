@@ -87,7 +87,3 @@ From Proto-Indo-European *pleh₂ros (“floor”), from *pleh₂- (“flat”).
     - **Norwegian Nynorsk:** flor
   - **Swedish:** flo — _also flor_
   - **Danish:** flor — _obsolete except in Bornholmian_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -103,7 +103,3 @@ From Proto-Indo-European *gleh₁y- (“to smear, glue”). Cognate with Proto-C
   - **Norwegian Bokmål:** kline
   - **Norwegian Nynorsk:** klina
   - **Norwegian Nynorsk:** kline
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

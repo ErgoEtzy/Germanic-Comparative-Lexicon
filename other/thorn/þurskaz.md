@@ -90,7 +90,3 @@ From Proto-Indo-European *ters- (“to dry; wither; thirst”) + *-ḱos.
     - **German Low German:** Dorsk
     - **Middle High German:** dorsch — _borrowed_
       - **German:** Dorsch
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

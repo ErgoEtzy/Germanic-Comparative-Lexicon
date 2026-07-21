@@ -60,7 +60,3 @@ Of unknown origin. Has been derived from a Proto-Indo-European *strēy-, *ster- 
     - **English:** strand
 - **Old Norse:** *strena
   - **Swedish:** strena
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -95,7 +95,3 @@ Uncertain. Possibly derived from a Proto-Indo-European *delH- (“to flatten, sp
   - **Old English:** *teldan
     - **Old English:** beteldan — _reshaped by analogy or addition of morphemes_
 - **Norwegian:** tjalða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

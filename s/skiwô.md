@@ -61,7 +61,3 @@ From Proto-Indo-European *(s)kewH- (“to cover, bedeck”). Cognate with Old Ir
   - **Middle English:** skew — _borrowed_
   - **Middle English:** skiw — _borrowed_
   - **Middle English:** skyw — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

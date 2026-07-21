@@ -112,7 +112,3 @@ From Proto-Indo-European *h₂éḱ-ih₂ ~ h₂ḱ-yéh₂-s, from *h₂eḱ- (
     - **Swedish:** egg
   - **Danish:** æg
     - **Norwegian Bokmål:** egg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

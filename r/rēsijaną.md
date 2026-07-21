@@ -104,7 +104,3 @@ From *rēsō (“running, course, rush”) + *-janą.
       - **German:** rasen
 - **Old Norse:** ræsa
   - **Icelandic:** ræsa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -100,7 +100,3 @@ From *smītaną (“to cast, hit, smear”) + *-janą.
   - **Faroese:** smeitast
   - **Norwegian Nynorsk:** smeita
   - **Norwegian Nynorsk:** smeite
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

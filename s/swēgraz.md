@@ -86,7 +86,3 @@ From Proto-Indo-European *swēḱurós (“brother-in-law”), a vṛddhi deriva
       - **Hunsrik:** Schwoher
       - **Luxembourgish:** Schwoer
       - **Yiddish:** שוואָגער
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

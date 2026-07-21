@@ -80,7 +80,3 @@ From *lekaną (“to leak, drain”), from Proto-Indo-European *leg- (“to leak
       - **German:** Lache
       - **German:** Lacke — _Austria_
       - **Luxembourgish:** Laach
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

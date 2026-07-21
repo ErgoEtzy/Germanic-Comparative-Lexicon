@@ -12,7 +12,7 @@ From Unknown
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Noun
 
@@ -94,7 +94,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
       - **English:** scald
       - **Scots:** sca — _borrowed; uncertain_
       - **Scots:** scaw — _borrowed; uncertain; compare Middle Scots skade; scaid; skaid; scad; skald; scald; scauld_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

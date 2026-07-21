@@ -129,7 +129,3 @@ From Proto-Indo-European *ḱley- (“to lean”). Cognate with Latin clīnō (�
       - **German:** lehnen
 - **Old Norse:** *hlina
   - **Norwegian:** lina
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -750,7 +750,3 @@ From Proto-Indo-European *h₁édti, from *h₁ed- (“to eat”).
   - **Gutnish:** jite
   - **Gutnish:** jeta
 - **Gothic:** 𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

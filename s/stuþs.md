@@ -74,7 +74,3 @@ Likely from Pre-Germanic *stút-s, root noun from Proto-Indo-European *stut- (�
     - **Swedish:** stöd
   - **Old Swedish:** stydh
     - **Swedish:** stöd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

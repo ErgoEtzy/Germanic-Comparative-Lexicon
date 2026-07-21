@@ -116,7 +116,3 @@ From *un- + *hrainiz.
   - **Old Swedish:** ōrēn
     - **Swedish:** oren
 - **Gothic:** 𐌿𐌽𐌷𐍂𐌰𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

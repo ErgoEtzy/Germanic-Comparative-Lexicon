@@ -202,7 +202,3 @@ From Proto-Indo-European *stéh₂tis (“standing, position”). Cognate with A
     - **Old Gutnish:** steþr
       - **Gutnish:** städ
 - **Gothic:** 𐍃𐍄𐌰𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

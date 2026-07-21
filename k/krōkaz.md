@@ -144,7 +144,3 @@ From Proto-Indo-European *greh₂ǵos (“a twist, rope, wicker, a tangle”), f
   - **English:** crotchet — _borrowed_ — _through a non-Germanic route_
   - **English:** crochet — _borrowed_ — _through a non-Germanic route_
   - **English:** crotchet — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

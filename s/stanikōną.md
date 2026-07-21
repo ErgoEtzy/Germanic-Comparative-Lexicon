@@ -99,7 +99,3 @@ From Proto-Indo-European *(s)ten- (“to thunder, rush, roar, groan”) + *-ikō
   - **Old Swedish:** stanka
     - **Swedish:** stånka
   - **Norwegian:** stanke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

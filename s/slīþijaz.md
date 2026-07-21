@@ -12,7 +12,7 @@ Uncertain, suspected to be related to *laiþaz (“loathsome”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -105,7 +105,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Saxon:** slīthi
 - **Gothic:** 𐍃𐌻𐌴𐌹𐌸𐍃
 - **Gothic:** 𐍃𐌻𐌴𐌹𐌳𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

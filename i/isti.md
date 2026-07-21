@@ -76,7 +76,3 @@ From earlier *esti, from Proto-Indo-European *h₁ésti.
   - **Old Norse:** es
   - **Old Norse:** er
 - **Gothic:** 𐌹𐍃𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

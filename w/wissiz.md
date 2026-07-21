@@ -46,7 +46,3 @@ From Proto-Indo-European *wédʰ-ti-s (“act of joining”), from *wedʰ- (“t
 ### Germanic descendants
 
 - **Gothic:** 𐌲𐌰𐍅𐌹𐍃𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

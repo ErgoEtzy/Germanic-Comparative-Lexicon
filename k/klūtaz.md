@@ -292,7 +292,3 @@ From Proto-Indo-European *glewdos, from *gel- (“to ball up; amass; clench”).
   - **Swedish:** klut
 - **Old Danish:** klut
   - **Danish:** klud
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

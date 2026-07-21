@@ -264,7 +264,3 @@ From a u-extended form of Proto-Indo-European *teh₂- (“to melt”); compare 
   - **Norwegian:** tøya
   - **Swedish:** töa
   - **Danish:** tø
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

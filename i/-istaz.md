@@ -150,7 +150,3 @@ From Proto-Indo-European *-istHos, from *-yōs (relative suffix) + *-tHós (adje
     - **Swedish:** -st
   - **Danish:** -st
 - **Gothic:** -𐌹𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

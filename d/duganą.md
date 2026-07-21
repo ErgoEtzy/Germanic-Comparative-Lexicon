@@ -144,7 +144,3 @@ From Proto-Indo-European *dʰedʰówgʰe, from *dʰewgʰ- (“to produce”).
   - **Old Danish:** dughæ
     - **Danish:** du
 - **Gothic:** 𐌳𐌿𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

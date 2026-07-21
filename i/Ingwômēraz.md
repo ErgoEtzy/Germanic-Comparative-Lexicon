@@ -55,8 +55,4 @@ From *Ingwô (“the Germanic god of fertility”) + *mēraz (“fame”).
   - **Swedish:** Ingemar
   - **Swedish:** Ingmar
 - **Gothic:** *Engwamērs
-- **Vandalic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Vandalic:**

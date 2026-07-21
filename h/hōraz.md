@@ -47,7 +47,3 @@ From Proto-Indo-European *kéh₂ros (“loved”), from *keh₂-. Cognate with 
 - **Old Norse:** hórr
   - **Icelandic:** hór
 - **Gothic:** 𐌷𐍉𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

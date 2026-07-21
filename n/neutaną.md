@@ -120,7 +120,3 @@ From Proto-Indo-European *newd- (“to seize; grasp; use”). Cognate with Lithu
     - **Danish:** nyde
       - **Norwegian Bokmål:** nyte
 - **Gothic:** 𐌽𐌹𐌿𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -129,7 +129,3 @@ From unattested *seldaz (“rare”) + *-anē.
   - **Old Danish:** siældæn
     - **Danish:** sjælden
       - **Norwegian Bokmål:** sjelden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

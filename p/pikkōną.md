@@ -163,7 +163,3 @@ Unknown; from a stem *pikk-, of apparently imitative origin, + *-ōną. Compare 
   - **Norwegian:** pikka
   - **Swedish:** picka
   - **Danish:** pikke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

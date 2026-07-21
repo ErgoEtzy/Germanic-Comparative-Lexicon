@@ -188,7 +188,3 @@ From *knus- (“to crush; grind”), from Proto-Indo-European *gen- (“to squee
   - **Faroese:** knylla
   - **Norwegian Bokmål:** knulle
   - **Swedish:** knulla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

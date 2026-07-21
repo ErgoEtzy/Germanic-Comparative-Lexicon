@@ -110,7 +110,3 @@ From *fra- + *kunnaną.
 - **Old Norse:** fyrirkunna
   - **Icelandic:** fyrirkunna
 - **Gothic:** 𐍆𐍂𐌰𐌺𐌿𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

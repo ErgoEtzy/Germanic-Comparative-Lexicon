@@ -46,7 +46,3 @@ From Proto-Indo-European *ster- (“infertile”).
 ### Germanic descendants
 
 - **Gothic:** 𐍃𐍄𐌰𐌹𐍂𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

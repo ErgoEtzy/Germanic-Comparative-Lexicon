@@ -370,7 +370,3 @@ The oldest attestation of the theonym, Proto-Norse ᚹᛟᛞᚾᚨᛊ (wodnas) f
     - **English:** Odin — _borrowed_
     - **German:** Odin — _borrowed_
     - **Swedish:** Odin — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

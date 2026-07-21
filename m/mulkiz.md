@@ -101,7 +101,3 @@ Verbal adjective derived from the original stative of *melkaną (“to milk”).
 - **Swiss German:** lindmulch
 - **Old Norse:** mylkr
   - **Icelandic:** mylkur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

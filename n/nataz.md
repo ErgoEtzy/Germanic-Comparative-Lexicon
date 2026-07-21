@@ -116,7 +116,3 @@ From Proto-Indo-European *ned- (“wet”), which Kroonen tentatively considers 
 - **Old Norse:** Nǫt
 - **Old Norse:** Nöt
 - **Gothic:** *𐌽𐌰𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -125,7 +125,3 @@ From *þurnaz (“thorn, brair”) + *-īnaz.
       - **German:** dürnen
       - **German:** dornen
 - **Gothic:** 𐌸𐌰𐌿𐍂𐌽𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

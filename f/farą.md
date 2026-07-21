@@ -63,7 +63,3 @@ From Pre-Germanic *poro-, from Proto-Indo-European *per- (“to go forth, cross�
     - **Old Swedish:** far
     - **Old Norse:** farkostr — _reshaped by analogy or addition of morphemes_
       - **Middle English:** farcost — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

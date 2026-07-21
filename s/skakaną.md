@@ -131,7 +131,3 @@ From Proto-Indo-European *(s)kek- (“to shake, stir”), with unexpected *-k- i
   - **Old Swedish:** skaka
     - **Swedish:** skaka
   - **Danish:** skage
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

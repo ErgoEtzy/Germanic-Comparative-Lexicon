@@ -136,7 +136,3 @@ From Proto-Indo-European *perd- (“to fart”).
     - **Danish:** fjærte
     - **Norwegian Bokmål:** fjerte
       - **Norwegian Nynorsk:** fjerta — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

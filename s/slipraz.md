@@ -202,7 +202,3 @@ From Proto-Indo-European *(s)leyb- (“slimy”), whence also *slīpaną (“to 
         - **German:** schlüpfrig
       - **Middle High German:** slipferec
         - **German:** schlüpfrig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

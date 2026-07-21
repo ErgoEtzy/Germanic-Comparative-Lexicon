@@ -240,7 +240,3 @@ From Proto-Indo-European *pro- (“forth, forward”). Related to Proto-Germanic
     - **Danish:** frem
       - **Norwegian Bokmål:** frem
 - **Gothic:** 𐍆𐍂𐌰𐌼
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

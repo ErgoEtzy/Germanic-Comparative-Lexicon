@@ -84,7 +84,3 @@ From Proto-Indo-European *bʰrus-sth₂-o, related to and in mostly complementar
       - **Vilamovian:** brust
       - **Yiddish:** ברוסט
 - **Gothic:** 𐌱𐍂𐌿𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

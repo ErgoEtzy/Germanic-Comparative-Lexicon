@@ -86,7 +86,3 @@ From Proto-Indo-European *bʰuH-ro-, a nominal formation from Proto-Indo-Europea
   - **Norwegian Bokmål:** bur
   - **Norwegian Nynorsk:** bur
   - **Jamtish:** búr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -364,7 +364,3 @@ From *blōaną (“to bloom”) + *-mô (“-ness”).
     - **Scots:** blome
 - **Gothic:** 𐌱𐌻𐍉𐌼𐌰
 - **Vandalic:** *bluma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -104,7 +104,3 @@ From Proto-Indo-European *drénu-e, a secondary formation from a nasal present f
         - **German:** entrinnen
       - **Old High German:** abinttrinnan — _reshaped by analogy or addition of morphemes_
         - **Middle High German:** abeentrinnen — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

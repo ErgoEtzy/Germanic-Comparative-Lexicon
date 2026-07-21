@@ -85,7 +85,3 @@ Derived from *lībaną (“to be left”).
     - **Faroese:** leivd
     - **Old Swedish:** lēf
 - **Gothic:** 𐌻𐌰𐌹𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

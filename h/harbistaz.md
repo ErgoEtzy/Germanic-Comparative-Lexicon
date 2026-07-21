@@ -193,7 +193,3 @@ From *harbaz or *harbijaną, from Proto-Indo-European *kerp- (“to pluck”).
     - **Swedish:** höst
   - **Danish:** høst
     - **Norwegian Bokmål:** høst
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

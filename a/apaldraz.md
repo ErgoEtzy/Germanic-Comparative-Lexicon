@@ -66,7 +66,3 @@ From *aplaz (“apple, fruit”) + *-draz (tree suffix).
     - **Danish:** abild
       - **Norwegian Bokmål:** abild
   - **Swedish:** apel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

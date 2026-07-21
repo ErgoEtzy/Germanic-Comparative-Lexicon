@@ -67,7 +67,3 @@ From Proto-Indo-European *h₁el- (“a kind of bird”).
     - **Danish:** allike — _borrowed; uncertain_
     - **Scanian:** alika — _borrowed; uncertain_
     - **Scanian:** aleka — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

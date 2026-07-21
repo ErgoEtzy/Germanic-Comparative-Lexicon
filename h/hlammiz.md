@@ -57,7 +57,3 @@ From Proto-Indo-European *klem- (“to cry; shout; scream; make a noise”).
   - **Swedish:** läm
   - **Danish:** lem
 - **Gothic:** 𐌷𐌻𐌰𐌼𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

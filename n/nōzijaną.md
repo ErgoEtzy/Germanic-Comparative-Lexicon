@@ -99,7 +99,3 @@ Secondary causative of a lost strong verb *nasaną, from the same root as *nesan
   - **Norwegian:** nøre
   - **Old Swedish:** *nø̄ra
     - **Swedish:** nöra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

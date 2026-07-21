@@ -142,7 +142,3 @@ From an o-grade ablaut of Proto-Indo-European *wer- (“to heed”) + *-yeti. Co
     - **Danish:** værge
       - **Norwegian Bokmål:** verge
 - **Gothic:** 𐍅𐌰𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

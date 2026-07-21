@@ -157,7 +157,3 @@ From Proto-Indo-European *h₂ṓws (“ear”).
   - **Old Gutnish:** oyra
     - **Gutnish:** åire
 - **Gothic:** 𐌰𐌿𐍃𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

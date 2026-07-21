@@ -117,7 +117,3 @@ From Proto-Indo-European *dʰreyd- (“to have diarrhea”). Perhaps cognate to 
   - **Elfdalian:** draita
   - **Swedish:** drita — _dialectal (1862); not necessarily still used_
   - **Danish:** dritte — _dialectal; obsolete in common language_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

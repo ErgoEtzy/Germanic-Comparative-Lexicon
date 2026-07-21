@@ -690,7 +690,3 @@ From Proto-Indo-European *h₂eng- (“joint; to bend”) + *-ulaz. Particularly
   - **Icelandic:** ökkli
   - **Faroese:** økil
   - **Faroese:** økul
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

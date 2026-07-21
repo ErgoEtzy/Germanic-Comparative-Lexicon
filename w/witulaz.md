@@ -105,7 +105,3 @@ From *witaną (“to know”) + *-ulaz.
     - **Old English:** ġearuwitol — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** *vitull
   - **Old Norse:** mannvitull — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

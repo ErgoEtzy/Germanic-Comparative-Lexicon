@@ -115,7 +115,3 @@ From Proto-Indo-European *kneygʷʰ- (“to bend, to droop”). Perhaps cognate 
     - **Old Swedish:** nīgha
       - **Swedish:** niga
 - **Gothic:** 𐌷𐌽𐌴𐌹𐍅𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

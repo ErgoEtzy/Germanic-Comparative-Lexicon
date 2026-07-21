@@ -172,7 +172,3 @@ Uncertain. Most simply, from a late Proto-Indo-European *kewb- (“to recline”
         - **German:** Hüfte
         - **Luxembourgish:** Hëft
 - **Gothic:** 𐌷𐌿𐍀𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

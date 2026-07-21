@@ -115,7 +115,3 @@ Of uncertain origin. Probably from a Proto-Indo-European *(s)wendʰ- (“to dwin
   - **Old High German:** swintan
     - **Middle High German:** swinden
       - **German:** schwinden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

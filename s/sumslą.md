@@ -47,7 +47,3 @@ From earlier *swumslą, from zero-grade form of *swimmaną (“to swim”) + *-s
 ### Germanic descendants
 
 - **Gothic:** 𐍃𐍅𐌿𐌼𐍃𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

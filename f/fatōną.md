@@ -267,7 +267,3 @@ From Proto-Indo-European *pod-néh₂-ti, from *pod- (“to fetch”), and cogna
   - **Icelandic:** fata
   - **Faroese:** fata
   - **Old Swedish:** fata
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

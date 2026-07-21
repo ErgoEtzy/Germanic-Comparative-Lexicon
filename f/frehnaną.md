@@ -465,7 +465,3 @@ From Proto-Indo-European *preḱ- (“to ask, woo”). Cognate with Lithuanian p
   - **Old Swedish:** fræghna
   - **Old Danish:** fræghnæ
 - **Gothic:** 𐍆𐍂𐌰𐌹𐌷𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

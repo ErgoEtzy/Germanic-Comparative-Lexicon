@@ -189,7 +189,3 @@ Uncertain. Perhaps from Proto-Indo-European *werǵʰ-nó- (> pre-Germanic *werkk
       - **German:** Werg
     - **Middle High German:** werich
       - **German:** Werg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -101,7 +101,3 @@ From *hrainiz (“clean, pure”) + *-janą.
   - **Old High German:** reinen
     - **Middle High German:** reinen — _merged with the descendant of *hrainōn_
 - **Gothic:** 𐌷𐍂𐌰𐌹𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

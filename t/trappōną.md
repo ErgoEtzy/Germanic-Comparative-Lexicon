@@ -114,7 +114,3 @@ From pre-Germanic *drob-néh₂-ti, from Proto-Indo-European *dreb⁽ʰ⁾- (“
       - **Dutch:** trappen
       - **Middle Dutch:** betrapen — _reshaped by analogy or addition of morphemes_
         - **Dutch:** betrapen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

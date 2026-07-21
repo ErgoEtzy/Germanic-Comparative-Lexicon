@@ -98,7 +98,3 @@ From *huldą (“sliced meat”) + *-janą.
     - **Middle English:** hulden
 - **Old Norse:** hylda
   - **Icelandic:** hylda
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

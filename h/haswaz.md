@@ -119,7 +119,3 @@ From Proto-Indo-European *ḱeh₂s- (“bright grey”). Cognate with Latin cae
     - **Middle High German:** heswe
 - **Old Norse:** hǫss
   - **Icelandic:** höss
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

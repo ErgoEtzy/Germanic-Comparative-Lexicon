@@ -124,7 +124,3 @@ Of unknown origin. Has been taken to be from the same root as Proto-Germanic *sk
     - **Swedish:** slita
   - **Old Danish:** slitæ
     - **Danish:** slide
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

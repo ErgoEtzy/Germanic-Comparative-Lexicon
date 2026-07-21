@@ -55,7 +55,3 @@ From Pre-Germanic *óngʷô, from Proto-Indo-European *h₃éngʷō, collective 
   - **Old High German:** anco
     - **Middle High German:** anke
       - **Alemannic German:** Anke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

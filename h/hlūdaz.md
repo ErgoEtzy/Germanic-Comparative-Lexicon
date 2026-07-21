@@ -143,7 +143,3 @@ From Proto-Indo-European *ḱlutós, from *ḱlew- (“to hear; famous”). The 
       - **Central Franconian:** 
         - **Hunsrik:** laut
       - **German:** laut
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

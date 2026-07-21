@@ -12,7 +12,7 @@ An o-grade iterative verb to the strong verb *fertaną.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -105,7 +105,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Norn:** frada
   - **Norwegian Nynorsk:** frata
   - **Elfdalian:** fråtå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -74,7 +74,3 @@ From *meduz + *wurtiz, so-called for its use in mead.
   - **Danish:** mjødurt
   - **Norwegian:** mjødurt
   - **Swedish:** mjödört
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

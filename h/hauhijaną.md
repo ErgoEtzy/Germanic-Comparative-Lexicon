@@ -106,7 +106,3 @@ From *hauhaz (“high”) + *-janą.
     - **Middle High German:** höhen
       - **German:** höhen
 - **Gothic:** 𐌷𐌰𐌿𐌷𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

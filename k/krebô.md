@@ -48,7 +48,3 @@ From Proto-Indo-European *grébʰ-ōn ~ *grbʰ-n-ōs, from *grebʰ-, a variant o
   - **Old High German:** *krebo
     - **Middle High German:** krebe
       - **German:** Krebe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

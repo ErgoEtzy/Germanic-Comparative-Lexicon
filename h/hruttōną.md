@@ -96,7 +96,3 @@ Apparently from a Proto-Indo-European *krut-neh₂-, from a root *krewt- (“to 
     - **German:** rotzen
 - **Old Norse:** 
   - **Elfdalian:** rotå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

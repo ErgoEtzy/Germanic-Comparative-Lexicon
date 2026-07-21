@@ -124,7 +124,3 @@ From *laistaz (“track, trace, footprint”) + *-janą.
       - **German:** leisten
       - **Luxembourgish:** leeschten
 - **Gothic:** 𐌻𐌰𐌹𐍃𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

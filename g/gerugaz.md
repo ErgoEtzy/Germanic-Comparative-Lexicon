@@ -186,7 +186,3 @@ From *geruz (“desire, greed”) + *-gaz, ultimately from Proto-Indo-European *
 - **Old Norse:** *girugr
   - **Old Swedish:** girugher
     - **Swedish:** girig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

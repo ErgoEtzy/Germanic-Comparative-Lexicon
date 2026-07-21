@@ -153,7 +153,3 @@ From Proto-Indo-European *demh₂-.
     - **Swedish:** tam
   - **Old Danish:** tam
     - **Danish:** tam
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

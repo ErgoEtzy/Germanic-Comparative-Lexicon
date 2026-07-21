@@ -49,7 +49,3 @@ From Proto-Indo-European *ḱléytreh₂ (“shelter, covering”). Equivalent t
   - **Old Swedish:** *hlīþer
     - **Swedish:** lider
 - **Gothic:** 𐌷𐌻𐌴𐌹𐌸𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

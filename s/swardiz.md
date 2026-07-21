@@ -54,7 +54,3 @@ From Proto-Indo-European *swer-.
     - **Old High German:** eidswart — _reshaped by analogy or addition of morphemes_
   - **Old High German:** swert
     - **Old High German:** eidswart — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

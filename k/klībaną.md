@@ -124,7 +124,3 @@ From Proto-Indo-European *gleybʰ- (“to stick”). Cognate with Latvian gliêb
   - **Old Danish:** klivæ
     - **Danish:** klyve
   - **Elfdalian:** klaiva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

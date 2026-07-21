@@ -51,7 +51,3 @@ From *aiwaz (“eternity”) + *-iþō.
     - **Middle High German:** ēwede
 - **Old Norse:** *æð
   - **Old Norse:** langæð — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

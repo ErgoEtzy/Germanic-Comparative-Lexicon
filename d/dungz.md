@@ -58,7 +58,3 @@ From Proto-Indo-European *dʰéngʰ-s ~ *dʰn̥gʰ-és, from *dʰengʰ- (“to c
   - **Old High German:** tunc
     - **Middle High German:** tunc
       - **German:** Tunk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

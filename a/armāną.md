@@ -101,7 +101,3 @@ From *armaz (“poor”) + *-āną.
     - **Middle High German:** armen
 - **Gothic:** 𐌰𐍂𐌼𐌰𐌽
 - **Vandalic:** *arman
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

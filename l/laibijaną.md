@@ -128,7 +128,3 @@ By surface analysis, *lībaną + *-janą. Kroonen and the LIV alternatively sugg
   - **Old Gutnish:** laifa
 - **Gothic:** *𐌻𐌰𐌹𐌱𐌾𐌰𐌽
 - **Gothic:** 𐌱𐌹𐌻𐌰𐌹𐌱𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

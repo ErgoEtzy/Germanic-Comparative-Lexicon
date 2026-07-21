@@ -48,7 +48,3 @@ From *dōmijaną (“to judge”) + *-īniz.
 - **Gothic:** *𐌳𐍉𐌼𐌴𐌹𐌽𐍃
 - **Gothic:** 𐌰𐍆𐌳𐍉𐌼𐌴𐌹𐌽𐍃
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌳𐍉𐌼𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

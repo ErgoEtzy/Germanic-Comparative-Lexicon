@@ -111,7 +111,3 @@ From Proto-Indo-European *bʰoydʰéyeti (“to make trust”). By surface analy
     - **Old Swedish:** bēþas — _reshaped by analogy or addition of morphemes; from passive_
       - **Swedish:** bedas
 - **Gothic:** 𐌱𐌰𐌹𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

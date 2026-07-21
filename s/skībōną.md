@@ -99,7 +99,3 @@ From *skībǭ (“slice, disk”) + *-ōną.
   - **Icelandic:** skífa
   - **Norwegian Bokmål:** skive
   - **Swedish:** skiva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

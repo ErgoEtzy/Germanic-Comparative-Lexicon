@@ -145,7 +145,3 @@ From Proto-Indo-European *weyd-s-ós (“knowledgeable”), from the s-stem noun
     - **Danish:** vis
 - **Gothic:** *𐍅𐌴𐌹𐍃
 - **Vandalic:** *wīsa-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

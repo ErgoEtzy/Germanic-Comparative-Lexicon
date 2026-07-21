@@ -95,7 +95,3 @@ From *at + *standaną.
   - **Middle English:** atstonden
 - **Old High German:** azstantan
 - **Gothic:** 𐌰𐍄𐍃𐍄𐌰𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

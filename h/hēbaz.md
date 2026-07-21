@@ -55,7 +55,3 @@ Related to *haftijaną (“to make bound; to bind, secure”).
   - **Old Swedish:** hāver
     - **Swedish:** håv
   - **Danish:** hov
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

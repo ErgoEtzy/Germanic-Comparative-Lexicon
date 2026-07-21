@@ -760,7 +760,3 @@ Often compared with Proto-Indo-European *dʰew- (“to flow; to die”), and *d�
       - **Scots:** dee
       - **Scots:** dey
     - **Yola:** dee
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

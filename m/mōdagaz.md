@@ -141,7 +141,3 @@ From *mōdaz (“mind; courage; zeal”) + *-gaz.
   - **Norwegian:** modig
   - **Swedish:** modig
 - **Gothic:** 𐌼𐍉𐌳𐌰𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

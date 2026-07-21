@@ -48,7 +48,3 @@ From *Austrǭ (“Easter, springtime”) + *mēnōþs (“month”).
 - **Old Dutch:** ōstermānōth
 - **Old High German:** ōstarmānōd
   - **German:** Ostermonat
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

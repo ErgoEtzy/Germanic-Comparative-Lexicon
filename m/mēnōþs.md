@@ -160,7 +160,3 @@ From pre-Germanic *meh₁n-ot-s, a derivative of Proto-Indo-European *mḗh₁n�
     - **Gutnish:** mane
     - **Gutnish:** mana
 - **Gothic:** 𐌼𐌴𐌽𐍉𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

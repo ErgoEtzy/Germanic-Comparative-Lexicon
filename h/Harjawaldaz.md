@@ -62,8 +62,4 @@ From *harjaz (“army”) + *waldaz (“ruler, authority”). Compare *Waldaharj
       - **English:** Harold
     - **German:** Harald — _borrowed_
 - **Suevic or Gothic:** 
-- **From an unknown later Germanic language:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **From an unknown later Germanic language:**

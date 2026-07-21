@@ -126,7 +126,3 @@ From the instrumental of *dagaz + *hiz.
       - **Hunsrik:** heit
       - **Luxembourgish:** haut — _probably; irregular vocalism_
 - **Gothic:** 𐌷𐌹𐌼𐌼𐌰 𐌳𐌰𐌲𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

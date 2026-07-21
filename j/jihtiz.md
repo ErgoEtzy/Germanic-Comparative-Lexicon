@@ -153,7 +153,3 @@ The "pain" and "paralysis" senses have been considered linked to the "statement"
       - **German:** Beichte
       - **Luxembourgish:** Becht
       - **Luxembourgish:** Beicht
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

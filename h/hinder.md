@@ -50,7 +50,3 @@ An alternative theory by Orel derives the term from *hiz (“this”), and thus 
       - **Yiddish:** הינטער
 - **Old Norse:** hindar
 - **Gothic:** 𐌷𐌹𐌽𐌳𐌰𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

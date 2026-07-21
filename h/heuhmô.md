@@ -46,7 +46,3 @@ From Pre-Germanic *kéwkmō, *kéwkmon-, from Proto-Indo-European *kewk- (“to 
 ### Germanic descendants
 
 - **Gothic:** 𐌷𐌹𐌿𐌷𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

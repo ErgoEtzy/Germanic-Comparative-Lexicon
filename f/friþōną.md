@@ -190,7 +190,3 @@ Derived from *friþuz (“peace”) + *-ōną.
     - **Swedish:** freda
 - **Gothic:** *𐍆𐍂𐌹𐌸𐍉𐌽
 - **Gothic:** 𐌲𐌰𐍆𐍂𐌹𐌸𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -390,7 +390,3 @@ From the root of *taikijaną, ultimately from Proto-Indo-European *deyḱ- (“t
   - **Scanian:** teğn
 - **Gothic:** 𐍄𐌰𐌹𐌺𐌽𐍃
 - **Gothic:** *taikniz
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

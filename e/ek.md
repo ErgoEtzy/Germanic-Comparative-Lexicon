@@ -2251,7 +2251,3 @@ From earlier *eka, from Proto-Indo-European *eǵh₂óm.
 - **Gothic:** 𐌹𐌺
 - **Crimean Gothic:** ich
 - **Vandalic:** *ic
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

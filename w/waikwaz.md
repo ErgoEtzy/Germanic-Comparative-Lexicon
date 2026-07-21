@@ -172,7 +172,3 @@ By surface analysis, *wīkwaną (“to yield, buckle, fold”) + *-az (adjectiva
     - **Scots:** wak
     - **Scots:** wake
     - **Scots:** waik
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

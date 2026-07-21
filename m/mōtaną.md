@@ -179,7 +179,3 @@ A preterite-present derived from a secondary perfect of *mḗd-e-ti (“to measu
       - **Rhine Franconian:** 
       - **Yiddish:** מוזן
 - **Gothic:** 𐌲𐌰𐌼𐍉𐍄𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

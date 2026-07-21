@@ -120,7 +120,3 @@ In many of the descendants, the noun was thematized early on enough to cause a-m
     - **Swedish:** torv — _c_
     - **Swedish:** torva — _c_
   - **Danish:** tørv — _c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

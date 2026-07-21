@@ -108,7 +108,3 @@ Causative in *-janą to *taik(k)ōną (see Proto-West Germanic *taigōn), from P
       - **German Low German:** teken
   - **Old Dutch:** *teiken
     - **Middle Dutch:** teken — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

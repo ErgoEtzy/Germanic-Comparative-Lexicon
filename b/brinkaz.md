@@ -125,7 +125,3 @@ From Proto-Indo-European *bʰren- (“project”) . Compare Tocharian B prenke (
   - **Middle English:** bryncke — _borrowed; also from Middle Low German brink_
     - **English:** brink
     - **Scots:** brink
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

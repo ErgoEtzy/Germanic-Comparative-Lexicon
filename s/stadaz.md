@@ -99,7 +99,3 @@ From Proto-Indo-European *sth₂tós, verbal adjective formation from *steh₂- 
 
 - **Old Norse:** staðr
   - **Icelandic:** staður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -54,7 +54,3 @@ From *blindaz + *-į̄.
   - **Icelandic:** blindi — _f_
   - **Norwegian Nynorsk:** blinde — _f_
   - **Norwegian Bokmål:** blinde — _m or f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

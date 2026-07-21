@@ -106,7 +106,3 @@ From earlier paradigm *bakkōþi ~ *bakunanþi, from pre-Proto-Germanic *bʰəg-
   - **Icelandic:** baka
   - **Faroese:** baka
   - **Elfdalian:** båkå
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

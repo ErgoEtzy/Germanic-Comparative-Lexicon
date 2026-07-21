@@ -190,7 +190,3 @@ From *surgō (“worry, sorrow, care”) + *-āną.
   - **Swedish:** sörja
   - **Danish:** sørge
 - **Gothic:** 𐍃𐌰𐌿𐍂𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

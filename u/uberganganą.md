@@ -99,7 +99,3 @@ From *uber + *ganganą.
 - **Old High German:** ubargangan
 - **Old Norse:** ganga yfir
 - **Gothic:** 𐌿𐍆𐌰𐍂𐌲𐌰𐌲𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

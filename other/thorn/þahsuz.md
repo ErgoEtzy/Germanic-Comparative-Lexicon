@@ -86,7 +86,3 @@ However, later scholarship rejects the above relation and, in light of Proto-Cel
   - **Danish:** taks
 - **Gothic:** *𐌸𐌰𐌷𐍃𐌿𐍃
   - **Gothic:** *𐌸𐌰𐌷𐍃𐌿𐌺𐍃 — _diminutive; reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

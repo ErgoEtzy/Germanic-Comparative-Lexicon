@@ -155,7 +155,3 @@ From pre-Germanic *polt-, with suffixal *-t-, from Proto-Indo-European *pel- (�
     - **Swedish:** fålla
   - **Danish:** folde
 - **Gothic:** 𐍆𐌰𐌻𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

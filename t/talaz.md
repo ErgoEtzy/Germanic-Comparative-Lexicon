@@ -146,7 +146,3 @@ From Proto-Indo-European *del- (“to count, reckon”).
     - **German:** gezahl
 - **Gothic:** *𐍄𐌰𐌻𐍃
 - **Gothic:** 𐌿𐌽𐍄𐌰𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

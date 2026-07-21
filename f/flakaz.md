@@ -126,7 +126,3 @@ Kroonen considers the adjective from Proto-Indo-European *plók-o-s, also of sim
       - **Vilamovian:** fłaoch
       - **Swedish:** flak
       - **Yiddish:** פֿלאַך
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

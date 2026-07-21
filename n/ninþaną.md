@@ -93,7 +93,3 @@ From Pre-Germanic *nent-, ultimately from Proto-Indo-European *nant- (“to figh
 
 - **Old High German:** *nindan
 - **Old High German:** ginindan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

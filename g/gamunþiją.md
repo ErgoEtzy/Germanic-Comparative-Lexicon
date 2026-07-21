@@ -59,7 +59,3 @@ From *ga- + *munþaz + *-ją.
   - **Old Swedish:** *mynne
     - **Swedish:** mynne
     - **Old Swedish:** åmynne — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

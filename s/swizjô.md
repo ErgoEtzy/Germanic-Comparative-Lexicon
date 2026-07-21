@@ -47,7 +47,3 @@ From pre-Germanic *swes-yós, "of a sister", from Proto-Indo-European *swes-, "t
 
 - **Old English:** ġeswiria
 - **Old Swedish:** swiri
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -99,7 +99,3 @@ From *raustiz (“voice”) + *-janą, from Proto-Indo-European *Hres- (“to sh
 - **Old Norse:** reysta
   - **Icelandic:** reysta
   - **Swedish:** rösta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

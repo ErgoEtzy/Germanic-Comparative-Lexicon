@@ -98,7 +98,3 @@ From Proto-Indo-European *welH- (“to turn, to wind”).
   - **Norwegian Nynorsk:** velte
   - **Norwegian Bokmål:** velte
   - **Swedish:** välta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

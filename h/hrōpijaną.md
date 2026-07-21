@@ -103,7 +103,3 @@ From *hrōpaz (“call, shout”) + *-janą.
 - **Old Norse:** hrœpa
   - **Danish:** røbe
 - **Gothic:** 𐌷𐍂𐍉𐍀𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -75,7 +75,3 @@ From Pre-Germanic *HoynHóḱo-, an adjectival derivation from Proto-Indo-Europe
   - **Old Swedish:** enga
   - **Old Swedish:** ænga
 - **Gothic:** 𐌰𐌹𐌽𐌰𐌷𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

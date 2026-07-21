@@ -114,7 +114,3 @@ From *bautaną + *-janą.
       - **Middle Low German:** bôschen — _borrowed_
 - **Old Norse:** beyta
   - **Icelandic:** beyta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -53,7 +53,3 @@ Derived from the zero-grade of *beraną + *-ô.
       - **Dutch:** boor
   - **Old High German:** muntboro — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** Buri
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

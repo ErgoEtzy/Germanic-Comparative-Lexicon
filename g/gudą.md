@@ -200,7 +200,3 @@ Another hypothesis is a derivation from Proto-Indo-European *gʷʰutóm from the
   - **Gutnish:** gud
   - **Gutnish:** gu
 - **Gothic:** 𐌲𐌿𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

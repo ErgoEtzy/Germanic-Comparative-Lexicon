@@ -97,7 +97,3 @@ By surface analysis, *þursuz (“dry”) + *-janą. Based on the comparison wit
   - **Old English:** þyrrian
   - **Old English:** þyrran — _only attested in the past participle þyrred_
 - **Gothic:** 𐌸𐌰𐌿𐍂𐍃𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -54,7 +54,3 @@ An early borrowing from Proto-Celtic *rīxs, from Proto-Indo-European *h₃rḗ�
 - **Vandalic:** *rīx
 - **Vandalic:** *-rīks
 - **Vandalic:** *-rīk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

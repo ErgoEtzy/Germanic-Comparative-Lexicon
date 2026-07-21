@@ -217,7 +217,3 @@ From Proto-Indo-European *ǵʰéysd-os, from *ǵʰeys- (“to be angry, agitated
       - **Luxembourgish:** Geescht
       - **Vilamovian:** gȧjst
       - **Yiddish:** גײַסט
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

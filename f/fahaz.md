@@ -71,7 +71,3 @@ From Proto-Indo-European *póḱ-o-s, from *peḱ-, though whether in the "comb 
       - **Norwegian Bokmål:** får
       - **Faroese:** fár — _borrowed_
       - **Norwegian Nynorsk:** får — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

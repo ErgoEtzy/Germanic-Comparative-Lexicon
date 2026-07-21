@@ -92,7 +92,3 @@ By surface analysis, *sebun (“seven”) + *-tēhundą (“-ty”), and if the 
         - **Pennsylvania German:** siwwezich
       - **Yiddish:** זיבעציק
 - **Gothic:** 𐍃𐌹𐌱𐌿𐌽𐍄𐌴𐌷𐌿𐌽𐌳
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

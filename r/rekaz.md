@@ -52,7 +52,3 @@ From Proto-Indo-European *h₃rḗǵs (“chief, king”). Cognate with Latin r�
 
 - **Old Norse:** *rekr
 - **Old Norse:** folkrekr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

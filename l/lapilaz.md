@@ -144,7 +144,3 @@ From Proto-Indo-European *leb-, *leh₂b- (“to slurp; lick; smack”), equival
       - **Rhine Franconian:** Lewwel
       - **Vilamovian:** łefuł
       - **Yiddish:** לעפֿל
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

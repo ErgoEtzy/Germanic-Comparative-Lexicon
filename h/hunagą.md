@@ -176,7 +176,3 @@ From earlier *hunangą, from pre-Germanic *kn̥h₂onkós, from Proto-Indo-Europ
     - **Middle Danish:** hunnig
     - **Middle Danish:** honnig
   - **Scanian:** hanağ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

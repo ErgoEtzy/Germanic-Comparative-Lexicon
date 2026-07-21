@@ -93,7 +93,3 @@ From Proto-Indo-European *keh₂n- (“to sing”), possibly through earlier *ha
   - **Danish:** hane
 - **Gothic:** 𐌷𐌰𐌽𐌰
 - **Crimean Gothic:** ano
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

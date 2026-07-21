@@ -46,7 +46,3 @@ From Pre-Germanic *h₁rem-os, *h₁rem-es-, an s-stem from Proto-Indo-European 
 ### Germanic descendants
 
 - **Gothic:** 𐍂𐌹𐌼𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

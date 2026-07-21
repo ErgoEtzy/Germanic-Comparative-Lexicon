@@ -106,7 +106,3 @@ From *augô (“eye”) + *-janą, this verb retains the nasal sound that is pre
     - **Norwegian Nynorsk:** augna
   - **Swedish:** ögna
   - **Danish:** øjne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

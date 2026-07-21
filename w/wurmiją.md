@@ -45,7 +45,3 @@ From *wurmiz (“worm”) + *-ją (collective suffix). Kroonen points out that a
 - **Proto-West Germanic:** *gawurmī
   - **German:** Gewürm
 - **Old Norse:** yrmi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

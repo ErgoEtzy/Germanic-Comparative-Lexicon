@@ -60,7 +60,3 @@ From *brinnaną + *-þiz, with intrusive *-s- after nasals.
       - **German:** Brunst
 - **Gothic:** *𐌱𐍂𐌿𐌽𐍃𐍄𐍃
 - **Gothic:** 𐌰𐌻𐌰𐌱𐍂𐌿𐌽𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

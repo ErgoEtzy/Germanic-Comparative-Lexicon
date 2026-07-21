@@ -144,7 +144,3 @@ From *steurō, *stiurijō (“steering, rudder”) + *-janą. The first element 
       - **Norwegian Bokmål:** styre
   - **Gutnish:** stöire
 - **Gothic:** 𐍃𐍄𐌹𐌿𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

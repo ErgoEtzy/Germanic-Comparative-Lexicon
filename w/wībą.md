@@ -99,7 +99,3 @@ Yet another suggestion connects Old High German weibon (“move to and fro”), 
     - **Swedish:** viv
     - **Swedish:** vif — _pre-1906 spelling_
   - **Danish:** viv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

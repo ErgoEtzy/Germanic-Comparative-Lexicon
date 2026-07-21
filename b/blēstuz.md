@@ -92,7 +92,3 @@ From *blēsaną (“to blow”) + *-þuz (result noun suffix), with quasi-Indo-E
       - **Norwegian Bokmål:** blest
         - **Norwegian Nynorsk:** blest — _borrowed_
   - **Norn:** blåster
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

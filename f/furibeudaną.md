@@ -227,7 +227,3 @@ From *furi- + *beudaną.
     - **Danish:** forbyde
   - **Swedish:** förbjuda
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌱𐌹𐌿𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -118,7 +118,3 @@ Uncertain; perhaps from Proto-Indo-European *Hreh₃d- (“to gnaw”). See *rat
       - **German:** Ratze
       - **German:** Ratz
       - **Yiddish:** ראַץ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

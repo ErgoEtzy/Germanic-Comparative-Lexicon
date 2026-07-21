@@ -110,7 +110,3 @@ From *wēpną (“weapon”) + *-janą.
   - **Old Swedish:** vǣpna
     - **Swedish:** väpna
   - **Danish:** væbne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

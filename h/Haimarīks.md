@@ -72,7 +72,3 @@ From *haimaz (“home”) + *rīks (“king”).
       - **English:** Harry
       - **English:** Hank
 - **Old Norse:** Heimríkr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

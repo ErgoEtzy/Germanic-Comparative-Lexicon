@@ -75,7 +75,3 @@ Reflecting pre-Germanic *sentnós, from the root of *sinnaną, from Proto-Indo-E
       - **German:** Sinn
       - **Luxembourgish:** Sënn
       - **Yiddish:** זין
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

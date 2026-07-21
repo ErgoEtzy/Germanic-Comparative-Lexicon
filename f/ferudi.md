@@ -57,7 +57,3 @@ From Proto-Indo-European *peruti (“last year”), from a compound of *per (“
       - **Swedish:** i fjol
       - **Swedish:** i fjor
     - **Danish:** i fjor
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

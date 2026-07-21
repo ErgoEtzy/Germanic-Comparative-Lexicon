@@ -215,7 +215,3 @@ Uncertain. Appears to stem from a Proto-Indo-European *(s)krewk- (“heap, hill;
   - **Old Danish:** ryg
     - **Danish:** ryg
   - **Gutnish:** rygg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

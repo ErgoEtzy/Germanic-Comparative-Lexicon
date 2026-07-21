@@ -75,7 +75,3 @@ From *hrōþiz (“fame”) + *rīks (“king, ruler”).
       - **English:** Rurik — _borrowed_ — _through a non-Germanic route_
       - **Swedish:** Rurik — _borrowed_ — _through a non-Germanic route_
 - **Gothic:** *𐌷𐍂𐍉𐌸𐌹𐍂𐌴𐌹𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

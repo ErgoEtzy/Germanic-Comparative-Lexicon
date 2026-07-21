@@ -170,7 +170,3 @@ From Proto-Indo-European *h₂ḱh₂owsyéti (“to be sharp-eared”), from *h
   - **Old Gutnish:** hoyra
     - **Gutnish:** håire
 - **Gothic:** 𐌷𐌰𐌿𐍃𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

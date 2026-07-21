@@ -44,7 +44,3 @@ From *friþuz (“peace”) + *berhtaz (“bright, shining”).
         - **English:** Fredbert
 - **Old Norse:** *Friðbjartr
   - **Icelandic:** Friðbert
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

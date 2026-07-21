@@ -84,7 +84,3 @@ From Proto-Indo-European *wer- (“to close, shut, lock, protect, defend, block�
 - **Old Norse:** ver
   - **Icelandic:** ver
   - **Norwegian:** vær
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

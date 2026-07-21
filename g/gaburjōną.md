@@ -96,7 +96,3 @@ Derived from *gaburiz (“favorable time, condition”), from *buriz (“favorab
 - **Gothic:** 𐌲𐌰𐌱𐌰𐌿𐍂 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐌰𐌱𐌰𐌿𐍂𐌾𐌰𐌱𐌰 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐌰𐌱𐌰𐌿𐍂𐌾𐍉𐌸𐌿𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

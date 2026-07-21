@@ -118,7 +118,3 @@ From Proto-Indo-European *glowdos (“clump, clod”), from *gel- (“to ball up
   - **Middle High German:** klōz
     - **German:** Kloß
     - **Hunsrik:** Klos
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

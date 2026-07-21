@@ -93,7 +93,3 @@ From Pre-Germanic *dh₂uske-, sk-present to Proto-Indo-European *deh₂w-. Comp
 
 - **Old High German:** zusken
 - **Old High German:** zuscen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

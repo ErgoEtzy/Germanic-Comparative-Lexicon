@@ -116,7 +116,3 @@ From Proto-Indo-European *speh₁-tí-s, from *speh₁- (“to succeed, prosper�
       - **Luxembourgish:** spéit
       - **Yiddish:** שפּעט
 - **Gothic:** *𐍃𐍀𐌴𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

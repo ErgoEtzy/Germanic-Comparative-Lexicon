@@ -158,7 +158,3 @@ Possibly from Proto-Indo-European *ḱey(H)gʰ- (“to move quickly, jump; swift
     - **Norwegian Bokmål:** hige — _borrowed_
   - **Danish:** hikke
     - **Norwegian Bokmål:** hige — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

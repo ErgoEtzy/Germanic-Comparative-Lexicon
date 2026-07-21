@@ -1834,7 +1834,3 @@ Traditionally derived from an earlier *bawwmaz (with assimilation of *-ww- > *-g
   - **Icelandic:** baðmur
   - **Old Swedish:** bagn
 - **Gothic:** 𐌱𐌰𐌲𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

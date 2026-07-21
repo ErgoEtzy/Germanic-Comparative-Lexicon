@@ -117,7 +117,3 @@ From Proto-Indo-European *deru-, *drew-, *drewH- (“to be firm, hard, solid; tr
         - **German:** getrost
 - **Old Norse:** traustr
   - **Faroese:** treystur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

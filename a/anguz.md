@@ -169,7 +169,3 @@ From Proto-Indo-European *h₂énǵʰus (“narrow, tight”), from *h₂enǵʰ-
 - **Old Norse:** ǫngr
   - **Icelandic:** öngur
 - **Gothic:** 𐌰𐌲𐌲𐍅𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

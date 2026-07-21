@@ -695,7 +695,3 @@ From Proto-Indo-European *oynokós, equivalent to *ainaz + *-gaz. Cognate with L
   - **Old Swedish:** enigh
     - **Swedish:** enig
 - **Gothic:** 𐌰𐌹𐌽𐌰𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

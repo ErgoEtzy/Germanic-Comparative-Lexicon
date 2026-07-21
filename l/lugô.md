@@ -345,7 +345,3 @@ From Proto-Indo-European *lewk- (“bright, to shine, to see”).
     - **Middle Scots:** lowe
       - **Scots:** low
       - **Scots:** lowe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

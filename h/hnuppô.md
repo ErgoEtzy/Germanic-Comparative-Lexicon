@@ -70,7 +70,3 @@ From Proto-Indo-European *knew-, *kenw- (“to scratch, scrape, rub”).
     - **Swedish:** noppa
   - **Danish:** noppe
   - **Danish:** nopp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

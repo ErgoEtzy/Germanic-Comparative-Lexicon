@@ -122,7 +122,3 @@ Vṛddhi gerundive of *rīpaną (“to reap, harvest”).
       - **Central Franconian:** riffe — _but missing in southern dialects_
       - **German:** reif
         - **Luxembourgish:** räif — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

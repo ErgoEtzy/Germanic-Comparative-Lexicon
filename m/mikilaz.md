@@ -578,7 +578,3 @@ From Proto-Indo-European *méǵh₂s (“big, great”) + *-ilaz. The suffix may
       - **Danish:** meget
         - **Norwegian Bokmål:** meget
 - **Gothic:** 𐌼𐌹𐌺𐌹𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -27,7 +27,3 @@ From pre-Germanic *to-we, "or that/than", from Proto-Indo-European *to- (“that
 ### Germanic descendants
 
 - **Gothic:** 𐌸𐌰𐌿
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

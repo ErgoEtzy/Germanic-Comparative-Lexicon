@@ -72,7 +72,3 @@ From Proto-Indo-European *pedóm, from *ped-.
     - **Swedish:** fjät
   - **Old Danish:** fiat
     - **Danish:** fjed — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

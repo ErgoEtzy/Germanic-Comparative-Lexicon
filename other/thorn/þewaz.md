@@ -70,7 +70,3 @@ Uncertain; the quasi-Indo-European reconstruction is *tew-o-s. Possibly either f
       - **Old Swedish:** þybarn — _reshaped by analogy or addition of morphemes_
   - **Old West Norse:** -þér
   - **Old West Norse:** þiónn — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

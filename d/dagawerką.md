@@ -72,7 +72,3 @@ From *dagaz + *werką.
   - **Icelandic:** dagsverk — _reshaped by analogy or addition of morphemes_
   - **Norwegian Bokmål:** dagsverk — _reshaped by analogy or addition of morphemes_
   - **Swedish:** dagsverke — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

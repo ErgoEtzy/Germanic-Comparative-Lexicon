@@ -225,7 +225,3 @@ From Proto-Indo-European *weh₂b- (“to call, shout, complain”). Cognate wit
   - **Old Swedish:** ø̄pa
   - **Old Danish:** ø̄pæ
 - **Gothic:** 𐍅𐍉𐍀𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

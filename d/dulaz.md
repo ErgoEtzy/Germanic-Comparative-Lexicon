@@ -163,7 +163,3 @@ From Proto-Indo-European *dʰul-o-s, a zero-grade nominal formation from *dʰwel
   - **Faroese:** dulur
   - **Old Swedish:** dol
   - **Old Swedish:** dul
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

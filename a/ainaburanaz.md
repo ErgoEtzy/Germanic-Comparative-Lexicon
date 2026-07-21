@@ -105,7 +105,3 @@ From *ainaz (“one”) + *buranaz (“carried, borne”). The latter is the pas
   - **Old High German:** einboran
     - **Middle High German:** einborn
 - **Old Norse:** einborinn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

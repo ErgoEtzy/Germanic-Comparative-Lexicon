@@ -95,7 +95,3 @@ From Pre-Germanic *ǵʰleyd-, possibly an extension of *ǵʰley- as seen in *gl�
   - **Old Saxon:** glītan
   - **Old High German:** glīzan
     - **German:** gleißen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

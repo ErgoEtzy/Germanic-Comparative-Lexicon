@@ -113,7 +113,3 @@ From *mēraz (“renowned, famous”) + *-janą.
 - **Old Norse:** mæra
   - **Icelandic:** mæra
 - **Gothic:** 𐌼𐌴𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

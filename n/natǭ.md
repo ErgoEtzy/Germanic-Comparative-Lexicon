@@ -67,7 +67,3 @@ Uncertain; perhaps from Proto-Indo-European *neh₂d- (“to twist, knot, tie”
     - **Norwegian Nynorsk:** brennuttu — _reshaped by analogy or addition of morphemes_
     - **Norwegian Nynorsk:** Naadland — _reshaped by analogy or addition of morphemes; placename_
   - **Old Swedish:** næta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

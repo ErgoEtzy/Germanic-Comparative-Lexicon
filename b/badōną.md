@@ -95,7 +95,3 @@ From *badą (“pressure, trouble, distress”) + *-ōną.
   - **Old Saxon:** undarbadōn — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** *baða
   - **Norwegian:** bada
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

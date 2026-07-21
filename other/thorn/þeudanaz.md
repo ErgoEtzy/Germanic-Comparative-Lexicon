@@ -54,7 +54,3 @@ From *þeudō (“people, tribe”) + *-anaz.
 - **Old Norse:** þjóðann
   - **Icelandic:** þjóðann
 - **Gothic:** 𐌸𐌹𐌿𐌳𐌰𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

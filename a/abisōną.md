@@ -95,7 +95,3 @@ From *ab (“away”) + *-isōną.
   - **Old English:** efesian
 - **Old Norse:** efsa
   - **Icelandic:** efsa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

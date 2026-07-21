@@ -122,7 +122,3 @@ A nominal derivative of Proto-Indo-European *(s)ker- (“to cut, divide”).
       - **German:** Schirm
       - **Hunsrik:** Scherrem
       - **Yiddish:** שירעם
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

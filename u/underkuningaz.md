@@ -80,7 +80,3 @@ From *under- + *kuningaz.
   - **Icelandic:** undirkonungur
   - **Swedish:** underkung
   - **Danish:** underkonge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

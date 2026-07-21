@@ -117,7 +117,3 @@ Uncertain. Probably from Proto-Indo-European *dewk- (“to pull”) or *dewh₂-
     - **Swedish:** tjuder
   - **Old Danish:** tyr
     - **Danish:** tøjr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

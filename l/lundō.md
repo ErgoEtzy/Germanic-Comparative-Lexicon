@@ -64,7 +64,3 @@ The semantic shift from "kidney" > "mood" in North Germanic languages and metaph
   - **Old Norse:** lundi — _reshaped by analogy or addition of morphemes; m_
   - **Old Norse:** lundr — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** lunderni — _reshaped by analogy or addition of morphemes; n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -95,7 +95,3 @@ From Proto-Indo-European *ḱwes- (“to pant”). Cognate with Latin queror.
   - **Old English:** hwǣsan
     - **Middle English:** whesen
       - **English:** wheeze
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

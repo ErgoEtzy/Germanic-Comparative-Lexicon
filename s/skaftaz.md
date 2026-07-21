@@ -193,7 +193,3 @@ From Proto-Indo-European *skeh₂p- (“rod, shaft, staff, club”), potentially
   - **Old Swedish:** skaft
     - **Swedish:** skaft — _"pole"; forms a doublet with schakt_
   - **Danish:** skaft
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

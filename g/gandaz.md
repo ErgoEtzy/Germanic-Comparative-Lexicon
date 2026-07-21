@@ -207,7 +207,3 @@ If stemming from “staff”, then it may be derived or intermixed with a root w
         - **Swedish:** gångel
         - **Swedish:** gangel
     - **Old Norse:** Jǫrmungandr — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

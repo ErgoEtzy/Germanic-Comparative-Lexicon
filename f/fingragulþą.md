@@ -50,7 +50,3 @@ From *fingraz (“finger”) + *gulþą (“gold”).
   - **Faroese:** fingurgull
   - **Icelandic:** fingurgull
 - **Gothic:** 𐍆𐌹𐌲𐌲𐍂𐌰𐌲𐌿𐌻𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

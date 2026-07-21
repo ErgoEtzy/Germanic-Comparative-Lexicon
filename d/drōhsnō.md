@@ -63,7 +63,3 @@ From *drōhs + *-snō.
       - **German:** Drusen
       - **German:** Trusen
 - **Gothic:** 𐌳𐍂𐌰𐌿𐌷𐍃𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

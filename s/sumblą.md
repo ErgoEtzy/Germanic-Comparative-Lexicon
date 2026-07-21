@@ -93,7 +93,3 @@ Compare ensemble, ultimately from Latin insimul (“in gathering”), from simul
       - **Swedish:** sumla
     - **Old Swedish:** sambla — _reshaped by analogy or addition of morphemes; uncertain_
       - **Swedish:** samla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

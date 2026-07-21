@@ -71,7 +71,3 @@ From Proto-Indo-European *ḱlew- (“to hear”).
       - **Norwegian Bokmål:** lyd — _m_
         - **Norwegian Nynorsk:** lyd — _borrowed; m_
   - **Scots:** luid — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

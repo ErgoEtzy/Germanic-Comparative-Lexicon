@@ -77,7 +77,3 @@ Uncertain. Possibly from Proto-Indo-European *dol- (“calculation, fraud”); o
   - **Danish:** told
 - **Old Norse:** *tylla — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** vegtylla — _reshaped by analogy or addition of morphemes; f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

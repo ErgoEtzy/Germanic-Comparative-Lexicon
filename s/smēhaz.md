@@ -164,7 +164,3 @@ Apparently from a pre-Germanic form *smeh₁k-o-s, with no certain cognates outs
   - **Old Swedish:** smār
     - **Swedish:** små
   - **Danish:** små
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -99,7 +99,3 @@ From *siduz (“custom, pratice”) + *-ōną.
 - **Old Norse:** siða
   - **Icelandic:** siða
 - **Gothic:** 𐍃𐌹𐌳𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

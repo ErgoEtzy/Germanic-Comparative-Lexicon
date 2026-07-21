@@ -156,7 +156,3 @@ Nomininalized from Proto-Indo-European *ǵn̥h₃-yó-m (“known”), from *ǵn
 - **Gothic:** 𐌺𐌿𐌽𐌹
 - **Old Norse:** kyn
   - **Icelandic:** kyn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

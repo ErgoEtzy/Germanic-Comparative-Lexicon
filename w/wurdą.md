@@ -399,7 +399,3 @@ From Proto-Indo-European *wr̥dʰom (“word”).
   - **Old Gutnish:** orþ
     - **Gutnish:** ård
 - **Gothic:** 𐍅𐌰𐌿𐍂𐌳
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

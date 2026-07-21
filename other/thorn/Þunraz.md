@@ -132,7 +132,3 @@ Personification of *þunraz (“thunder”). Identified with the Roman deity Jup
       - **Danish:** Tor
       - **Danish:** Thor
     - **English:** Thor — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

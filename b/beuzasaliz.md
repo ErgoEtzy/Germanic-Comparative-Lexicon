@@ -49,7 +49,3 @@ From *beuzą (“beer”) + *saliz (“hall, room”).
   - **Old English:** bēorsele
 - **Old Norse:** bjórsalr
   - **Icelandic:** bjórsalur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

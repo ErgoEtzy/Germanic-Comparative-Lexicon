@@ -113,7 +113,3 @@ Possibly from *bōwwjaną (“to settle, inhabit”) + *-þlą (instrumental suf
   - **Old Swedish:** bōl
     - **Swedish:** bol
   - **Danish:** bol
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

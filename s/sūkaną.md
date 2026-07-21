@@ -107,7 +107,3 @@ From Proto-Indo-European *sug-, *suk- (“to suck”), from Proto-Indo-European 
       - **Dutch:** zuiken — _dialectal or obsolete_
       - **Limburgish:** zuken
       - **Limburgish:** zoeken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

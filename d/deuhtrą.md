@@ -48,7 +48,3 @@ From Pre-Germanic *dʰewgh₂trom, full grade formation from Proto-Indo-European
 
 - **Middle High German:** diehter
 - **Middle High German:** tiehter
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

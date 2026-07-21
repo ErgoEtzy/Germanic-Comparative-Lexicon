@@ -12,7 +12,7 @@ Vṛddhi derivative of *aþalą (“nature; nobility”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -971,7 +971,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
         - **Swedish:** ödel
 - **Gothic:** *𐍉𐌸𐌰𐌻 — _recorded as “utal” in the 8th c._
   - **Gothic:** *𐍉𐌸𐌻𐌹 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

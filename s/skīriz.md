@@ -153,7 +153,3 @@ From Proto-Indo-European *sḱeyr- (“luster, gloss, shadow”), which may be r
   - **Danish:** skær
     - **Faroese:** skærur — _borrowed_
 - **Gothic:** 𐍃𐌺𐌴𐌹𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

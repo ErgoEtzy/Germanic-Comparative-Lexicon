@@ -223,7 +223,3 @@ Possibly from a Proto-Indo-European *teh₂ǵ- (“burn”), and tentatively cog
   - **Old English:** þeċċan
   - **Old High German:** *dahhen
     - **Old High German:** dahhazen — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

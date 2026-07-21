@@ -109,7 +109,3 @@ Possibly from Proto-Indo-European *úd-s (“up, off”) (> *uz (“out of”)) 
     - **Scots:** od
     - **Scots:** ode
     - **English:** odd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

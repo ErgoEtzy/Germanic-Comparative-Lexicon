@@ -305,7 +305,3 @@ From Proto-Indo-European *wóǵʰnos, from Proto-Indo-European *weǵʰ- (“to t
   - **Danish:** vogn
     - **Faroese:** vognur — _borrowed_
 - **Crimean Gothic:** waghen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

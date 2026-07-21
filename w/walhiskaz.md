@@ -219,7 +219,3 @@ From *walhaz + *-iskaz. Compare Proto-Slavic *volšьskъ (“Roman”).
     - **Swedish:** välsk
   - **Old Danish:** walsk
     - **Danish:** valsk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

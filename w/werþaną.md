@@ -170,7 +170,3 @@ From Proto-Indo-European *wért-e-ti (“to turn”), with semantic shift "to tu
       - **Norwegian Bokmål:** vorde — _archaic; borrowed_
   - **Old Gutnish:** warþa
 - **Gothic:** 𐍅𐌰𐌹𐍂𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

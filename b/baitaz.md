@@ -236,7 +236,3 @@ From Proto-Indo-European *bʰóyd-o-s, from *bʰeyd- (“to break, split”) + *
       - **Middle Dutch:** beitel
 - **Old Norse:** beit
   - **Icelandic:** beit
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

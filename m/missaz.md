@@ -109,7 +109,3 @@ From Proto-Indo-European *mith₂-tó-s, from Proto-Indo-European *meyth₂- (�
   - **Old Norse:** ýmiss — _reshaped by analogy or addition of morphemes; uncertain_
 - **Gothic:** *𐌼𐌹𐍃𐍃
   - **Gothic:** 𐌼𐌹𐍃𐍃𐍉 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

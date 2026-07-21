@@ -172,7 +172,3 @@ Apparently from a Proto-Indo-European *Hrewdʰ- (“to clear out”), though wit
   - **Old English:** rēodan
   - **Old High German:** *riotan
     - **Middle High German:** rieten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

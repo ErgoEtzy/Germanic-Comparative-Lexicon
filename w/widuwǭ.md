@@ -152,7 +152,3 @@ From Proto-Indo-European *h₁widʰéwh₂ (“widow”).
       - **Luxembourgish:** Witmann
       - **Vilamovian:** wytwa
 - **Gothic:** 𐍅𐌹𐌳𐌿𐍅𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

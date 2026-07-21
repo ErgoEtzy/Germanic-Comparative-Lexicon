@@ -155,7 +155,3 @@ From earlier *maihskaz, from Proto-Indo-European *moiḱ-sḱ-o/eh₂-, from *me
     - **Middle High German:** meisch — _m_
       - **German:** Maisch — _m_
       - **German:** Maische — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

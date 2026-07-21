@@ -57,7 +57,3 @@ From *ehwaz + *raidō.
     - **Old Saxon:** eoridfolk — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** jóreið
   - **Icelandic:** jóreið
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

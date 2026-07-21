@@ -146,7 +146,3 @@ Ultimately from Proto-Indo-European *skey- (“to split”), presumably as *skip
   - **Icelandic:** skífa
   - **Norwegian Bokmål:** skive
   - **Swedish:** skiva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

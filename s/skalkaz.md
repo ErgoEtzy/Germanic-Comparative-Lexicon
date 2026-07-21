@@ -120,7 +120,3 @@ Of unknown origin, though the primary meaning of the root underlying the term ma
     - **Swedish:** skalk
   - **Danish:** skalk
 - **Gothic:** 𐍃𐌺𐌰𐌻𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

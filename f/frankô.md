@@ -54,7 +54,3 @@ Of unknown origin. One can mechanically reconstruct a Proto-Indo-European *preng
   - **Icelandic:** Frakki
   - **Old Norse:** frakka — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** frakka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

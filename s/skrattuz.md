@@ -258,7 +258,3 @@ From Proto-Indo-European *(s)ker- (“to shrink, wither, dry out, crinkle, wrimp
       - **Scots:** scart
       - **Scots:** scrat
   - **English:** skratte — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

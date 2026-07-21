@@ -66,7 +66,3 @@ From Proto-Indo-European *dreǵʰ- (“to be unwilling, vexed”).
 - **Old Norse:** tregi
   - **Icelandic:** tregi
   - **Old Swedish:** træghi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

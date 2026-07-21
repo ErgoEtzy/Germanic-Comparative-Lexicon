@@ -100,7 +100,3 @@ Vṛddhi gerundive of *weganą (“to move”), or a related, unattested *wagan�
 - **Old Dutch:** *wuog
   - **Middle Dutch:** woeg
     - **Dutch:** woeg — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

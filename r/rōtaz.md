@@ -103,7 +103,3 @@ From Proto-Indo-European *HroHdo-, cognate with Proto-Slavic *radъ.
   - **Old English:** rōt
   - **Old High German:** *ruoz
     - **Old High German:** unruoz — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

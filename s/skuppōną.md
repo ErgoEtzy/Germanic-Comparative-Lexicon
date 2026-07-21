@@ -209,7 +209,3 @@ Considered by Kroonen to be a secondary zero-grade iterative to a Proto-Indo-Eur
 - **Old Norse:** skopa
   - **Icelandic:** skopa
   - **Old Swedish:** skopa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

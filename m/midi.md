@@ -149,7 +149,3 @@ From Proto-Indo-European *meth₂, from *me (“with”). Cognate with Ancient G
   - **Danish:** med
     - **Norwegian Bokmål:** med
 - **Gothic:** 𐌼𐌹𐌸
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

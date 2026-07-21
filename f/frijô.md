@@ -48,7 +48,3 @@ From *frijōną + *-ô or *-jô.
 - **Proto-West Germanic:** *frijō
   - **Old English:** frēo — _m_
 - **Old Norse:** frí
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

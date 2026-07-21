@@ -68,7 +68,3 @@ From Pre-Germanic *gʷérh₂nus, from Proto-Indo-European *gʷréh₂wō (“he
     - **Middle High German:** kürn
 - **Gothic:** *𐌵𐌰𐌹𐍂𐌽𐌿𐍃
 - **Gothic:** 𐌰𐍃𐌹𐌻𐌿𐌵𐌰𐌹𐍂𐌽𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

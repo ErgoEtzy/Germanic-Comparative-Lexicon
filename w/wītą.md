@@ -48,7 +48,3 @@ Nominalization of Proto-Indo-European *weydós (“seen”). See also *wītiją 
 
 - **Gothic:** *𐍅𐌴𐌹𐍄
   - **Gothic:** 𐍆𐍂𐌰𐍅𐌴𐌹𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

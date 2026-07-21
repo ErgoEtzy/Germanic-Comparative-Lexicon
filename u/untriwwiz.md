@@ -126,7 +126,3 @@ From *un- + *triwwiz.
   - **Faroese:** ótryggur
   - **Icelandic:** ótryggur
 - **Gothic:** 𐌿𐌽𐍄𐍂𐌹𐌲𐌲𐍅𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

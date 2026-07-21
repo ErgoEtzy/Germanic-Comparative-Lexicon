@@ -55,7 +55,3 @@ Derived from *faraną (“to go, travel”).
 - **Old Norse:** fǫr
   - **Icelandic:** för
   - **Old Swedish:** far
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

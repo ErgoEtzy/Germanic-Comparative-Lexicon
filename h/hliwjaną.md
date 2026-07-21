@@ -169,7 +169,3 @@ From *hliwjaz (“lukewarm”) + *-janą.
 - **Old Norse:** hlýja
 - **Old Norse:** hlýja
   - **Icelandic:** hlýja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -114,7 +114,3 @@ From Proto-Indo-European *pleh₂g- or *pleh₂k- (“to beat, strike”). Kroon
   - **Icelandic:** flókinn
   - **Norwegian Nynorsk:** floken
 - **Gothic:** 𐍆𐌻𐍉𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

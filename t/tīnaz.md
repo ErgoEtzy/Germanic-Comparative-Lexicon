@@ -51,7 +51,3 @@ From Proto-Indo-European *deyn-, *dyew- (“day”). Cognate with Lithuanian die
 - **Proto-West Germanic:** *tīn
   - **Proto-West Germanic:** *langatīn — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍃𐌹𐌽𐍄𐌴𐌹𐌽𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

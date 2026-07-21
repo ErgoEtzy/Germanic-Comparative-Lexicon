@@ -367,7 +367,3 @@ From *sekʷ-e-ti, thematic root present of Proto-Indo-European *sekʷ- (“to se
     - **Scanian:** sé
   - **Gutnish:** seie
 - **Gothic:** 𐍃𐌰𐌹𐍈𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

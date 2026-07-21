@@ -88,7 +88,3 @@ From Proto-Indo-European *bʰer- (“to carry, bear”). Direct cognate with San
   - **Old Danish:** byrthæ
     - **Danish:** byrde
 - **Gothic:** 𐌱𐌰𐌿𐍂𐌸𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

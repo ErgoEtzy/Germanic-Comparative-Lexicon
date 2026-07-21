@@ -143,7 +143,3 @@ From Proto-Indo-European *dr̥-nh₂-tór, middle voice of neh₂-present Proto-
   - **Gothic:** 𐌰𐍆𐍄𐌰𐌿𐍂𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌳𐌹𐍃𐍄𐌰𐌿𐍂𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌲𐌰𐍄𐌰𐌿𐍂𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

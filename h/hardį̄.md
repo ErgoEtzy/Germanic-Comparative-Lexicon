@@ -96,7 +96,3 @@ Of uncertain origin, with a quasi-Indo-European form along the lines of *kort-í
   - **Norwegian Bokmål:** herd
   - **Old Danish:** hærthæ
     - **Danish:** hærde — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

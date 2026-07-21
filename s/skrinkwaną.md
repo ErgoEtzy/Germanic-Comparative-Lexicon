@@ -128,7 +128,3 @@ Of uncertain origin. Apparently from a Proto-Indo-European *skringʷ-onom, which
 - **Old Norse:** *skrøkkva
   - **Norwegian:** skrøkka
   - **Old Swedish:** skrunkin
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

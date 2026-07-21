@@ -54,7 +54,3 @@ From the accusative and/or allative form of Proto-Indo-European *h₂ep(o)teros,
   - **Elfdalian:** att
   - **Gutnish:** atar
 - **Gothic:** 𐌰𐍆𐍄𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

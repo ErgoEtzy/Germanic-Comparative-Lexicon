@@ -81,7 +81,3 @@ From Proto-Indo-European *táwros (“wild bull”). The synonym *steuraz derive
         - **Norwegian Nynorsk:** tyr
   - **Gutnish:** tjur
   - **Scanian:** týr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

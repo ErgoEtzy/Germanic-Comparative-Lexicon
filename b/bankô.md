@@ -105,7 +105,3 @@ Related to *bankiz (“slope, hill, shelf”).
       - **Norwegian Bokmål:** bakke
       - **Norwegian Bokmål:** banke
       - **Norwegian Nynorsk:** banke — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

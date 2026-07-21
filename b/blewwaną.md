@@ -130,7 +130,3 @@ Possibly from Proto-Indo-European *mléw-e-, from Proto-Indo-European *mlew-. Re
       - **German:** bleuen
       - **German:** bläuen
 - **Gothic:** 𐌱𐌻𐌹𐌲𐌲𐍅𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

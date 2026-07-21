@@ -138,7 +138,3 @@ From *un- + *wissaz (past participle of *witaną).
   - **Faroese:** óvissur
   - **Danish:** uvis
 - **Gothic:** 𐌿𐌽𐍅𐌹𐍃𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

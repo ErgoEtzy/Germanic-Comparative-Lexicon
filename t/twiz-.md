@@ -316,7 +316,3 @@ From Proto-Indo-European *dwís. Cognates include Latin dis-, Ancient Greek δί
       - **Yiddish:** צע־
 - **Gothic:** 𐍄𐍅𐌹𐍃-
 - **Gothic:** 𐌳𐌹𐍃- — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -148,7 +148,3 @@ Unknown; possibly from Proto-Indo-European *wreyp- / *wrīp-, from a labial exte
         - **Hunsrik:** reive
         - **Luxembourgish:** reiwen
       - **German:** reiben
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

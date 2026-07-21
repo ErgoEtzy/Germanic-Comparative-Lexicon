@@ -128,7 +128,3 @@ From *fiskaz (“fish”) + *-ōną.
   - **Gutnish:** fisk'
   - **Gutnish:** fiska
 - **Gothic:** 𐍆𐌹𐍃𐌺𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

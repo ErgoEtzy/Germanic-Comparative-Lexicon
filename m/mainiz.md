@@ -140,7 +140,3 @@ From Proto-Indo-European *moynis (“common, mutual”), from Proto-Indo-Europea
   - **Middle Dutch:** meen
 - **Old Dutch:** *meine
   - **Middle Dutch:** meen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

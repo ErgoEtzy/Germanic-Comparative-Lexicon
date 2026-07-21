@@ -139,7 +139,3 @@ From Proto-Indo-European *septm̥mós, from *septḿ̥. An ordinal to *sebun (�
   - **Old Danish:** siundæ
     - **Danish:** syvende
       - **Norwegian Bokmål:** syvende
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

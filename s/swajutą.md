@@ -57,7 +57,3 @@ Uncertain. Possibly from *swai (“self, one's own”), from Proto-Indo-European
 - **Proto-Norse:** *swæi(u)t
   - **Old Norse:** sveit — _f_
     - **Icelandic:** sveit
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

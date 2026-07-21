@@ -118,7 +118,3 @@ From *bi- + *satjaną. Compare Proto-Slavic *obsaditi (“to occupy”).
     - **Middle High German:** besetzen
       - **German:** besetzen
 - **Gothic:** 𐌱𐌹𐍃𐌰𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

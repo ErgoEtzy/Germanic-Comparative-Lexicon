@@ -109,7 +109,3 @@ Generally derived from Proto-Indo-European *h₃op-, *h₃ep- (“to work; the r
     - **Swedish:** ämna
   - **Danish:** evne
     - **Norwegian Bokmål:** evne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

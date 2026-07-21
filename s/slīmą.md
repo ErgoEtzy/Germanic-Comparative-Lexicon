@@ -95,7 +95,3 @@ From Proto-Indo-European *sley- (“smooth; slick; sticky; slimy”). Related to
     - **Norwegian Bokmål:** slim
   - **Gutnish:** sleim
   - **Gutnish:** slém
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

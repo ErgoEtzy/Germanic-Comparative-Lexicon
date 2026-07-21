@@ -67,7 +67,3 @@ From Proto-Indo-European *weǵʰ- (“to carry, move, transport”) + *-ją, lit
 - **Old Norse:** vigg
   - **Icelandic:** vigg — _n_
   - **Icelandic:** viggur — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

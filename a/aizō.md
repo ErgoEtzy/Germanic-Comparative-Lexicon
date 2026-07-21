@@ -125,7 +125,3 @@ From Proto-Indo-European *h₂oys-éh₂, from *h₂eys- (“to respect”).
       - **Rhine Franconian:** Ehr
       - **Rhine Franconian:** Ihr
       - **Vilamovian:** ere
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

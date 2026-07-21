@@ -94,7 +94,3 @@ From *aukaną + *-naną.
 - **Proto-West Germanic:** *auknōn
   - **Old English:** ēacnian
 - **Gothic:** 𐌰𐌿𐌺𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

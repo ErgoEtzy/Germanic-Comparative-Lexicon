@@ -102,7 +102,3 @@ From *rīkijaz (“rulership, kingdom”) + *-janą.
 - **Old Norse:** ríkja
   - **Icelandic:** ríkja
   - **Middle English:** riken — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -169,7 +169,3 @@ From Proto-Indo-European *weǵʰ- (“to drag, carry”).
   - **Old High German:** wagōn
     - **Middle High German:** wagen
       - **German:** wagen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

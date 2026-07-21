@@ -50,7 +50,3 @@ Unknown; possibly dissimilated from earlier *hwahtuz, from Proto-Indo-European *
   - **Faroese:** háttur — _m_
   - **Norn:** hot
   - **Norwegian Nynorsk:** hått — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

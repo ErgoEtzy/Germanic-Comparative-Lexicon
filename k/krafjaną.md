@@ -354,7 +354,3 @@ Related to *kraftuz (“force, strength”), of unknown origin. Possibly related
     - **Swedish:** kräva
   - **Danish:** kræve
     - **Norwegian Bokmål:** kreve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -85,7 +85,3 @@ Unknown. Possibly from Proto-Indo-European *gʷḗn.
   - **Norwegian:** kunte
   - **Swedish:** kunta
   - **Danish:** kunte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

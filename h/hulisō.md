@@ -50,7 +50,3 @@ From Proto-Indo-European *ḱélōs, from *ḱel- (“to cover”).
     - **Dutch:** huls
 - **Old High German:** hulisa
   - **German:** Hülse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

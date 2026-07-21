@@ -111,7 +111,3 @@ Likely from Proto-Indo-European *ǵneh₃- (“to know”), the same root as *ku
   - **Old High German:** chnāhan
 - **Old Norse:** kná
   - **Icelandic:** knega
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -107,7 +107,3 @@ From *hwarbą, *hwarbaz + *-ōną, the former terms from *hwerbaną (“to turn,
 - **Old Norse:** hvarfa
   - **Swedish:** varva — _inherited; uncertain_
 - **Gothic:** 𐍈𐌰𐍂𐌱𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

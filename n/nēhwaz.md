@@ -258,7 +258,3 @@ From Pre-Germanic *h₂nḗḱwos, a lengthened-grade adjective derived from Pro
       - **German:** nach
       - **Luxembourgish:** no
 - **Gothic:** 𐌽𐌴𐍈𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

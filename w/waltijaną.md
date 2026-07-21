@@ -174,7 +174,3 @@ From *waltaną + *-janą.
     - **Swedish:** välta
   - **Danish:** vælte
 - **Gothic:** 𐍅𐌰𐌻𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

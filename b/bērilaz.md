@@ -51,7 +51,3 @@ From *beraną (“to carry, transport”) + *-ilaz.
 ### Germanic descendants
 
 - **Gothic (Burgundian):** *𐌱𐌴𐍂𐌹𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

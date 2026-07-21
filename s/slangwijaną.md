@@ -145,7 +145,3 @@ From *slingwaną (“to sling, wind”) + *-janą.
     - **Norwegian Bokmål:** slenge — _borrowed_
   - **Old Swedish:** slængia
     - **Swedish:** slänga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

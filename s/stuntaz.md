@@ -109,7 +109,3 @@ Of uncertain origin. The traditional derivation as a nasal-infixed formation rel
   - **Icelandic:** stuttur
   - **Faroese:** stuttur
   - **Norwegian:** stutt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -103,7 +103,3 @@ From *sīhwaną (“to filter”) + *-janą and *sīganą (“to sink, drop”) 
     - **Middle Dutch:** seigen
   - **Old High German:** seigen
     - **Middle High German:** seigen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

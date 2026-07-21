@@ -172,7 +172,3 @@ From a compound of Proto-Indo-European *dm̥- (“to build”) and *ped- (“to 
   - **Scanian:** tøvt
   - **Danish:** toft
     - **Norwegian Bokmål:** toft
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

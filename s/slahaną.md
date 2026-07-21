@@ -913,7 +913,3 @@ From a Proto-Indo-European *slak- (“to hit, strike, throw”), apparently of o
     - **Danish:** slå
     - **Old Gutnish:** sla
 - **Gothic:** 𐍃𐌻𐌰𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

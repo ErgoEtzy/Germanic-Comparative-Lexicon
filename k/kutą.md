@@ -74,7 +74,3 @@ Alternatively, of non-Indo-European origin, but possibly borrowed from Uralic; c
     - **English:** cottage
   - **Middle English:**  — _borrowed_ — _through a non-Germanic route_
     - **English:** cottage
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

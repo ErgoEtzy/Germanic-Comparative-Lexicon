@@ -50,7 +50,3 @@ From Proto-Indo-European *h₂gr̥trom, from *h₂ger- (“to gather”) + *-þr
 - **Old High German:** *kortar
   - **Middle High German:** korter
   - **Middle High German:** korder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

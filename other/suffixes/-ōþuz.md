@@ -12,7 +12,7 @@ Presumably from *-ō- (weak class 2 thematic vowel) + *-þuz (deverbal suffix). 
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -53,7 +53,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
 - **Old Norse:** -uðr
 - **Gothic:** -𐍉𐌸𐌿𐍃
 - **Gothic:** -𐍉𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

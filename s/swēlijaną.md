@@ -95,7 +95,3 @@ From *swelaną (“to burn”) + *-janą.
 - **Proto-West Germanic:** *swēlijan
   - **Old English:** swǣlan
 - **Old Norse:** svæla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

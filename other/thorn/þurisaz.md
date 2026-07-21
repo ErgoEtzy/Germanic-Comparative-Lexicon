@@ -130,7 +130,3 @@ Derived from *þurēnan, which is etymologically connected to Vedic Sanskrit त
   - **Old Danish:** tosse
     - **Danish:** tosse
     - **Danish:** turs
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -157,7 +157,3 @@ From Proto-Indo-European *peh₂n- (“something woven; weave; tissue; fabric; c
     - **Swedish:** fana
   - **Danish:** fane
 - **Gothic:** 𐍆𐌰𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

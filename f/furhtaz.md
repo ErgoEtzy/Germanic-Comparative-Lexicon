@@ -108,7 +108,3 @@ A zero-grade derivation in *-to- from Proto-Indo-European *pr̥k- (“fear”). 
     - **Old High German:** gotforht — _reshaped by analogy or addition of morphemes_
     - **Old High German:** gotforaht — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

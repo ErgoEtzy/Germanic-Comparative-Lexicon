@@ -64,7 +64,3 @@ From Proto-Indo-European *lewk-so-m, ultimately from the root *lewk- (“to shin
         - **Norwegian Nynorsk:** lys — _borrowed_
   - **Scanian:** lýs
   - **Gutnish:** ljaus
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

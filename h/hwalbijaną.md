@@ -121,7 +121,3 @@ From *hwalbaz (“curved, vaulted”) + *-janą or a causative verb from *hwelba
     - **Swedish:** hvälfva
   - **Old Danish:** hwælvæ
     - **Danish:** hvælve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

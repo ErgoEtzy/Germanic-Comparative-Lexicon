@@ -65,7 +65,3 @@ From *þwahaną (“to wash”) + *-ilą.
   - **Old Swedish:** thval
     - **Swedish:** tvål
 - **Gothic:** 𐌸𐍅𐌰𐌷𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

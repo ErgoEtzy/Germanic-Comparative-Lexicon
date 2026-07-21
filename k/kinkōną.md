@@ -212,7 +212,3 @@ From Proto-Indo-European *gang-, *ganǵ- (“to mock, insult”). Cognate with S
   - **Middle Dutch:** kinkhōste
     - **Dutch:** kinken
     - **Dutch:** kinkhoest
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

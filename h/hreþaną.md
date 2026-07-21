@@ -94,7 +94,3 @@ From Proto-Indo-European *krey- (“to sift, separate, divide”).
 - **Old High German:** redan
   - **Middle High German:** reden
     - **German:** reden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

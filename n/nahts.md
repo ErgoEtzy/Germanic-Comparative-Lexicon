@@ -742,7 +742,3 @@ From earlier *nókts, from Proto-Indo-European *nókʷts (“night”).
     - **Scanian:** nøtt
   - **Gutnish:** nat
 - **Gothic:** 𐌽𐌰𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -113,7 +113,3 @@ From Proto-Indo-European *h₃réǵeti (“to make straight”), via semantic sh
 - **Old Norse:** 
   - **Old Danish:** rag
 - **Gothic:** 𐍂𐌹𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

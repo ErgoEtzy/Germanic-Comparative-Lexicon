@@ -156,7 +156,3 @@ From Proto-Indo-European *prews- (“to freeze; frost”). Cognate with Latin pr
       - **Norwegian Bokmål:** fryse
   - **Gutnish:** frausa
   - **Gutnish:** frause
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

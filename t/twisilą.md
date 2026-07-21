@@ -73,7 +73,3 @@ From Proto-Indo-European *dwis- (“twice, in two”).
     - **German:** Zwiesel
   - **Middle High German:** zwisel
     - **German:** Zwiesel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

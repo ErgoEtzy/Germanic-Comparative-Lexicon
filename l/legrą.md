@@ -108,7 +108,3 @@ A substantivization of *legraz, from Proto-Indo-European *legʰ- (“to be situa
     - **Norwegian Bokmål:** leir — _m_
       - **Norwegian Nynorsk:** leir — _borrowed; m_
 - **Gothic:** 𐌻𐌹𐌲𐍂𐍃 — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

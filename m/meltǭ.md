@@ -120,7 +120,3 @@ From Proto-Indo-European *(s)meld- (“to beat, grind, crush, weaken”).
     - **Swedish:** mjälte
   - **Old Swedish:** mælte
     - **Swedish:** mjälte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

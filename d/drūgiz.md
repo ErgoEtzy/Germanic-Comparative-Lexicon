@@ -217,7 +217,3 @@ Possible vṛddhi gerundive of otherwise unattested *drugijaną, from Proto-Indo
         - **Luxembourgish:** dréchen — _merged with *drukn_
       - **East Central German:** treiche
       - **German:** treuge — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -1957,7 +1957,3 @@ Unknown; suggested to be connected to Latin iocus (“a joke, jest”), itself t
       - **English:** jolly
     - **Middle English:** joili — _borrowed_ — _through a non-Germanic route_
       - **English:** jolly
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

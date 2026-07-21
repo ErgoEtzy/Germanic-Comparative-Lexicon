@@ -98,7 +98,3 @@ From Proto-Indo-European *knew-, *kenw- (“to scratch, scrape, rub”).
     - **Swedish:** nypa
 - **Gothic:** *𐌷𐌽𐌹𐌿𐍀𐌰𐌽
 - **(in combination:** 𐌳𐌹𐍃𐌷𐌽𐌹𐌿𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

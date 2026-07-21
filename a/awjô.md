@@ -42,7 +42,3 @@ From *awjō (“island”) + *-ô (“-er”).
 ### Germanic descendants
 
 - **Old English:** Eōwan — _inherited; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

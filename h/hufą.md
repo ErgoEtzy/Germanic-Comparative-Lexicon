@@ -154,7 +154,3 @@ From Proto-Indo-European *kéh₂wp-os, from *keh₂wp- (“to bend, arch, vault
   - **Danish:** hov
   - **Swedish:** hov
   - **English:** hof — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

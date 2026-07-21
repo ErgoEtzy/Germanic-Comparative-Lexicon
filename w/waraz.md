@@ -123,7 +123,3 @@ From Proto-Indo-European *worós (“attentive”), from *wer- (“to heed; be w
     - **Swedish:** varsam
   - **Danish:** var
 - **Gothic:** 𐍅𐌰𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

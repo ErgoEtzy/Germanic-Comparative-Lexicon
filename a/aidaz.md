@@ -53,7 +53,3 @@ From Proto-Indo-European *h₂eydʰ- (“to burn, shine”), apparently continui
 - **Old Saxon:** ēd
 - **Old High German:** eit
   - **Middle High German:** eit
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

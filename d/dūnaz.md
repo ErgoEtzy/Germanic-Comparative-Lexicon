@@ -559,7 +559,3 @@ From Proto-Indo-European *dʰuh₂-nós, from the root *dʰewh₂- (“to smoke,
     - **Dutch:** dons — _borrowed_
     - **German:** Daune — _borrowed_
     - **Saterland Frisian:** Duune — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

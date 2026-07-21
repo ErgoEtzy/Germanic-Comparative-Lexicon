@@ -159,7 +159,3 @@ From Proto-Indo-European *sóḱr̥ (“dung, excrement”). Cognate with Latin 
       - **German:** Skarn — _borrowed_
   - **Old Danish:** skarn
     - **Danish:** skarn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

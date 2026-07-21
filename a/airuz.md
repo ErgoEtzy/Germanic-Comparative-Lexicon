@@ -51,7 +51,3 @@ Uncertain. Orel considers the word a nominal derivative of *airi (“early”), 
 - **Old Norse:** árr
   - **Icelandic:** ár
 - **Gothic:** 𐌰𐌹𐍂𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

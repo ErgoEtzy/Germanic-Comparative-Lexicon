@@ -66,7 +66,3 @@ A thematicisation of earlier *marhuz, from Proto-Indo-European *merk- (“to dec
     - **Norwegian Bokmål:** morr
     - **Norwegian Bokmål:** mørr
     - **Norwegian Nynorsk:** mòr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

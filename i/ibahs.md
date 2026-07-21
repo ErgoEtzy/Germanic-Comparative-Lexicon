@@ -127,7 +127,3 @@ From Proto-Indo-European *(h₁)ebʰ-. Cognate with Proto-Celtic *eburos.
         - **German:** Epheu — _superseded_
         - **Norwegian:** eføy — _borrowed_
         - **Danish:** efeu — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

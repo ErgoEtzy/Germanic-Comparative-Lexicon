@@ -115,7 +115,3 @@ From *trekaną + *-janą.
     - **Middle High German:** trecken
       - **(German:** trecken — _chiefly a Low German loan_
       - **Central Franconian:** trecke — _native_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

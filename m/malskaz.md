@@ -161,7 +161,3 @@ From earlier *malhskaz, from Proto-Indo-European *(s)mel- (“to weaken, soften,
       - **Old Saxon:** malskrung
 - **Gothic:** *𐌼𐌰𐌻𐍃𐌺𐍃
 - **Gothic:** 𐌿𐌽𐍄𐌹𐌻𐌰𐌼𐌰𐌻𐍃𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

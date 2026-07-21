@@ -47,7 +47,3 @@ From *wīgą (“battle”) + *mann- (“man”).
     - **Middle High German:** wīcman
 - **Old Norse:** vígmaðr
   - **Icelandic:** vígmaður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

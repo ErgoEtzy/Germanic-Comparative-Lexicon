@@ -62,7 +62,3 @@ From Proto-Indo-European *men- (“to think”).
   - **Old High German:** minna
     - **Middle High German:** minne
       - **German:** Minne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

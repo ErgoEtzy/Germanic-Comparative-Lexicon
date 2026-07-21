@@ -111,7 +111,3 @@ From Proto-Indo-European *niter (“down”). Compare Sanskrit नितरा�
   - **Old Danish:** 
     - **Danish:** ned
   - **Old Gutnish:** niþer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

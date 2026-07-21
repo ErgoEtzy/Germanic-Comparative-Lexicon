@@ -71,7 +71,3 @@ From *un- (“not”) + *berandz, present participle of *beraną (“to bear, ca
   - **Old High German:** unberenti
     - **Middle High German:** unbernde
 - **Gothic:** 𐌿𐌽𐌱𐌰𐌹𐍂𐌰𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

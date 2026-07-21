@@ -224,7 +224,3 @@ From Proto-Indo-European *spey- (“long, sharp”).
   - **Old Swedish:** spīker
     - **Swedish:** spik
   - **Danish:** spig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -426,7 +426,3 @@ From Proto-Indo-European *só.
 - **unknown:** *þaimiz
   - **Old English:** þǣm
   - **Old English:** þām
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

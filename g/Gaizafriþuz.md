@@ -43,7 +43,3 @@ From *gaizaz (“spear”) + *friþuz (“peace”).
 - **Old Norse:** Geirrøðr
   - **Icelandic:** Geirröður
 - **Burgundian:** Gaissefredo
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

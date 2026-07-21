@@ -27,7 +27,3 @@ From pre-Germanic *proHi. Cognate with Ancient Greek πρῴ (prōí).
 - **Old High German:** fruo
   - **Middle High German:** vruo
     - **German:** früh
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

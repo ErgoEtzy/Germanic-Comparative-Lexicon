@@ -67,7 +67,3 @@ A derivative of Proto-Indo-European *ḱey-wo-s, from Proto-Indo-European *ḱey
   - **Faroese:** hjá
   - **Norwegian Nynorsk:** hjå
   - **Old Swedish:** hiā
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

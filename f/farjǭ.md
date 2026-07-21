@@ -73,7 +73,3 @@ Nominal derivative from *farjaną (“to ferry, travel by boat”).
       - **Norwegian Bokmål:** ferge
   - **Middle English:** ferie — _borrowed; influenced by native verb ferien_
     - **English:** ferry
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

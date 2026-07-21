@@ -85,7 +85,3 @@ Doublet of *helaną (“to hide”) and cognate with cēlō (“to hide”) and 
     - **Danish:** hjelm — _c_
       - **Norwegian Bokmål:** hjelm — _m_
 - **Gothic:** 𐌷𐌹𐌻𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

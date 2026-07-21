@@ -59,7 +59,3 @@ From Proto-Indo-European *nítyos (“(one's) own”).
   - **Old Swedish:** niþiar — _m pl_
   - **Old Gutnish:** niþi
 - **Gothic:** 𐌽𐌹𐌸𐌾𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

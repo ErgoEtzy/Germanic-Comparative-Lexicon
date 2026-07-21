@@ -77,7 +77,3 @@ From Proto-Indo-European *loystos, from the root *leys- (“to track, pursue; tr
   - **Swedish:** läst
   - **Danish:** læst
 - **Gothic:** 𐌻𐌰𐌹𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

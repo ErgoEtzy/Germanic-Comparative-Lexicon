@@ -61,7 +61,3 @@ From *un- + *lustuz.
   - **Old High German:** unlust
     - **German:** Unlust
 - **Gothic:** 𐌿𐌽𐌻𐌿𐍃𐍄𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

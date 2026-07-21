@@ -104,7 +104,3 @@ From pre-Germanic *bʰoydrós. The o-grade is unexpected, as ro-stems usually ta
   - **Icelandic:** beitur
   - **Icelandic:** beittur
 - **Gothic:** 𐌱𐌰𐌹𐍄𐍂𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

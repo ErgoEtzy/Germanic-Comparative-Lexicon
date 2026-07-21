@@ -80,7 +80,3 @@ From Proto-Indo-European *Hrek- (“to speak; to put in order”). Alternatively
     - **Icelandic:** rámerki
     - **Norwegian Bokmål:** råmerke
     - **Swedish:** råmärke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

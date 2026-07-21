@@ -50,7 +50,3 @@ From *berhtaz (“bright, shining”) + *mēraz (“great, famous”).
   - **Faroese:** Bjartmar
   - **Norwegian:** Bjartmar
   - **Swedish:** Bjartmar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

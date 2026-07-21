@@ -161,7 +161,3 @@ An alternative etymology derives *breh- from Proto-Indo-European *mrekʷ-, *mer�
   - **Scots:** breg — _borrowed_
   - **Scots:** braith — _borrowed_
   - **Scots:** brath — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

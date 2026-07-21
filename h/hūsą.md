@@ -188,7 +188,3 @@ Of uncertain origin; possibly from Proto-Indo-European *(s)kuH-s-o-m, from *(s)k
       - **Norwegian Bokmål:** hus
   - **Gutnish:** heus
 - **Crimean Gothic:** hus
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

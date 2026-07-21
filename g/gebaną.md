@@ -1058,7 +1058,3 @@ However, some Leiden scholars reject the existence of *gʰebʰ- without a laryng
       - **Scots:** gefe
       - **English:** give
 - **Gothic:** 𐌲𐌹𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

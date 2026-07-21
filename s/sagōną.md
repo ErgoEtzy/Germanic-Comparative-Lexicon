@@ -130,7 +130,3 @@ From *sagō (“a saw”) + *-ōną.
     - **Norwegian Nynorsk:** saga
   - **Swedish:** saga
   - **Danish:** save
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

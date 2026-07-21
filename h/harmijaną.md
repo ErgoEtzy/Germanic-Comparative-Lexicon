@@ -180,7 +180,3 @@ From Proto-Indo-European *kerh₂-, *kerh₃- (“to praise (loudly)”).
   - **Norwegian Nynorsk:** herma
   - **Swedish:** härma
   - **Danish:** herme
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

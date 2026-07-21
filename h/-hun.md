@@ -28,7 +28,3 @@ Possibly from Pre-Germanic *-kʷune, from a variant or development of the root f
 - **Gothic:** -𐌷𐌿𐌽
 - **Gothic:** 𐌰𐌹𐌽𐍃𐌷𐌿𐌽
 - **Gothic:** 𐌸𐌹𐍃𐌷𐌿𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

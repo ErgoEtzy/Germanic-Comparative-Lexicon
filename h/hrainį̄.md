@@ -52,7 +52,3 @@ From *hrainiz (“clean, pure”) + *-į̄.
   - **Middle High German:** reine
     - **German:** Reine
 - **Gothic:** 𐌷𐍂𐌰𐌹𐌽𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

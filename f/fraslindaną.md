@@ -111,7 +111,3 @@ From *fra- + *slindaną. For the semantics, compare *fraetaną.
     - **Middle High German:** 
       - **German:** verschlingen
 - **Gothic:** 𐍆𐍂𐌰𐍃𐌻𐌹𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

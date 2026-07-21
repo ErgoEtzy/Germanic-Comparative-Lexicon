@@ -151,7 +151,3 @@ Borrowed from Proto-Slavic *sorkъ (“shirt, coat, cloak”).
     - **Danish:** særk
       - **Norwegian Bokmål:** serk
   - **Scanian:** særk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

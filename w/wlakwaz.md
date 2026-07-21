@@ -144,7 +144,3 @@ From Proto-Indo-European *welg- (“moist, wet”).
   - **Old Saxon:** *wlak
     - **Middle Low German:** wlak
     - **Middle Low German:** wlack
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

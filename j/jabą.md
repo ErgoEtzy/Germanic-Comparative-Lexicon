@@ -80,7 +80,3 @@ Since terms derived from Proto-Indo-European *Hyós largely have fixed stress on
   - **Norwegian Bokmål:** ev
   - **Old Swedish:** iæf
     - **Swedish:** jäv
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

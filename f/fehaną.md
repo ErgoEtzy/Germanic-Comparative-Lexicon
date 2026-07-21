@@ -95,7 +95,3 @@ From Proto-Indo-European *peḱ- (“joyful, pretty”).
   - **Old English:** ġefēon
   - **Old English:** ġefeohan
   - **Old High German:** gifehan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

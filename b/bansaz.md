@@ -119,7 +119,3 @@ From earlier *bandstaz, from Proto-Indo-European *bʰendʰ- (“to tie; bind”)
     - **Swedish:** bås — _n_
   - **Danish:** bås
   - **Elfdalian:** bą̊s
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

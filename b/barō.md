@@ -63,7 +63,3 @@ Uncertain. Perhaps from Proto-Indo-European *bʰerH- (“to strike; pierce”). 
   - **Middle English:** birling — _borrowed_
     - **English:** berling
     - **English:** barling
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

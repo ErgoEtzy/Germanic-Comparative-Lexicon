@@ -51,7 +51,3 @@ Inherited from late Proto-Indo-European *-ewi, from *-us (u-stem suffix) + *-i (
     - **Old Danish:** -æ
     - **Old Danish:** -e
 - **Gothic:** -𐌰𐌿 — _reshaped by analogy or addition of morphemes; < *-awi; from genitive singular -𐌰𐌿𐍃 (-aus)_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

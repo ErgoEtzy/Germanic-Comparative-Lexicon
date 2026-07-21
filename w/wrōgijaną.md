@@ -124,7 +124,3 @@ From Proto-Indo-European *wrōk- (“speech, complaint”), from Proto-Indo-Euro
   - **Old Swedish:** rø̄ghia
     - **Swedish:** röja
 - **Gothic:** 𐍅𐍂𐍉𐌷𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

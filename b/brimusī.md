@@ -325,7 +325,3 @@ From Proto-Indo-European *bʰerem- (“to buzz”), from *bʰer- (“to hum, buz
     - **Middle Dutch:** breemse
       - **Dutch:** brems
   - **Old High German:** brimissa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

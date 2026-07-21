@@ -273,7 +273,3 @@ From earlier *þód, from Proto-Indo-European *tód (“that”).
       - **Norwegian Bokmål:** denne — _c_
       - **Norwegian Bokmål:** dette — _n_
       - **Norwegian Bokmål:** disse — _pl_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -61,7 +61,3 @@ From Proto-Indo-European *ḱlus-tí-s, a ti-stem nominal from *ḱlews- (“to 
 - **Old Norse:** hlust
   - **Icelandic:** hlust
   - **Faroese:** lust
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

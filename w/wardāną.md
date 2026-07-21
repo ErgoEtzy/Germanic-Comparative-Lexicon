@@ -111,7 +111,3 @@ From *warduz (“a guard”) + *-āną or *wardō (“protection”) + *-āną, 
     - **Swedish:** vårda
   - **Old Swedish:** vārdha
     - **Swedish:** vårda
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -175,7 +175,3 @@ From Proto-Indo-European *welk-, *welg-, extended form of *welH- (“to turn, to
   - **English:** gauche — _borrowed_ — _through a non-Germanic route_
   - **English:** gauche — _borrowed_ — _through a non-Germanic route_
   - **English:** gauche — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

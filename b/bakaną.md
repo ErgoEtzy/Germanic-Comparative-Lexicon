@@ -175,7 +175,3 @@ From Pre-Germanic *bʰh₃g-, from Proto-Indo-European *bʰeh₃g- (“to roast,
     - **Norwegian Bokmål:** bake
   - **Old Gutnish:** baka
     - **Gutnish:** bake
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

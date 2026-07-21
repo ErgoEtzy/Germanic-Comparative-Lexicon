@@ -136,7 +136,3 @@ From *fra- + *lētaną.
       - **Cimbrian:** borlassan — _Mezzaselva_
       - **German:** verlassen
 - **Gothic:** 𐍆𐍂𐌰𐌻𐌴𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

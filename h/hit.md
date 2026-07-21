@@ -65,7 +65,3 @@ From Proto-Indo-European *ḱe(y)- (“this, here”).
   - **Icelandic:** hið
   - **Elfdalian:** eð
 - **Gothic:** 𐌷𐌹𐍄𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

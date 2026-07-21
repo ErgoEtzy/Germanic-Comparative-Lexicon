@@ -46,7 +46,3 @@ From *hlefaną + *-þuz.
 ### Germanic descendants
 
 - **Gothic:** 𐌷𐌻𐌹𐍆𐍄𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

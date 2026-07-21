@@ -137,7 +137,3 @@ Causative of *slekwaną (“to extinguish, go out”). Seebold leaves the origin
       - **Norwegian Bokmål:** slukke
   - **Gutnish:** släkke
   - **Scanian:** sløkka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

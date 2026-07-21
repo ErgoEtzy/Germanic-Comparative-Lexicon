@@ -46,8 +46,4 @@ From *helpaną (“help, aid, assistance”) + *rīks (“king, ruler”).
   - **English:** Chilperic — _borrowed_ — _through a non-Germanic route_
   - **German:** Chilperich — _borrowed_ — _through a non-Germanic route_
 - **Old Norse:** Hjalprekr
-- **Gothic or Suevic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Gothic or Suevic:**

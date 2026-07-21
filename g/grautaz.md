@@ -184,7 +184,3 @@ From pre-Germanic *gʰrowd-o-s, from Proto-Indo-European *gʰrewd-, *gʰer- (“
       - **Vilamovian:** grus
       - **Vilamovian:** grūs
       - **Yiddish:** גרויס
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -145,7 +145,3 @@ From Proto-Indo-European *séynos, equivalent to the genitive form of Proto-Germ
   - **Norwegian Bokmål:** sin
   - **Norwegian Nynorsk:** sin
 - **Gothic:** 𐍃𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

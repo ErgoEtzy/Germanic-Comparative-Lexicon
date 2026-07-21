@@ -139,7 +139,3 @@ Either from *bōjaną + *-niz, or inherited from Proto-Indo-European *bʰeh₂-n
   - **Middle English:** bone — _borrowed_
     - **English:** boon
     - **Scots:** boon
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

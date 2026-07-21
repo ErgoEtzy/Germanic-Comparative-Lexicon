@@ -48,7 +48,3 @@ From Proto-Indo-European *pl-n̥-h₂-tro-m, from nasal-infixed *pleh₂- (“fl
     - **Middle Dutch:** vlonder
       - **Dutch:** vlonder
         - **German:** Funder — _dialectal; borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

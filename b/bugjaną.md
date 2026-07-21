@@ -139,7 +139,3 @@ Orel derives the root from Proto-Indo-European *bʰewgʰ- (“to bend; curve, ar
   - **Norwegian Nynorsk:** byggja
   - **Old Swedish:** byggia
 - **Gothic:** 𐌱𐌿𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

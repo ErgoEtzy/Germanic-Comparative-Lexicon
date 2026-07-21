@@ -80,7 +80,3 @@ From Proto-Indo-European *peh₂- (“protect, guard, graze, feed”).
     - **Swedish:** föda
   - **Old Danish:** føthæ
     - **Danish:** føde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

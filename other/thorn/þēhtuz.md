@@ -53,7 +53,3 @@ From a lengthened-grade of Proto-Indo-European *tetḱ- (“to hew, fashion”) 
   - **Norwegian Bokmål:** tott
   - **Norwegian Nynorsk:** tått
   - **Norwegian Nynorsk:** tott
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

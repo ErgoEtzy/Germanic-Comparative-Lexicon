@@ -157,7 +157,3 @@ From earlier *emmi, from earlier *ezmi, from Proto-Indo-European *h₁ésmi.
   - **Old Norse:** em
     - **Old Swedish:** æm
 - **Gothic:** 𐌹𐌼
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -50,7 +50,3 @@ From *etaną (“to eat”) + *-ijô.
   - **Old English:** selfǣta — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌴𐍄𐌾𐌰
   - **Gothic:** 𐌰𐍆𐌴𐍄𐌾𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

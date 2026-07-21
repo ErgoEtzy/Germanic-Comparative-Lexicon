@@ -125,7 +125,3 @@ Probably from Proto-Indo-European *yem- (“to hold, match, defeat, subjugate”
         - **Afrikaans:** jammer
   - **Old High German:** jāmar
   - **Old High German:** āmar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

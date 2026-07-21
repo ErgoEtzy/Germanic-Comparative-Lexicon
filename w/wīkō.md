@@ -108,7 +108,3 @@ From Proto-Indo-European *weyg-, *weyk- (“to bend, curve”), perhaps from ear
     - **Early Scots:** weike
       - **Scots:** wick
     - **English:** wick
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

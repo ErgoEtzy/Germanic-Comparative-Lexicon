@@ -101,7 +101,3 @@ From Proto-Indo-European *h₁reh₁s- (“to flow, rush”). Related to Ancient
     - **Scots:** ras
     - **Scots:** rase
     - **Scots:** race
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

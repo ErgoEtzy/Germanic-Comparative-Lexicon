@@ -106,7 +106,3 @@ From Proto-Indo-European *sleyg-, *sleyǵ- (“to glide, smooth, spread”). Cog
     - **Middle High German:** slīchen
       - **German:** schleichen
       - **Luxembourgish:** schläichen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

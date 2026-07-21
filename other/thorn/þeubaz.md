@@ -575,7 +575,3 @@ From Pre-Proto-Germanic *tewpós, further origin is unknown. Probably related to
   - **Old Gutnish:** þiaufr
     - **Gutnish:** töiv
 - **Gothic:** 𐌸𐌹𐌿𐍆𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

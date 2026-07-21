@@ -109,7 +109,3 @@ From *nutiz (“useful”), from *neutaną (“to enjoy, use, catch”), from Pr
       - **German:** Nutzen
         - **Saterland Frisian:** Nutsen — _borrowed_
     - **Yiddish:** נוץ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

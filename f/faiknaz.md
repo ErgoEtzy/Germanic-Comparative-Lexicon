@@ -108,7 +108,3 @@ From Proto-Indo-European *peyǵ- (“hostile, angry”).
 - **Old High German:** feichan
   - **Middle High German:** veichen
 - **Old Norse:** feikn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

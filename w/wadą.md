@@ -97,7 +97,3 @@ From Proto-Indo-European *wadʰom, *wh₂dʰóm, from *weh₂dʰ-. Cognate with 
   - **Middle English:** weth — _borrowed_
     - **Scots:** wath
     - **English:** wath
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

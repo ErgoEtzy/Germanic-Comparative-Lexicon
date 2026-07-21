@@ -56,7 +56,3 @@ From Proto-Indo-European *ḱer-mn-os (“caustic liquid, alkali, urine”), fro
       - **German:** Harn
     - **Middle High German:** harm
       - **German:** Harn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

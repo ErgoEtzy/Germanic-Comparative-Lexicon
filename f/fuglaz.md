@@ -623,7 +623,3 @@ Likely dissimilated from earlier *fluglaz, from pre-Proto-Germanic *pluk-ló-s, 
     - **Scanian:** fuğl
   - **Gutnish:** fäugel
 - **Gothic:** 𐍆𐌿𐌲𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

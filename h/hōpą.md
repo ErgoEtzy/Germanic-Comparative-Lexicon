@@ -70,7 +70,3 @@ From Proto-Indo-European *kewb- (“to bend, bow, arch, vault”).
   - **Icelandic:** hóp
   - **Danish:** hop
   - **Scots:** hope — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

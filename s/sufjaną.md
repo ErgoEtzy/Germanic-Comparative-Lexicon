@@ -99,7 +99,3 @@ A zero-grade formation to *swefaną, or from *sufjaz (“sleepy”) + *-janą
         - **West Frisian:** suffe — _borrowed; uncertain_
 - **Old Norse:** syfja
   - **Icelandic:** syfja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

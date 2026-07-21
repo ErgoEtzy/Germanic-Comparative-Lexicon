@@ -46,7 +46,3 @@ Unknown. Possibly a derivative of Proto-Indo-European *h₂nḗr (“power, vita
   - **Danish:** Njord
   - **English:** Njorth — _borrowed_
   - **English:** Njord — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

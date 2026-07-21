@@ -74,7 +74,3 @@ Of uncertain origin. Per Mikkola, perhaps from a Proto-Indo-European *wrónkeh�
   - **Middle English:** wro — _borrowed_
     - **English:** wroo
     - **Scots:** wray
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

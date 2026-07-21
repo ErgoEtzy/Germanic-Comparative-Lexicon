@@ -175,7 +175,3 @@ According to Kroonen, this was originally an n-stem (as preserved in Old High Ge
     - **Danish:** bold
     - **Danish:** balde
     - **Danish:** balle
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

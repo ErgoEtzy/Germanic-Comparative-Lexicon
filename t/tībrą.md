@@ -99,7 +99,3 @@ From Proto-Indo-European *deHpro- (“sacrificial animal; cattle; livestock”).
 - **Old Norse:** tívurr
 - **Gothic:** *𐍄𐌹𐌱𐍂
 - **Gothic:** 𐌰𐌹𐌱𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

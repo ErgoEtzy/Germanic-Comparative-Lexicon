@@ -102,7 +102,3 @@ Somewhat uncertain. Reconstructed by Ringe as originating from earlier *-ajaną,
   - **Icelandic:** -ja
   - **Faroese:** -ja
 - **Gothic:** -𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

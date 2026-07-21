@@ -154,7 +154,3 @@ Cognate with Proto-Celtic *kasnī (“hare”), Old Prussian sasins (“hare”)
   - **Swedish:** jösse
 - **Old Norse:** *hjeri
   - **Icelandic:** héri
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

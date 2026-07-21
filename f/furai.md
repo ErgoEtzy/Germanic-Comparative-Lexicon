@@ -150,7 +150,3 @@ From Proto-Indo-European *pr̥h₂-éy, an innovative dative formation from *pre
     - **Swedish:** före
     - **Swedish:** för
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

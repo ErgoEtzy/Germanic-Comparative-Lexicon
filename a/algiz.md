@@ -98,7 +98,3 @@ From Proto-Indo-European *h₁élḱis, *h₁ólḱis (“elk”), from *h₁el-
 - **English:** alce — _borrowed_ — _through a non-Germanic route_
 - **English:** Alcis — _learned borrowing; learned_ — _through a non-Germanic route_
 - **English:** Algiz — _learned borrowing; learned_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

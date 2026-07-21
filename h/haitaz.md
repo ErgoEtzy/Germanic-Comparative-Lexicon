@@ -214,7 +214,3 @@ From Proto-Indo-European *keHid-o-s, from *keHy- (“to be hot”).
     - **Swedish:** het
   - **Danish:** hed
     - **Norwegian Bokmål:** het
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

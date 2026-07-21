@@ -61,7 +61,3 @@ From Proto-Indo-European *snoh₁téh₂ (“yarn, thread”), from *sneh₁(i)-
   - **Old Swedish:** snoþ
     - **Swedish:** snod
     - **Swedish:** snodd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

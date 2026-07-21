@@ -179,7 +179,3 @@ From Proto-Indo-European *dʰeyǵʰ-n-, from *dʰeyǵʰ- (“to form, shape”).
   - **Old High German:** *tīhhan
     - **Middle High German:** tīchen
       - **German:** teichen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -176,7 +176,3 @@ From Proto-Indo-European *solp-éh₂, from *selp- (“salve, ointment”). Cogn
       - **Hunsrik:** Salleb
       - **Luxembourgish:** Sallef
       - **Yiddish:** זאַלב
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

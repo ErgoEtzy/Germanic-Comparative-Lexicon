@@ -120,7 +120,3 @@ From Proto-Indo-European *ksnéw-tu-s, from *ksnew- (“to scrape, sharpen”).
   - **Old Norse:** snoðinn
 - **Proto-Germanic:** *snuþjaną — _reshaped by analogy or addition of morphemes_
   - **Old English:** be-snyþþan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

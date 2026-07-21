@@ -48,7 +48,3 @@ An instrumental noun from the Proto-Indo-European root Proto-Indo-European *seh�
   - **Icelandic:** sáld
   - **Norwegian:** såld
   - **Swedish:** såll
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

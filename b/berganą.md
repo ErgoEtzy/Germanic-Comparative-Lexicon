@@ -154,7 +154,3 @@ From Proto-Indo-European *bʰergʰ- (“to take care of, protect, preserve”). 
   - **Old Danish:** biærghæ
     - **Danish:** bjærge
 - **Gothic:** 𐌱𐌰𐌹𐍂𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

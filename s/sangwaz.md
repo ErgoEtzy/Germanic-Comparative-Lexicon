@@ -140,7 +140,3 @@ Perhaps an o-grade nominal derived from an earlier form *sóngʷos, from Proto-I
   - **Gutnish:** sangg
   - **Gutnish:** sångg
 - **Gothic:** 𐍃𐌰𐌲𐌲𐍅𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

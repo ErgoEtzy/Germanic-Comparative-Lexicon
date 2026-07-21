@@ -146,7 +146,3 @@ From Proto-Indo-European *sénos (“of last year, old”) with change to an i-s
   - **Norwegian:** sina — _dialectal_
   - **Swedish:** sina — _dialectal_
 - **Gothic:** *𐍃𐌹𐌽𐌹𐍃 — _only in the superlative 𐍃𐌹𐌽𐌹𐍃𐍄𐍃 (sinists); otherwise replaced by 𐍃𐌹𐌽𐌴𐌹𐌲𐍃 (sineigs)_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

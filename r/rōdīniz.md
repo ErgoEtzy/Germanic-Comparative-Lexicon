@@ -48,7 +48,3 @@ From *rōdijaną (“to speak, talk about”) + *-īniz.
 - **Old Frisian:** rēdene
 - **Gothic:** *𐍂𐍉𐌳𐌴𐌹𐌽𐍃
 - **Gothic:** 𐌱𐌹𐍂𐍉𐌳𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

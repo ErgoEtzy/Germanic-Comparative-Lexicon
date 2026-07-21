@@ -144,7 +144,3 @@ Kroonen explains the alternation between -w- (in Anglo-Saxon) and -j- (in Low Ge
   - **Icelandic:** flóa
   - **Norwegian Nynorsk:** flo
   - **Swedish:** floa — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -232,7 +232,3 @@ From Proto-Indo-European *h₂ew (“away, again”) + *ge (intensifier); compar
   - **Middle English:** ok — _borrowed_
   - **Middle English:** oc — _borrowed_
 - **Gothic:** 𐌰𐌿𐌺
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

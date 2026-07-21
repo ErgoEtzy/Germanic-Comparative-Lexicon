@@ -120,7 +120,3 @@ Kroonen, however, considers the word restricted to Germanic, and leaves its orig
       - **German:** schließen
       - **Luxembourgish:** schléissen
       - **Yiddish:** שליסן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

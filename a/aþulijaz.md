@@ -181,7 +181,3 @@ From *aþalą (“nobility; kin, lineage”) + *-jaz.
     - **Middle High German:** edel
       - **German:** edel
       - **Yiddish:** איידל
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

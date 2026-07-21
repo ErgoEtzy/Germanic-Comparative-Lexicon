@@ -138,7 +138,3 @@ From earlier *skamdō, pre-Germanic *skomtéh₂, from *sko-m- (root of *skamō 
       - **Luxembourgish:** Schan
       - **Yiddish:** שאַנד
 - **Gothic:** 𐍃𐌺𐌰𐌽𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -54,7 +54,3 @@ It has been argued that the inherited meaning “orphan” gave way to “worker
 
 - **Old Norse:** arfr
   - **Icelandic:** arfur — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

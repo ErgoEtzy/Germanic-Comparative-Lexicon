@@ -221,7 +221,3 @@ From Proto-Indo-European *dʰwes- (“to breathe”).
   - **Icelandic:** dúsa
   - **Icelandic:** dusa
   - **Norwegian:** duse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

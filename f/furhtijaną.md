@@ -135,7 +135,3 @@ A union of two related formations, a factitive from *furhtaz (“fearful, afraid
       - **German:** fürchten
       - **Luxembourgish:** fäerten
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌷𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

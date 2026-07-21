@@ -470,7 +470,3 @@ Causative form of an unattested strong verb *mersaną, from Proto-Indo-European 
   - **Icelandic:** merja
   - **Faroese:** merja
 - **Gothic:** 𐌼𐌰𐍂𐌶𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

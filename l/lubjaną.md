@@ -109,7 +109,3 @@ From *lubją (“herb, poison”) + *-janą.
       - **German:** lüppen
 - **Old Norse:** lyfja
   - **Icelandic:** lyfja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

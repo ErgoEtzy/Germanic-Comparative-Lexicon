@@ -107,7 +107,3 @@ From the root of *slahaną + *-jǭ, perhaps onomatopoeic late Proto-Indo-Europea
   - **Old Swedish:** slæggia
     - **Swedish:** slägga
   - **Danish:** slægge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

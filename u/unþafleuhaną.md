@@ -142,7 +142,3 @@ From *unþa- (“away”) + *fleuhaną (“to flee”).
     - **Middle High German:** entvliehen
       - **German:** entfliehen
 - **Gothic:** 𐌿𐌽𐌸𐌰𐌸𐌻𐌹𐌿𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

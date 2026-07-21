@@ -79,7 +79,3 @@ From earlier *budsniz, from zero-grade of *beudaną (“to offer, bid”) + *-(s
   - **Icelandic:** býsn — _n pl_
   - **Norwegian Bokmål:** bisn — _n_
   - **Norwegian Nynorsk:** bisn — _f or n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

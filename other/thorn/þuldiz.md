@@ -55,7 +55,3 @@ From Proto-Indo-European *télh₂-ti-s ~ *tl̥h₂-téy-s, abstract substantive
     - **Middle High German:** dult
       - **German:** Dult
 - **Gothic:** *𐌸𐌿𐌻𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

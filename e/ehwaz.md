@@ -68,7 +68,3 @@ From Proto-Indo-European *h₁éḱwos (“horse”).
     - **Icelandic:** jór
 - **Gothic:** *𐌰𐌹𐍈𐍃
 - **Gothic:** 𐌰𐌹𐍈𐌰𐍄𐌿𐌽𐌳𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

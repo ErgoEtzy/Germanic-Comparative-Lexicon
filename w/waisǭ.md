@@ -55,7 +55,3 @@ From Proto-Indo-European *weys- (“to flow”), whence also Proto-West Germanic
   - **Icelandic:** veisa
   - **Old Swedish:** vēsa
     - **Swedish:** vesa — _uncommon; dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -83,7 +83,3 @@ Possibly from a neuter root noun *kóld, *kld-és (“wooden piece”), possibly
     - **Swedish:** hult
   - **Danish:** holt
   - **Old Gutnish:** hult
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

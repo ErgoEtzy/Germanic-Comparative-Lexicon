@@ -102,7 +102,3 @@ According to Orel, from Proto-Indo-European *dr̥-to-s, a participle from *der- 
       - **German:** Zort
       - **German:** Zürch — _archaic_
 - **Old Norse:** torð-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

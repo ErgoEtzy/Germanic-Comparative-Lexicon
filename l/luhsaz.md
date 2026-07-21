@@ -98,7 +98,3 @@ From Proto-Indo-European *lewk- (“to be bright, be light, shine”), because o
 - **Old Norse:** *luhǭ
   - **Old Swedish:** lō
     - **Swedish:** lo
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

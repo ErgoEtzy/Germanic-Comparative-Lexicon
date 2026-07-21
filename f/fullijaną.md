@@ -175,7 +175,3 @@ From *fullaz (“full”) + *-ijaną. Compare Proto-Slavic *pьlniti.
   - **Old Danish:** fyllæ
     - **Danish:** fylde
 - **Gothic:** 𐍆𐌿𐌻𐌻𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

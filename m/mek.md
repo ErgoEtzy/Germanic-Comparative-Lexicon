@@ -76,7 +76,3 @@ From earlier *me-ge, from Proto-Indo-European *h₁me, inflection of Proto-Indo-
   - **Old Danish:** mæk
     - **Danish:** mig
 - **Gothic:** 𐌼𐌹𐌺
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

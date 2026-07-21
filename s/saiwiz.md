@@ -202,7 +202,3 @@ Alternatively, an older theory by Orel postulates a derivation from from Proto-I
     - **Gutnish:** sjo
     - **Scanian:** sjǿ
 - **Gothic:** 𐍃𐌰𐌹𐍅𐍃 — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

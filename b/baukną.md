@@ -415,7 +415,3 @@ From Proto-Indo-European *bʰeh₂- (“to glow, light, shine”).
     - **Middle English:** boye — _borrowed_
       - **English:** buoy
     - **German:** Boje — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

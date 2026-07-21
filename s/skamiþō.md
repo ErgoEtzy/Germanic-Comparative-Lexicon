@@ -47,7 +47,3 @@ From *skamō + *-iþō.
   - **Icelandic:** skemmd
   - **Faroese:** skemd
   - **Norwegian Nynorsk:** skjemd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

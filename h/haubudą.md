@@ -149,7 +149,3 @@ The same root but with an alternate ending also appears in Germanic: *habulô (e
     - **Gutnish:** häud
     - **Gutnish:** håvud
   - **English:** Howth — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

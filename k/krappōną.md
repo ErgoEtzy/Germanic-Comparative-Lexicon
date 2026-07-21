@@ -320,7 +320,3 @@ An iterative verb from Proto-Indo-European *grobʰ-néh₂-ti
     - **Middle High German:** *kraben
       - **German:** krappen
       - **German:** kraben
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

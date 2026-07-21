@@ -95,7 +95,3 @@ From *sulī (“balk, bar, threshold, sill”) + *-janą.
 - **Old Norse:** sylla
   - **Icelandic:** sylla
 - **Gothic:** 𐌲𐌰𐍃𐌿𐌻𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

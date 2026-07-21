@@ -26,7 +26,3 @@ From Proto-Indo-European *n̥h₃wé, alteration of Proto-Indo-European *n̥h₃
 
 - **Old English:** unc
 - **Old Saxon:** unk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

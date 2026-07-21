@@ -12,7 +12,7 @@ Related to *munaną (“to think, to consider, to believe”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -48,7 +48,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
 - **Old Norse:** minjar — _pl_
   - **Icelandic:** minjar — _pl_
 - **Gothic:** 𐌰𐌽𐌰𐌼𐌹𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

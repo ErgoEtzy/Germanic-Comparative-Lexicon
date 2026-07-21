@@ -127,7 +127,3 @@ From Proto-Indo-European *h₁elḱ-, compare Proto-Indo-European *h₁élḱos 
     - **English:** ill
     - **Scots:** ill
     - **Yola:** ill
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

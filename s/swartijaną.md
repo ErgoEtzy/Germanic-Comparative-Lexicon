@@ -112,7 +112,3 @@ From *swartaz (“black”) + *-janą.
   - **Swedish:** svärta
 - **Gothic:** *𐍃𐍅𐌰𐍂𐍄𐌾𐌰𐌽
   - **Gothic:** 𐍃𐍅𐌰𐍂𐍄𐌹𐌶𐌻 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

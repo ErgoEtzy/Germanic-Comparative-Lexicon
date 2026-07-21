@@ -104,7 +104,3 @@ From *dōmaz (“judgement”).
   - **Old Swedish:** -dōmber
     - **Swedish:** -dom
     - **Swedish:** -döme
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -275,7 +275,3 @@ Probably from earlier *welat, neuter accusative to an unattested adjective *wela
     - **Danish:** vel
       - **Norwegian Bokmål:** vel
 - **Gothic:** 𐍅𐌰𐌹𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

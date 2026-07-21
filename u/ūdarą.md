@@ -368,7 +368,3 @@ From Proto-Indo-European *h₁éwHdʰr̥, *h₁uHdʰ-n- (“udder”), a paradig
     - **Scots:** ewer — _borrowed_
     - **English:** ewer — _borrowed_
     - **English:** yure — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -68,7 +68,3 @@ From Proto-Indo-European *skolH-eh₂, from *(s)kelH- (“to split, part, divide
     - **Yola:** skaulès — _plural_
 - **Old Norse:** skál
   - **Danish:** skal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

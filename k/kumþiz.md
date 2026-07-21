@@ -58,7 +58,3 @@ From Proto-Indo-European *gʷém-ti-s ~ *gʷm̥-téy-s. Equivalent to *kwemaną 
   - **Icelandic:** -kunda
 - **Gothic:** *𐌵𐌿𐌼𐌸𐍃
 - **Gothic:** 𐌲𐌰𐌵𐌿𐌼𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

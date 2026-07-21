@@ -145,7 +145,3 @@ From *murþrą (“murder”) + *-janą.
   - **English:** murder — _reshaped by analogy or addition of morphemes; uncertain; spelling influence_ — _through a non-Germanic route_
   - **English:** murder — _reshaped by analogy or addition of morphemes; uncertain; spelling influence_ — _through a non-Germanic route_
 - **Gothic:** 𐌼𐌰𐌿𐍂𐌸𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

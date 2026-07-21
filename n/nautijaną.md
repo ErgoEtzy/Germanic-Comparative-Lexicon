@@ -96,7 +96,3 @@ From *neutaną (“to use, enjoy”) + *-janą.
   - **Old Frisian:** nēta
 - **Old Norse:** neyta
   - **Icelandic:** neyta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

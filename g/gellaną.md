@@ -132,7 +132,3 @@ Ultimately from Proto-Indo-European *gʰel- (“to shout”), possibly with cont
   - **Old Swedish:** gælla
     - **Swedish:** gälla
     - **Swedish:** gäll — _verbal noun_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -102,7 +102,3 @@ From *hīwą (“marriage”) + *-iskaz + *-iją.
   - **Old Danish:** hæskap
   - **Old Danish:** hæske
   - **Middle Low German:** "Herschop"
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

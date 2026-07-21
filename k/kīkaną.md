@@ -132,7 +132,3 @@ Perhaps related to German gucken (“to watch, look”), but this word is itself
     - **Middle Dutch:** kiken
       - **Dutch:** kijken
         - **Afrikaans:** kyk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

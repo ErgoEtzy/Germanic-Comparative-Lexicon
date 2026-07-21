@@ -54,7 +54,3 @@ From Proto-Indo-European *h₂méh₁-to-, from *h₂meh₁- (“to mow”), syn
 - **Old High German:** mād
   - **Middle High German:** māt
     - **German:** Mahd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

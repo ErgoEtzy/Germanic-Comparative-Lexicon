@@ -92,7 +92,3 @@ From Proto-Indo-European *net-. Related to Proto-Tocharian *nete (“might, stre
 ### Germanic descendants
 
 - **Gothic:** 𐌽𐌹𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

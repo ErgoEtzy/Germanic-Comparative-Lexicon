@@ -50,7 +50,3 @@ From *landą (“land”) + *būwô (“dweller”).
   - **Old High German:** lantbūwo
 - **Old Norse:** landbúi
   - **Icelandic:** landbúi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

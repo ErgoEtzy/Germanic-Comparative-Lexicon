@@ -204,7 +204,3 @@ Seemingly from a Proto-Indo-European *dʰrewgʰ- (“to strengthen; become hard 
         - **West Frisian:** droech — _borrowed_
 - **Old Norse:** draugr — _reshaped by analogy or addition of morphemes_
   - **Icelandic:** draugur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

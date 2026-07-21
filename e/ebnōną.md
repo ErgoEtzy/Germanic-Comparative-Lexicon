@@ -123,7 +123,3 @@ From *ebnaz (“even”) + *-ōną.
     - **Norwegian Bokmål:** jamne
   - **Swedish:** jämna
   - **Danish:** jævne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -55,7 +55,3 @@ Normalization of pre-Proto-Germanic *gʰlə-nó-s (“shining, glowing”) (quas
       - **German:** Glan — _archaic_
 - **Old Norse:** *glanr
   - **Norwegian:** glan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

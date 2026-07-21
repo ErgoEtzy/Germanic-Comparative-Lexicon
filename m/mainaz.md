@@ -155,7 +155,3 @@ From Proto-Indo-European *meh₂y-, which could be reduced from *(s)meh₂- (“
   - **Faroese:** meinur
   - **Norwegian Nynorsk:** mein
   - **Norwegian Nynorsk:** mein-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

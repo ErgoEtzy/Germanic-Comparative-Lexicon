@@ -12,7 +12,7 @@ From *alamann- (“mankind”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Noun
 
@@ -39,7 +39,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
 
 - **Proto-West Germanic:** *Alamann
   - **Old High German:** Alaman
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

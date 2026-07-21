@@ -202,7 +202,3 @@ From Proto-Indo-European *suHnús (“son”), with a long vowel contraction in 
   - **Middle English:** *-son — _borrowed_
     - **English:** -son
 - **Gothic:** 𐍃𐌿𐌽𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

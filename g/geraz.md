@@ -110,7 +110,3 @@ Related to *gernaz (“willing, eager”).
   - **Norwegian:** Gjere — _borrowed_
   - **Swedish:** Gere — _borrowed_
   - **Danish:** Gere — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

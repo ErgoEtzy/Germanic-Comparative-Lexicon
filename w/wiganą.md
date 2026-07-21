@@ -132,7 +132,3 @@ Originally a zero-grade present, from Proto-Indo-European *weyk- (“to fight”
     - **Swedish:** väga
 - **Gothic:** 𐍅𐌴𐌹𐌷𐌰𐌽
 - **Gothic:** 𐌰𐌽𐌳𐍅𐌰𐌹𐌷𐌰𐌽𐌳𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

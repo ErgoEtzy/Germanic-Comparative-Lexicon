@@ -271,7 +271,3 @@ From *wonh₁-os, from Proto-Indo-European *wenh₁- (“to wish, desire, love�
   - **Norwegian:** van
   - **Swedish:** van
   - **Old Danish:** van
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

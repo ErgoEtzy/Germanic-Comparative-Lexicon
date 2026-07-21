@@ -12,7 +12,7 @@ Possibly feminized from *sunnô (“sun”) in an opposing gender pair with masc
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -207,7 +207,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **Swedish:** annsjöns — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐍃𐌿𐌽𐌽𐍉
 - **Crimean Gothic:** sune
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

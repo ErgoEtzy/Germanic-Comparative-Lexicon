@@ -138,7 +138,3 @@ The iterative of *fleutaną (“to float, stream”), from Proto-Indo-European *
   - **Norwegian:** flote
   - **Swedish:** flotta
   - **Danish:** flåde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -138,7 +138,3 @@ Uncertain, as the variations between *kaiz- and *kar- cannot be explained as bei
     - **English:** cair
   - **Middle English:** kayren — _borrowed_
     - **English:** cair
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -51,7 +51,3 @@ From *hwassaz (“sharp”) + *-į̄.
     - **German:** Wässe
     - **German:** Wasse
 - **Gothic:** 𐍈𐌰𐍃𐍃𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

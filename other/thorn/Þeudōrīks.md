@@ -126,7 +126,3 @@ From *þeudō (“people”) + *rīks (“king, ruler”). Equivalent to Proto-C
   - **Middle High German:** Theodericus — _borrowed; late 14th and 15th century_ — _through a non-Germanic route_
   - **German:** Theoderich — _borrowed_ — _through a non-Germanic route_
   - **German:** Theodorich — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

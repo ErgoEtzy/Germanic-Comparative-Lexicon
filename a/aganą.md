@@ -91,7 +91,3 @@ From Proto-Indo-European *h₂eh₂ógʰe (“to have become afraid”), the per
 ### Germanic descendants
 
 - **Gothic:** 𐍉𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

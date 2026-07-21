@@ -98,7 +98,3 @@ From *dimbaną (“to fog”) + *-janą.
 - **Old High German:** dempfen
   - **Middle High German:** dempfen
     - **German:** dämpfen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -65,7 +65,3 @@ From Proto-Indo-European *krép-os ~ *krép-es-os, from *krep-. Cognate with Pro
     - **Middle Dutch:** *rif
       - **Dutch:** rif
   - **Old High German:** href
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

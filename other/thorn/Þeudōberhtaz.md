@@ -68,8 +68,4 @@ From *þeudō (“people, nation”) + *berhtaz (“bright, shining”).
   - **English:** Theudebert — _borrowed_ — _through a non-Germanic route_
   - **German:** Theudebert — _borrowed_ — _through a non-Germanic route_
 - **Icelandic:** Þjóðbjartur
-- **Visigothic/Suevic/Vandalic:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+- **Visigothic/Suevic/Vandalic:**

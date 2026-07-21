@@ -2426,7 +2426,3 @@ From the aorist subjunctive of Proto-Indo-European *gʷémt (“to take a step, 
   - **Gutnish:** kumbe
 - **Crimean Gothic:** kommen
 - **Gothic:** 𐌵𐌹𐌼𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -100,7 +100,3 @@ From Proto-Indo-European *med- (“to think about, reason, decide”). Cognate w
   - **Middle High German:** mezzen
     - **German:** messen
 - **Gothic:** 𐌼𐌹𐍄𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

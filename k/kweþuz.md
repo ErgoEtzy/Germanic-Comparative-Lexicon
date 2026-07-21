@@ -132,7 +132,3 @@ Older theories deriving the word from a Proto-Indo-European *gʷet-, *gūt- (“
     - **Swedish:** kved
   - **Old Danish:** kwith
 - **Gothic:** 𐌵𐌹𐌸𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

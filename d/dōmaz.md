@@ -101,7 +101,3 @@ From earlier *dṓmos, from Proto-Indo-European *dʰóh₁mos (“thing put”),
   - **Old Danish:** dom
     - **Danish:** dom
 - **Gothic:** 𐌳𐍉𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

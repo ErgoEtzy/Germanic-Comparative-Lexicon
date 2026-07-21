@@ -114,7 +114,3 @@ From Proto-Indo-European *(s)kewdʰ- (“to cover, encase”), from Proto-Indo-E
   - **Old Dutch:** *hūden
     - **Middle Dutch:** huden
       - **Dutch:** huiden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

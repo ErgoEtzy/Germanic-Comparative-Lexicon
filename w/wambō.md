@@ -567,7 +567,3 @@ The latter etymology assumes that Germanic *w is the expected outcome of PIE *g�
     - **Danish:** vom
   - **Gutnish:** vamb
 - **Gothic:** 𐍅𐌰𐌼𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

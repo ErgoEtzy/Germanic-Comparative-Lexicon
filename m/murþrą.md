@@ -129,7 +129,3 @@ From Pre-Germanic *mŕ̥trom, an instrumental formation to Proto-Indo-European *
   - **Old Dutch:** mordor
   - **Old High German:** mordor
 - **Gothic:** 𐌼𐌰𐌿𐍂𐌸𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

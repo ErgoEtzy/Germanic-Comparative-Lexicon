@@ -113,7 +113,3 @@ From *-ō (ō-stem suffix) + *-aniz (an-stem genitive singular and nominative/vo
     - **Swedish:** -or
   - **Danish:** -er
     - **Norwegian Bokmål:** -er
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

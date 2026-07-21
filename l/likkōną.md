@@ -281,7 +281,3 @@ From Pre-Germanic *liǵʰnéh₂-, from Proto-Indo-European *leyǵʰ- (“to lic
     - **English:** lech
   - **Middle English:** lechen — _borrowed_ — _through a non-Germanic route_
     - **English:** lech
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -101,7 +101,3 @@ From *uz- + *ganganą.
     - **Middle High German:** ergēn
       - **German:** ergehen
 - **Gothic:** 𐌿𐍃𐌲𐌰𐌲𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

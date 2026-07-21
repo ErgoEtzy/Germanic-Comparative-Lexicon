@@ -50,7 +50,3 @@ From *spellōną (“to tell”) + *-ô.
 - **Old Norse:** spjalli
   - **Icelandic:** spjalli
 - **Gothic:** 𐍃𐍀𐌹𐌻𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

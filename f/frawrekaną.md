@@ -103,7 +103,3 @@ From *fra- + *wrekaną.
   - **Old High German:** *firrëhhan
     - **Middle High German:** verrëchen
 - **Gothic:** 𐍆𐍂𐌰𐍅𐍂𐌹𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

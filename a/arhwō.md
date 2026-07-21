@@ -105,7 +105,3 @@ From Proto-Indo-European *h₂érkʷos (“bow, arrow”). Compare Latin arcus.
   - **Swedish:** Orvar — _borrowed; borrowed from Old West Norse as personal name_
 - **Gothic:** *𐌰𐍂𐍈𐌰
   - **Gothic:** 𐌰𐍂𐍈𐌰𐌶𐌽𐌰 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

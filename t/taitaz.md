@@ -173,7 +173,3 @@ From Proto-Indo-European *doydo-, from *dey- (“to gleam, shimmer, shine”).
     - **Scots:** tait
     - **Scots:** tayt
     - **Scots:** tate
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

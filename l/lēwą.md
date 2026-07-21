@@ -47,7 +47,3 @@ From Proto-Indo-European *leh₁w- (“to let [go]”).
 ### Germanic descendants
 
 - **Gothic:** 𐌻𐌴𐍅
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -69,7 +69,3 @@ From *aimaz + *uzjǭ.
   - **Norwegian Nynorsk:** eimyrje
     - **Norwegian Bokmål:** ildmørje
   - **Swedish:** mörja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

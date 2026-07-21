@@ -89,7 +89,3 @@ Uncertain. Possibly from *snak-, possibly from Proto-Indo-European *(s)neh₂- (
       - **Middle High German:** snecke — _borrowed_
     - **Middle Dutch:** snicke — _borrowed_
       - **Dutch:** snik
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

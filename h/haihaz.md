@@ -100,7 +100,3 @@ From Proto-Indo-European *kéh₂ikos (“one-eyed”). Cognate with Latin caecu
 - **Proto-Norse:** *ᚺᚨᚺᚨᛉ
   - **Old Norse:** Hárr
 - **Gothic:** 𐌷𐌰𐌹𐌷𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

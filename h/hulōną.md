@@ -111,7 +111,3 @@ From *hulaz (“hollow”) + *-ōną, or *hulą (“hole”) + *-ōną.
   - **Danish:** hule
 - **Gothic:** *𐌷𐌿𐌻𐍉𐌽
   - **Gothic:** 𐌿𐍃𐌷𐌿𐌻𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

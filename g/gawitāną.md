@@ -91,7 +91,3 @@ From *ga- + *witāną.
 - **Proto-West Germanic:** *gawitēn
   - **Old High German:** giwizzēn
 - **Gothic:** 𐌲𐌰𐍅𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -52,7 +52,3 @@ From Proto-Indo-European *-sneh₂.
   - **Old High German:** -nsa
 - **Gothic:** -𐌰𐍃𐌽𐌰
 - **Gothic:** -𐍃𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

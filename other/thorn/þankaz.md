@@ -108,7 +108,3 @@ Compare typologically Russian призна́тельный (priznátelʹnyj) (< 
   - **English:** ta — _borrowed; uncertain_
 - **Gothic:** 𐌸𐌰𐌲𐌺𐍃
 - **Vandalic:** *þank-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

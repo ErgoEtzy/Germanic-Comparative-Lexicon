@@ -65,7 +65,3 @@ From Proto-Indo-European *leyh₂- (“to die, disapear”).
       - **Middle English:** lew
       - **Middle English:** lewe
 - **Old Norse:** læ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

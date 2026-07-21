@@ -111,7 +111,3 @@ From *ga- + *beraną.
       - **German:** gebären
       - **Luxembourgish:** gebären
 - **Gothic:** 𐌲𐌰𐌱𐌰𐌹𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

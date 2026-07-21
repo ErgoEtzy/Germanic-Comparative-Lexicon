@@ -80,7 +80,3 @@ From the name of the “Vistula Veneti” or “Baltic Veneti”, one of at leas
       - **German:** Winde — _restricted to the sense “Slovene”_
 - **Old Norse:** vindr
   - **Icelandic:** Vindur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

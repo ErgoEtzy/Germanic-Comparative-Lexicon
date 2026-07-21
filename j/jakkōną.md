@@ -138,7 +138,3 @@ From earlier paradigm *jakkōþi ~ *jagunanþi, from pre-Proto-Germanic nā-iter
       - **Hunsrik:** jachte
       - **Luxembourgish:** joen
       - **Yiddish:** יאָגן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

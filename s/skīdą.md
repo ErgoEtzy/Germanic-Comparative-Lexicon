@@ -126,7 +126,3 @@ From Proto-Indo-European *skey-tó-m, from *skey- (“to split”). Compare, in 
   - **Middle English:** *skid — _borrowed_
     - **English:** skid
     - **English:** skeed
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

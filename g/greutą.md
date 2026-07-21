@@ -72,7 +72,3 @@ From Proto-Indo-European *gʰrewd-. Compare Lithuanian grúodas (“frost; froze
   - **Old Swedish:** grȳt
     - **Swedish:** gryt — _dialectal_
     - **Swedish:** gryte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

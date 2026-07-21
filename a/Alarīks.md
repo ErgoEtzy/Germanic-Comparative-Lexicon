@@ -48,7 +48,3 @@ From *allaz (“all”) + *rīks (“king, ruler”).
   - **Icelandic:** Alrekur
 - **Gothic:** *𐌰𐌻𐌰𐍂𐌴𐌹𐌺𐍃
   - **English:** Alaric — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

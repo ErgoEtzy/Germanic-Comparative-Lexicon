@@ -56,7 +56,3 @@ From Proto-Indo-European *bʰrem- (“edge, point, spike”), related to Old Nor
 - **Old Norse:** brim
   - **Icelandic:** brim
   - **Faroese:** brim
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

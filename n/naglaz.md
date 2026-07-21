@@ -891,7 +891,3 @@ From Proto-Indo-European *h₃nṓgʰs (“nail”).
   - **Gutnish:** nagel — _m_
   - **Gutnish:** nagul — _m_
 - **Gothic:** *𐌽𐌰𐌲𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

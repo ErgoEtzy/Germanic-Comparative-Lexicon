@@ -50,7 +50,3 @@ From *mundraz + *-į̄.
   - **Old High German:** muntarī
   - **Old High German:** muntrī
 - **Gothic:** 𐌼𐌿𐌽𐌳𐍂𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

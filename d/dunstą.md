@@ -180,8 +180,4 @@ Per Kroonen, from Proto-Indo-European *dʰuns-to-, from a nasal-infix zero-grade
     - **German:** Dunst
     - **Hunsrik:** Dunst
     - **Luxembourgish:** Donst
-    - **Rhine Franconian:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+    - **Rhine Franconian:**

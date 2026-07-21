@@ -96,7 +96,3 @@ From Proto-Indo-European *krek- (“frogspawn”). Cognate with Lithuanian kurku
     - **Swedish:** rom
   - **Danish:** rogn
   - **Danish:** ravn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

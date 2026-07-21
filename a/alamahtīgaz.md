@@ -214,7 +214,3 @@ From *ala- + *mahtīgaz, perhaps a calque of Latin omnipotēns.
 - **Old Norse:** almáttigr
   - **Icelandic:** almáttugur
   - **Faroese:** almáttugur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

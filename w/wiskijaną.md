@@ -105,7 +105,3 @@ From *wiskaz (“bundle of hay/straw, wisp”) + *-janą.
   - **Faroese:** viska
   - **Swedish:** viska
   - **Danish:** viske
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

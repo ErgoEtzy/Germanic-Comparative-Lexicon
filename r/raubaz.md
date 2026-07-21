@@ -205,7 +205,3 @@ From Proto-Indo-European *Hrewp- (“to peel; tear; strip”), synchronically an
   - **Middle English:** robbe — _borrowed_ — _through a non-Germanic route_
     - **English:** robe
     - **Scots:** robe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

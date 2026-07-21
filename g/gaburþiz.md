@@ -73,7 +73,3 @@ Derived from *gaberaną (“to bear (children), give birth to”). Equivalent to
       - **Luxembourgish:** Gebuert
       - **Yiddish:** געבורט
 - **Gothic:** 𐌲𐌰𐌱𐌰𐌿𐍂𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

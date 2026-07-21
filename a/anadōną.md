@@ -133,7 +133,3 @@ From *anadô (“breath, spirit, zeal”) + *-ōną.
       - **Scots:** ein — _obsolete_
     - **Middle Scots:** aynd
       - **Scots:** ein — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

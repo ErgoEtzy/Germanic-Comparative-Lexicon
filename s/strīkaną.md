@@ -125,7 +125,3 @@ From Proto-Indo-European *streyg- (“to stroke, rub, press”). Compare also *s
   - **Icelandic:** strýkva
   - **Icelandic:** strýkja
   - **Faroese:** strúka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

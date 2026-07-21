@@ -130,7 +130,3 @@ Maybe from Proto-Indo-European *slogos, from the root *(s)leg- (“to weaken”)
     - **Norwegian Bokmål:** slak
     - **Norwegian Nynorsk:** slak
   - **Swedish:** slak
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -243,7 +243,3 @@ From Proto-Indo-European *strow-éye-ti, a causative from the root *strew- (“t
   - **Elfdalian:** sträa
   - **Gutnish:** stråie
 - **Gothic:** 𐍃𐍄𐍂𐌰𐌿𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

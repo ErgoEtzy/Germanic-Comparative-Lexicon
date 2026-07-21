@@ -82,7 +82,3 @@ From Proto-Indo-European *wolH-u-s (“stick, stake”), from Proto-Indo-Europea
   - **Danish:** ol
   - **Danish:** vol
 - **Gothic:** 𐍅𐌰𐌻𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

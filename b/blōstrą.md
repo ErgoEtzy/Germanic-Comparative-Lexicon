@@ -48,7 +48,3 @@ Derived from *blōt- (“to sacrifice”) + *-þrą.
 
 - **Old High German:** bluostar
 - **Gothic:** 𐌲𐌿𐌳𐌱𐌻𐍉𐍃𐍄𐍂𐌴𐌹𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

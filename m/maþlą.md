@@ -94,7 +94,3 @@ Uncertain. Perhaps from a zero-grade stem of *mōtaną (“to be permitted to, t
       - **English:** mail
       - **Scots:** mail
 - **Gothic:** 𐌼𐌰𐌸𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

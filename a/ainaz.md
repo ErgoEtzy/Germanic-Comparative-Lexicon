@@ -713,7 +713,3 @@ From Proto-Indo-European *h₁óynos (“one”).
     - **Gutnish:** ann
     - **Gutnish:** h'en
 - **Gothic:** 𐌰𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -79,7 +79,3 @@ From Proto-Indo-European *mat-ḗn ~ *mat-nés, from *mat- (“insect, worm, mag
     - **Middle Dutch:** motte
       - **Dutch:** mot
 - **Gothic:** 𐌼𐌰𐌸𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

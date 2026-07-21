@@ -55,7 +55,3 @@ From *ga- + a form *minþiją, the latter a nominal derivative of *munaną (“t
   - **Middle English:** minne — _borrowed_
     - **English:** min
 - **Gothic:** 𐌲𐌰𐌼𐌹𐌽𐌸𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

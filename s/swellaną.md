@@ -121,7 +121,3 @@ Unknown. Perhaps from Proto-Indo-European *swel- (“to swell”) or *swelH- (Me
   - **Old Swedish:** svælla
     - **Swedish:** svälla
   - **Danish:** svulme
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

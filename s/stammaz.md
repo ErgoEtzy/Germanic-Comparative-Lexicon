@@ -107,7 +107,3 @@ An o-grade adjective derived from a lost strong verb *stimmaną, with reconstruc
   - **Icelandic:** stamr
   - **Old Swedish:** stamber
 - **Gothic:** 𐍃𐍄𐌰𐌼𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -213,7 +213,3 @@ From *naglaz (“nail”) + *-janą.
   - **Icelandic:** negla
   - **Swedish:** nagla
 - **Gothic:** 𐌲𐌰𐌽𐌰𐌲𐌻𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

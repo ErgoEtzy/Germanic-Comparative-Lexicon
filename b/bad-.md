@@ -40,7 +40,3 @@ Unknown. Compare Proto-Indo-European *bʰodʰ- (“to dig; plot of ground”), r
     - **Scots:** baud
     - **English:** bad
 - **Old High German:** pad
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

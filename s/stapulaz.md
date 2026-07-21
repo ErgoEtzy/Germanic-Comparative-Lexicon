@@ -173,7 +173,3 @@ Related to *stapiz (“a step”). Note semantic similarities to Proto-Indo-Euro
       - **Norwegian Nynorsk:** stabel — _borrowed_
       - **Icelandic:** stafli — _borrowed_
   - **Scanian:** stabel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

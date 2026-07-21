@@ -273,7 +273,3 @@ From *fra- + *gebaną. Possibly calqued from Late Latin perdōnō, or vice-versa
   - **Old Swedish:** forgiva
     - **Swedish:** förgiva
 - **Gothic:** 𐍆𐍂𐌰𐌲𐌹𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

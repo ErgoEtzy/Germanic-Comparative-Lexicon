@@ -57,7 +57,3 @@ From *wurhtaz, from Proto-Indo-European *wr̥ǵtós, from *werǵ-.
 - **Old Norse:** *urt
   - **Old Norse:** forurtir — _reshaped by analogy or addition of morphemes; f pl_
 - **Gothic:** *𐍅𐌰𐌿𐍂𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

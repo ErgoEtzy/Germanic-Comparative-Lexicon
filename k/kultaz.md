@@ -62,7 +62,3 @@ From Proto-Indo-European *gel- (“to amass; swell; ball up”).
   - **Norwegian:** kult
   - **Swedish:** kult
   - **Danish:** kuld
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

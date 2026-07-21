@@ -166,7 +166,3 @@ From *þri- + *-falþaz.
   - **Icelandic:** þrefaldur
   - **Old Swedish:** þrefaldugher
     - **Swedish:** trefaldig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

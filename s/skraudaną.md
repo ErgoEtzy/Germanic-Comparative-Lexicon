@@ -105,7 +105,3 @@ From Proto-Indo-European *skrówdʰ-e-ti, from *skrewdʰ- (“to cut, shred”);
     - **Middle High German:** schrōten
       - **Alemannic German:** schroote
       - **German:** schroten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -93,7 +93,3 @@ From the oblique stem of Proto-Indo-European *pér-tu-s ~ *pr̥-téw-s (“cross
   - **Old High German:** furt
     - **Middle High German:** vurt
       - **German:** Furt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -208,7 +208,3 @@ From Proto-Indo-European *swépnos (“sleep”). Related to *swefaną (“to sl
   - **Gutnish:** syvn
   - **Gutnish:** svämn
   - **Gutnish:** svömn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

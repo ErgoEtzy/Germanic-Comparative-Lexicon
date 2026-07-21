@@ -45,7 +45,3 @@ From *haljō (“hell, the underworld”) + *rūnō (“whisperess”).
   - **Old English:** hellrūn
   - **Old High German:** hellirūna
 - **Gothic:** *𐌷𐌰𐌻𐌾𐍉𐍂𐌿𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -85,7 +85,3 @@ From Pre-Germanic *kl̥Hmos, likely from an original mn-stem; from Proto-Indo-Eu
     - **Swedish:** holme
   - **Old Danish:** hulm
     - **Danish:** holm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -108,7 +108,3 @@ From Proto-Indo-European *h₂e(ḱ)-on-eh₂-, from *h₂eḱ- (“sharp”). S
     - **Scots:** yavin
     - **Scots:** yewn
 - **Gothic:** 𐌰𐌷𐌰𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

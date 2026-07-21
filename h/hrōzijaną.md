@@ -156,7 +156,3 @@ A causative formation, analyzable as *hrōzaz (“active, stirring, moving”) +
   - **Old Danish:** røræ
     - **Danish:** røre
       - **Norwegian Bokmål:** røre
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -110,7 +110,3 @@ Dunkel derives *þana “then” from Proto-Indo-European *tó-na (“so, that w
       - **Old Danish:** æn
         - **Danish:** end
 - **Gothic:** 𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

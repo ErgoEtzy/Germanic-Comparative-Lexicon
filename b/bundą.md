@@ -633,7 +633,3 @@ From Proto-Indo-European *bʰendʰ- (“to tie; bind”).
 - **Old Norse:** *byndi
 - **Old Norse:** handbyndi
 - **Gothic:** 𐌲𐌰𐌱𐌿𐌽𐌳𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

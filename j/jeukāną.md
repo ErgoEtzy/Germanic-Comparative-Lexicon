@@ -94,7 +94,3 @@ Likely from *yewǵ- (“to excite”). Possibly related to Proto-West Germanic *
 - **Proto-West Germanic:** *jeukr — _reshaped by analogy or addition of morphemes_
   - **Old English:** ġēocor
 - **Gothic:** 𐌾𐌹𐌿𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -130,7 +130,3 @@ Alternatively from a substrate language; more at πέλλα (pélla).
   - **Middle English:** fel — _borrowed_
     - **Scots:** fell
     - **English:** fell
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

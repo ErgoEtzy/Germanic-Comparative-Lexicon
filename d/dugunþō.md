@@ -999,7 +999,3 @@ From unattested *dugunþaz (“productive, useful, strong”) + *-ō, from Proto
         - **Norwegian Bokmål:** dyd
           - **Norwegian Nynorsk:** dyd — _borrowed_
     - **Gutnish:** dygd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -166,7 +166,3 @@ From o-grade intensive Proto-Indo-European *ǵʰlóh₁-e-ti or reduplicated sta
     - **Swedish:** glo
   - **Danish:** glo
   - **Scanian:** glowa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

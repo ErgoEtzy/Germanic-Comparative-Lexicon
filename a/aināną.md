@@ -98,7 +98,3 @@ From both *ainaz (“one”) + *-āną (stative-fientive suffix) and *ainaz (“
     - **Old High German:** ireinēn — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌰𐌹𐌽𐌰𐌽
   - **Gothic:** 𐌲𐌰𐌰𐌹𐌽𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

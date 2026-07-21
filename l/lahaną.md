@@ -98,7 +98,3 @@ From Proto-Indo-European *lok- (“to blame”). Compare Old Irish locht (“fau
   - **Old High German:** lahan
 - **Old Norse:** *lá
   - **Icelandic:** lá
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

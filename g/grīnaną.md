@@ -117,7 +117,3 @@ Possibly from a Proto-Indo-European *gʰrey- (“to flash”), with a nasal suff
   - **Old Danish:** *grinæ
     - **Danish:** grine
       - **Norwegian Bokmål:** grine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

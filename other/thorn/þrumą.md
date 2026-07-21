@@ -137,7 +137,3 @@ Of uncertain origin. R. Meringer compares Ancient Greek τέρμα (térma, “e
   - **Swedish:** tröm
   - **Swedish:** trumm
   - **Swedish:** trom
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

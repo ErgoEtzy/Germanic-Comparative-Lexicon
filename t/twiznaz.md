@@ -185,7 +185,3 @@ Possibly from Proto-Indo-European *dwis-nó-s (“double”), from Proto-Indo-Eu
       - **Luxembourgish:** Zwir
 - **Old Norse:** tvinni
   - **Icelandic:** tvinni
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

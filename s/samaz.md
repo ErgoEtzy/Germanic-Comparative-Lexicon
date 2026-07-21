@@ -123,7 +123,3 @@ From Proto-Indo-European *somHós (“same, alike”).
   - **Middle English:** same — _borrowed_
     - **English:** same
 - **Gothic:** 𐍃𐌰𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

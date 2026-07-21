@@ -235,7 +235,3 @@ Ringe reconstructs the ultimate pre-form of the word as *sámh₂dʰos (whence a
     - **Danish:** sand
   - **Elfdalian:** sand
   - **Gutnish:** sand
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

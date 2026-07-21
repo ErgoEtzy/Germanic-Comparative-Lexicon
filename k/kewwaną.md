@@ -188,8 +188,4 @@ From Proto-Indo-European *ǵyewh₁- (“to chew”); compare Tocharian B śuwa�
   - **Old Swedish:** tugga — _reshaped by analogy or addition of morphemes; weak verb_
     - **Swedish:** tugga
   - **Danish:** tygge — _reshaped by analogy or addition of morphemes; weak verb_
-  - **Dalian:** 
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
+  - **Dalian:**

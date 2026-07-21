@@ -69,7 +69,3 @@ From *blōþą (“blood”) + *rinnaną + *-andz.
   - **Old Frisian:** blōdrinnand
   - **Old Frisian:** blōdrunnand
 - **Gothic:** 𐌱𐌻𐍉𐌸𐌰𐍂𐌹𐌽𐌽𐌰𐌽𐌳𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -117,7 +117,3 @@ From Proto-Indo-European *ḱr̥h₂-nó-m, from *ḱerh₂- (“head, horn”).
     - **Danish:** horn
       - **Norwegian Bokmål:** horn
 - **Gothic:** 𐌷𐌰𐌿𐍂𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

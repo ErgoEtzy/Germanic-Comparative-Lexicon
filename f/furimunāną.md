@@ -94,7 +94,3 @@ From *furi- + *munāną (“to strive, to value”).
   - **Old High German:** firmonēn
 - **Old Norse:** fyrmuna
   - **Icelandic:** fyrirmuna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

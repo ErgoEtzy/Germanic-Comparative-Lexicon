@@ -89,7 +89,3 @@ Likely from Pre-Germanic *tr̥h₂(h₃)kʷ-, a compound of Proto-Indo-European 
     - **Hunsrik:** dorrich
     - **Luxembourgish:** duerch
     - **Yiddish:** דורך
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

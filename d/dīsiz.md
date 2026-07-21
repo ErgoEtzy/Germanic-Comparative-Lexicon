@@ -57,7 +57,3 @@ Kroonen states the following:
   - **Faroese:** dís
   - **Norwegian Nynorsk:** dis
   - **Old Swedish:** dīsa-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

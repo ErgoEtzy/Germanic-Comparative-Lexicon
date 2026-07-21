@@ -66,7 +66,3 @@ From Proto-Indo-European *gʰrendʰ- (“to crush”).
 - **Old High German:** grient — _m_
   - **Middle High German:** grint
     - **German:** Grind
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

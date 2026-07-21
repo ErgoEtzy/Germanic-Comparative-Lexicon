@@ -46,7 +46,3 @@ From Proto-Indo-European *ḱokh₂-. Cognate with Sanskrit शाखा (śā́
 ### Germanic descendants
 
 - **Gothic:** 𐌷𐍉𐌷𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

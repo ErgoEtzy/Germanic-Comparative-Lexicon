@@ -90,7 +90,3 @@ A North-European word probably from *h₂éngʷʰis (“snake, serpent, larva”
     - **Middle High German:** 
       - **German:** Anger
       - **German:** Inger
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

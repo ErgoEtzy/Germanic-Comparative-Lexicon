@@ -112,7 +112,3 @@ Uncertain, but probably from pre-Germanic *skh₃-m-éh₂, from Proto-Indo-Euro
   - **Old Danish:** skam
     - **Danish:** skam
 - **Gothic:** 𐍃𐌺𐌰𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

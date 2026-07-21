@@ -166,7 +166,3 @@ The dispute is due to differing hypotheses on how Proto-Indo-European initial *g
     - **Scanian:** værmer
   - **Old Gutnish:** varmbr
     - **Gutnish:** varmar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -118,7 +118,3 @@ From *hnīganą (“to bow”) + *-janą.
 - **Old Norse:** hneigja
   - **Icelandic:** hneigja
 - **Gothic:** 𐌷𐌽𐌰𐌹𐍅𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

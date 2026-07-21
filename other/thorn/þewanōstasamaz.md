@@ -103,7 +103,3 @@ From *þewanōstaz (“service”) + *-samaz.
   - **Old High German:** dionōstsam
 - **Old Norse:** þjónustusamr
   - **Icelandic:** þjónustusamur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

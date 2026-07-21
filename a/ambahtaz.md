@@ -131,7 +131,3 @@ Borrowed from Gaulish ambaxtos (“vassal”), from Proto-Celtic *ambaxtos (“s
   - **Old Gutnish:** ambatn
   - **Middle English:** ammbohht — _borrowed_
 - **Gothic:** 𐌰𐌽𐌳𐌱𐌰𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

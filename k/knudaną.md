@@ -125,7 +125,3 @@ An "aorist-present", from Pre-Germanic *gnét-, *gn̥t-, with remodeling of the 
   - **Norwegian Nynorsk:** knode
   - **Old Swedish:** knodha
     - **Swedish:** knåda
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

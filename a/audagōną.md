@@ -98,7 +98,3 @@ From *audagaz (“wealthy”) + *-ōną.
     - **Old High German:** giōtagōn — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** auðga
   - **Icelandic:** auðga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

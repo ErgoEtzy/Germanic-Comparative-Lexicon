@@ -144,7 +144,3 @@ From Proto-Indo-European *bʰendʰ- (“to tie; bond, band”).
     - **English:** band
   - **Middle Dutch:** bende — _borrowed_ — _through a non-Germanic route_
     - **Dutch:** bende
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -100,7 +100,3 @@ Old participle to a nasal present, from Proto-Indo-European *h₁ewk-. Compare L
 - **Gothic:** *𐌿𐌷𐍄𐍃
 - **Gothic:** 𐌱𐌹𐌿𐌷𐍄𐍃
 - **Gothic:** 𐌿𐌷𐍄𐌴𐌹𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

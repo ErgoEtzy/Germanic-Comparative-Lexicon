@@ -116,7 +116,3 @@ From Proto-Indo-European *geybʰ- (“to quarrel, dispute”).
 - **Old Norse:** 
   - **Norwegian:** keiv
   - **Danish:** ked
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -116,7 +116,3 @@ From *aftumô + *-istaz.
     - **Middle English:** eftemeste
       - **English:** aftermost
 - **Gothic:** 𐌰𐍆𐍄𐌿𐌼𐌹𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

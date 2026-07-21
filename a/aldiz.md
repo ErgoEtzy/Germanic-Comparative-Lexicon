@@ -95,7 +95,3 @@ From *alaną + *-þiz, of the same origin as the "age" sense of Etymology 1.
     - **Icelandic:** öld — _f_
     - **Faroese:** øld — _f_
     - **Danish:** old — _archaic; c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

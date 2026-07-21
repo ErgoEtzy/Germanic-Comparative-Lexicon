@@ -102,7 +102,3 @@ From Proto-Indo-European *kwep- (“to smoke, seethe, boil, surge”).
       - **Middle High German:** verwepfen — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐍈𐌰𐍀𐌾𐌰𐌽
   - **Gothic:** 𐌰𐍆𐍈𐌰𐍀𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

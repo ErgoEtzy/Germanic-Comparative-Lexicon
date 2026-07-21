@@ -65,7 +65,3 @@ Related to Middle Irish fell (“deception”), Lithuanian vi̇̀lti (“to dece
   - **Norwegian Nynorsk:** velde
   - **Old Swedish:** vǣl
     - **Swedish:** väl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

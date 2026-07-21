@@ -135,7 +135,3 @@ From Proto-Indo-European *ǵʰewd- (“to pour”).
     - **Norwegian Bokmål:** gyte
   - **Gutnish:** giauta
 - **Gothic:** 𐌲𐌹𐌿𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

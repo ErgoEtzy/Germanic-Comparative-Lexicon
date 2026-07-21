@@ -135,7 +135,3 @@ Equivalent to *skipą (“ship”) + *-ōną (“verbal suffix”).
   - **Norwegian Bokmål:** skipe
   - **Swedish:** skeppa
   - **Danish:** skibe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -135,7 +135,3 @@ From *rōaną (“to row”) + *-þrą (“tool, instrument”).
         - **Swedish:** Roslagen — _reshaped by analogy or addition of morphemes_
       - **Swedish:** Roden — _reshaped by analogy or addition of morphemes_
         - **Swedish:** Roslagen — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -60,7 +60,3 @@ Perhaps from Pre-Proto-Germanic *lengʷʰom, from Proto-Indo-European *lengʷʰ-
     - **English:** ling
     - **Scots:** lyng
     - **Scots:** ling
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -163,7 +163,3 @@ From Proto-Indo-European *kh₂id-néh₂-ti, from *kh₂eyd- (“to fall upon; 
       - **English:** hit
       - **Middle Scots:** hit
         - **Scots:** hit
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

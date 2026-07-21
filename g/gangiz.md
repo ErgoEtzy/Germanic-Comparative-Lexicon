@@ -117,7 +117,3 @@ A verbal adjective derived from *ganganą (“to go”).
   - **Old Swedish:** gænger
     - **Swedish:** gäng
     - **Swedish:** gänge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

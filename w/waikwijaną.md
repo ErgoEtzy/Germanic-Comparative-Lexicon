@@ -114,7 +114,3 @@ From *waikwaz (“weak”) + *-janą or *wīkwaną (“to yield, to fold”) + *
   - **Icelandic:** veikja
   - **Faroese:** veikja
   - **Old Swedish:** vēkia
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

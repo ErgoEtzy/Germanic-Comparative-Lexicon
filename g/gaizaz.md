@@ -218,7 +218,3 @@ From Proto-Indo-European *ǵʰoysós (“throwing spear”), from Proto-Indo-Eur
         - **Swedish:** gering — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌲𐌰𐌹𐍃
 - **Vandalic:** *gais/*geis
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

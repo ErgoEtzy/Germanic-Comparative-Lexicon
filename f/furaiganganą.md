@@ -97,7 +97,3 @@ From *furai- + *ganganą.
   - **Middle Low German:** vörgangend
 - **Old High German:** foragangan
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌰𐌲𐌰𐌲𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

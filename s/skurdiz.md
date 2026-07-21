@@ -63,7 +63,3 @@ From pre-Germanic *(s)kr̥(H)tís, from *skeraną + *-þiz.
     - **Swedish:** skörd
   - **Old Danish:** skurth
     - **Danish:** skurd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -163,7 +163,3 @@ From Proto-Indo-European *sendʰro- (“coagulating fluid, scale, dross”). Cog
   - **Old Swedish:** sinder
     - **Swedish:** sinder
   - **Danish:** sinder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

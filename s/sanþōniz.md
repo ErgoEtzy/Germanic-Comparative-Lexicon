@@ -53,7 +53,3 @@ Derived from *sanþōną (“to show to be true”).
   - **Icelandic:** sannan
   - **Icelandic:** sönnun
   - **Faroese:** sannan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

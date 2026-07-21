@@ -183,7 +183,3 @@ From Proto-Indo-European *knewg- (“to press; push; bend”), from *ken- (“to
   - **Old Swedish:** nykkia
     - **Swedish:** nycka
   - **Danish:** nykke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

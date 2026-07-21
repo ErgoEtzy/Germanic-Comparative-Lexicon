@@ -140,7 +140,3 @@ From Proto-Indo-European *(s)koréh₂, from the root *(s)ker- (“to part; spli
   - **Danish:** skare
   - **Norwegian Nynorsk:** skare
 - **Vandalic:** *skar-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

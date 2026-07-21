@@ -164,7 +164,3 @@ From Proto-Indo-European *dʰreybʰ- (“to drive, push”). Cognate with Irish 
     - **Danish:** drive
   - **Elfdalian:** draiva
 - **Gothic:** 𐌳𐍂𐌴𐌹𐌱𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

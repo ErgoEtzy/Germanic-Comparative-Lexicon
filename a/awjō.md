@@ -131,7 +131,3 @@ From earlier *agwjō, originally a substantive adjective related to *ahwō (“w
     - **Gutnish:** oy
     - **English:** -ey — _borrowed_
     - **English:** -ay — _borrowed; in place names_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

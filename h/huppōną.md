@@ -753,7 +753,3 @@ A secondary zero grade iterative. Possibly from Proto-Indo-European *kemp- (“t
   - **Norwegian Nynorsk:** hopa
   - **Norwegian Nynorsk:** hobba
   - **Danish:** hoppe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

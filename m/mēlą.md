@@ -98,7 +98,3 @@ Compare also Latin semel (“once”).
   - **Swedish:** mål
 - **Gothic:** 𐌼𐌴𐌻 — _n_
 - **Gothic:** 𐌼𐌴𐌻𐌰 — _f_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

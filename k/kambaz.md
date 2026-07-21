@@ -254,7 +254,3 @@ From Proto-Indo-European *ǵómbʰos (“tooth, peg”).
         - **Norwegian Bokmål:** kam
     - **Gutnish:** kamb
     - **Scanian:** køm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

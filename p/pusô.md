@@ -81,7 +81,3 @@ From *pus- (“to blow, inflate”); further origin uncertain. Has been compared
   - **Gutnish:** pus'
   - **Gutnish:** pusa
   - **Gutnish:** pusi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

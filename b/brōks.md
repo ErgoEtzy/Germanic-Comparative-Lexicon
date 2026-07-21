@@ -178,7 +178,3 @@ From earlier *brāks, from Pre-Germanic *bʰrāg-, from Proto-Indo-European *bʰ
   - **Old Swedish:** brōk
     - **Swedish:** brok
   - **Danish:** brog
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

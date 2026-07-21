@@ -92,7 +92,3 @@ From *sēaną + *-þiz, corresponding to a Proto-Indo-European *seh₁tis, from 
   - **Gutnish:** sid
 - **Gothic:** *𐍃𐌴𐌸𐍃
 - **Gothic:** 𐌼𐌰𐌽𐌰𐍃𐌴𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

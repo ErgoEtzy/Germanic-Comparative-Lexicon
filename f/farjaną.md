@@ -166,7 +166,3 @@ Probably the causative-iterative to the lost strong verb *feraną; compare *fara
   - **Swedish:** färja
   - **Danish:** færge
 - **Gothic:** 𐍆𐌰𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

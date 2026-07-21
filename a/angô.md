@@ -96,7 +96,3 @@ Cognate with Old Armenian անձն (anjn, “soul, person”), possibly from Pro
 - **Old Norse:** angi
   - **Icelandic:** angi
   - **Danish:** ange
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

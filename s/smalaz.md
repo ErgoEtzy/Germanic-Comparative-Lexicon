@@ -135,7 +135,3 @@ From Proto-Indo-European *smol(H)-o-s, traditionally traced back further to Prot
   - **Danish:** smal
 - **Gothic:** *𐍃𐌼𐌰𐌻𐍃
   - **Gothic:** 𐍃𐌼𐌰𐌻𐌹𐍃𐍄𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

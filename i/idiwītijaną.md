@@ -97,7 +97,3 @@ From *idiwītą (“shame, disgrace, insult”) + *-janą.
     - **Middle High German:** itewīzen
     - **Middle High German:** itwīzen
 - **Gothic:** 𐌹𐌳𐍅𐌴𐌹𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

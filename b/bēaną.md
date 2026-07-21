@@ -244,7 +244,3 @@ From Proto-Indo-European *bʰeh₁- (“to heat up; bathe”). The LIV suggests 
     - **Middle High German:** bæn
       - **German:** bähen — _southern_
       - **Luxembourgish:** béien — _archaic_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

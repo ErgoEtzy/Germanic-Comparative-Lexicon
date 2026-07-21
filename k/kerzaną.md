@@ -104,7 +104,3 @@ The expected form *kersaną is unattested, the current form with -z- arose by in
   - **Old High German:** cherran
     - **Middle High German:** kerren
       - **Cimbrian:** khèrran
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

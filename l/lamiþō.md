@@ -58,7 +58,3 @@ From *lamaz + *-iþō.
     - **Middle High German:** lemede
     - **Middle High German:** lemde
 - **Old Norse:** lemd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

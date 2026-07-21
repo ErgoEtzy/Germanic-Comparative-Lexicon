@@ -45,7 +45,3 @@ From pre-Germanic *medéts, oblique *medot-, a t-stem derived from Proto-Indo-Eu
 ### Germanic descendants
 
 - **Gothic:** 𐌼𐌹𐍄𐌰𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

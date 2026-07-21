@@ -48,7 +48,3 @@ From *argaz + *-iþō.
 - **Proto-West Germanic:** *argiþu
   - **Old English:** iergþ
   - **Old High German:** argida
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

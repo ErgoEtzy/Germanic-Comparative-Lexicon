@@ -56,7 +56,3 @@ Uncertain; possibly from Proto-Indo-European *Hrók-no-m, from *Hrek- (“to dec
   - **Old Swedish:** rān
     - **Swedish:** rån
   - **Danish:** ran
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

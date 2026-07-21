@@ -117,7 +117,3 @@ From Proto-Indo-European *wes- (“to dress, put on clothes”). The form *wasti
   - **English:** gaiter — _borrowed_ — _through a non-Germanic route_
   - **English:** gaiter — _borrowed_ — _through a non-Germanic route_
 - **Gothic:** 𐍅𐌰𐍃𐍄𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -260,7 +260,3 @@ From Proto-Indo-European *spey- (“peak; summit; sharp point; stick”).
   - **Norwegian Bokmål:** spir
   - **Swedish:** spira
   - **Danish:** spir
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

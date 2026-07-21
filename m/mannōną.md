@@ -106,7 +106,3 @@ From *mann- (“human, man”) + *-ōną.
 - **Old Norse:** manna
   - **Icelandic:** manna
   - **Swedish:** bemanna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

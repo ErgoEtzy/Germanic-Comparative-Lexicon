@@ -1345,7 +1345,3 @@ Older theories derived the word from a root Proto-Indo-European *ḱer-, whence 
       - **Danish:** ravn
         - **Norwegian Bokmål:** ravn
 - **Burgundian:** Franno
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

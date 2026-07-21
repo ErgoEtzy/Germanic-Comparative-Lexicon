@@ -76,7 +76,3 @@ From Proto-Indo-European *lnH-, zero-grade of *lénHos (“axletree, linchpin”
 ### Germanic descendants
 
 - **Gothic:** 𐌻𐌿𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

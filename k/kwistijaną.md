@@ -104,7 +104,3 @@ From *kwistiz (“damage, destruction”) + *-janą.
   - **Danish:** quista
   - **Norwegian Bokmål:** kviste
 - **Gothic:** 𐌵𐌹𐍃𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

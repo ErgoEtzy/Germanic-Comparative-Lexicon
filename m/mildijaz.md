@@ -135,7 +135,3 @@ From Proto-Indo-European *melh₂- (“to beat, pound, grind, mill”). Cognate 
     - **Danish:** mild
 - **Gothic:** 𐍆𐍂𐌹𐌰𐌸𐍅𐌰𐌼𐌹𐌻𐌳𐌴𐌹𐍃 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌿𐌽𐌼𐌹𐌻𐌳𐌴𐌹𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

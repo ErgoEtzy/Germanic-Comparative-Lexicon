@@ -74,7 +74,3 @@ Probably formed from the root of *lizaną (“to know, understand”), from Prot
     - **Swedish:** list
   - **Danish:** list
 - **Gothic:** 𐌻𐌹𐍃𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

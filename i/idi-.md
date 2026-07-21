@@ -60,7 +60,3 @@ From an unstressed variety of Proto-Indo-European *éti. Cognate with Latin et.
   - **Icelandic:** ið-
   - **Swedish:** id-
 - **Gothic:** 𐌹𐌳-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

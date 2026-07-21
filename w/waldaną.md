@@ -178,7 +178,3 @@ LIV² posits a *-dʰ-present *wélH-dʰe-ti to the root (there reconstructed as 
   - **Old Gutnish:** walda
     - **Gutnish:** valde
 - **Gothic:** 𐍅𐌰𐌻𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

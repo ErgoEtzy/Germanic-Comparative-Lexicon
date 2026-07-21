@@ -71,7 +71,3 @@ Possibly from Proto-Indo-European *(s)krengʰ- (“to twist, bend”), from *(s)
     - **Middle High German:** runge
       - **German:** Runge
 - **Gothic:** 𐌷𐍂𐌿𐌲𐌲𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -55,7 +55,3 @@ From Proto-Indo-European *keh₂n- (“to sing”). Related to *hanô (“rooste
     - **Swedish:** höna — _c_
   - **Danish:** høne — _c_
     - **Norwegian Bokmål:** høne — _f or m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

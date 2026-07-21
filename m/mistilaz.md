@@ -96,7 +96,3 @@ Derived from Proto-Indo-European *me (“with, mid”) and a zero-grade of *sed-
       - **English:** mistletoe
     - **Middle English:** mystyldene
       - **English:** mistletoe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

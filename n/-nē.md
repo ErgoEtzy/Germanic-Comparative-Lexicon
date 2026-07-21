@@ -63,7 +63,3 @@ Since *a stood before *-nē of most adverbs with this suffix it was rebracketed 
     - **Norwegian Nynorsk:** -ne
     - **Norwegian Nynorsk:** -n
 - **Gothic:** -𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

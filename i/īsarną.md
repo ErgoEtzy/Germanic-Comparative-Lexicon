@@ -1152,7 +1152,3 @@ Borrowed from Proto-Celtic *īsarnom, from Proto-Indo-European *h₁ésh₂r̥ (
     - **Scanian:** jærn
   - **Gutnish:** jan
 - **Gothic:** 𐌴𐌹𐍃𐌰𐍂𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

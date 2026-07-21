@@ -85,7 +85,3 @@ From Proto-Indo-European *weǵhe- (“to drag, carry”), from *weǵʰ- (“to t
       - **Swedish:** våg
     - **Danish:** våg
 - **Gothic:** 𐍅𐌴𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

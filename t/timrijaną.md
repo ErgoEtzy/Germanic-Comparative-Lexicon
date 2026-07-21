@@ -108,7 +108,3 @@ From *timrą (“building”) + *-janą.
     - **Middle High German:** zimbern
       - **German:** zimmern
 - **Gothic:** 𐍄𐌹𐌼𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -105,7 +105,3 @@ From *wēraz (“true, reliable, friendly”) + *-janą.
 - **Gothic:** *𐍅𐌴𐍂𐌾𐌰𐌽
   - **Gothic:** 𐍄𐌿𐌶𐍅𐌴𐍂𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌿𐌽𐍅𐌴𐍂𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

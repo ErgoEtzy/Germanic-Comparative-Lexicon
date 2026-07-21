@@ -118,7 +118,3 @@ From *bazaz (“bare, naked”) + *-ōną.
   - **Old Swedish:** bara
   - **Old Norse:** opinbera — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** opinbera
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

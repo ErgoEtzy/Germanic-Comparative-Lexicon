@@ -87,7 +87,3 @@ From earlier *hemdiz, from Proto-Indo-European *ḱem- (“hornless”), as does
     - **Swedish:** hind
   - **Danish:** hind
   - **Gutnish:** hinna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

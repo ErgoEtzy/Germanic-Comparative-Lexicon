@@ -46,7 +46,3 @@ From Pre-Germanic *mélḱmō, derived from a lost verb *melhaną, from Proto-In
 ### Germanic descendants
 
 - **Gothic:** 𐌼𐌹𐌻𐌷𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

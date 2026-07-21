@@ -101,7 +101,3 @@ Vṛddhi gerundive of *wesaną (“to be”).
 - **Old Norse:** værr
   - **Icelandic:** vær
 - **Gothic:** *𐍅𐌴𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

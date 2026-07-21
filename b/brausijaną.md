@@ -125,7 +125,3 @@ From Proto-Indo-European *bʰrews- (“to break”).
   - **Middle High German:** brūsen
     - **German:** brausen
 - **Norwegian:** brosa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

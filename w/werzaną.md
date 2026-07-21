@@ -111,7 +111,3 @@ Possibly from Proto-Indo-European *wers- (“to haul, drag, grind, hone, whet, p
     - **English:** war — _verb_
   - **Middle English:** werren — _borrowed_ — _through a non-Germanic route_
     - **English:** war — _verb_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

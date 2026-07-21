@@ -53,7 +53,3 @@ From earlier *wōpmaz, from *wōpijaną + *-maz, second part from Proto-Indo-Eur
   - **Icelandic:** ómur
   - **Norwegian Bokmål:** om
   - **Norwegian Nynorsk:** om
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

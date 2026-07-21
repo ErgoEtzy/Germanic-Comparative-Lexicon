@@ -12,7 +12,7 @@ Zero-grade i-stem noun derived from *seuþaną.
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -53,7 +53,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Middle High German:** sut — _m_
     - **German:** Sud — _m_
     - **German:** Absud
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

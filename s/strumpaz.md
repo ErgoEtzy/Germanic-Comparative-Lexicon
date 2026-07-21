@@ -67,7 +67,3 @@ According to Pfeiffer, from a Proto-Indo-European *stremb-, *stremp- (“stump, 
       - **Luxembourgish:** Strëmp
 - **Old Norse:** *stroppr
   - **Norwegian:** stropp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

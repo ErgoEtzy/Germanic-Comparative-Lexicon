@@ -147,7 +147,3 @@ Possibly from a non-IE substrate doublet *asetr-, *str-. Alternatively from Prot
     - **Danish:** stør
   - **Elfdalian:** stor
   - **Gutnish:** styr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

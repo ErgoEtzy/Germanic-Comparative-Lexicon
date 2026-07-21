@@ -1375,7 +1375,3 @@ Apparently identical to Sanskrit केतु (ketú, “brightness, light; appe
   - **Old Danish:** hæthær
     - **Danish:** hæder
 - **Gothic:** 𐌷𐌰𐌹𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

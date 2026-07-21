@@ -101,7 +101,3 @@ Perhaps from *tangō (“tongs, pliers”) + *-janą or *tinganą (“to press�
 - **Old Norse:** tengja
   - **Icelandic:** tengja
   - **Faroese:** teingja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

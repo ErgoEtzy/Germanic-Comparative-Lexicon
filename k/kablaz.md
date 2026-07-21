@@ -98,7 +98,3 @@ From Proto-Indo-European *ǵebʰ- (“branch”). Cognate with Lithuanian žãba
     - **Scots:** kavel
     - **Scots:** cavill
     - **Scots:** cavell
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

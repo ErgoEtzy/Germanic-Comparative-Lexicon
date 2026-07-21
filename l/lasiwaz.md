@@ -117,7 +117,3 @@ Kroonen suggests a possible derivation from Proto-Indo-European *losi-u-. Adams 
     - **Middle High German:** erleswen
     - **Middle High German:** erlesewen
 - **Gothic:** 𐌻𐌰𐍃𐌹𐍅𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

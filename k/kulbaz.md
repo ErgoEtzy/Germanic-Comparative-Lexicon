@@ -64,7 +64,3 @@ Apparently from a pre-form *gl̥h₁bʰ-o-, of uncertain further origin; often c
   - **Old Swedish:** kolver
     - **Swedish:** kolv — _dialectal_
   - **Danish:** kolv — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

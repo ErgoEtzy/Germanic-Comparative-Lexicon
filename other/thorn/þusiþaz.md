@@ -108,7 +108,3 @@ The past participle of a lost verb, *þusjaną (“to be calm”), from Proto-In
     - **Danish:** tyst
   - **Old Danish:** thyster
     - **Danish:** tyst
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

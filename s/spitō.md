@@ -69,7 +69,3 @@ Orel leaves the origin of this family of words open, though the words seem to de
 - **Old Norse:** *spita
   - **Norwegian:** spita — _f_
   - **Swedish:** speta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

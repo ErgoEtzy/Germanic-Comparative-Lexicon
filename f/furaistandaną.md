@@ -98,7 +98,3 @@ From *furai- + *standaną.
 - **Old High German:** forastēn
   - **Middle High German:** vorestān
 - **Gothic:** 𐍆𐌰𐌿𐍂𐌰𐍃𐍄𐌰𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

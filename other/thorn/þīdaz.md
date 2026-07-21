@@ -98,7 +98,3 @@ From Pre-Germanic *tih₁tós, the original, nasal-less past participle to *þī
 ### Germanic descendants
 
 - **Old Norse:** þíðr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

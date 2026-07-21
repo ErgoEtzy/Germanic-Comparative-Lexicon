@@ -177,7 +177,3 @@ From Proto-Indo-European *pnktu-, from *pen-k-. Cognate with Sanskrit पङ्�
       - **Alemannic German:** Fiechti
       - **Alemannic German:** Füechti
       - **German:** Feuchte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

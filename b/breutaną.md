@@ -156,7 +156,3 @@ Whether the intransitive counterpart *breuþaną is related is unclear.
       - **Scanian:** brýda
     - **Gutnish:** braute
 - **Gothic:** *𐌱𐍂𐌹𐌿𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

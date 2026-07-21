@@ -100,7 +100,3 @@ From Pre-Germanic *wriḱnéh₂-, a zero-grade iterative from Proto-Indo-Europe
 - **Low German:** wrikken
 - **Dutch:** wrikken
 - **German:** wricken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

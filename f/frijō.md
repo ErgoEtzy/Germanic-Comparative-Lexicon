@@ -51,7 +51,3 @@ From Proto-Indo-European *priHéh₂, feminine form of *priHós, from the root *
   - **Old Saxon:** frī — _f_
   - **Old Saxon:** frī — _n_
   - **Old Saxon:** *frijją
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -276,7 +276,3 @@ From *alinō (“ell, ulna, forearm”) + *bugô (“bend, bow”).
     - **Old Swedish:** albogha kroker
     - **Old Swedish:** albugha krogh
     - **Old Swedish:** albwgha krogh
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

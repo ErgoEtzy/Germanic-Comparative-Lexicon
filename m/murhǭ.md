@@ -95,7 +95,3 @@ Uncertain; presumably cognate with Proto-Slavic *mъrky (“carrot”), suggesti
     - **Norwegian Bokmål:** mure
     - **Norwegian Nynorsk:** mure
   - **Swedish:** morot
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

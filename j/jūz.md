@@ -437,7 +437,3 @@ From Proto-Indo-European *yúHs, plural of *túh₂.
   - **Old Gutnish:** ir
   - **Old Gutnish:** ᛁᛦ
 - **Gothic:** 𐌾𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

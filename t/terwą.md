@@ -93,7 +93,3 @@ From Pre-Germanic *derwom, derived from Proto-Indo-European *dóru (“tree”).
   - **Norwegian Nynorsk:** tjære
   - **Old Swedish:** tiæra
     - **Swedish:** tjära
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

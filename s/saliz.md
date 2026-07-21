@@ -255,7 +255,3 @@ From Proto-Indo-European *sol-, *sel- (“human settlement, village, dwelling”
     - **Danish:** sal
       - **Norwegian Bokmål:** sal
 - **Gothic:** *𐍃𐌰𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

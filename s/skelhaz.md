@@ -150,7 +150,3 @@ From Proto-Indo-European *(s)kel- (“to lean, bend; joint”).
 - **Old Norse:** skjalgr
   - **Icelandic:** skjálgur
   - **English:** askile — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

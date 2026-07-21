@@ -271,7 +271,3 @@ From Proto-Indo-European *wendʰ- (“to turn, twist, weave, braid”). (same as
     - **English:** wand
     - **Scots:** wand
 - **Gothic:** 𐍅𐌰𐌽𐌳𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

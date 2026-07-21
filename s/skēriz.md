@@ -102,7 +102,3 @@ Vṛddhi gerundive of *skeraną (“to shear, cut”).
 - **Old English:** ǣsċǣre
 - **Old Norse:** *skærr
   - **Icelandic:** skær
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

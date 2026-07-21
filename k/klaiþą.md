@@ -113,7 +113,3 @@ Traditionally derived from Proto-Indo-European *gleyt-, an extension of the root
     - **German:** Kleid
     - **Luxembourgish:** Kleed
     - **Yiddish:** קלייד
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

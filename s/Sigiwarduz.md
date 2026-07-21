@@ -575,7 +575,3 @@ From *sigiz (“victory”) + *warduz (“guard”).
   - **Faroese:** Sigurð — _borrowed_
   - **Swedish:** Sigurd — _borrowed_
   - **Danish:** Sigurd — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

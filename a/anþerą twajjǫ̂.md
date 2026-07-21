@@ -12,7 +12,7 @@ From *anþerą, neuter singular of *anþeraz (“other”) + *twajjǫ̂, genitiv
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Noun
 
@@ -22,7 +22,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
 
 - **Old English:** ōþer twēġa
 - **Old Norse:** annat tveggja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

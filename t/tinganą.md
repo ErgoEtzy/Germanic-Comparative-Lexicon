@@ -93,7 +93,3 @@ From Proto-Indo-European *denḱ- (“to bite”), with -ng- instead of expected
 
 - **Old English:** *tingan
 - **Old English:** getingan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

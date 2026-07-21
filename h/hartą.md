@@ -60,7 +60,3 @@ Unknown. Theories include derivation from Proto-Indo-European *ḱerd- (“heart
         - **Dutch:** hars
           - **Afrikaans:** hars
       - **Swedish:** harts — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

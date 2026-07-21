@@ -94,7 +94,3 @@ Related to *skeutaną (“to shoot”)
   - **Danish:** skud
     - **Norwegian Bokmål:** skudd
   - **Scots:** scot — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -96,7 +96,3 @@ From Proto-Indo-European *bʰerH- (“to pierce; to strike”).
     - **Middle English:** brethen
     - **Middle English:** breoðen — _Laȝamon's Brut_
   - **Old High German:** briodan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

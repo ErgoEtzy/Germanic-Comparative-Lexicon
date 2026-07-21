@@ -48,7 +48,3 @@ From earlier *aidlą, from Proto-Indo-European *h₂éydʰ-lom, from *h₂eydʰ-
 
 - **Proto-West Germanic:** *ail
   - **Old English:** āl
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

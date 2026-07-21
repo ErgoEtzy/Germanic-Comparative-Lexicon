@@ -105,7 +105,3 @@ From Proto-Indo-European *seh₁- (“long, lasting”). Cognate with Lithuanian
   - **Swedish:** sen
   - **Danish:** sen
     - **Norwegian Bokmål:** sen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

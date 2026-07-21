@@ -114,7 +114,3 @@ From *hundą (“hundred”) + *radą (“count”), a neuter variant of *radō 
     - **Danish:** hundred
     - **Danish:** hundrede — _cardinal number_
     - **Danish:** hundrede — _noun_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

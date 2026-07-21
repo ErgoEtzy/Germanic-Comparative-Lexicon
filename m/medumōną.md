@@ -96,7 +96,3 @@ From *medumô (“middle, midmost”) + *-ōną.
     - **Middle English:** medemen
   - **Old High German:** metamēn
 - **Gothic:** 𐌼𐌹𐌳𐌿𐌼𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -60,7 +60,3 @@ From Proto-Indo-European *stelb-, *stelp- (“post”), from *stel- (“to put; 
     - **English:** stulp
     - **Scots:** stulp
     - **Scots:** stilp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

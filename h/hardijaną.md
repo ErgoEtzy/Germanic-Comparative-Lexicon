@@ -135,7 +135,3 @@ From *harduz (“hard, severe”) + *-janą.
     - **Danish:** hærde
 - **Gothic:** *𐌷𐌰𐍂𐌳𐌾𐌰𐌽
 - **Gothic:** 𐌲𐌰𐌷𐌰𐍂𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -396,7 +396,3 @@ From an i-stem derivative of Proto-Indo-European *gʷḗn f (“woman”). Kroon
   - **Old Swedish:** broþorqvæn
   - **Old Swedish:** sonaqvæn
 - **Gothic:** 𐌵𐌴𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

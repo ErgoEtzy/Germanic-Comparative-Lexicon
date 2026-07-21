@@ -95,7 +95,3 @@ From *snak- (“to breathe, blow; sigh”), of unknown origin. Perhaps ultimatel
   - **Swedish:** snaka
   - **Danish:** snage
   - **Dutch:** snaken — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

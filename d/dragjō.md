@@ -50,7 +50,3 @@ From Proto-Indo-European *dʰragʰ-yeh₂, from *dʰrā́ks.
   - **Swedish:** drägg
   - **Middle English:** dregges — _borrowed_
     - **English:** dregs
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

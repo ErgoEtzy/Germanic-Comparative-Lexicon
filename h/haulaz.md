@@ -70,7 +70,3 @@ From Proto-Indo-European *kh₂ewl-o-s, from *kh₂ewl- (“tumor, rupture, hern
   - **Icelandic:** haull
   - **Old Norse:** haula — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** haula
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -93,7 +93,3 @@ Likely derived from a lost substantive *fanþ-, from Proto-Indo-European *pónth
 
 - **Proto-West Germanic:** 
   - **Old English:** fēþan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

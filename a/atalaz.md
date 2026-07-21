@@ -106,7 +106,3 @@ Possibly from Pre-Germanic/Proto-Indo-European *h₃édolos, from the root *h₃
   - **Icelandic:** atall
   - **Icelandic:** ötull
   - **Norwegian Nynorsk:** atal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

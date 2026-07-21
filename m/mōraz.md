@@ -93,7 +93,3 @@ A Germanic derivation from *mari, or from Proto-Indo-European *meh₂-.
   - **Icelandic:** mærr
   - **Danish:** mor
   - **Danish:** moor
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

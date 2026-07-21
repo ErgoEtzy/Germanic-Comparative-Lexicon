@@ -98,7 +98,3 @@ From *dubaz (“dull”) + *-naną. Related to *daubaz (“stunned”).
     - **Swedish:** domna
   - **Old Swedish:** dufna
     - **Swedish:** domna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

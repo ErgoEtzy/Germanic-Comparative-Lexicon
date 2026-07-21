@@ -123,7 +123,3 @@ Possibly from Proto-Indo-European *gʰln̥d-néh₂-ti and thus related to *glin
   - **Norwegian:** glytta
   - **Swedish:** glutta
   - **Danish:** glo
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -126,7 +126,3 @@ From *sprīþaną (“to break up”) + *-janą. Cognate with Latin spernō, spa
       - **Alemannic German:** spräite
       - **German:** spreiten
   - **Swedish:** sprida
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

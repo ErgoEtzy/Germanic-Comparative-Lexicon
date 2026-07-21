@@ -136,7 +136,3 @@ From Proto-Indo-European *bʰeg- (“to smash, break”). Orel's alternate deriv
   - **Icelandic:** bikkja
   - **Norwegian Bokmål:** bikke
   - **Norwegian Nynorsk:** bikke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

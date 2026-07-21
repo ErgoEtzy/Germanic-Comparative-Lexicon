@@ -121,7 +121,3 @@ From *spuþþą, *spuþþaz (“mockery”) + *-ōną.
     - **Norwegian Nynorsk:** spotta
   - **Swedish:** spotta
   - **Danish:** spotte
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

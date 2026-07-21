@@ -147,7 +147,3 @@ From Pre-Germanic *stm̥Hnós, from Proto-Indo-European *stemH- (“to push, inh
       - **Luxembourgish:** stomm
       - **Yiddish:** שטום
         - **English:** shtum — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

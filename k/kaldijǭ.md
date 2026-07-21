@@ -55,7 +55,3 @@ From *kaldaz (“cold”) + *-jǭ. Related to Proto-Slavic *koldędzь (probably
   - **Swedish:** källa
   - **Danish:** kilde
     - **Norwegian Bokmål:** kilde — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

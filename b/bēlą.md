@@ -71,7 +71,3 @@ Probably from a Proto-Indo-European *bʰḗlH-o-m, from *bʰel- (“shiny; brigh
   - **Old Swedish:** bāl
     - **Swedish:** bål
   - **Danish:** bål
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

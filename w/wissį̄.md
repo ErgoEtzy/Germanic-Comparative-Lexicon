@@ -52,7 +52,3 @@ From *wissaz (“known”) + *-į̄.
         - **German:** Gewisse
 - **Gothic:** *𐍅𐌹𐍃𐍃𐌴𐌹
   - **Gothic:** 𐌼𐌹𐌸𐍅𐌹𐍃𐍃𐌴𐌹 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

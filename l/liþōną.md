@@ -184,7 +184,3 @@ Closely related to the strong verb *līþaną (“to go, pass”).
       - **(German Low German:** leiden
     - **Middle Low German:** leeden
       - **(German Low German:** leiden
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

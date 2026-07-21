@@ -110,7 +110,3 @@ From Proto-Indo-European *seyb- (“to pour, leak, trickle”).
   - **Middle High German:** siffen
 - **Old High German:** *siffōn
   - **Middle High German:** siffen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

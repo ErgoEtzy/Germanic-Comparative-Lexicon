@@ -130,7 +130,3 @@ From Proto-Indo-European *Hroyǵ-éye-ti, a causative o-grade of *Hreyǵ- (“to
       - **Cimbrian:** rékhan
       - **German:** reichen
       - **Yiddish:** גרייכן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

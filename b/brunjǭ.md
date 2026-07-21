@@ -12,7 +12,7 @@ Uncertain; possibly borrowed from Proto-Celtic *brunnyos, from earlier *brusnyos
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -91,7 +91,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **English:** brinie
     - **Scots:** byrnie
 - **Gothic:** 𐌱𐍂𐌿𐌽𐌾𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

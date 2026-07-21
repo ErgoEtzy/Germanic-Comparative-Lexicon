@@ -125,7 +125,3 @@ From Proto-Indo-European *wen- (“to win, achieve, overcome”); cognate with S
   - **Old Danish:** winnæ
     - **Danish:** vinde
 - **Gothic:** 𐍅𐌹𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

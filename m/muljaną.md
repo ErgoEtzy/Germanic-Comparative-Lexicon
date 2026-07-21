@@ -111,7 +111,3 @@ Zero-grade ye-present, pre-Germanic *ml̥h₂ye-, from the root of *malaną (“
   - **Faroese:** mylja
   - **Norwegian Nynorsk:** mylja
   - **Norwegian Nynorsk:** mylje
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

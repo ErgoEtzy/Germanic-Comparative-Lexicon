@@ -66,7 +66,3 @@ From Proto-Indo-European *-trom.
   - **Old Swedish:** -þer
     - **Swedish:** -der
 - **Gothic:** -𐌸𐍂
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

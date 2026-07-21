@@ -94,7 +94,3 @@ From *werdaz (“turned toward, forwards, outwards”) + *-janą, related to *wa
 - **Proto-West Germanic:** *andawirdijan — _reshaped by analogy or addition of morphemes_
   - **Old High German:** antwirten
 - **Gothic:** 𐌲𐌰𐌲𐌰𐍅𐌰𐌹𐍂𐌸𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

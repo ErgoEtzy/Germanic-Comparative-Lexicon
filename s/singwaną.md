@@ -215,7 +215,3 @@ From Proto-Indo-European *séngʷʰ-e-ti, from *sengʷʰ- (“to recite, sing”
     - **Gutnish:** singga
 - **Gothic:** 𐍃𐌹𐌲𐌲𐍅𐌰𐌽
 - **Crimean Gothic:** singhen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -71,7 +71,3 @@ The word seems to derive from Proto-Indo-European *speyg-, a *g-extension of *sp
   - **Middle English:** spyk — _borrowed_
     - **English:** spike
     - **Scots:** spike
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

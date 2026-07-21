@@ -86,7 +86,3 @@ From Proto-Indo-European *deḱs- (“right”). Cognate with Latin dexter (“r
       - **Middle Low German:** zeswe — _borrowed_
       - **Middle Low German:** seswe — _borrowed_
 - **Gothic:** 𐍄𐌰𐌹𐌷𐍃𐍅𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

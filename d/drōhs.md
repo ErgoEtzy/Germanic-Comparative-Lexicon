@@ -60,7 +60,3 @@ From Proto-Indo-European *dʰrā́ks, likely of non-Indo-European origin.
     - **Dutch:** droes
 - **Old High German:** truos
 - **Old High German:** gitruos
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

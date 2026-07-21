@@ -49,7 +49,3 @@ Possibly an o-grade variant of *lehtrą (see Proto-West Germanic *lehtr), but mo
 - **Old Norse:** látr
   - **Icelandic:** látur
   - **Faroese:** látur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

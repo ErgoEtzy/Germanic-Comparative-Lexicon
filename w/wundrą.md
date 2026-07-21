@@ -97,7 +97,3 @@ From Proto-Indo-European *wn̥h₁-tro-m, from *wenh₁- (“to desire, wish for
     - **Swedish:** under
   - **Old Danish:** undær
     - **Danish:** under
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

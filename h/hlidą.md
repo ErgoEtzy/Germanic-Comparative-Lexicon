@@ -81,7 +81,3 @@ From Proto-Indo-European *ḱlitóm (“that which is covered”), from the adje
   - **Old Swedish:** liþ
     - **Swedish:** led
   - **Danish:** led
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

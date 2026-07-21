@@ -399,7 +399,3 @@ From Proto-Indo-European *h₁rep- (“to rip, snatch, tear, pinch”).
     - **Swedish:** räfsa
   - **Old Danish:** ræfsæ
     - **Danish:** revse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

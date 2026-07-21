@@ -227,7 +227,3 @@ From Pre-Germanic *Hruknéh₂-, possibly from Proto-Indo-European *h₃rewk- (�
   - **Faroese:** rugga
   - **Swedish:** rucka
   - **Danish:** rokke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

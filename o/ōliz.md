@@ -102,7 +102,3 @@ Vṛddhi gerundive of *alaną (“to raise, nourish”).
   - **Icelandic:** æll
 - **Old Norse:** ǿll
   - **Icelandic:** æll
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

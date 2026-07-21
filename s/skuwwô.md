@@ -58,7 +58,3 @@ From Proto-Indo-European *(s)ḱeh₃w-ō ~ *(s)ḱuh₃-nés (“(one's) shadow
   - **Gutnish:** skugge
   - **Gutnish:** skugg'
 - **Gothic:** 𐍃𐌺𐌿𐌲𐌲𐍅𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

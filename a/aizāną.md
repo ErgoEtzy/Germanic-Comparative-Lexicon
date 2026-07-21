@@ -112,7 +112,3 @@ From *aizō (“reverence, honour”) + *-āną.
 - **Old Norse:** eira
   - **Icelandic:** eira
   - **Faroese:** eira
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

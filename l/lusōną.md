@@ -95,7 +95,3 @@ From *lusą (“loss”) + *-ōną.
   - **Icelandic:** losa
   - **Norwegian Nynorsk:** lòse
   - **Norwegian Nynorsk:** lòsa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

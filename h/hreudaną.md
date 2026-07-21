@@ -95,7 +95,3 @@ From Proto-Indo-European *krewH-dʰh₁-e-ti, from Proto-Indo-European *krewH- (
 - **Proto-West Germanic:** *hreudan
   - **Old English:** hrēodan
 - **Old Norse:** hrjóða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

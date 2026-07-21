@@ -117,7 +117,3 @@ Vṛddhi gerundive of *kwemaną (“to come”).
 - **Old Norse:** kvæmr
   - **Icelandic:** kvæmur
   - **Old Swedish:** qvæmber
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

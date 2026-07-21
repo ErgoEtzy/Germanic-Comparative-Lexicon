@@ -129,7 +129,3 @@ The sense of love potion is influenced by similar forms from the unrelated *lub�
 - **Gothic:** *𐌻𐌿𐌱𐌹
 - **Gothic:** 𐌻𐌿𐌱𐌾𐌰𐌻𐌴𐌹𐍃
 - **Gothic:** 𐌻𐌿𐌱𐌾𐌰𐌻𐌴𐌹𐍃𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

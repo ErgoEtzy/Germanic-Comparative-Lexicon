@@ -49,7 +49,3 @@ Ultimately from Proto-Indo-European *ǵneh₃- (“to know”).
 - **Old Norse:** kynni
   - **Icelandic:** kynni
 - **Gothic:** 𐌺𐌿𐌽𐌸𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

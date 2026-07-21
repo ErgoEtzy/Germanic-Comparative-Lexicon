@@ -121,7 +121,3 @@ From Proto-Indo-European *weh₂dʰ-. Cognate with Proto-Italic *wāðō, Old Ar
   - **Old Danish:** vade
     - **Danish:** vade
       - **Norwegian Bokmål:** vade
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

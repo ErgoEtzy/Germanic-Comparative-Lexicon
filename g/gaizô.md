@@ -67,7 +67,3 @@ From Proto-Indo-European *ǵʰays- (“pointed stick, spear”), from Proto-Indo
     - **Swedish:** gere
     - **Swedish:** gera
     - **Swedish:** geere — _heraldry; 1600s_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -305,7 +305,3 @@ Of unclear origin; appears to stem from a Proto-Indo-European *pleh₁ḱ- (“t
     - **Swedish:** fläsk
   - **Old Danish:** flæsk
     - **Danish:** flæsk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -120,7 +120,3 @@ From Proto-Indo-European *wendʰ- (“to turn, wind, braid”). Cognate with Old
     - **Swedish:** vinda
   - **Danish:** vinde
 - **Gothic:** *𐍅𐌹𐌽𐌳𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

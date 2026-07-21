@@ -98,7 +98,3 @@ From *fra- + *wurkijaną.
   - **Old Saxon:** farwirkian
   - **Old High German:** firwurken
 - **Gothic:** 𐍆𐍂𐌰𐍅𐌰𐌿𐍂𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

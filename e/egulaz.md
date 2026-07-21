@@ -260,7 +260,3 @@ Likely from Proto-Indo-European *h₁ógʷʰ-i-s ~ *h₁égʷʰ-i-s (“snake”
   - **Danish:** igle
   - **Danish:** egel — _archaic_
   - **Danish:** igel — _c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

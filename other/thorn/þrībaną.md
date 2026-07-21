@@ -111,7 +111,3 @@ Apparently from a Proto-Indo-European *treyp- (“to seize”), whose origin Kro
       - **English:** thrive
       - **Scots:** thrive
       - **Yola:** threeve
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -95,7 +95,3 @@ Uncertain. The traditional connection to Proto-Indo-European *gʷʰew- (“to re
   - **Icelandic:** gá
   - **Faroese:** gáa
   - **Elfdalian:** gą̊
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -173,7 +173,3 @@ From Proto-Indo-European *wéyh₁-ow-, from *weyh₁- (“to chase, pursue”).
       - **Danish:** lomvie — _borrowed_
     - **Swedish:** lomvia
     - **English:** lavy — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -70,7 +70,3 @@ From Proto-Indo-European *-níd- (“nit, louse egg”). Cognate with Ancient Gr
   - **Faroese:** nitrur
   - **Norwegian Nynorsk:** nit
   - **Norwegian Nynorsk:** neit
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

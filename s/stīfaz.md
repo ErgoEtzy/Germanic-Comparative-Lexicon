@@ -133,7 +133,3 @@ From Pre-Germanic *stéypos, from Proto-Indo-European *steyp- (“to be stiff, e
       - **German:** steif
       - **Hunsrik:** steif
       - **Luxembourgish:** steif
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

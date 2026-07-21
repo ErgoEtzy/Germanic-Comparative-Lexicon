@@ -99,7 +99,3 @@ From *frīdaz (“beloved; beautiful”) + *-janą.
   - **Norwegian Nynorsk:** freda
   - **Norwegian Bokmål:** frede
 - **Gothic:** 𐍆𐍂𐌴𐌹𐌳𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

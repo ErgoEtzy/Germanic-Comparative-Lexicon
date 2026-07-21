@@ -1370,7 +1370,3 @@ Remodeled based on analogy with *-tēr kinship words, from Proto-Indo-European *
 - **East Germanic:** 
   - **Gothic:** 𐍃𐍅𐌹𐍃𐍄𐌰𐍂
   - **Crimean Gothic:** schwester
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

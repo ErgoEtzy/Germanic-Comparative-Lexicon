@@ -113,7 +113,3 @@ However, Kroonen prefers to derive the word from a Proto-Indo-European *tsewbʰ-
       - **German:** stieben
     - **Middle High German:** stiuben
       - **German:** stieben
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

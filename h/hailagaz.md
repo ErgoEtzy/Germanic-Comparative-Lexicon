@@ -247,7 +247,3 @@ From *hailaz (“hale, healthy”) + *-gaz (“-y, adjectival suffix”).
   - **Swedish:** helg — _c_
   - **Danish:** helg — _c_
 - **Gothic:** 𐌷𐌰𐌹𐌻𐌰𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

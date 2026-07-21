@@ -89,7 +89,3 @@ From Proto-Indo-European *sh₂éy-ōl ~ *sh₂i-l-és, from *sh₂ey- (“to bi
       - **Luxembourgish:** Seel
 - **Old Norse:** seil
   - **Icelandic:** seil
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

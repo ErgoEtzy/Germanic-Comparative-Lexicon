@@ -276,7 +276,3 @@ From pre-Proto-Germanic *wódōr ~ *wodén(o)s, from Proto-Indo-European *wédō
   - **Scanian:** vann
   - **Gutnish:** vattn
 - **Gothic:** 𐍅𐌰𐍄𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

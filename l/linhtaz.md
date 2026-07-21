@@ -141,7 +141,3 @@ From Pre-Germanic *h₁lengʷʰ-tos, from Proto-Indo-European *h₁lengʷʰ- (�
     - **Swedish:** lätt
   - **Danish:** let
 - **Gothic:** 𐌻𐌴𐌹𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -141,7 +141,3 @@ From *laizijaną (“to teach”), from *lizaną + *-janą, stative from the roo
 - **Gothic:** *𐌻𐌰𐌹𐍃𐍉
   - **Gothic:** 𐌻𐌰𐌹𐍃𐌰𐍂𐌴𐌹𐍃 — _reshaped by analogy or addition of morphemes_
   - **Gothic:** 𐌻𐌰𐌹𐍃𐌴𐌹𐌲𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -116,7 +116,3 @@ On the basis of Old Dutch wrisil (“hero”) and Old Saxon wrisilīk (“gigant
     - **Swedish:** rese
   - **Old Danish:** ræsæ
     - **Danish:** rise
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

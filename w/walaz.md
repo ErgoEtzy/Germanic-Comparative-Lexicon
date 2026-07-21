@@ -152,7 +152,3 @@ From pre-Germanic *wolH-os, "turned or turning", from Proto-Indo-European *welH-
   - **Old Norse:** valkyrja — _reshaped by analogy or addition of morphemes_
     - **English:** Valkyrie — _borrowed_
 - **Old Norse:** valr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

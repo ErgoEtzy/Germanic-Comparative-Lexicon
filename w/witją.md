@@ -115,7 +115,3 @@ Nominal formation from *witaną (“to know”).
 - **Gothic:** 𐌿𐌽𐍅𐌹𐍄𐌹
 - **Vandalic:** *wit
 - **Vandalic:** *witV-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

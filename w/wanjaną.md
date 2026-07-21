@@ -149,7 +149,3 @@ From *wanaz (“accustomed”) + *-janą (factitive suffix).
     - **Danish:** vænne
       - **Norwegian Bokmål:** venne
   - **Gutnish:** väne
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

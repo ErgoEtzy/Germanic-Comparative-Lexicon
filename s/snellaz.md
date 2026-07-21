@@ -153,7 +153,3 @@ Uncertain. Possibly from Pre-Germanic *snedʰlos, from Proto-Indo-European *sned
     - **Danish:** snild
   - **Gutnish:** snäldar
   - **Gutnish:** snällar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

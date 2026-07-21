@@ -130,7 +130,3 @@ From Proto-Indo-European *glag- (“to make a noise, chatter, chirp”), from Pr
   - **Faroese:** klaka
   - **Faroese:** klakka
   - **Norwegian:** klakka
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

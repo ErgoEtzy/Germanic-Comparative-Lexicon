@@ -77,7 +77,3 @@ From Proto-Indo-European *gʷʰon-eh₂, from *gʷʰen- (“to strike, kill”).
       - **German:** Bahn
       - **Luxembourgish:** Bunn
       - **Yiddish:** באַן
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

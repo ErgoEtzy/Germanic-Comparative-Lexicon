@@ -40,7 +40,3 @@ Uncertain; possibly from *inguz, *unguz (“mortal; man”), from Proto-Indo-Eur
   - **Old Norse:** Ynglingr — _reshaped by analogy or addition of morphemes_
 - **Gothic:** *𐌹𐌲𐌲𐌿𐍃
 - **Gothic:** *𐌹𐌲𐌲𐍅𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

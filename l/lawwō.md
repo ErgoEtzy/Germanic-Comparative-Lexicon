@@ -65,7 +65,3 @@ From Proto-Indo-European *lowH-éh₂, from *lewH- (“to cut”) + *-éh₂. Di
   - **Norwegian Bokmål:** logg — _m_
   - **Norwegian Bokmål:** lagg — _m_
   - **Swedish:** lagg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

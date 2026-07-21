@@ -562,7 +562,3 @@ From Proto-Indo-European *ǵʰeh₁- (“to go, reach”). The suppletive past t
     - **Norwegian Bokmål:** gå
 - **Gothic:** 𐌲𐌰𐌲𐌲𐌰𐌽
 - **Crimean Gothic:** geen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -123,7 +123,3 @@ Often compared (cf. Pokorny) also to Ancient Greek σμῑκρός (smīkrós), 
       - **Swedish:** smäcker — _borrowed_
 - **Old Norse:** *smikr
   - **Norwegian:** smikr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

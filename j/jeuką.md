@@ -49,7 +49,3 @@ From Proto-Indo-European *yéwgom. Cognate with Ancient Greek Ancient Greek ζε
 - **Proto-West Germanic:** *jeuk
   - **Old High German:** *jiuh
     - **Middle High German:** jiuch
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

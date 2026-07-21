@@ -108,7 +108,3 @@ Past participle of an unattested verb *halaną (“to slope; be inclined”). Fr
   - **Icelandic:** hallur
 - **Gothic:** *𐌷𐌰𐌻𐌸𐍃
   - **Gothic:** 𐍅𐌹𐌻𐌾𐌰𐌷𐌰𐌻𐌸𐌴𐌹 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

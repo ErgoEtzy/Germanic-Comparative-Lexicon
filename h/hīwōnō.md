@@ -85,7 +85,3 @@ Originally the plural of *hīwô, from Proto-Indo-European *ḱey- (“to be lyi
     - **Danish:** hjon
   - **Old Danish:** hiona
     - **Danish:** hjon
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

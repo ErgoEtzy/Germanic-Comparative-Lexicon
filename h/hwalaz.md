@@ -154,7 +154,3 @@ From Proto-Indo-European *(s)kʷálos (“large fish, sheatfish”), from the sa
     - **Middle High German:** walre
       - **German:** Waler — _archaic_
       - **German:** Waller
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -179,7 +179,3 @@ From Proto-Indo-European *mlów-tu-s, from *mlew- (“to crush, soften”). Rela
   - **Old Swedish:** blø̄dher
     - **Swedish:** blöd
   - **Danish:** blød
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

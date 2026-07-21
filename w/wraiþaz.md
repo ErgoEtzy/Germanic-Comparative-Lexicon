@@ -154,7 +154,3 @@ From Pre-Germanic *wróytos, from Proto-Indo-European *wreyt- (“to turn, twist
       - **Danish:** vred
         - **Norwegian Bokmål:** vred
     - **Norwegian Nynorsk:** vreid
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -45,7 +45,3 @@ From Proto-Indo-European *weyh₁- (“to desire; move toward; pursue”).
 - **Old Norse:** veiði
   - **Icelandic:** veiði
   - **Norwegian Nynorsk:** veide
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

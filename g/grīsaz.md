@@ -180,7 +180,3 @@ Uncertain. Perhaps from Etymology 1 above, ultimately tied to *grīsaną (“to 
     - **English:** grice
     - **Scots:** grise
     - **Scots:** grice
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

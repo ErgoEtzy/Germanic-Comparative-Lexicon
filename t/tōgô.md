@@ -133,7 +133,3 @@ From Proto-Indo-European *deh₃gʰ- (“branch”). Possibly cognate with Alban
   - **Old Swedish:** tagger — _m_
     - **Swedish:** tagg
   - **Norwegian Nynorsk:** tagg — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

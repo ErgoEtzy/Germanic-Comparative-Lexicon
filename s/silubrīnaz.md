@@ -109,7 +109,3 @@ From *silubrą + *-īnaz.
   - **Middle High German:** silberīn
     - **German:** silbern
 - **Gothic:** 𐍃𐌹𐌻𐌿𐌱𐍂𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

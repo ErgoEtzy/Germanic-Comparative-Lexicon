@@ -152,7 +152,3 @@ Of uncertain origin. Perhaps from Proto-Indo-European *bʰr-oy-tos, a participle
   - **Danish:** bred
     - **Norwegian Bokmål:** bred
 - **Gothic:** 𐌱𐍂𐌰𐌹𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

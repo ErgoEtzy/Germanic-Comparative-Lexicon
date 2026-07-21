@@ -209,7 +209,3 @@ Origin uncertain. Perhaps from Proto-Indo-European *les- (“to gather, lease”
     - **Middle High German:** lēr
       - **German:** leer
       - **Hunsrik:** läer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

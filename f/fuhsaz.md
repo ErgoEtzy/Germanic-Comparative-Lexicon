@@ -131,7 +131,3 @@ From Proto-Indo-European *púḱsos (“the tailed one”). Cognate with Sanskri
       - **Rhine Franconian:** 
       - **Swabian:** Fuchs
       - **Yiddish:** פֿוקס
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

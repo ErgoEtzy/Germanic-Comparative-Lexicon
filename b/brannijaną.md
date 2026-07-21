@@ -197,7 +197,3 @@ From *brinnaną (“to burn”) + *-janą.
       - **Scots:** brenn
       - **Scots:** brend
 - **Gothic:** *𐌱𐍂𐌰𐌽𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

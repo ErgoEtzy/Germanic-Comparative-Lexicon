@@ -77,7 +77,3 @@ Alternatively, from Proto-Indo-European *(s)ley- (“sticky, slimy”), in which
       - **Luxembourgish:** Läim
       - **Pennsylvania German:** Leim
 - **Old Norse:** lím
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

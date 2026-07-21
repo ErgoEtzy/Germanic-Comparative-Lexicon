@@ -120,7 +120,3 @@ Traditionally derived from Proto-Indo-European *bʰōw-go-s, from a root *bʰew-
   - **Old Swedish:** būker
     - **Swedish:** buk
   - **Danish:** bug
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

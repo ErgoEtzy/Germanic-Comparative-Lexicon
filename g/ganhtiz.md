@@ -73,7 +73,3 @@ From *ganganą + *-þiz.
   - **Elfdalian:** gą̊t
 - **Gothic:** 𐍆𐍂𐌰𐌼𐌲𐌰𐌷𐍄𐍃 — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌹𐌽𐌽𐌰𐍄𐌲𐌰𐌷𐍄𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -268,7 +268,3 @@ From *bōks (“book”) + *stabaz (“staff, stick”).
   - **Old Danish:** bokstav
     - **Danish:** bogstav
   - **Gutnish:** bokstav
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

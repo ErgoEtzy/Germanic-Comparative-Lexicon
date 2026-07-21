@@ -123,7 +123,3 @@ From Proto-Indo-European *kneyd- (“to scratch, knock”), sometimes considered
   - **Norwegian Nynorsk:** nita
   - **Norwegian Nynorsk:** nite
   - **Swedish:** nita
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

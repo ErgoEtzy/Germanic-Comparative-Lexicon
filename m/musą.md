@@ -129,7 +129,3 @@ From Proto-Indo-European *mews-. Cognates include Latin muscus, Proto-Slavic *m—
     - **Swedish:** mossa
   - **Danish:** mose
     - **Norwegian Bokm√•l:** mose
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

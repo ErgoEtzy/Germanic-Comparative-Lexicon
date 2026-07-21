@@ -99,7 +99,3 @@ The formation may be older, as identical constructions are found in other Indo-E
     - **Middle English:** atberen
 - **Old Swedish:** atbæra
 - **Gothic:** 𐌰𐍄𐌱𐌰𐌹𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

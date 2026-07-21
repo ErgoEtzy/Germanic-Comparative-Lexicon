@@ -104,7 +104,3 @@ From *slagą, *slagiz (“blow, strike”) + *-ōną.
       - **German:** schlagen — _conflated with descendant of *slahan_
 - **Old Norse:** slaga
   - **Icelandic:** slaga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

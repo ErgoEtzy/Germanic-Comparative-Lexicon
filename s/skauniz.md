@@ -238,7 +238,3 @@ From Pre-Germanic *skowh₁nis, a verbal adjective originally meaning "watchable
       - **Rhine Franconian:** 
       - **Yiddish:** שיין
 - **Gothic:** 𐍃𐌺𐌰𐌿𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

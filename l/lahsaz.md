@@ -83,7 +83,3 @@ From Pre-Germanic *laḱsos, from Proto-Indo-European *laḱs- (“salmon, trout
     - **Danish:** laks
       - **Norwegian Bokmål:** laks
   - **Gutnish:** lax
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

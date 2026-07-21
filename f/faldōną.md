@@ -164,7 +164,3 @@ From Proto-Indo-European *pel- (“to fold”), equivalent to *faldaz + *-ōną.
   - **Danish:** folde
     - **Norwegian Bokmål:** folde — _borrowed_
     - **Norwegian Nynorsk:** folde — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -50,7 +50,3 @@ From *ga- (associative prefix) + *hlaibaz (“bread”) + *-ô (personalizing en
   - **Old High German:** kaleibo
   - **Old High German:** galeipo
 - **Gothic:** 𐌲𐌰𐌷𐌻𐌰𐌹𐌱𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

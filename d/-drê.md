@@ -27,7 +27,3 @@ Derived by Dunkel from Proto-Indo-European *-tre (directional/locative suffix) +
 - **Gothic:** -𐌳𐍂𐌴
 - **Old English:** -der
   - **English:** -ther
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

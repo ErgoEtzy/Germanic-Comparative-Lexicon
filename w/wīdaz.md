@@ -150,7 +150,3 @@ From Pre-Germanic *h₁weydʰh₁os (“set apart, asunder, in two”), from Pro
     - **Swedish:** vid
   - **Danish:** vid
     - **Norwegian Bokmål:** vid
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

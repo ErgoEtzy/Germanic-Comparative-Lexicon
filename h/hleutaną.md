@@ -106,7 +106,3 @@ Less likely from Proto-Indo-European *(s)klēh₂w- (“to shut, close, lock; to
   - **Faroese:** ljóta
   - **Old Swedish:** liūta
     - **Swedish:** ljuta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

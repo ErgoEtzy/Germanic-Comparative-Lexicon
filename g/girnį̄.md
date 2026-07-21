@@ -51,7 +51,3 @@ From *gernaz (“eager, willing”) + *-į̄.
 - **Old Norse:** girni
   - **Icelandic:** girni
 - **Gothic:** 𐌲𐌰𐌹𐍂𐌽𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

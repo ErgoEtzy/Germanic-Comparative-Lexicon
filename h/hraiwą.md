@@ -61,7 +61,3 @@ From Pre-Proto-Germanic *krow-yóm (by metathesis), derived from Proto-Indo-Euro
   - **Icelandic:** hræ
   - **Faroese:** ræ
 - **Gothic:** 𐌷𐍂𐌰𐌹𐍅𐌰𐌳𐌿𐌱𐍉 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

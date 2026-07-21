@@ -190,7 +190,3 @@ Related to an earlier *sku(w)enjō- (whence modern German Scheune (“barn”)),
       - **Transylvanian Saxon:** Schyre
       - **Transylvanian Saxon:** Schure
   - **Salian Frankish:** *screunu
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

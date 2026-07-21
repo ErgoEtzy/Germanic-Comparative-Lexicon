@@ -92,7 +92,3 @@ From pre-Proto-Germanic *gʰlidmon-ye-ti, from *gʰléyd-mō ~ gʰlid-men-és (w
 ### Germanic descendants
 
 - **Gothic:** 𐌲𐌻𐌹𐍄𐌼𐌿𐌽𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

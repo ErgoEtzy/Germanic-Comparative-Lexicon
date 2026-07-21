@@ -54,7 +54,3 @@ From Proto-Indo-European *kel-.
   - **Scots:** halin — _borrowed_
   - **Scots:** halen — _borrowed_
   - **Scots:** haalie — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

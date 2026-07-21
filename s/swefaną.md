@@ -137,7 +137,3 @@ From Proto-Indo-European *swep- (“to sleep”). Originally either a zero-grade
     - **Old Swedish:** sofna
       - **Swedish:** somna
     - **Danish:** sovne — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -635,7 +635,3 @@ According to Kroonen, from Proto-Indo-European *lubʰ-tu-s, from *lewbʰ- (“to
       - **Scots:** laft
       - **English:** loft
 - **Gothic:** 𐌻𐌿𐍆𐍄𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

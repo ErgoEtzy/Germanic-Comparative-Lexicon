@@ -48,7 +48,3 @@ From pre-Germanic *h₁ew(H)-t-, likely an extension of the same root found in L
 
 - **Old Norse:** jóð
   - **Icelandic:** jóð
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

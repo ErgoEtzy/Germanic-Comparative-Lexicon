@@ -102,7 +102,3 @@ From *stuþs (“support, prop, post”) + *-janą.
   - **Norwegian Bokmål:** støe
   - **Norwegian Nynorsk:** stydja — _obsolete_
   - **Swedish:** stödja
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

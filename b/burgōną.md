@@ -121,7 +121,3 @@ From *burgaz (“promise, debt”) + *-ōną. *burgaz is from Proto-Indo-Europea
     - **Swedish:** borga
   - **Danish:** borge
   - **Norwegian Bokmål:** borge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

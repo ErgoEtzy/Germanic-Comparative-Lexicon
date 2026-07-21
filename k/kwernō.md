@@ -207,7 +207,3 @@ From earlier *kwernuz, a rare feminine u-stem reanalysed as an ō-stem, in turn 
   - **Jamtish:** kvæðn
   - **Gutnish:** kvänn
   - **Scanian:** kværn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

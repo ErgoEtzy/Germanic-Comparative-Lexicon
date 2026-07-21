@@ -91,7 +91,3 @@ Inherited from Proto-Indo-European *-éh₂m̥s (eh₂-stem accusative plural en
     - **Swedish:** -ar
   - **Danish:** -e
   - **Old Frisian:** -ar — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

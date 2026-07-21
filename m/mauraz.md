@@ -52,7 +52,3 @@ From pre-Germanic *mowros, in which *mowr- is believed to be a metathesis of Pro
     - **Norwegian Bokmål:** maur — _borrowed; m_
   - **Westrobothnian:** 
   - **Middle English:** mowre — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

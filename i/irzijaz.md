@@ -148,7 +148,3 @@ From Proto-Indo-European *h₁ers- (“to flow, wander, waver”). Cognate with 
     - **Middle High German:** irre
       - **German:** irre
 - **Gothic:** 𐌰𐌹𐍂𐌶𐌴𐌹𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

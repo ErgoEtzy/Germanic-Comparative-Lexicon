@@ -95,7 +95,3 @@ Possibly from Proto-Indo-European *trewd- (“to push, to thrust”). Cognate wi
   - **Old English:** *þrūtan
     - **Old English:** āþruten — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** þrútinn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

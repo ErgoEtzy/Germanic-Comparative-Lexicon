@@ -56,7 +56,3 @@ From *wela + *dēdiz.
   - **Middle High German:** woltāt
     - **German:** Wohltat
 - **Gothic:** 𐍅𐌰𐌹𐌻𐌰𐌳𐌴𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

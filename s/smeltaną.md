@@ -152,7 +152,3 @@ From Proto-Indo-European *(s)méldeti, from Proto-Indo-European *(s)meld- (“to
   - **Gutnish:** smälta
   - **Dalian:** 
     - **Elfdalian:** smelta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -1274,7 +1274,3 @@ From the locative form of Pre-Germanic *h₂ep(o)teros, from Proto-Indo-European
       - **Gutnish:** etta
       - **Gutnish:** ettar
       - **Gutnish:** yttur — _fårö_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

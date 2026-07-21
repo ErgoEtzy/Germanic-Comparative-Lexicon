@@ -96,7 +96,3 @@ From Proto-Indo-European *meh₂d- (“to encounter, come”). Cognate with Old 
   - **Old Swedish:** mø̄te
     - **Swedish:** möte
   - **Danish:** møde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

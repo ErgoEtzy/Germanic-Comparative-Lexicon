@@ -48,7 +48,3 @@ From *rēdaz (“counsel, advice”) + *banô (“slayer, murderer”).
 - **Old English:** rǣdbana
 - **Old Norse:** ráðbani
   - **Icelandic:** ráðbani
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -171,7 +171,3 @@ Appears to derive from a Proto-Indo-European *ḱelb-, *ḱelp- (“to help”),
   - **Old Danish:** hialpæ
     - **Danish:** hjælpe
 - **Gothic:** 𐌷𐌹𐌻𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

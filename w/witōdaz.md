@@ -110,7 +110,3 @@ See the etymology of the corresponding lemma form.
 - **Old Norse:** *vitaðr
   - **Old Norse:** vísvitaðr — _reshaped by analogy or addition of morphemes_
     - **Icelandic:** vísvitaður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

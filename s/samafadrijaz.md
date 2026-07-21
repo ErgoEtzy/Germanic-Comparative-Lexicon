@@ -101,7 +101,3 @@ From pre-Germanic *somHo-ph₂tr-(i)yos; equivalent to *samaz + *fadēr + *-jaz.
 
 - **Old Norse:** samfeðri — _< *samafadrijô_
   - **Icelandic:** samfeðra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

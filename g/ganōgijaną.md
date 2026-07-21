@@ -122,7 +122,3 @@ From *ganōgaz (“enough, sufficient”) + *-janą.
   - **Old Swedish:** nøghia
     - **Swedish:** nöja
 - **Gothic:** 𐌲𐌰𐌽𐍉𐌷𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

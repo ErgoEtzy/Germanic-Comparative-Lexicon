@@ -52,7 +52,3 @@ From Proto-Indo-European *stéh₂mn̥ (“that which stands, stature”).
   - **Old Danish:** 
     - **Danish:** stom(me)
 - **Gothic:** 𐍃𐍄𐍉𐌼𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

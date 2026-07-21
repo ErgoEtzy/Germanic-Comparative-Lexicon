@@ -78,7 +78,3 @@ From *sigiz (“victory”) + *mundō (“protection”).
     - **Dutch:** Sigismund
   - **Middle Dutch:** Sigismund — _borrowed_ — _through a non-Germanic route_
     - **Dutch:** Sigismund
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

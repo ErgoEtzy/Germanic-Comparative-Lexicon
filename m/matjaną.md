@@ -96,7 +96,3 @@ Traditionally derived from Proto-Indo-European *m̥h₂d-yéti ~ *m̥h₂d-yónt
 - **Gothic:** 𐌼𐌰𐍄𐌾𐌰𐌽
 - **Vandalic:** *matjan
 - **Vandalic:** matzia
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

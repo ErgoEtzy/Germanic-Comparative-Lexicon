@@ -12,7 +12,7 @@ Closely related to the strong verb *swībaną. It seems to have adopted the -p- 
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -99,7 +99,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
       - **Dutch:** zwijpen
       - **Dutch:** swijpen — _obsolete_
 - **Old Norse:** svípa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

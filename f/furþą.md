@@ -105,7 +105,3 @@ From pre-Germanic *pŕ̥-to(m), perhaps with accent retraction from Proto-Indo-E
       - **Cimbrian:** vort
       - **German:** fort
 - **Old Norse:** forð
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

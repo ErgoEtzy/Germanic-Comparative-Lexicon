@@ -300,7 +300,3 @@ From *ne + *ainaz. Compare Old Latin noenum, Old Prussian niains.
       - **Luxembourgish:** nee
 - **Old Norse:** neinn
   - **Icelandic:** neinn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -68,7 +68,3 @@ From Pre-Germanic *witís, generalised from the oblique stem of Proto-Indo-Europ
       - **German:** Weid
 - **Old Norse:** við
   - **Icelandic:** við
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

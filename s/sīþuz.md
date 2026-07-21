@@ -151,7 +151,3 @@ From Pre-Germanic *séh₁-i-tu-s or *sh₁-éi-tu-s, from Proto-Indo-European *
     - **Old Swedish:** sidh — _cf. "sijth" 1604_
       - **Swedish:** sid
 - **Gothic:** 𐍃𐌴𐌹𐌸𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

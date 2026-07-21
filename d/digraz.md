@@ -106,7 +106,3 @@ From Pre-Germanic Proto-Indo-European *dʰiǵʰrós (“(well-)formed”), equiv
   - **Danish:** diger
 - **Gothic:** *𐌳𐌹𐌲𐍂𐍃
 - **Gothic:** 𐌳𐌹𐌲𐍂𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

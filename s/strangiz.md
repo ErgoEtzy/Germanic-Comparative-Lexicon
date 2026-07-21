@@ -105,7 +105,3 @@ From Proto-Indo-European *strengʰ- (“rope, cord; to be tight”). Cognate wit
   - **Norwegian Nynorsk:** streng — _m_
   - **Old Swedish:** strænger — _m_
     - **Swedish:** sträng — _c_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

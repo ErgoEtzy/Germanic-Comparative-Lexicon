@@ -111,7 +111,3 @@ Unknown. Possibly from Proto-Indo-European *swé (“oneself”, reflexive prono
 - **English:** Suebi — _borrowed_ — _through a non-Germanic route_
 - **English:** Suevi — _borrowed_ — _through a non-Germanic route_
 - **English:** Swabia — _borrowed_ — _through a non-Germanic route_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

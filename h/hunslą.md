@@ -191,7 +191,3 @@ From Proto-Indo-European *ḱwen- (“holy”) + *-slą. Cognate with Lithuanian
     - **Icelandic:** husl
     - **Old Swedish:** hūsl
 - **Gothic:** 𐌷𐌿𐌽𐍃𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

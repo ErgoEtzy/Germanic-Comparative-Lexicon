@@ -223,7 +223,3 @@ From Proto-Indo-European *Hrewp- (“to snatch”). Equivalent to *raubaz (“ro
     - **English:** rob
     - **Scots:** rob
 - **Old Norse:** raufa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

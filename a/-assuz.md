@@ -46,7 +46,3 @@ From earlier *-at-tuz, reanalyzed from *-at-janą + *-tuz.
 ### Germanic descendants
 
 - **Gothic:** -𐌰𐍃𐍃𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

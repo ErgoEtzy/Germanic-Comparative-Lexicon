@@ -171,7 +171,3 @@ From *arbaidiją, *arbaidiz (“labour, work, hardship”) + *-ōną.
       - **Yiddish:** אַרבעטן
 - **Old Norse:** erfiða
   - **Icelandic:** erfiða
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

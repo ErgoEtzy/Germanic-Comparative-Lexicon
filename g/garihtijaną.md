@@ -112,7 +112,3 @@ From *ga- + *rihtijaną.
       - **Dutch:** gerechten
   - **Old High German:** girihten
 - **Gothic:** 𐌲𐌰𐍂𐌰𐌹𐌷𐍄𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

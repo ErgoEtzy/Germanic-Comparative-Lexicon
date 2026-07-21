@@ -48,7 +48,3 @@ From *fōdijaną (“to feed, make to eat”) + *-īniz.
 - **Old High German:** *fuotī
   - **Middle High German:** vüete
 - **Gothic:** 𐍆𐍉𐌳𐌴𐌹𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

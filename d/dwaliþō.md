@@ -48,7 +48,3 @@ From *dwalaz (“foolish, misled”) + *-iþō.
 - **Proto-West Germanic:** *dwalliþu
   - **Old English:** dwild
 - **Gothic:** 𐌳𐍅𐌰𐌻𐌹𐌸𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

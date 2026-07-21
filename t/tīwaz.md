@@ -255,7 +255,3 @@ From Proto-Indo-European *deywós (“god”). Possibly attested as 𐌕𐌄𐌉
     - **Danish:** Tyr — _borrowed_
     - **English:** Tyr — _borrowed_
     - **Swedish:** Tyr — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

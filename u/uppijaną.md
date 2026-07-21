@@ -113,7 +113,3 @@ From *upp (“up, upwards”) + *-janą. Compare *upanōną.
     - **Nynorsk:** yppa
   - **Swedish:** yppa
   - **Danish:** yppe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

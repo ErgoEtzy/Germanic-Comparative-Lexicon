@@ -123,7 +123,3 @@ From Proto-Indo-European *bʰerH- (“to carve; split; cut; rub; pierce; strike�
   - **Gutnish:** bure
   - **Gutnish:** bur'
   - **Gutnish:** bura
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -13,7 +13,7 @@ Kroonen tentatively compares *ēlō and *alaz (“awl”).
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -152,7 +152,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Danish:** aal
     - **Danish:** ål
   - **Gutnish:** al
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

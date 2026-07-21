@@ -76,7 +76,3 @@ From *garnō (“gut, intestine”), from Proto-Indo-European *ǵʰerH- (“gut,
   - **Old Swedish:** garn
     - **Swedish:** garn
   - **Danish:** garn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

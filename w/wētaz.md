@@ -132,7 +132,3 @@ Vṛddhi derivative from Proto-Indo-European *wed- (“water, wet”).
     - **Swedish:** våt
   - **Old Danish:** wātær
     - **Danish:** våd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

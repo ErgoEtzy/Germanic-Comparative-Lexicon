@@ -135,7 +135,3 @@ From Proto-Indo-European *slobʰ-néh₂-ti, an iterative verb related to *slēp
     - **Norwegian Nynorsk:** slappa
     - **Norwegian Nynorsk:** slapa
   - **Swedish:** slappa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

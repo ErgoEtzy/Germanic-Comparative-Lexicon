@@ -102,7 +102,3 @@ From *ga- + *sitjaną.
     - **Middle High German:** gesitzen
       - **German:** gesitzen — _archaic_
 - **Gothic:** 𐌲𐌰𐍃𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

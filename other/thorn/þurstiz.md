@@ -67,7 +67,3 @@ From Proto-Indo-European *térstis (with the oblique stem generalized), from *te
     - **Danish:** tørst
   - **Old Danish:** thørst
     - **Danish:** tørst
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

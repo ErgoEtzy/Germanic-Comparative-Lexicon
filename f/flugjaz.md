@@ -185,7 +185,3 @@ From *fleuganą, from Proto-Indo-European *plewk- (“to fly”).
   - **Norwegian Nynorsk:** fløy
   - **Swedish:** flygg
   - **Danish:** flyg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

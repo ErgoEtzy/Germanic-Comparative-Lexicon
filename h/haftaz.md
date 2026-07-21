@@ -115,7 +115,3 @@ From Proto-Indo-European *kh₂ptós (“grabbed”).
   - **Icelandic:** haftur
   - **Old Swedish:** hapt
 - **Gothic:** 𐌷𐌰𐍆𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

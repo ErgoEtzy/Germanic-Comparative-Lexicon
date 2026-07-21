@@ -89,7 +89,3 @@ From Proto-Indo-European *pértus, equivalent to *feraną (“to cross”) + *-�
       - **Scots:** firth
         - **English:** firth — _borrowed_
     - **Gutnish:** fjäd
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

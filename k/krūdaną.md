@@ -131,7 +131,3 @@ Apparently from a Proto-Indo-European *grewt- (“to push; press”), an extensi
     - **Middle High German:** kruden
     - **Middle High German:** kroten
     - **Middle High German:** kröten
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

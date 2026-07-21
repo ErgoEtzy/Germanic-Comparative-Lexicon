@@ -101,7 +101,3 @@ Possibly haplologically syncopated from earlier *aglalaitjaz, from *aglaz (“sh
   - **Old High German:** agaleizi
     - **Middle High German:** ageleize
     - **Middle High German:** ageleiz
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

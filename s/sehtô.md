@@ -239,7 +239,3 @@ From Proto-Indo-European *swéḱstos, from *swéḱs. An ordinal to *sehs (“s
       - **Norwegian Bokmål:** sjette
         - **Norwegian Nynorsk:** sjette — _borrowed_
 - **Gothic:** 𐍃𐌰𐌹𐌷𐍃𐍄𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

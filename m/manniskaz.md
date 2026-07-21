@@ -273,7 +273,3 @@ From *mann- + *-iskaz.
     - **English:** mensk
     - **English:** mense
 - **Gothic:** 𐌼𐌰𐌽𐌽𐌹𐍃𐌺𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

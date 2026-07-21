@@ -52,7 +52,3 @@ Traditionally reconstructed as an adjectival formation with the meaning “huge,
   - **Old East Norse:** *ᛁᛅᚱᛘᚢᚾᛦ
   - **Old East Norse:** *iarmunʀ
   - **Old West Norse:** *jǫrmunr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

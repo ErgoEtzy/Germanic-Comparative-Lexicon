@@ -88,7 +88,3 @@ From Pre-Germanic *spr̥Hom, derived from or related to *spurnaną (“to kick�
   - **Old Swedish:** spor
     - **Swedish:** spår
   - **Danish:** spor
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

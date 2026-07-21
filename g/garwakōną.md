@@ -110,7 +110,3 @@ From Proto-Indo-European *gʰrebʰ- (“to grab, take”).
     - **Middle English:** ȝarkien
     - **Middle English:** ȝearkien — _Laȝamon's Brut_
     - **Middle English:** ȝarrkenn — _Ormulum_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

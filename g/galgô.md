@@ -146,7 +146,3 @@ From Proto-Indo-European *ǵʰolgʰ- ~ *ǵʰolg- (“long switch, rod, shaft, po
     - **Danish:** galge
   - **Gutnish:** galge
 - **Gothic:** 𐌲𐌰𐌻𐌲𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

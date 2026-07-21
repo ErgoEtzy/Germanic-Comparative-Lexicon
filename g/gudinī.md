@@ -103,7 +103,3 @@ From *gudą + *-inī.
   - **Old Swedish:** gudhinna
     - **Swedish:** gudinna
   - **Danish:** gudinde
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

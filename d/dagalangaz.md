@@ -111,7 +111,3 @@ From *dagaz (“day”) + *langaz (“long”).
 - **Old Norse:** daglangr
   - **Icelandic:** daglangur
   - **Norwegian Bokmål:** daglang
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

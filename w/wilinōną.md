@@ -98,7 +98,3 @@ From *wiljô + *-inōną.
     - **Middle English:** wilnen
 - **Old Norse:** vilna
   - **Icelandic:** vilna
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

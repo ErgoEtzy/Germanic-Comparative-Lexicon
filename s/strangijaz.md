@@ -145,7 +145,3 @@ From Proto-Indo-European *sterh₃- (“to spread, stretch”); equivalent to *s
   - **Old Danish:** strænghæ
     - **Danish:** stræng
     - **Danish:** streng
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

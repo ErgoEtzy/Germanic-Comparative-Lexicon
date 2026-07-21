@@ -49,7 +49,3 @@ From *wargaz + *trewą.
 - **Old English:** weargtrēow
 - **Old Saxon:** waragtreo
 - **Old Norse:** vargtré
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

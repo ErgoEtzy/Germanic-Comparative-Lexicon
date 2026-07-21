@@ -142,7 +142,3 @@ From base *slū-, from Proto-Indo-European *(s)lew- (“slack, loose, limp, flab
   - **Norwegian:** slumen
   - **Norwegian:** sluma
   - **Danish:** slum
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

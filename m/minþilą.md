@@ -69,7 +69,3 @@ Of uncertain origin. Possibly from *menþ- (“teeth, mouth, palate”), from Pr
         - **Scots:** meldrop
         - **Scots:** myldrop
       - **Old English:** mǣldropiende — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

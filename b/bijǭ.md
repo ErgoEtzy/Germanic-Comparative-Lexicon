@@ -276,7 +276,3 @@ From Proto-Indo-European *bʰey- (“bee”). Cognate with Latin fūcus (“dron
   - **Gutnish:** bei
   - **Faroese:** býfluga — _reshaped by analogy or addition of morphemes_
   - **Icelandic:** býfluga — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

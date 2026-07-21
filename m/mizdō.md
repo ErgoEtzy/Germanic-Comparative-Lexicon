@@ -79,7 +79,3 @@ From Proto-Indo-European *misdʰéh₂ (“reward”).
         - **Luxembourgish:** Mit — _borrowed_
   - **Lombardic:** mēta
 - **Gothic:** 𐌼𐌹𐌶𐌳𐍉
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

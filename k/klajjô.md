@@ -58,7 +58,3 @@ From Proto-Indo-European *gley- (“to glue, stick together”).
   - **Scots:** kleg — _borrowed_
   - **English:** cleg — _borrowed_
   - **English:** clag — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

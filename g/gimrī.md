@@ -61,7 +61,3 @@ From Proto-Indo-European *ǵʰim-, *ǵʰeym- (“winter, snow”). Compare Ancie
   - **Danish:** gimmer
   - **Danish:** gimmerlam
   - **English:** gimmer — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

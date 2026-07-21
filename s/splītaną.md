@@ -107,7 +107,3 @@ From Proto-Indo-European *(s)pleyd- (“to split, splice”). Cognate with Middl
   - **Old High German:** splīzan
     - **Middle High German:** splīzen
       - **German:** spleißen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

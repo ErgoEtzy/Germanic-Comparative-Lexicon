@@ -178,7 +178,3 @@ From Proto-Indo-European *pórḱos.
   - **Old Swedish:** *far
     - **Old Swedish:** fargalter — _reshaped by analogy or addition of morphemes_
       - **Swedish:** fargalt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

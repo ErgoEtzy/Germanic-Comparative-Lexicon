@@ -61,7 +61,3 @@ Traditionally since Pokorny derived from Proto-Indo-European *(s)teg- (“beam, 
     - **Middle English:** stak — _borrowed_
       - **English:** stack
       - **Scots:** stack
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

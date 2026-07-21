@@ -357,7 +357,3 @@ From Proto-Indo-European *dwóh₁ (“two”) with plural suffix *-i. Compare *
   - **Gutnish:** tweir
   - **Old Frisian:** twēr — _borrowed_
 - **Gothic:** 𐍄𐍅𐌰𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -97,7 +97,3 @@ An iterative formation to Proto-Indo-European *kelh₁- (“to sound”), closel
   - **Old High German:** hlamōn
 - **Old Norse:** hlamma
   - **Icelandic:** hlamma
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

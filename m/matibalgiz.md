@@ -47,7 +47,3 @@ From *matiz (“food”) + *balgiz (“bag”), literally “food-bag”.
 
 - **Old English:** metebielġ
 - **Gothic:** 𐌼𐌰𐍄𐌹𐌱𐌰𐌻𐌲𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

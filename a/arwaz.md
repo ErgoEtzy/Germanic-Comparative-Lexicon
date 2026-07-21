@@ -251,7 +251,3 @@ An old s-stem continuing Proto-Indo-European *Hérus (“scar, wound”); compar
     - **Old Swedish:** ar
       - **Swedish:** ärr
     - **Scots:** aur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

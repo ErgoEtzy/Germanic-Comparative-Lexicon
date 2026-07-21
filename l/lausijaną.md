@@ -280,7 +280,3 @@ From *lausaz (“loose, free”) + *-janą.
   - **Gutnish:** lausa
   - **Ostrobothnian:** 
 - **Gothic:** 𐌻𐌰𐌿𐍃𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

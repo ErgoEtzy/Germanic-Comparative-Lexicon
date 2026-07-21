@@ -48,7 +48,3 @@ From Proto-Indo-European *-nis, a rare abstract noun-forming suffix.
 
 - **Gothic:** -𐌽𐍃
 - **Gothic:** -𐍃𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

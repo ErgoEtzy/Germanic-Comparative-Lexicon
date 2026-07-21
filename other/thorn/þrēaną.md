@@ -202,7 +202,3 @@ From Proto-Indo-European *tréh₁-e-ti, from *treh₁-, *terh₁- (“to rub, t
         - **Luxembourgish:** dréinen
       - **German:** drehen
       - **Yiddish:** דרייען
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -12,7 +12,7 @@ Traditionally considered a relative of *krabbô (“crab”) and thus derived fr
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -439,7 +439,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
     - **English:** crevis
     - **English:** crayfish — _reshaped by analogy or addition of morphemes_
     - **English:** crawfish — _reshaped by analogy or addition of morphemes; influenced by fish_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

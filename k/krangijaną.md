@@ -139,7 +139,3 @@ From *kringaną (“to fall”) + *-janą.
 - **Old High German:** *krengen
   - **Middle High German:** *krengen
     - **German:** krängen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

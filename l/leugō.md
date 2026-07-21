@@ -46,7 +46,3 @@ From Pre-Germanic *(h₂)lewgʰeh₂, from either Proto-Indo-European *lewgʰ- o
 ### Germanic descendants
 
 - **Gothic:** 𐌻𐌹𐌿𐌲𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

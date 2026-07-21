@@ -313,7 +313,3 @@ From Proto-Indo-European *ḱóm (“with, near, by, along”). Cognate with Lat
   - **Old Norse:** granni — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐌰-
 - **Vandalic:** *ga-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

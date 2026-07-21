@@ -74,7 +74,3 @@ Substantivation of unattested *dustaz (“dusty”), from Proto-Indo-European *d
   - **Norwegian Bokmål:** dust
   - **Swedish:** dust
   - **Danish:** dyst
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

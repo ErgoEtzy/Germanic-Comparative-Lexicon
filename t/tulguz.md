@@ -102,7 +102,3 @@ From Proto-Indo-European *dl̥h₁gʰós (“long”). Cognate with Lithuanian i
 - **Old English:** tylġest
 - **Old Saxon:** tulgo
 - **Gothic:** 𐍄𐌿𐌻𐌲𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

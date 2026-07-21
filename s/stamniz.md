@@ -86,7 +86,3 @@ From pre-Germanic *sth₂-mn-ís, from Proto-Indo-European *stéh₂mn̥ (“tha
       - **Norwegian Bokmål:** stavn — _borrowed_
   - **Old Swedish:** stafn
   - **Old Swedish:** stamn
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

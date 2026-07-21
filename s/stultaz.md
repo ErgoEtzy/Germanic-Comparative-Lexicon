@@ -586,7 +586,3 @@ From Proto-Indo-European *stl̥-to-s, from *stel- (“to place, stand”). Equiv
   - **Old Swedish:** stolter
     - **Swedish:** stolt
   - **Danish:** stolt
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

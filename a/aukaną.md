@@ -119,7 +119,3 @@ From Proto-Indo-European *h₂éwg-e-ti, from *h₂ewg- (“to increase”). Cog
   - **Old Gutnish:** auka
     - **Gutnish:** aukä
 - **Gothic:** 𐌰𐌿𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

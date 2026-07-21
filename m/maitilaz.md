@@ -67,7 +67,3 @@ From *maitaną (“to cut, hew”) + *-ilaz (“agent noun suffix”).
   - **Icelandic:** meitill
   - **Faroese:** meitil
   - **Norwegian Nynorsk:** meitel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

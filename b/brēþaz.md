@@ -114,7 +114,3 @@ Related to Sanskrit भुरति (bhurati, “to stir, palpitate”), both fr
   - **Middle English:** braith — _borrowed_
     - **Scots:** braith
     - **English:** brath
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -118,7 +118,3 @@ Related to *skerpaną and *skerbaną (“to scratch”).
       - **German:** schröpfen — _partially_
     - **Middle High German:** schreven
       - **German:** schröpfen — _partially_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

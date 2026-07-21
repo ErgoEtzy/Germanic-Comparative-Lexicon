@@ -99,7 +99,3 @@ From Proto-Indo-European *gól-, the o-grade root present of *gel- (“cold”).
   - **Norwegian Nynorsk:** kala
   - **Norwegian Nynorsk:** kalen — _past participle_
   - **Swedish:** kala — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

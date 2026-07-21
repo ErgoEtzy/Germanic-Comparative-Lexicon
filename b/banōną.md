@@ -101,7 +101,3 @@ From *banô (“murderer, killer, death”) + *-ōną.
 - **Old Norse:** bana
   - **Faroese:** bana
   - **Icelandic:** bana
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

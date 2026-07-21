@@ -119,7 +119,3 @@ From Proto-Indo-European *tog-o-s, from *(s)teg- (“to cover”).
   - **Old Swedish:** þak
     - **Swedish:** tak
   - **Danish:** tag
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

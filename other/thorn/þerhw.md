@@ -27,7 +27,3 @@ Likely from Pre-Germanic *terh₂(h₃)kʷ-, a compound of Proto-Indo-European *
 - **Old English:** þerh
 - **Old English:** þærh
 - **Gothic:** 𐌸𐌰𐌹𐍂𐌷
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -199,7 +199,3 @@ From Proto-Indo-European *sp(h)erag-, from *sper- (“to jerk, push, fidget, spr
     - **English:** sprag
     - **English:** sprack
     - **Scots:** sprack
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

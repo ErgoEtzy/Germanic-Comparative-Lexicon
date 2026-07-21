@@ -246,7 +246,3 @@ From *fra- + *etaną.
       - **Yiddish:** פֿרעסן
         - **English:** fress — _borrowed; or from German_
 - **Gothic:** 𐍆𐍂𐌰𐌹𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

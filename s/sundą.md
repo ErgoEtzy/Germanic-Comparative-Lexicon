@@ -12,7 +12,7 @@ From earlier *swumdan (compare Gothic 𐍃𐍅𐌿𐌼𐍃𐌻 (swumsl, “pool�
 
 ### Proto-Indo-European ancestry
 
-No PIE form is listed or machine-resolvable in this snapshot.
+No Proto-Indo-European ancestor is listed.
 
 ### Pronunciation
 
@@ -80,7 +80,3 @@ No PIE form is listed or machine-resolvable in this snapshot.
   - **Old Swedish:** sond
     - **Swedish:** sund
   - **Danish:** sund
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

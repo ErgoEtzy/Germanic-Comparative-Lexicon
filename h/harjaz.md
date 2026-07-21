@@ -140,7 +140,3 @@ Possibly attested as a vocative or combining form hari on Negau B, a helmet date
 - **East Germanic:** 
   - **Gothic:** 𐌷𐌰𐍂𐌾𐌹𐍃
   - **Vandalic:** *haris
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

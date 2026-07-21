@@ -127,7 +127,3 @@ From a Proto-Indo-European *skeldʰ- (“to announce”), which may be an extens
     - **Danish:** skælde
   - **Old Swedish:** skælla
     - **Swedish:** skälla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

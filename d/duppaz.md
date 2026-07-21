@@ -208,7 +208,3 @@ From earlier *dubná-, from Proto-Indo-European *dʰewb- (“deep, hollow”).
       - **Middle High German:** tupfen — _m or n_
         - **German:** Tüpfen
         - **German:** Töpfen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

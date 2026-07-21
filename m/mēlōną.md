@@ -123,7 +123,3 @@ Related to *mēlą (“stain, mark, spot”) + *-ōną.
   - **Norwegian Bokmål:** male
   - **Swedish:** måla
   - **Danish:** male
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

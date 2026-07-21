@@ -97,7 +97,3 @@ From Proto-Indo-European *loyt-éh₂-, from *leyt- (“to go, go forth, die”)
     - **Swedish:** led
   - **Danish:** led
     - **Norwegian Bokmål:** led
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

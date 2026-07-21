@@ -68,7 +68,3 @@ Cognate with Cornish modrep (“maternal aunt”), Welsh modryb (“maternal aun
     - **Middle Dutch:** moddere
     - **Middle Dutch:** modder
   - **Old High German:** muotera
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

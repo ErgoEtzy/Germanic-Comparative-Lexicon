@@ -517,7 +517,3 @@ From Proto-Indo-European *smeg- (“taste”). Cognate with Lithuanian smagùs (
 - **Old Norse:** smekkr — _inherited; uncertain_
   - **Icelandic:** smekkur
 - **Gothic:** 𐍃𐌼𐌰𐌺𐌺𐌰 — _reshaped by analogy or addition of morphemes; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

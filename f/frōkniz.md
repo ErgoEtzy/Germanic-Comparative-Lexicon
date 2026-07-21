@@ -118,7 +118,3 @@ Presumed vṛddhi gerundive of unattested *fraknaną, possibly from Proto-Indo-E
 - **Old Norse:** frǿkn
   - **Icelandic:** frækn
   - **Norwegian Bokmål:** frøken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -144,7 +144,3 @@ From Proto-Indo-European *seh₂i-ro-, a derivative of *seh₂y- (“to be fierc
   - **Old Gutnish:** sar
     - **Gutnish:** sarur
     - **Gutnish:** sårur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

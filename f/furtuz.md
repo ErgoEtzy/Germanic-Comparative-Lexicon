@@ -95,7 +95,3 @@ From Proto-Indo-European *pr̥d-u-. Zero grade of *perd- (“to fart loudly, pas
         - **Ripuarian:** Fotz
       - **German:** Furz
       - **Yiddish:** פֿאָרץ
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

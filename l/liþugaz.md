@@ -168,7 +168,3 @@ Presumably from *liþuz (“joint, member”) + *-gaz (forms adjectives from nou
   - **Norwegian Bokmål:** ledig
   - **Old Swedish:** lidhugher
     - **Swedish:** ledig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -113,7 +113,3 @@ From Proto-Indo-European *deh₂y- (“to separate, divide”).
       - **Middle English:** totosen — _reshaped by analogy or addition of morphemes_
   - **Old High German:** zeisan
     - **Middle High German:** zeisen — _strong and weak; cf. *taisijan_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

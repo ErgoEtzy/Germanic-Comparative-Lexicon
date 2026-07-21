@@ -110,7 +110,3 @@ From Proto-Indo-European *léykʷt, from *leykʷ- (“to leave behind”).
   - **Faroese:** líggja
   - **Old Swedish:** lǣa
 - **Gothic:** 𐌻𐌴𐌹𐍈𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

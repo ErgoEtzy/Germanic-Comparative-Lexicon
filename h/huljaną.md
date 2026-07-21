@@ -117,7 +117,3 @@ Zero-grade present, pre-Germanic *ḱl̥ye/o-, from Proto-Indo-European *ḱel- 
   - **Middle English:** hilen — _borrowed_
     - **English:** hill
 - **Gothic:** 𐌷𐌿𐌻𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

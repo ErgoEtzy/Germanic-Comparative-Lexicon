@@ -373,7 +373,3 @@ From Proto-Indo-European *méh₁nōs, from *mḗh₁n̥s (“moon, month”). O
     - **Gutnish:** mane
 - **Gothic:** 𐌼𐌴𐌽𐌰
 - **Crimean Gothic:** mine
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

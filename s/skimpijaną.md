@@ -113,7 +113,3 @@ From Proto-Indo-European *(s)ḱh₂emb- (“to arch, bend, curve”), which app
   - **Middle English:** *skimpen — _borrowed_
     - **English:** skimp
     - **Scots:** skimp
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

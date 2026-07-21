@@ -51,7 +51,3 @@ Apparently from a Proto-Indo-European *kreg- (“to spit, caw”), and related t
   - **Icelandic:** hráki
   - **Faroese:** ráki
   - **Old Swedish:** rāke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

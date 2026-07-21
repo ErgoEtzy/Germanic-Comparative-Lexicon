@@ -141,7 +141,3 @@ Another theory derives the verb from Proto-Indo-European *(s)terp- (“to lose f
 - **Old Norse:** stirfinn
   - **Icelandic:** stirfinn
   - **Faroese:** stirvin
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

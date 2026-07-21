@@ -256,7 +256,3 @@ From Proto-Indo-European *ḱóymos (“village, home”), either from o-grade f
   - **Old Gutnish:** haimr
     - **Gutnish:** haim
 - **Gothic:** 𐌷𐌰𐌹𐌼𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

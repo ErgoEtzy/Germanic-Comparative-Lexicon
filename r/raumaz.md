@@ -151,7 +151,3 @@ From Proto-Indo-European *réwgʰmn̥ (“cream”), from Proto-Indo-European *r
     - **Danish:** rømme
       - **Norwegian Bokmål:** rømme
         - **Norwegian Nynorsk:** rømme — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

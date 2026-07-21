@@ -127,7 +127,3 @@ From *bi- + *kwemaną.
     - **Luxembourgish:** bekommen
     - **Yiddish:** באַקומען
 - **Gothic:** 𐌱𐌹𐌵𐌹𐌼𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

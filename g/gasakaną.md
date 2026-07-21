@@ -101,7 +101,3 @@ From *ga- + *sakaną.
   - **Old High German:** gisachan
   - **Old High German:** ᚷᚨᛊᛟᚲᚢᚾ
 - **Gothic:** 𐌲𐌰𐍃𐌰𐌺𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

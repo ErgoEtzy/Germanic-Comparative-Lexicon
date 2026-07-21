@@ -224,7 +224,3 @@ Likely nominalized from the adjective, though Kroonen and Orel consider the noun
   - **Middle English:** wone — _borrowed_
     - **English:** wone
 - **Gothic:** 𐍅𐌴𐌽𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

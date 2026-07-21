@@ -124,7 +124,3 @@ From Proto-Indo-European *gʰreyb- (“to grab, grasp”). Cognate with Lithuani
     - **Swedish:** gripa
     - **Swedish:** greppa — _reshaped by analogy or addition of morphemes_
 - **Gothic:** 𐌲𐍂𐌴𐌹𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

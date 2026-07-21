@@ -99,7 +99,3 @@ Apparently from a Proto-Indo-European *kʷeh₁d- (“to stab; pointy, sharp”)
 - **Old Norse:** hváta
   - **Icelandic:** hváta
   - **Icelandic:** hvota
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -350,7 +350,3 @@ From Proto-Indo-European *ǵn̥néh₃ti, from *ǵneh₃- (“to know”).
   - **Elfdalian:** kunna
   - **Gutnish:** kunne
 - **Gothic:** 𐌺𐌿𐌽𐌽𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

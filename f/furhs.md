@@ -105,7 +105,3 @@ From Proto-Indo-European *perḱ- (“to dig”). Cognate with Proto-Celtic *ɸr
   - **Norwegian Bokmål:** fure
   - **Old Swedish:** for
     - **Swedish:** fåra
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

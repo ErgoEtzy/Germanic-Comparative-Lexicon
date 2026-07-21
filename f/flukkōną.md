@@ -101,7 +101,3 @@ From earlier paradigm *flukkōþi ~ *flugunanþi, from pre-Proto-Germanic *pluk-
   - **Old High German:** *flockōn
     - **Middle High German:** vlocken
       - **German:** flocken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

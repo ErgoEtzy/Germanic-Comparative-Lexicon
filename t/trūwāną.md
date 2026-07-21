@@ -138,7 +138,3 @@ From *trūwaz (“faithful”) + *-āną, with quasi-Indo-European form *druH-eh
   - **Danish:** tro
   - **Swedish:** tro
 - **Gothic:** 𐍄𐍂𐌰𐌿𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

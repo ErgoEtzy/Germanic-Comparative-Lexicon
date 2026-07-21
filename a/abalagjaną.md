@@ -117,7 +117,3 @@ From *aba- + *lagjaną.
   - **Danish:** aflægge
     - **Norwegian Bokmål:** avlegge
 - **Gothic:** 𐌰𐍆𐌻𐌰𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

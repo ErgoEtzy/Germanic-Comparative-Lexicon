@@ -46,7 +46,3 @@ From *hauhahertaz + *-į̄.
 ### Germanic descendants
 
 - **Gothic:** 𐌷𐌰𐌿𐌷𐌷𐌰𐌹𐍂𐍄𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

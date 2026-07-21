@@ -54,7 +54,3 @@ From Proto-Indo-European *h₂érh₃trom. Equivalent to *arjaną + *-þrą.
   - **Old Swedish:** arþer — _n_
     - **Swedish:** årder — _n_
   - **Danish:** ard
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

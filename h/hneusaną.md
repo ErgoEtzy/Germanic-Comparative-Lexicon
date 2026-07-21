@@ -117,7 +117,3 @@ From Proto-Indo-European *pnew-, but presumably interpreted as onomatopoeic judg
     - **Swedish:** nysa
     - **Swedish:** njusa
   - **Danish:** nyse
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -89,7 +89,3 @@ From *wīną (“wine”) + *trewą (“tree”).
 - **Old Norse:** víntré
   - **Icelandic:** víntré
 - **Gothic:** 𐍅𐌴𐌹𐌽𐌰𐍄𐍂𐌹𐌿
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

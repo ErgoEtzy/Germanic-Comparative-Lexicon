@@ -84,7 +84,3 @@ Borrowed from Proto-Celtic *geistlos (“hostage, pledge”) (compare Old Irish 
       - **Old Swedish:** gislan — _reshaped by analogy or addition of morphemes_
         - **Swedish:** gisslan
     - **Danish:** gidsel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

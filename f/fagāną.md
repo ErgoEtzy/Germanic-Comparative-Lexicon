@@ -107,7 +107,3 @@ From Proto-Indo-European *peḱ- (“joyfull, pretty”), closely related to the
     - **Middle High German:** fagen — _inherited; uncertain; to be obedient_
 - **Gothic:** *𐍆𐌰𐌷𐌰𐌽
   - **Gothic:** 𐍆𐌰𐌷𐌴𐌸𐍃 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

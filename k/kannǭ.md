@@ -82,7 +82,3 @@ Probably from a western Proto-Indo-European *gandʰ-, *gan- (“a vessel, vat, t
   - **Old Swedish:** kanna
     - **Swedish:** kanna
   - **Danish:** kande
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

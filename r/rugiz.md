@@ -161,7 +161,3 @@ Comparable to Proto-Balto-Slavic *rugís, which may allow for the reconstruction
   - **Elfdalian:** rug
   - **Scanian:** ruğ
   - **Gutnish:** ryg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

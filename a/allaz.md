@@ -310,7 +310,3 @@ From pre-Germanic *h₂elnós, perhaps from Proto-Indo-European *h₂el- (“all
   - **Danish:** al
     - **Norwegian Bokmål:** all
 - **Gothic:** 𐌰𐌻𐌻𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

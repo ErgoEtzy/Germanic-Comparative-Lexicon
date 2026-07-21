@@ -96,7 +96,3 @@ From Proto-Indo-European *átta. Cognate with Latin atta (“father”). The wor
   - **Old Swedish:** Atte
   - **Old Danish:** Atti
 - **Gothic:** 𐌰𐍄𐍄𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

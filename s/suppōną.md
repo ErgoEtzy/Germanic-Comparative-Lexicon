@@ -106,7 +106,3 @@ Kroonen reconstructs the Pre-Germanic form as *su(H)ph₃néh₂-, with dissimil
 - **Icelandic:** subba
 - **Norwegian:** subba
 - **Gothic:** 𐍃𐌿𐍀𐍉𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

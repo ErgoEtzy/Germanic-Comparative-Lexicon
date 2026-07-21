@@ -48,7 +48,3 @@ Derived from Proto-Indo-European *weyk- (“to fight”). Cognate with Lithuania
 - **Old Norse:** veig
   - **Icelandic:** veig
   - **Norwegian Bokmål:** veig
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

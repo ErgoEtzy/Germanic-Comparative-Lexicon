@@ -311,7 +311,3 @@ From *alaz + *-snō.
       - **German:** Alse
       - **German:** Else — _dialectal; Swiss German_
 - **Gothic:** *𐌰𐌻𐌹𐍃𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

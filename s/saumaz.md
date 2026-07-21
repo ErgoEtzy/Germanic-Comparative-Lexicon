@@ -95,7 +95,3 @@ From Proto-Indo-European *syowH-mo-s (“band”), from Proto-Indo-European *sye
     - **Swedish:** söm
   - **Danish:** søm
     - **Norwegian Bokmål:** søm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

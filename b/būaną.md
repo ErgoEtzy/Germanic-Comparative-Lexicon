@@ -244,7 +244,3 @@ From Proto-Indo-European *bʰúHt, from *bʰuH- (“to be, grow”).
       - **Middle Scots:** boun
         - **Scots:** boun
 - **Gothic:** 𐌱𐌰𐌿𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

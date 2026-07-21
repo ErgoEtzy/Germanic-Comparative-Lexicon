@@ -123,7 +123,3 @@ From Proto-Indo-European *neh₂w-tí-s, a *ti- stem related to the root of *naw
       - **Norwegian Bokmål:** nød
         - **Norwegian Nynorsk:** nød — _borrowed_
 - **Gothic:** 𐌽𐌰𐌿𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

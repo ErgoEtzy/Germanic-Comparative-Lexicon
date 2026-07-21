@@ -200,7 +200,3 @@ One suggested derivation is from Proto-Indo-European *dʰegʷʰ- (“to burn”)
   - **Old Swedish:** dȳr
     - **Swedish:** dyr
   - **Danish:** dyr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

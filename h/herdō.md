@@ -102,7 +102,3 @@ From Proto-Indo-European *(s)kerdʰ- (“file, row, herd”). Cognate with Russi
   - **Danish:** hjord
     - **Norwegian Bokmål:** hjord
 - **Gothic:** 𐌷𐌰𐌹𐍂𐌳𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

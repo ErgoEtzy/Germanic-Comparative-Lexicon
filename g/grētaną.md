@@ -131,7 +131,3 @@ From Proto-Indo-European *ǵʰreh₁d- (“to sound”).
     - **Scanian:** grǽda
   - **Gutnish:** grate
 - **Gothic:** 𐌲𐍂𐌴𐍄𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

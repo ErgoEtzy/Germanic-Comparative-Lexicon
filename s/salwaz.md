@@ -134,7 +134,3 @@ From Proto-Indo-European *solwós (“grey, sallow”). Cognate with Proto-Slavi
 - **Old Norse:** sǫlr
   - **Icelandic:** sölur
   - **Norwegian:** sal
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

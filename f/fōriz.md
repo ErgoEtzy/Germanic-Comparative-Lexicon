@@ -114,7 +114,3 @@ Vṛddhi gerundive of *faraną (“to go”).
     - **Swedish:** för — _obsolete_
   - **Old Danish:** før
     - **Danish:** før — _obsolete_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

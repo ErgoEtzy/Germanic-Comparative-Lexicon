@@ -114,7 +114,3 @@ From Proto-Indo-European *(s)ḱeh₃-ro-s (“grey, dark”). Cognate with Old 
       - **German:** hehr
 - **Old Norse:** hárr
   - **Icelandic:** hár
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

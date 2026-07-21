@@ -63,7 +63,3 @@ From Proto-Indo-European *kret- (“to shake; quiver; tremble”). Compare Welsh
 - **Old Norse:** riða — _< *hriþǭ_
   - **Icelandic:** riða
   - **Old Swedish:** rīdha
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

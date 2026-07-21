@@ -57,7 +57,3 @@ Probably from Proto-Indo-European *gʷʰedʰ- (“to ask for, beseech, implore�
       - **German:** Bet
     - **Middle High German:** bëte
       - **German:** Bet
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

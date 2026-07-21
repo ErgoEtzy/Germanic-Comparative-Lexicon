@@ -229,7 +229,3 @@ From Proto-Indo-European *dʰrógʰ-e-ti, traditionally derived from *dʰregʰ- 
     - **Scots:** dreg
     - **English:** drag
 - **Gothic:** 𐌳𐍂𐌰𐌲𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

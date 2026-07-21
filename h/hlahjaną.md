@@ -202,7 +202,3 @@ From Proto-Indo-European *klek- (“to laugh, cackle”), a seemingly-onomatopoe
 - **East Germanic:** 
   - **Gothic:** 𐌷𐌻𐌰𐌷𐌾𐌰𐌽
   - **Crimean Gothic:** lachen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

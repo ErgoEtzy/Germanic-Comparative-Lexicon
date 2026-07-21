@@ -48,7 +48,3 @@ Alternatively, Kroonen proposes derivation from Pre-Germanic *ǵnoh₁tís, from
 
 - **Old High German:** knuot
 - **Gothic:** 𐌺𐌽𐍉𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

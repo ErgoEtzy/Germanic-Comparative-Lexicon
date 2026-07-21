@@ -53,7 +53,3 @@ From *bataz (“good”) + *awjō (“island”).
 - **Old High German:** Pazauwa — _borrowed; various forms attested_ — _through a non-Germanic route_
   - **Middle High German:** 
     - **German:** Passau
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

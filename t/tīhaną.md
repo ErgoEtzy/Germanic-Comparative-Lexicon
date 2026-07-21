@@ -114,7 +114,3 @@ From Proto-Indo-European *déyḱeti, from *deyḱ- (“to show”). Cognate wit
   - **Danish:** te
     - **Norwegian Bokmål:** te
 - **Gothic:** *𐍄𐌴𐌹𐌷𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

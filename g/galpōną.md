@@ -127,7 +127,3 @@ From Proto-Indo-European *gʰolb-, from *gʰel- (“to call, cry out, shout, scr
     - **Scots:** jap
 - **Old Norse:** *galpa
   - **Swedish:** galpa
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -101,7 +101,3 @@ From Proto-Indo-European *gʷeh₂bʰ- (“to dive, dive in”). Cognate with An
   - **Faroese:** køva
   - **Norwegian:** kvæva
   - **Norwegian:** kjøva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

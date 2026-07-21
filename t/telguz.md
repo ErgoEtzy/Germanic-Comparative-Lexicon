@@ -108,7 +108,3 @@ From Proto-Indo-European *delh₁gʰ- (“to split; carve; hew”).
   - **Norwegian Nynorsk:** telg
   - **Norwegian Nynorsk:** tjelg
   - **Norwegian Nynorsk:** talgegras
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

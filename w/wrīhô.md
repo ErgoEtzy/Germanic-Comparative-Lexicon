@@ -55,7 +55,3 @@ From Proto-Indo-European *wréyḱ-on-. from *wreyḱ- (“to twist, to bend”)
 - **Old High German:** rīho
   - **Middle High German:** 
     - **German:** Reihen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

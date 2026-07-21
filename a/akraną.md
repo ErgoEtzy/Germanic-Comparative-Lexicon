@@ -414,7 +414,3 @@ Perhaps from Proto-Indo-European *h₂ógr̥ (“small fruit ~ berry”); compar
   - **Swedish:** akarn
   - **Danish:** agern
 - **Gothic:** 𐌰𐌺𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

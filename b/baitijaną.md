@@ -132,7 +132,3 @@ From *bītaną (“to bite”) + *-janą. The meaning to restrain most likely de
     - **Norwegian Nynorsk:** beite
     - **Norwegian Bokmål:** beite
   - **Danish:** bede
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

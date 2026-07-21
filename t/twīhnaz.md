@@ -136,7 +136,3 @@ From *twīhaz (“consisting of two”), from Proto-Indo-European *dwóh₁ (“
   - **Icelandic:** tvennur
   - **Faroese:** tvinnur
 - **Gothic:** 𐍄𐍅𐌴𐌹𐌷𐌽𐌰𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

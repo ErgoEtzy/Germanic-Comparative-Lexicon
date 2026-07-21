@@ -65,7 +65,3 @@ From Proto-Indo-European *lewbʰ- (“to love, care for, desire”).
   - **Old High German:** luba
 - **Gothic:** *𐌻𐌿𐌱𐍉
   - **Gothic:** 𐌱𐍂𐍉𐌸𐍂𐌿𐌻𐌿𐌱𐍉 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

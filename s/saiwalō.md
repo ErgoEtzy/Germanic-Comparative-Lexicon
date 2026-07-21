@@ -952,7 +952,3 @@ Uncertain with several theories:
       - **Vilamovian:** zəjł
       - **Vilamovian:** zyił
 - **Gothic:** 𐍃𐌰𐌹𐍅𐌰𐌻𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

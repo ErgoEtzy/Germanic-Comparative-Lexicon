@@ -172,7 +172,3 @@ From Proto-Indo-European *ḱom-o-, from *ḱem- (“to restrain; shaft, collar�
       - **Dutch:** haam
   - **Old High German:** *hamo
     - **Middle High German:** hame
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

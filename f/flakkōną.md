@@ -190,7 +190,3 @@ Considered by Kroonen to be a secondary o-grade iterative formation to zero-grad
   - **Old High German:** flagarōn — _reshaped by analogy or addition of morphemes_
 - **Old Norse:** 
   - **Norwegian Nynorsk:** flaga
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -766,7 +766,3 @@ From Proto-Indo-European *h₂epó.
       - **Swedish:** af — _pre-1906 spelling; remains in surnames_
     - **Danish:** af
 - **Gothic:** 𐌰𐍆
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

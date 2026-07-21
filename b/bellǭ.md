@@ -76,7 +76,3 @@ From Proto-Indo-European *bʰel- (“to sound”).
     - **Norwegian Bokmål:** bjelle
   - **Gutnish:** bjällå
   - **Gutnish:** bjälla
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

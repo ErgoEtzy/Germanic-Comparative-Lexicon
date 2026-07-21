@@ -174,7 +174,3 @@ From Proto-Indo-European *térs-u-s, from *ters- (“dry”).
   - **Old Swedish:** þor
     - **Swedish:** torr
 - **Gothic:** 𐌸𐌰𐌿𐍂𐍃𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -70,7 +70,3 @@ From Proto-Indo-European *(s)ping- (“small bird, sparrow”).
     - **Bavarian:** Pienke
     - **German:** Fink
     - **Pennsylvania German:** Fink
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

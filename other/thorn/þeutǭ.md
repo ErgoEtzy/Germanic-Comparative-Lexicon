@@ -79,7 +79,3 @@ From *þeutaną (“to sound, howl, roar”), from Proto-Indo-European *tu-, *tu
       - **Dutch:** tuit
   - **Old High German:** *thioza
   - **Old High German:** *dioza — _in compounds: watardioza_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -162,7 +162,3 @@ From *awô (“grandfather”) + *haimaz (“home”).
       - **German:** Oheim
       - **German:** Ohm — _partly from Low German_
       - **German:** Oehm
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -101,7 +101,3 @@ Causative from an unattested verb *finhaną, equivalent to *finhaną + *-janą.
   - **Old High German:** *fengen
     - **Middle High German:** vengen
     - **Middle High German:** venken
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

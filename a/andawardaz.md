@@ -123,7 +123,3 @@ From *anda- + *wardaz, literally “that which is turned facing (in front)”. C
   - **Old Saxon:** andward
   - **Old High German:** antwart
 - **Gothic:** 𐌰𐌽𐌳𐍅𐌰𐌹𐍂𐌸𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

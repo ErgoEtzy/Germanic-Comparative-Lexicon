@@ -65,7 +65,3 @@ From *linþaz (“flexible, flimsy”) + *wurmiz (“worm, serpent”).
   - **English:** lindworm — _borrowed; uncertain_
   - **English:** lindorm — _borrowed; uncertain_
   - **English:** lindwyrm — _borrowed; uncertain_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

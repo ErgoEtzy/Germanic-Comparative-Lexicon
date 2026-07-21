@@ -183,7 +183,3 @@ Adjectival formation from *aiganą (“to own, possess”).
     - **Swedish:** egen
   - **Danish:** egen
     - **Norwegian Bokmål:** egen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

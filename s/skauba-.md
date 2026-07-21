@@ -60,7 +60,3 @@ Uncertain. Possibly from Proto-Indo-European *(s)kewp- (“tuft, cluster, hair o
 - **Old Norse:** skauf
   - **Danish:** skæv
   - **Icelandic:** skauf
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

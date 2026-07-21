@@ -361,7 +361,3 @@ Kroonen tentatively considers the word an a-stem nominal formation related to *k
     - **English:** croup
     - **English:** croupe
     - **Middle Scots:** crouppe — _hapax_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

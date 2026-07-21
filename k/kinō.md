@@ -125,7 +125,3 @@ From Pre-Germanic *ǵi-n-, originally a nasal-present from Proto-Indo-European *
 - **Old Dutch:** *kina
   - **Middle Dutch:** kene
     - **Dutch:** keen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

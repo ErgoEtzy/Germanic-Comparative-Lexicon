@@ -94,7 +94,3 @@ Appears to stem from a pre-Germanic *kh₂/₃k-on-, with no certain cognates ou
   - **Old Swedish:** haki
     - **Elfdalian:** atji
     - **Swedish:** hake
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

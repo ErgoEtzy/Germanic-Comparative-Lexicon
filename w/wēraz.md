@@ -168,7 +168,3 @@ From Proto-Indo-European *weh₁ros (“true”), from *weh₁-. Cognate with La
 - **Gothic:** *𐍅𐌴𐍂𐍃
 - **Gothic:** *𐍅𐌴𐍂𐌴𐌹𐍃
 - **, in derivates such as:** 𐌰𐌻𐌻𐌰𐍅𐌴𐍂𐌴𐌹
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

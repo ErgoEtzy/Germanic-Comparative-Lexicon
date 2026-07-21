@@ -54,7 +54,3 @@ From *hōrǭ + *-dōmaz.
   - **Swedish:** hordom
   - **Middle English:** hordom — _borrowed_
     - **English:** whoredom
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -71,7 +71,3 @@ From Proto-Indo-European *h₂éd (“near, at”). Cognate with Latin ad (“to
     - **Swedish:** att
     - **Swedish:** åt
 - **Gothic:** 𐌰𐍄
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

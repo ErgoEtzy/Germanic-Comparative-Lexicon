@@ -245,7 +245,3 @@ From Proto-Indo-European *dʰews-ó-m (“having breath; animal”), vṛddhi de
   - **Old Gutnish:** diaur
     - **Gutnish:** djaur
 - **Gothic:** 𐌳𐌹𐌿𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

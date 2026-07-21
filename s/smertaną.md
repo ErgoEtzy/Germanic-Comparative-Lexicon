@@ -136,7 +136,3 @@ From Proto-Indo-European *(s)merd- (“to sting, bite”).
   - **Old High German:** smërzan
     - **Middle High German:** schmërzen
       - **German:** schmerzen
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

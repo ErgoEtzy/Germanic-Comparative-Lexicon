@@ -233,7 +233,3 @@ From Pre-Germanic *h₁ēpónts ~ *h₁pn̥tés, which appears to be an innovati
   - **Old Danish:** aftæn
     - **Danish:** aften — _c_
       - **Norwegian Bokmål:** aften — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

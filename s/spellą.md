@@ -63,7 +63,3 @@ From Proto-Indo-European *spel(H)-o-, ultimately from *(s)pelH- (“to tell”).
   - **Old Swedish:** spiäl
     - **Swedish:** spjäll
 - **Gothic:** 𐍃𐍀𐌹𐌻𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

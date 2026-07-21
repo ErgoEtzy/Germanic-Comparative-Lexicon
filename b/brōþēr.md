@@ -170,7 +170,3 @@ From Proto-Indo-European *bʰréh₂tēr (“brother”).
   - **Gutnish:** brór
 - **Gothic:** 𐌱𐍂𐍉𐌸𐌰𐍂
 - **Crimean Gothic:** bruder
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

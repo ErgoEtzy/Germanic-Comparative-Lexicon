@@ -195,7 +195,3 @@ From the adjective *wōdaz (“excited, frenzied, furious”).
     - **Middle High German:** wuot
       - **German:** Wut
         - **German Low German:** Wut — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

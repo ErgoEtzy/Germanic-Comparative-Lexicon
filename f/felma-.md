@@ -114,7 +114,3 @@ Probably an original men-stem from Proto-Indo-European *pélmō which was re-for
     - **Middle Dutch:** velm
     - **Middle Dutch:** vilm — _m_
   - **Old High German:** felm — _m_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

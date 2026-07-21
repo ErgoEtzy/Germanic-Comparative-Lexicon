@@ -76,7 +76,3 @@ From Proto-Indo-European *mel-, *melw- (“dark, dirty; to soil”), from Proto-
     - **Middle High German:** meile
       - **German:** Meil
 - **Gothic:** 𐌼𐌰𐌹𐌻
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

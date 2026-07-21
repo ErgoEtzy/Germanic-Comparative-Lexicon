@@ -101,7 +101,3 @@ From *anguz (“narrow”) + *-āną.
   - **Old High German:** angēn
     - **Middle High German:** angen
 - **Old Norse:** ǫngva
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

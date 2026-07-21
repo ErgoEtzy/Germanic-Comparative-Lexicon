@@ -156,7 +156,3 @@ From Proto-Indo-European *der- (“to flay, split, cleave, crack”).
 - **Gothic:** *𐍄𐌰𐌹𐍂𐌰𐌽
 - **Gothic:** 𐌳𐌹𐍃𐍄𐌰𐌹𐍂𐌰𐌽
 - **Gothic:** 𐌲𐌰𐍄𐌰𐌹𐍂𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

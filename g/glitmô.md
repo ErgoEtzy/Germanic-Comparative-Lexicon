@@ -49,7 +49,3 @@ From Pre-Germanic *gʰlidmon-; thus equivalent to *glītaną (“to shine”) + 
   - **Old High German:** glizemo
     - **Middle High German:** *glitzme
       - **Alemannic German:** glitzme — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

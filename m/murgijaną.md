@@ -97,7 +97,3 @@ From *murguz (“short, brief”) + *-janą.
     - **Middle English:** mirien
     - **Middle English:** murgen
 - **Gothic:** 𐌲𐌰𐌼𐌰𐌿𐍂𐌲𐌾𐌰𐌽 — _reshaped by analogy or addition of morphemes_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

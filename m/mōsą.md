@@ -89,7 +89,3 @@ An ablaut variant of the Germanic root *mat- (“food”), usually derived from 
   - **Norwegian Nynorsk:** mos
   - **Swedish:** mos
   - **Danish:** mos
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

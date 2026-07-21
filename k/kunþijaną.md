@@ -124,7 +124,3 @@ From *kunþaz (“known”) + *-janą (factitive suffix).
 - **Gothic:** *𐌺𐌿𐌽𐌸𐌾𐌰𐌽
 - **Gothic:** 𐌲𐌰𐍃𐍅𐌹𐌺𐌿𐌽𐌸𐌾𐌰𐌽
 - **Gothic:** 𐌱𐌹𐌺𐌿𐌽𐌸𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

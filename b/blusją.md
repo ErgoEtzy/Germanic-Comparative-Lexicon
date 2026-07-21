@@ -103,7 +103,3 @@ Uncertain. Perhaps from Proto-Indo-European *bʰel- (“to blaze, burn, shine”
   - **Old Swedish:** bloss
     - **Swedish:** bloss
   - **Danish:** blus
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

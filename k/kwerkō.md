@@ -61,7 +61,3 @@ From *kwerraną (“to devour, glut”) + *-kô (body part suffix) + *-ō.
     - **Middle English:** *querk — _borrowed_
       - **English:** quirk — _inherited; uncertain_
       - **Scots:** querk
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

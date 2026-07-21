@@ -51,7 +51,3 @@ Derived from *sitjaną.
 - **Old Norse:** *seti
 - **Old Norse:** dróttseti
 - **Old Norse:** landseti
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

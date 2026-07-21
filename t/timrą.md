@@ -99,7 +99,3 @@ From Proto-Indo-European *dem(H)-ro-s, from *dem- (“to build”). Cognate with
     - **Danish:** tømmer
       - **Norwegian Bokmål:** tømmer
         - **Norwegian Nynorsk:** tømmer — _borrowed_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

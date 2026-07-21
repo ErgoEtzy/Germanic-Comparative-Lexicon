@@ -93,7 +93,3 @@ Back-formed from *trumpōną.
 
 - **Gothic:** *𐍄𐍂𐌹𐌼𐍀𐌰𐌽
   - **Gothic:** 𐌰𐌽𐌰𐍄𐍂𐌹𐌼𐍀𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

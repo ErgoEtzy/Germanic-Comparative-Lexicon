@@ -149,7 +149,3 @@ From Proto-Indo-European *grewg- (“bend, wrinkle”), from Proto-Indo-European
     - **Middle High German:** krücke
       - **Cimbrian:** khrukha
       - **German:** Krücke
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

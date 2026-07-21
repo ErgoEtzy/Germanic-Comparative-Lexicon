@@ -66,7 +66,3 @@ Others derive the term from Proto-Indo-European *h₂enk-, *h₂enḱ- (“fate,
       - **German:** Acht
     - **Middle High German:** ǣhte
       - **German:** Acht
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

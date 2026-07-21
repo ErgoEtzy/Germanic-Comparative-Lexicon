@@ -105,7 +105,3 @@ From *diurijaz (“dear”) + *-līkaz.
   - **Old High German:** tiurilīh
 - **Old Norse:** dýrligr
   - **Icelandic:** dýrlegur
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

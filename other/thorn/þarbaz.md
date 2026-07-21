@@ -101,7 +101,3 @@ From Proto-Indo-European *terp- (“to satisfy; to need”).
 
 - **Old Norse:** þarfr
 - **Gothic:** 𐌸𐌰𐍂𐌱𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

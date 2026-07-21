@@ -155,7 +155,3 @@ For the meaning development compare Proto-Slavic *najьti > Russian найти́
   - **Gutnish:** finn'
   - **Gutnish:** finna
 - **Gothic:** 𐍆𐌹𐌽𐌸𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

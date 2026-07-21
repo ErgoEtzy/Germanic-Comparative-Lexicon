@@ -116,7 +116,3 @@ From *gudą (“god”) + *furhtaz (“fearful, afraid”).
   - **Old High German:** gotforaht
   - **Old High German:** gotaforht
 - **Gothic:** 𐌲𐌿𐌳𐌰𐍆𐌰𐌿𐍂𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -142,7 +142,3 @@ From Proto-Indo-European *bʰéwdʰeti (“to be awake, aware”).
     - **Scanian:** býða
   - **Old Gutnish:** biauþa
     - **Gutnish:** bjaude
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

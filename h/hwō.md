@@ -200,7 +200,3 @@ From a form of Proto-Indo-European *kʷos, *kʷís. Compare Latin quō (“where
     - **German:** wie
     - **Luxembourgish:** wéi
     - **Vilamovian:** wi
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

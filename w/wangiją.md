@@ -103,7 +103,3 @@ From Proto-Indo-European *weng- (“to bow, be bent”). Related to *wangô (“
   - **Icelandic:** vengi
 - **Gothic:** 𐍅𐌰𐌲𐌲𐌰𐍂𐌴𐌹𐍃 — _m_
 - **Gothic:** 𐍅𐌰𐌲𐌲𐌰𐍂𐌹 — _n_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

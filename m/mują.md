@@ -55,7 +55,3 @@ From Proto-Indo-European *mū- (“fly, mosquito”). Cognate with Latin musca.
   - **Faroese:** mýggj
   - **Old Swedish:** myg
     - **Swedish:** mygg
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

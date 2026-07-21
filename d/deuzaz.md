@@ -103,7 +103,3 @@ From Proto-Indo-European *dʰews-ó-s, vṛddhi derivative of weak stem of *dʰw
       - **English:** deer
     - **Middle English:** dier
       - **English:** deer
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

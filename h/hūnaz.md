@@ -140,7 +140,3 @@ From Proto-Indo-European *ḱūnós (“swollen”), whence also Sanskrit शु
   - **Norwegian:** hun
   - **Old Swedish:** hūn
 - **Vandalic:** *hūna-
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

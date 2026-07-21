@@ -80,7 +80,3 @@ From Proto-Indo-European *sh₂ey- (“to bind, fetter”).
     - **Middle High German:** seite — _m or f_
       - **German:** Saite — _f_
 - **Old Norse:** seiðr
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

@@ -82,7 +82,3 @@ From Pre-Germanic *h₃nobʰeh₂, from Proto-Indo-European *h₃nebʰ- (“nave
     - **Danish:** nav
     - **Old Swedish:** naf
       - **Swedish:** nav
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

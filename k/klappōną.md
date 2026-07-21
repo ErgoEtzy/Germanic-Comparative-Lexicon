@@ -140,7 +140,3 @@ Onomatopoeic and influenced by (or related to) verbs such as *klupjaną (“to g
   - **Swedish:** klappa
   - **Danish:** klappe
     - **Norwegian Bokmål:** klappe
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

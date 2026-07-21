@@ -43,7 +43,3 @@ From *austraz + *-anē. Likely a later formation developed after the reinterpret
   - **Norwegian Nynorsk:** austa
   - **Old Swedish:** ø̄stan
     - **Swedish:** östan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

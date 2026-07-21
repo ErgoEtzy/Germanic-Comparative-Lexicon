@@ -205,7 +205,3 @@ Of unknown origin. Traditionally derived from a Proto-Indo-European *swelk- (“
     - **Scanian:** svælla
   - **Gutnish:** svälge
   - **Gutnish:** svölge
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

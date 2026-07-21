@@ -48,7 +48,3 @@ From Proto-Indo-European *-tuh₂, *-tweh₂.
 ### Germanic descendants
 
 - **Gothic:** -𐌸𐍅𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

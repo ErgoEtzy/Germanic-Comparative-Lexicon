@@ -104,7 +104,3 @@ From Proto-Indo-European *sph₁rós, from *speh₁- (“to succeed, prosper”)
   - **Old High German:** spar
 - **Old Norse:** sparr
   - **Icelandic:** spar
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

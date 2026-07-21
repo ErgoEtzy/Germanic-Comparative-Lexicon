@@ -208,7 +208,3 @@ From Proto-Indo-European *logʰéyeti. Equivalent to *ligjaną (“to lie”) + 
     - **Gutnish:** lägg'
     - **Gutnish:** lägga
 - **Gothic:** 𐌻𐌰𐌲𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

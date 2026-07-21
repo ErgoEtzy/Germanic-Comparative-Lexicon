@@ -127,7 +127,3 @@ From *teuhaną (“to lead, pull”) + *-þiz (“abstract nominal suffix”).
       - **German:** Zucht
 - **Gothic:** *𐍄𐌰𐌿𐌷𐍄𐍃
 - **Gothic:** 𐌿𐍃𐍄𐌰𐌿𐌷𐍄𐍃
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

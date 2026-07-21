@@ -93,7 +93,3 @@ From Proto-Indo-European *denḱ- (“to bite, sting”).
 
 - **Old English:** *tingan
 - **Old English:** ġetingan
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

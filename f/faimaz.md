@@ -166,7 +166,3 @@ From Proto-Indo-European *(s)poHy-m-os, from *(s)poH(y)- (“foam”). Cognate w
   - **Swedish:** fem
   - **Swedish:** fimma
   - **Swedish:** femma — _dialectal_
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

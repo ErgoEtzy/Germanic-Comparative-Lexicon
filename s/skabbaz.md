@@ -160,7 +160,3 @@ From Proto-Indo-European *skabʰ- (“to cut, split, carve, shape”). Cognate w
   - **Swedish:** skabb
     - **Swedish:** skabbig — _reshaped by analogy or addition of morphemes_
   - **Danish:** skab
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

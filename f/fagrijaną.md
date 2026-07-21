@@ -94,7 +94,3 @@ From *fagraz (“suitable, fitting, appropriate, nice”) + *-janą.
 - **Old Norse:** fegra
   - **Icelandic:** fegra
 - **Gothic:** 𐌲𐌰𐍆𐌰𐌷𐍂𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

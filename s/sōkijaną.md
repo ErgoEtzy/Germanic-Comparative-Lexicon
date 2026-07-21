@@ -218,7 +218,3 @@ From Proto-Indo-European *séh₂gyeti, from *seh₂g- (“to seek out”).
         - **Norwegian Nynorsk:** søka — _borrowed_
   - **Old Gutnish:** sykia
 - **Gothic:** 𐍃𐍉𐌺𐌾𐌰𐌽
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

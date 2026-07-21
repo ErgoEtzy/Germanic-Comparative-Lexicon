@@ -355,7 +355,3 @@ From Proto-Indo-European *mon- (“man”) or *men- (“to mind; to stay”). Al
   - **Old Gutnish:** mandr
     - **Gutnish:** man
 - **Gothic:** 𐌼𐌰𐌽𐌽𐌰
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

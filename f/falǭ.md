@@ -47,7 +47,3 @@ From Proto-Indo-European *polh₂-, from *pelh₂- (“flat”). Cognate with Ol
 
 - **Old Swedish:** fala
   - **Swedish:** fala
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

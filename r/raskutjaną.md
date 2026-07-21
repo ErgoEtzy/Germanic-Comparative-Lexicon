@@ -98,7 +98,3 @@ From *raskuz + *-utjaną.
   - **Old High German:** raskezzen
 - **Old Norse:** ræsta
   - **Icelandic:** ræsta
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

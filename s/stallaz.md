@@ -110,7 +110,3 @@ From Proto-Indo-European *sth₂-dʰló-, from *steh₂- (“to stand (up)”). 
     - **Danish:** stald
   - **Old Danish:** stoll
     - **Danish:** stald
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

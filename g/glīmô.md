@@ -64,7 +64,3 @@ From Proto-Indo-European *ǵʰléy-mn̥ ~ *ǵʰli-mén-s, from *ǵʰley- (“to 
     - **Swedish:** glimma
   - **Middle English:** glimme — _borrowed_
     - **English:** glim
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

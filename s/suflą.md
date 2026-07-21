@@ -138,7 +138,3 @@ From Proto-Indo-European *sew- (“juice, sap”).
   - **Norwegian:** sul
   - **Swedish:** sofvel
   - **Swedish:** sovel
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._

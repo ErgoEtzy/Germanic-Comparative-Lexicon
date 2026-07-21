@@ -60,7 +60,3 @@ From *þrewwaną (“to grow, to thrive”) + *-þiz.
   - **Old Norse:** þrúðhamarr — _reshaped by analogy or addition of morphemes_
   - **Old Norse:** Þrúðvangr — _reshaped by analogy or addition of morphemes_
   - **Icelandic:** Þrúður
-
----
-
-_Automatically rendered from English Wiktionary data. Reconstructions and relationships may be uncertain or disputed; consult the linked entry and its cited scholarship._
