@@ -1,31 +1,22 @@
-﻿# Germanic Comparative Lexicon
-Germanic Comparative Lexicon
-======================
+# Germanic Comparative Lexicon
 
-A local Markdown copy of English Wiktionary’s Proto-Germanic entries, made for use in Obsidian.
+A local Markdown edition of English Wiktionary's Proto-Germanic entries, designed for browsing in Obsidian or any Markdown viewer.
 
+Start with the **[alphabetical index](_Index.md)**.
 
-Folder structure
-----------------
+## Folder structure
 
-    Germanic Comparative Lexicon
-    ├── README.md
-    ├── _Index.md
-    ├── *audaz.md
-    ├── *dagaz.md
-    ├── *þunraz.md
-    ├── *wōdanaz.md
-    └── ...
+- `a/` through `z/` — headwords alphabetized by base letter. Empty letters are retained with an explanatory README.
+- `other/thorn/` — reconstructions beginning with **þ**.
+- `other/suffixes/` — reconstructed suffixes and endings beginning with a hyphen.
+- `_Index.md` — links to all dictionary pages.
 
+Long vowels such as **ā, ē, ī, ō, ū** are filed under A, E, I, O, and U. Proto-Germanic spelling does not use every Latin letter word-initially, so some alphabet folders are intentionally empty.
 
-Source of the material
-------------
+## Page contents
 
-The material comes from English Wiktionary.
+Each entry can include etymology, Proto-Indo-European ancestry, pronunciation, definitions, inflection tables, Germanic descendants, and a link to the corresponding Wiktionary page.
 
-The script downloads pages from Wiktionary, converts them into Markdown, and saves them locally.
+## Source and license
 
-License
--------
-
-No license has been chosen yet unless a LICENSE file is added.
+The material comes from English Wiktionary via the Kaikki/Wiktextract machine-readable extraction. Wiktionary entry text is dual-licensed under CC BY-SA 4.0 and the GNU Free Documentation License. See [ATTRIBUTION_AND_LICENSE.md](ATTRIBUTION_AND_LICENSE.md).
